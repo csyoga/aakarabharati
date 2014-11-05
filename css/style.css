@@ -553,6 +553,45 @@ footer {
 
 
 /* ================================
+d3 Js css 
+================================= */
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}	
+#svgwrapper {
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  background: #565a68;
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #565a68), color-stop(100%, #06050a));
+  background: -webkit-radial-gradient(center, ellipse cover, #565a68 0%, #06050a 100%);
+  background: -webkit-radial-gradient(center, ellipse, #565a68 0%, #06050a 100%);
+  background: radial-gradient(ellipse at center, #565a68 0%, #06050a 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#565a68', endColorstr='#06050a', GradientType=1 );
+}
+ 
+#svg { opacity: 0; }	
+
+
+
+/* ================================
 more media queries
 ================================= */
 
