@@ -1,0 +1,6317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sakshi SYSTEM "sakshi.dtd">
+<sakshi>
+	<volume vnum="001">
+		<entry>
+			<title>ಆಧುನಿಕ ಭಾರತೀಯ ಲೇಖಕರ ಪರಿಸ್ಥಿತಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0009</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಶಿಬ ನಾರಾಯಣ ರೇ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನುಭಾವ ಕಾವ್ಯದ ಕೆಲವು ಸಮಸ್ಯೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0017</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="">ದಾಮೋದರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲ್ಕು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0034</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಕೆ." address="ದಿ ಯೂನಿವರ್ಸಿಟಿ ಆಫ್ ಚಿಕಾಗೊ, ಸೌತ್ ಏಷ್ಯ ಲ್ಯಾಂಗ್ವೇಜ್ ಎಂಡ್ ಏರಿಯಾ ಸೆಂಟರ್, ಫಾಸ್ಟರ್ ಹಾಲ್, ೧೧೩೦ ಈಸ್ಟ್, ೫೯ ಸ್ಟ್ರೀಟ್, ಚಿಕಾಗೊ, ಇಲ್ಲಿನಾಸ್ ೬೦೬೩೭">ರಾಮಾನುಜನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ್ತೆ ಮಳೆ ಹೊಯ್ಯುತಿದೆ : ಎಲ್ಲ ನೆನಪಾಗುತಿದೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0055</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸೆಂಟ್ರಾಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಾಪು-ಪುಟ್ಟು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0058</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಶ್ರೀಕಾಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುಂಕುಮ ಭೂಮಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0066</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಂಧವ್ರತ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0068</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಕೀರ್ತಿನಾಥ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಾಹ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0070</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನವೀರ ಕಣವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಾಂಡು -- ಮಾದ್ರಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0071</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಿಚ್ಚದ ಗಂಟು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0073</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಂ." address="ಎಂ.ಎ. ಸದರ್ನ್ ಇಲಿನಾಯ್ ಯೂನಿವರ್ಸಿಟಿ, ಕಾರ್ಬುಂಡೇಲ್, ಇಲಿನಾಯ್- ೬೨೯೦೧, ಯು.ಎಸ್.ಎ.">ಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0088</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಪಿ." address="ಚಿತ್ರಕೂಟ ಬನ್ನಾಪುರ ಪೋಸ್ಟ್, ಮೂಡಿಗೆರೆ ತಾಲ್ಲೂಕು, ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆ">ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>೮, ೩೦, ೫೦</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0093</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕತ್ತಲೆಯ ನೆರಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0113</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="">ಚೆನ್ನಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆರು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0117</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0121</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಫ್. ೮, ಮೇರಿ ಮೊರ್ರಿಸ್ ರೆಸಿಡೆನ್ಸ್, ೨೪, ಶೈರ್ ಓಕ್ ರೋಡ್, ಲೀಡ್ಸ್-೯. (ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡೆಮ್)">ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸತ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0124</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಜಿ." address="">ರಾಘವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೊಳ್ಳಿ ದೆವ್ವ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0132</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾವಬಹಾದ್ದೂರರ ಗ್ರಾಮಾಯಣ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0134</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂಕ ಬಲಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0146</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ. " address="">ಶ್ರೀನಿವಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="001a">
+		<entry>
+			<title>ರಸಾನುಭವ ಮತ್ತು ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ</title>
+			<rutu/>
+			<page>0009</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾಷೆ ಎಂಬ ಆಟ</title>
+			<rutu/>
+			<page>0017</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಪ್ರಯೋಜಕ (ಸಣ್ಣ ಕಥೆ)</title>
+			<rutu/>
+			<page>0020</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್. ಜಿ." address="">ಸಣ್ಣಗುಡ್ಡಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಸ್ವಸ್ಥತೆ -- ಸಾಹಿತ್ತ್ಯ</title>
+			<rutu/>
+			<page>0027</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಚನಕಾರರು ಮತ್ತು ಇಂದಿನ ಲೇಖಕರು</title>
+			<rutu/>
+			<page>0033</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸೆಂಟ್ರಾಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುರ್ತಿಕೋಟಿಯವರ ಆ ಮನಿ</title>
+			<rutu/>
+			<page>0042</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧುನಿಕ ಭಾರತೀಯ ಸಾಹಿತ್ಯ</title>
+			<rutu/>
+			<page>0049</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಫ್ರಾನ್ಝ್ ಕಾಫ್ಕಾನ ದುಃಸ್ವಪ್ನ ಪ್ರಪಂಚ</title>
+			<rutu/>
+			<page>0096</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಆರ್. ಎಚ್. " address="">ಆಚಾರ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="002">
+		<entry>
+			<title>ಪರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಹೆದ್ದಾರಿಯ ಬದಲು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಪುತ್ತೂರು, ದ.ಕ.">ಶಿವರಾಮ ಕಾರಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮನೋವಿಜ್ಞಾನ ಮತ್ತು ಸಾಹಿತ್ಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0010</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಸದರ್ನ್ ಇಲಿನಾಯ್ ಯೂನಿವರ್ಸಿಟಿ, ಕಾರ್ಬುಂಡೇಲ್, ಇಲಿನಾಯ್- ೬೨೯೦೧, ಯು.ಎಸ್.ಎ.">ಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಹುಲಗ್ರಹಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0029</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಂತಮೂರ್ತಿಯವರ ಸಂಸ್ಕಾರ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0032</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಾ.ಲ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಆರ್ಟ್ಸ್ ಅಂಡ್ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಹೊನ್ನಾವರ, ಕಾರವಾರ ಜಿಲ್ಲೆ">ಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಗುಣಗಳು: ಆಲಂಕಾರಿಕರ ಸಮಸ್ಯೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0041</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಜ್ಞೆ ಮತ್ತು ಪರಿಸರ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0052</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡದ ಅಭಿಮಾನ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0058</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಮತ್ತು ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಹಿಂದಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0083</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಜಿ." address="">ರಾಘವ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="003">
+		<entry>
+			<title>ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಭಾವೈಕ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಧಾತುಗಳ ರಚನಾ ವೈಶಿಷ್ಟ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0015</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಯನ್." address="ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಶಂಕರ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊರತು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0019</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೃಷ್ಟಿಕ್ರಿಯೆ: ಅದರ ಮನೋವಿಜ್ಞಾನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0027</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಸದರ್ನ್ ಇಲಿನಾಯ್ ಯೂನಿವರ್ಸಿಟಿ, ಕಾರ್ಬುಂಡೇಲ್, ಇಲಿನಾಯ್- ೬೨೯೦೧, ಯು.ಎಸ್.ಎ.">ಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಛಲ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0047</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಯಶವಂತ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಿ.ಲಂಕೇಶರ ಬಿರುಕು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0063</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಶಿವಾಜಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಕೊಲ್ಲಾಪುರ">ಶಾಂತಿನಾಥ ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿಯವರ ಸಣ್ಣ ಕಥೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0073</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="004">
+		<entry>
+			<title>ಸಂಸ್ಕೃತ ರಂಗಭೂಮಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಶ್ರೀರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗುರು, ಲಘು, ಅಕ್ಷರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0012</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಳದಿ ಮೀನು-ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0019</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗೋವಿಂದ ಅ.ಜಾಲೀಹಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಪ್ಪುದೀಪ (ಕಥೆ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0031</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸರಸಮ್ಮನ ಸಮಾಧಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0040</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="">ದಾಮೋದರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಂಗಿನರಮನೆಯ ಹೊರಗೆ(ಕಥೆ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0051</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ರಾಜಶೇಖರ ನೀರಮಾನ್ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುಂತಕನ ವಕ್ರೋಕ್ತಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0073</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="">ರಾಜಗೋಪಾಲಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="005">
+		<entry>
+			<title>ಮೊದಲಮಾತು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಲಂಕಾರಿಕರ ಮೂರು ಪ್ರಸ್ಥಾನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0006</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವೇದವ್ಯಾಸರ ಸಮದೃಷ್ಟಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0021</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="">ವರದರಾಜ ಬಲ್ಲಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು ಅವರ ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0054</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತರ ಕಾದಂಭರಿ-ಅಳಿದ ಮೇಲೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಾಥಪ್ರಜ್ಞೆ -- ನಾಲ್ಕು ಕತೆಗಳ ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0090</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎನ್." address="ಸಬ್-ಎಡಿಟರ್, ಪ್ರಜಾವಾಣಿ, ೧೬, ಎಂ.ಜಿ. ರೋಡ್ ಬೆಂಗಳೂರು-೧">ರಂಗನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೂಟಿನ ಮಹಾತ್ಮೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0099</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸೆಂಟ್ರಾಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲ್ಕು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇರು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0107</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="006">
+		<entry>
+			<title>ಹಳೆಯ ಮಾತು ಹೊಸ ಅರ್ಥ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0003</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="">ವರದರಾಜ ಬಲ್ಲಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭ್ರಮೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0029</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು ಅವರ ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0039</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಕ್ಟೋಪಸ್</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0064</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆ.ವಿ.ತಿರುಮಲೇಶ್ ಅವರ ಮುಖವಾಡಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0081</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ೨೩೮ ಎ. ಮೂರನೇ ಕ್ರಾಸ್, ೧೨ನೇ ಮೆಯಿನ್, ಸರಸ್ವತೀಪುರಂ, ಮೈಸೂರು-೯">ಶಂಸ ಐತಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0088</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಯು. ಕೆ. ವಿ." address="೮೫, ಕೆ.ಹೆಚ್.ಬಿ. ಕಾಲೋನಿ, ಹುಬ್ಬಳ್ಳಿ">ಆಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0092</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವಿ.ಚಿಕ್ಕವೀರಯ್ಯ, ಮುನಸಿಪಲ್ ಪ್ರಸಿಡೆಂಟ್, ತುಮಕೂರು">ವೀಚಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಜೆ ಐದರ ಮಳೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0095</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನಿಸಾರ್ ಅಹಮದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0097</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.ಬಿ.ಇಡಿ. ತೀರಂದಾಜ್ ಟಾಕೀಸ್ ಹತ್ತಿರ ಗಾಜ್ಪುರ ಗುಲ್ಭರ್ಗ-೧">ಚಂದ್ರಕಾಂತ ಕುಸನೂರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತೆರೆದ ಬಾಗಿಲು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0100</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಋಷ್ಯಶೃಂಗ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0106</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂತರಂಗ ವಿಜ್ಞಾನ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0111</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಯದುಗಿರಿ ರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಜಾಪ್ರಭುತ್ವದ ಜೀವಾಳ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0115</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="007">
+		<entry>
+			<title>ಮಾರ್ಗಸಾಹಿತ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0003</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಯದುಗಿರಿ ರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ಥಿತಿ-ಗತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0014</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಸ್.ಎಲ್.ಎನ್. ಕಾಲೇಜ್, ಬೆಂಗಳೂರು">ದೊಡ್ಡರಂಗೇಗೌಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವಾಮೀ: ಅ-ವಿವೇಕಾನಂದ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0015</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗೋವಿಂದ ಅ.ಜಾಲೀಹಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0020</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬರಿನೆನಪು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0022</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್. ಜಿ." address="">ಸಣ್ಣಗುಡ್ಡಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಯ್ಲು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0023</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೂಜಿ ಮತ್ತು ಕಾಗೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0026</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಉದ್ಯಾವರ ಮಾಧವಾಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0032</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಸತ್ಯನಾರಾಯಣರಾವ್ ಅಣತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅರೂಪ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0034</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸುಳ್ಳುಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0044</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಕ್ರಿಯೆ-ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0046</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ." address="">ಶಿವರಾಮ ಐತಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಳದಿ ಮೀನು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0056</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಸದರ್ನ್ ಇಲಿನಾಯ್ ಯೂನಿವರ್ಸಿಟಿ, ಕಾರ್ಬುಂಡೇಲ್, ಇಲಿನಾಯ್- ೬೨೯೦೧, ಯು.ಎಸ್.ಎ.">ಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಪುರ ಕವಿತೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0065</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗರ ವರ್ಧಮಾನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0069</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="ಎಂ. ಎ., ೬, ೧ ನೇ ಕ್ರಾಸ್, ಶಂಕರಪುರಂ, ಬೆಂಗಳೂರು-೪">ಲಕ್ಷ್ಮೀನಾರಾಯಣಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಸು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0076</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಕವನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0077</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈ ಶತಮಾನದ ಹೊಸ ಭಾಷೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0080</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಪೋಷ್ಟ್ ಹೊನ್ನೇಸರ, ಸಾಗರ (ಮೈಸೂರು)">ಸುಬ್ಬಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೌಂದರ್ಯ ಮತ್ತು ಮೈಬಣ್ಣ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0116</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ರಾಮಮನೋಹರ ಲೋಹಿಯಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನುಮಾನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0126</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಕ್ಷಸರು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0128</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="008">
+		<entry>
+			<title>ಕರ್ಣಾಟಕದ ಚಿತ್ರಕಲೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0003</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಪುತ್ತೂರು, ದ.ಕ.">ಶಿವರಾಮ ಕಾರಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಾಯಕು ಜಾತಿಗೆ ಸೇರಿದ ಕೆಲವು ಕವನಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0010</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.ಬಿ.ಇಡಿ. ತೀರಂದಾಜ್ ಟಾಕೀಸ್ ಹತ್ತಿರ ಗಾಜ್ಪುರ ಗುಲ್ಭರ್ಗ-೧">ಚಂದ್ರಕಾಂತ ಕುಸನೂರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಟಸ್ಥ ಸೃಷ್ಟಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0011</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="">ವರದರಾಜ ಬಲ್ಲಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂತರಾತ್ಮನಿಗೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0027</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವಿ.ಚಿಕ್ಕವೀರಯ್ಯ, ಮುನಸಿಪಲ್ ಪ್ರಸಿಡೆಂಟ್, ತುಮಕೂರು">ವೀಚಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವರ್ಣ ಮತ್ತು ವ್ಯವಸ್ಥೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0030</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ. ವಿ. ಜಾಲಿಹಾಳ, ಎಂ.ಎ.,) ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು-೬">ಜಾ. ಗೋ.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಕವನ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0048</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.ಬಿ.ಇಡಿ. ತೀರಂದಾಜ್ ಟಾಕೀಸ್ ಹತ್ತಿರ ಗಾಜ್ಪುರ ಗುಲ್ಭರ್ಗ-೧">ಚಂದ್ರಕಾಂತ ಕುಸನೂರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಯಿ ನೆರಳು ಕಾದಂಬರಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0051</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="">ನಾಗರಾಜನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುಚ್ಚಿದ ಕಿಟಕಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0062</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು - ಪ್ರತಿ-ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0065</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಮ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0070</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ಯಾಮುಯೆಲ್ ಬೆಕೆಟ್</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0072</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಕ್ಕುಳಲ್ಲಿ ಹೂವಿಲ್ಲ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0080</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಟಿ." address="">ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರೀತಿ: ಮಿತಕಾಲಿಕ ಕಾವ್ಯ ಈಮಾಂಸೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0090</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಿಳಿಯು ಪಂಜರದೊಳಿಲ್ಲ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0102</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="009">
+		<entry>
+			<title>ಸಾಕ್ಷಿಯ ಮೂರನೆಯ ವರ್ಷ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು; ನೆಲ; ಗಡಿಯಾರ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0006</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಆರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಉಕ್ತಿ (ವಕ್ರ): ಕಾವ್ಯದ ಸ್ಥಾನ -- ಸಂಸ್ಕೃತದಲ್ಲಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0007</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು ಲಂಡನ್ ಮತ್ತು ಪ್ಯಾರಿಸ್ಗಳನ್ನು ನೋಡಲು ಇಳಿಯಲಿಲ್ಲ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0021</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ. ವಿ. ಜಾಲಿಹಾಳ, ಎಂ.ಎ.,) ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು-೬">ಜಾ. ಗೋ.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ತೆರೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0029</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ." address="">ಮರುಳಸಿದ್ಧಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊರಳುದಾರಿಯಲ್ಲಿ ಕೆ.ಎಸ್.ನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0043</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="ಎಂ. ಎ., ೬, ೧ ನೇ ಕ್ರಾಸ್, ಶಂಕರಪುರಂ, ಬೆಂಗಳೂರು-೪">ಲಕ್ಷ್ಮೀನಾರಾಯಣಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ವಿವರಣೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0051</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ." address="">ಶಿವರಾಮ ಐತಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಿತ್ತಾಲರ ಕಾವ್ಯದಲ್ಲಿ ಚಿಂತನಶೀಲತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0063</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಶಿವಾಜಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಕೊಲ್ಲಾಪುರ">ಶಾಂತಿನಾಥ ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಮರ್ಶೆಗೆ ಪ್ರತಿಕ್ರಿಯೆ-ಒಂದು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ.ಎಲ್." address="">ಸುಬ್ರಹ್ಮಣ್ಯಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಮರ್ಶೆಗೆ ಪ್ರತಿಕ್ರಿಯೆ-ಎರಡು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0099</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಿಮಳ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0108</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., -೨ ವಿದ್ಯಾಗಿರಿ ಧಾರವಾಡ-೫೮೦೦೦೪">ಸಿದ್ಧಲಿಂಗ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾರಲಾಗದ ನೆಲ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0109</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="010">
+		<entry>
+			<title>ಸಾಹಿತಯ ಪರಿಷತ್ತು : ಸಾಹಿತಿಗಳಿಗೆ ಸವಾಲು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0003</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರನೆಯ ಸಲಹೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0009</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದ್ವಂದ್ವಾತ್ಯಯದ ಸುಖ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0011</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="">ವರದರಾಜ ಬಲ್ಲಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧಾರ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0030</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಮಣ್ಣ ಮಕ್ಕಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0031</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಂ.ಎ., ಕನ್ನಡ ರೀಡರ್, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಸಿದ್ಧಲಿಂಗಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಕ್ತಿ ಸಮಾಜ ಮತ್ತು ಸಂಸ್ಕೃತಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0033</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ.ಕೆ." address="">ವಾಸುದೇವಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0051</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಿಕ್ಷಣ-ಸಂವೇದನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0055</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಬ್ದಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0061</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಭ." address="">ನಾಗರಾಜ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯೋಚನೆ: ಒಂದು ಪ್ರಶ್ನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0066</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0068</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಹಿಂದಿ ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0072</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ರಘುವೀರ್ ಸಹಾಯ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಯ ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಕಲಾಭಿವ್ಯಕ್ತಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0073</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗಂಗಾಧರ ಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶ್ರೀರಂಗರ ಕತ್ತಲೆ ಬೆಳಕು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0081</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗುರುರಾಜ ಅಮೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಲೋಕಾವಲೋಕನ[ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ]</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0089</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="">ರಾಜಗೋಪಾಲಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಚಾರ ಕೌರವ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0093</page>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮುದೇನೂರ ಸಂಗಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀವು ಕೊಡುವಿರಾ?</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0095</page>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ." address="">ಕೃಷ್ಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರೇಮಿಸಿದ ಹುಡುಗಿ ತಂದೆಗೆ ಹೇಳಿದ್ದು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0097</page>
+			<allauthors>
+				<author initial1="" initial2="ಯು.ಕೆ.ವಿ." address="೮೫, ಕೆ.ಹೆಚ್.ಬಿ. ಕಾಲೋನಿ, ಹುಬ್ಬಳ್ಳಿ">ಆಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮಾನುಜನ್ರ ಕಾವ್ಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0099</page>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಡಿ." address="">ಕುರ್ತಕೋಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೊಕ್ಕಾಡಿಯವರ ಕವನ ಸಂಕಲನ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0113</page>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಟಿಪ್ಪಣಿಗಳು ಮತ್ತು ಆರು ಅಡಿಟಿಪ್ಪಣಿಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0117</page>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಾಂಧಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0121</page>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಪಿ." address="">ಬಸವರಾಜು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಉಳಿದೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0123</page>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗುಡ್ಬೈ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0125</page>
+			<allauthors>
+				<author initial1="" initial2="ಹಾ.ಮು." address="ಎಂ.ಬಿ.ಬಿ.ಎಸ್ ರುಕ್ಮಿಣೀ ಹಾಲ್ ನೆಹರೂ ರೋಡ್ ಶಿವಮೊಗ್ಗ">ಪಟೇಲ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="011">
+		<entry>
+			<title>ಡೊಂಕು ಬಾಲಕ್ಕೆ ಚಿನ್ನದ ನಳಿಗೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0003</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಸೆಲ್ ವಿಚಾರ ಸರಣಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಮ.ನಾ." address="ಗುಬ್ಬಿಗದ್ದೆ, ಪೋಷ್ಟ್, ಬಾಳೆಗದ್ದೆ, ಸಿರ್ಸಿ ತಾ|| ಉ.ಕ.">ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಂಗೆಯ ಪ್ರಕರಣ (ಒಂದು ಕಥಾನಕವು)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0009</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಮ (ಕವನ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0026</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="">ನಾಗೇಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0027</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಾಯಿ(ಕವನ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮೈತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನವ್ಯಕಾವ್ಯ ಮತ್ತು ತಾತ್ವಿಕ-ಟಿಪ್ಪಣಿಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0041</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕಾರ ಮತ್ತೆ ಓದಿದಾಗ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0051</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="">ನಾಗರಾಜನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭೂತಕನ್ನಡಿ(ಕವನ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0057</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಂತಮೂರ್ತಿಯವರ ಕಥಾಸಾಹಿತ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0059</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಚ್." address="">ನಾಯಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭೀತಿ(ಕವನ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0076</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಬಿ." address="ಎಂ. ಎ., ಪಿ.ಎಚ್ಡಿ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಕರ್ಣಾಟಕ ಕಾಲೇಜು, ಧಾರವಾಡ">ಬುದ್ದಣ್ಣ ಹಿಂಗಮಿರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ವಿಶ್ವಕೋಶದಲ್ಲಿ ಅರ್ಥಶಾಸ್ತ್ರ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0077</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಾ|| ಜಿ." address="">ತಿಮ್ಮಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಬ್ಬಂಟಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತದ ಗ್ರಾಮ ಸಮಾಜದಲ್ಲಿ ಜಾತಿಪದ್ಧತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0093</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ. ಎ. ದಿ ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ, ದ. ಕ.">ಶ್ರೀಪತಿ ತಂತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮಾನುಜನ್ರ ಕಾವ್ಯ: ಕುರ್ತಕೋಟಿಯವರ ವಿಮರ್ಶೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0107</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಾ.ಲ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಆರ್ಟ್ಸ್ ಅಂಡ್ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಹೊನ್ನಾವರ, ಕಾರವಾರ ಜಿಲ್ಲೆ">ಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುರ್ತಕೋಟಿಯವರ ಲೇಖನಕ್ಕೆ ಸಂಬಂಧಿಸಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0127</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="012">
+		<entry>
+			<title>ನಮ್ಮ ಧೀಮಂ{ತ}ವರ್ಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0003</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನೆಮರಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0011</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="">ವೆಂಕಟರಾಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುಡಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0026</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾಚೀನವಾದ ಸಂಜ್ಞಾಭಾಷೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0027</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಎಸ್." address="ಎಂ.ಎ., ಲೆಕ್ಚರರ್, ಜೆ.ಎಸ್.ಎಸ್. ಕಾಲೇಜು, ಮೈಸೂರು-೪">ಜಯರಾಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಾಹಿರಾತುಗಳು ಮತ್ತು ನೈತಿಕತೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0035</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="">ನಾಗೇಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬ್ರಹ್ಮಪುತ್ರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0039</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="೬, ೪, ೪೯೪, ಕೃಷ್ಣನಗರ ಕಾಲೋನಿ, ಬೋಲಕ್ಪುರ್, ಸಿಕಂದರಬಾದ್, (ಎ.ಪಿ.)">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಾತ್ಯಾಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0045</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕ, ಸ್ನಾತಕೋತ್ತರ ಕೇಂದ್ರ, ಗುಲಬರ್ಗಾ">ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಕಾವ್ಯದ ಕಷ್ಟ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0055</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="013">
+		<entry>
+			<title>ಸಂಪಾದಕನ ಮಾತು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಸ್ತಿತ್ವ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0008</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಾಂತವೇರಿ ಗೋಪಾಲ ಗೌಡರನ್ನು ಕುರಿತು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0009</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಸಳೆ-ನಾನು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0020</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹರಾಜು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0021</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತುಳು ಮತ್ತು ಕನ್ನಡ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0033</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮುಕುಂದ ಪ್ರಭು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಿಗಂಬರ ಕವುಲು/ತೆಲುಗಿನ ನವ್ಯ ಕವಿಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0043</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಪ್ತ:ಆಲನಹಳ್ಳಿಯವರ ಮಣ್ಣಿನ ಕಥೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0051</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕ್ರಾಂತಿ ಬಂತು, ಕ್ರಾಂತಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0055</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮಹಾಬಲಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನ್ವೇಷಣೆ:ರೂಮು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0091</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈಚಿನ ಸಾಹಿತ್ಯದ ಬಗ್ಗೆ-</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿಟ್ಟುಸಿರ ಗರ್ಜನೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0118</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಸೀ." address="">ಹೊಸಬೆಟ್ಟು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಧರ್ಮದ ಕಲ್ಪನೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0119</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="014">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>......ಗೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0008</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಜಿ." address="ಎಂ.ಎ., ವ್ಹಿ.ಡಿ. ಕಾಲೇಜು, ರಾಯಚೂರು">ಜೋಶಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0009</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ">ಅಬ್ದುಲ್ ಮಜೀದ್ಖಾನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ವಿಶ್ವಕೋಶದ ಪ್ರಾಣಿಶಾಸ್ತ್ರ ವಿಭಾಗ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0023</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಿನ್ನದ ಹೊದಿಕೆಯ ಪ್ರಸಂಗವು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0030</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪು.ತಿ.ನ. ಅವರ ಅಹಲ್ಯೆ ಎಂಬ ನಾಟಕ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0033</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸೆಂಟ್ರಾಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇಲ್ಲದ್ದು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0042</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಹಾದಿಯ ಆವಿಷ್ಕಾರ: ಹೊಕ್ಕುಳಲ್ಲಿ ಹೂವಿಲ್ಲ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0045</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈ ನನ್ನ ಬದುಕು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0059</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಬಿ. ಸಿದ್ಧಲಿಂಗಯ್ಯ) ಜೂನಿಯರ್ ಎಂ.ಎ., (ಕನ್ನಡ) ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೯">ನಿಸರ್ಗಪ್ರಿಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸವಾಲು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0061</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಂ.ಎ., ಕನ್ನಡ ರೀಡರ್, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಸಿದ್ಧಲಿಂಗಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದತ್ತ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0063</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮೊದಲ ಎಂ.ಎ., ಡಿಪಾರ್ಟ್ಮೆಂಟ್ ಆಫ್ ಕನ್ನಡ ಮಾನಸಗಂಗೊತ್ರಿ ಮೈಸೂರು-೬">ದೇವನೂರ ಮಹಾದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಠರಾವು ಮತ್ತು ಅದರ ನೆಲೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0071</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಿಚಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0085</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿಜ ಹೇಳಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0087</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನ್ವೇಷಣೆ: ದಾರಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0089</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಮಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0102</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಮ.ನಾ." address="ಗುಬ್ಬಿಗದ್ದೆ, ಪೋಷ್ಟ್, ಬಾಳೆಗದ್ದೆ, ಸಿರ್ಸಿ ತಾ|| ಉ.ಕ.">ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಟಕ-ಹಾಗಂದರೇನು?</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0103</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಪೋಷ್ಟ್ ಹೊನ್ನೇಸರ, ಸಾಗರ (ಮೈಸೂರು)">ಸುಬ್ಬಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ-ಭಿನ್ನಮತ ೧ ಧರ್ಮ-ಅಡಿಗರ ವಾದದ ಖಂಡನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0120</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಪಿ." address="ಚಿತ್ರಕೂಟ ಬನ್ನಾಪುರ ಪೋಸ್ಟ್, ಮೂಡಿಗೆರೆ ತಾಲ್ಲೂಕು, ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆ">ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ-ಭಿನ್ನಮತ ೨ ಧರ್ಮ: ಒಂದು ಚರ್ಚೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0124</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎಲ್." address="೨೯೬೧/೩೧, ಒಂದನೇ ಮೆಯಿನ್ ರೋಡ್, ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು-೯">ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತುಳು-ಕನ್ನಡ ಸಂಬಂಧ ಎಂತಹದು?</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0128</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಯನ್." address="ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಶಂಕರ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="015">
+		<entry>
+			<title>ಮಾಸ್ತಿಯವರ ಕವಿತೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೃಗಜಲ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0016</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೊ.ಮ." address="ಕೇರ್ ಶ್ರೀ ಎಚ್.ಎಮ್. ರೇವಾಣಾರಾಧ್ಯ, ಎಮ್.ಬಿ.ಬಿ.ಎಸ್., ಬುದ್ಧ ಸರ್ಕಲ್ ಸಈಪ ಪೋಲಿಸ್ ಸ್ಟೇರ್ಷ ರೋಡ್, ಕೊಟ್ಟೂರು (ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆ)">ಪಂಡಿತರಾಧ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯಶವಂತಚಿತ್ತಾಲರ ಸೆರೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0017</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎನ್." address="ಎಂ.ಎ., ಬಿ.ಎಲ್., ಎಕಾನಾಮಿಕ್ಸ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಾಯ್ಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು: ೧. ಬದುಕು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0024</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು: ೨. ಬರಹ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0028</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಜ್ಜ ನೆಟ್ಟಾಲ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0031</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಕೆ." address="ಇಂಗ್ಲಿಷ್ ಉಪನ್ಯಾಸಕರು, ದಿ.ಆರ್.ಎಮ್. ಕಾಲೇಜ್, ದಾವಣಗೆರೆ-೨">ಸೀತಾರಾಮಶಾಸ್ತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರವೃತ್ತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಸಿಟೇಟ್ ನಗರ, ಮಂಡ್ಯ-೪">ಜವರನಹಳ್ಳಿ ಸಿದ್ದಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹ್ಯಾಂಗೋವರ್</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0041</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏಳು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0052</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎನ್." address="ಎಮ್.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಡಿ. ಬನುಮಯ್ಯ ಕಾಲೇಜ್, ಮೈಸೂರು.">ಶಿವತೀರ್ಥನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮನೋವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0057</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="ಎಂ.ಎ., ಬಿ.ಎಲ್., {\ ಈಈ}/೧-೩ ನೇ ಕ್ರಾಸ್, ಬೆಂಗಳೂರು-೩">ನಿಜಲಿಂಗಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲೂಸಿಯ ಕತೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0061</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="೬, ೪, ೪೯೪, ಕೃಷ್ಣನಗರ ಕಾಲೋನಿ, ಬೋಲಕ್ಪುರ್, ಸಿಕಂದರಬಾದ್, (ಎ.ಪಿ.)">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಾದಿಗಳೆಲ್ಲಿವೆ?</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0069</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವೆಂಕಟೇಶ ನಿವಾಸ, ನ್ಯೂ ಎಕ್ಸ್ಟೆನ್ಷನ್, ಗದಗ">ಅಶೋಕ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೇ ನನ ರಮಣ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0103</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಇಂಗ್ಲೀಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್, ಬೆಂಗಳೂರು-೧">ಲಂಕೇಶಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶುಭ ಸಂದೇಶ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0116</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಜಿ." address="ನಂ. ೯೪. ಸಿಂಡಿಕೇಟ್ ಬ್ಯಾಂಕ್ ಸಈಪ, ಕ್ಯಾತಸಂದ್ರ, ತುಮಕೂರು ಡಿ.">ರಂಗಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0118</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುಪ್ಪಣ್ಣ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0120</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ನಾ." address="ಕರ್ಣಾಟಕ ಕ್ಲಿನಿಕ್, ಕಾಂತಾವರ, ಕಾರ್ಕಳ ಎಸ್.ಕೆ.">ಮೊಗಸಾಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೆಳದಿಂಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0122</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="\ /ಒ}. ಬಿ.ಪಿ. ಸೋಮಯಾಜಿ, ವಿದ್ಯಾದಾಯಿನಿ ಹೈಯರ್ ಸೆಂಕೆಂಡಾರಿ ಸ್ಕೂಲ್, ಸುರತ್ಕ್ಲ್, (ದ.ಕ)">ಊರ್ಮಿಳಾ ಸೋಮಯಾಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮ್ಮ ಮತ್ತು ಮರ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0124</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="ಬಿ.ಅ., (ಆನರ್ಸ್) ಕನ್ನಡ ನಿಘಂಟು ಕಚೇರಿ, ಪಂಪ ಮಹಾಕವಿ ರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ, ಬೆಂಗಳೂರು-೧೮">ಮಧುಸೂದನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೊಡೈಕಾನಲ್ನಲ್ಲಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0125</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಆರ್." address="ಅಂತಿಮ ಬಿ.ಎಡ್., ರೀಜನಲ್ ಕಾಲೇಜ್ ಆಫ್ ಎಜ್ಯುಕೇಷನ್, ಮೈಸೂರು-೬">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="016">
+		<entry>
+			<title>ಧರ್ಮ/ವ್ಯಾಪ್ತಿ ವಿವೇಚನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಸೆ-ನಿರಾಸೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0014</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಚಿತ್ರದುರ್ಗ">ಶ್ರೀನಿವಾಸ ವಿ.ಸುತ್ರಾವೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಡೋ ಬಂದು ಹೋದ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0015</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿ ಲಕ್ಷ್ಮೀಶ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0019</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="೬, ೪, ೪೯೪, ಕೃಷ್ಣನಗರ ಕಾಲೋನಿ, ಬೋಲಕ್ಪುರ್, ಸಿಕಂದರಬಾದ್, (ಎ.ಪಿ.)">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಧ್ವನಿಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0052</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಆರ್." address="ಅಂತಿಮ ಬಿ.ಎಡ್., ರೀಜನಲ್ ಕಾಲೇಜ್ ಆಫ್ ಎಜ್ಯುಕೇಷನ್, ಮೈಸೂರು-೬">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಘಟಿಕಾಸ್ಥಾನಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0053</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಆಲ್ ಇಂಡಿಯಾ ರೇಡಿಯೋ, ಧಾರವಾಡ">ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜನಸ್ತೋಮ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0060</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಶ್ಲೀಲತೆ ಮತ್ತು ಸುಪ್ರೀಂ ಕೋರ್ಟು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0061</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಬಿ.ಎಸ್ಸಿ., ಬಿ.ಎಲ್.,ಎಲ್.ಎಲ್.ಎಂ., ಟೆಕ್ಸಾಸ್ ಮತ್ತು ಹಾರ್ವರ್ಡ್, ಸ್ನಾತಕೋತ್ತರ ವಿಭಾಗ, ಶ್ರೀ ರೇಣುಕಾಚಾರ್ಯ ಲಾ ಕಾಲೇಜು. ಬೆಂಗಳೂರು-೯">ನರಸಿಂಹಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿನಿಯೋಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0069</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ವಿ." address="ತದ್ದಲಸೆ ಪೋ, ಹುಣಿಸೆಕೊಪ್ಪ, ಶಿರಸಿ, ಉ.ಕ.">ಶರ್ಮಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯಾದೃಚ್ಛಿಕ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0077</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಕೀಯತೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0081</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾತು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್." address="೨೧೧೬/೧ ಎ ಬ್ಲಾಕ್, ಪಿ.ಜೆ. ಬಡಾವಣೆ, ದಾವಣಗೆರೆ-೪">ಪ್ರಕಾಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಕೀಯ ಪ್ರಜ್ಞೆ--ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0091</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಹ್ವಲ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0103</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಾಡು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0105</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿರಣ್ಮಯೇನ ಪಾತ್ರೇಣ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0107</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ವಿವೇಕಾನಂದ ಕಾಲೇಜು, ಪುತ್ತೂರು, ದ.ಕ">ತಾಳ್ತಜೆ ವಸಂತಕುಮಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆನಪು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0112</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಬಿ. ಸಿದ್ಧಲಿಂಗಯ್ಯ) ಜೂನಿಯರ್ ಎಂ.ಎ., (ಕನ್ನಡ) ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೯">ನಿಸರ್ಗಪ್ರಿಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಟೊಳ್ಳಿನ ಸಮರ್ಥನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0114</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್." address="೨೧೧೬/೧ ಎ ಬ್ಲಾಕ್, ಪಿ.ಜೆ. ಬಡಾವಣೆ, ದಾವಣಗೆರೆ-೪">ಪ್ರಕಾಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜೋಕುಮಾರಸ್ವಾಮಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0115</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ವಿಮಲಾ ರಾಮರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರಳ ದಂಡೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0120</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್." address="ಎಂ.ಎಸ್. ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ರಘುನಾಥ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ನಿಜಲಿಂಗಪ್ಪನವರ ಮನೋವಿಶ್ೇಷಣೆ ಮತ್ತು ಕನ್ನಡದಲ್ಲಿ ವೈಜ್ಞಾನಿಕ ಬರಹ
+</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0121</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಸದರ್ನ್ ಇಲಿನಾಯ್ ಯೂನಿವರ್ಸಿಟಿ, ಕಾರ್ಬುಂಡೇಲ್, ಇಲಿನಾಯ್- ೬೨೯೦೧, ಯು.ಎಸ್.ಎ.">ಗಿರಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="017">
+		<entry>
+			<title>ದೆಹಲಿಯಲ್ಲಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಎಲ್. ಎಸ್. ಡಿ. ಟ್ರಿಪ್</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0019</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಷ್ಟ್ರೀಯ ಉದ್ದೇಶಗಳಿಗೆ ಅನುವಾಗುವ ಶಿಕ್ಷಣ ನೀತಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0025</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ. ಎ. ದಿ ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ, ದ. ಕ.">ಶ್ರೀಪತಿ ತಂತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕ್ಷಣಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0036</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಸಿ." address="೨೨. ಶಂಕರ ಮಠದ ರಸ್ತೆ. ಶಂಕರಪುರಂ. ಬೆಂಗಳೂರು-೪">ಪ್ರಸನ್ನ ಕುಮಾರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮುದ್ರಕ್ಕೆ ಸವಾರರು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0037</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವೆಂಕಟೇಶ ನಿವಾಸ, ನ್ಯೂ ಎಕ್ಸ್ಟೆನ್ಷನ್, ಗದಗ">ಅಶೋಕ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಖುಷಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0050</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ವಿಶ್ವಕೋಶಃ : ಕೆಲವು ಲೋಪ-ದೋಷಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0051</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಹಾಡಿನ್ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೧">ಶ್ರೀ ಹರ್ಷ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿದಾಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0058</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾವಿತ್ರಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0062</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಬಿ." address="ಎಂ. ಎ., ಪಿ.ಎಚ್ಡಿ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಕರ್ಣಾಟಕ ಕಾಲೇಜು, ಧಾರವಾಡ">ಬುದ್ದಣ್ಣ ಹಿಂಗಮಿರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು (ಒಂದು ಸಾಂಕೇತಿಕ ಕ್ರಿಯೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0063</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ., ಮೈಸೂರು.">ಶ್ರೀಕೃಷ್ಣ ಅಲನಹಳ್ಳಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏಳು-ಬೀಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0072</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಸ್.ಎಲ್.ಎನ್. ಕಾಲೇಜ್, ಬೆಂಗಳೂರು">ದೊಡ್ಡರಂಗೇಗೌಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಂದ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0073</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಲ್. ಎಂ. ಎಲ್." address="ಎಂ. ಎ., ಉಪನ್ಯಾಸಕ.ಡಿ.ವಿ.ಎಸ್. ಕಾಲೇಜು. ಶಿವಮೋಗ್ಗ">ಶಾಸ್ತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಧ್ಯಾ-ರಾಗ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0099</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ವಿ.ಕೆ." address="ಎಂ. ಎ., ಇಂಗ್ಲಿಷ್ ಲೆಕ್ಚರರ್, ಪಿ.ಇ.ಎಸ್. ಕಾಲೇಜು ಆಫ್ ಸೈನ್ಸ್, ಮಂಡ್ಯ">ಜನಾರ್ದನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಗತಿ,ಸ್ಥಿತಿ" (ಒಂದು ವಿಮರ್ಶೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ. ವಿ. ಜಾಲಿಹಾಳ, ಎಂ.ಎ.,) ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು-೬">ಜಾ. ಗೋ.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಲ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0110</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಪಿ." address="ಎರಡನೆಯ ಮನೆ, ಪೋಸ್ಟ್ ಆಫೀಸ್ ಮೇಲ್ಬಾಗ, ಪೋಸ್ಟ್:ಕೆ. ಆರ್. ಪೇಟೆ,ಮಂಡ್ಯ ಜಿಲ್ಲೆ">ಮನೋಹರಚಂದ್ರನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಘಟನೆಗಳ ನಿಷ್ಠುರತೆ ಮತ್ತು ಮಾಡಿದ್ದಣ್ೋ ಮಹಾರಾಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0111</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ವಿ." address="ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು-೯(೫೬೦೦೦೯)">ನಾರಾಯಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಪದ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0120</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರ್ನಾಡರ ಹಯವದನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0121</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ್ತೊಂದು ಕವನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0134</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಿಮಿಂಗಿಲ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0135</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಯುನೈಟೆಡ್ ಕಮರ್ಷಿಯಲ್ ಬ್ಯಾಂಕ್, ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೯">ವ್ಯಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಯವದನ ಓದಿ, ನೋಡಿ-</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0137</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕವನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0149</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="018">
+		<entry>
+			<title>ನೀ ಬಳಿಯೊಳಿರುವಾಗ್ಗೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀ ಬಳಿಯೊಳಿರುವಾಗ್ಗೆ-ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0007</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ. ವಿ. ಜಾಲಿಹಾಳ, ಎಂ.ಎ.,) ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು-೬">ಜಾ. ಗೋ.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೂಢಚಾರಿಯ ನಕಲು-ನಗಲು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0019</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="೬, ೪, ೪೯೪, ಕೃಷ್ಣನಗರ ಕಾಲೋನಿ, ಬೋಲಕ್ಪುರ್, ಸಿಕಂದರಬಾದ್, (ಎ.ಪಿ.)">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0028</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕರು, ಭಂಡಾರ್ಕಾರ್ಸ್ ಕಾಲೇಜು, ಕುಂದಾಪುರ">ರಘುರಾಮರಾವ್ ಬೈಕಂಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯ ಕಲ್ಪನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0033</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎಲ್." address="೨೯೬೧/೩೧, ಒಂದನೇ ಮೆಯಿನ್ ರೋಡ್, ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು-೯">ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಿಸಿಫಸ್</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0043</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಬಿ." address="ಎಂ. ಎ., ಪಿ.ಎಚ್ಡಿ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಕರ್ಣಾಟಕ ಕಾಲೇಜು, ಧಾರವಾಡ">ಬುದ್ದಣ್ಣ ಹಿಂಗಮಿರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಟುವಟಾರ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0044</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕ್ರಿಸ್ಮಸ್ಸಿನ ಮೂರು ಮುಖಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0047</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಕ್ಷಿಣೆ-ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0049</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಲೆಕ್ಚರರ್, ಡೋರ್ ನಂ ೯೮೨/೨, ಜಯಲಕ್ಷ್ಮಿ ಕ್ರಾಸ್, ಚಾಮರಾಜಪುರಂ, ಮೈಸೂರು-೪">ಭಾಸ್ಕರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾಷೆ ಸಮಾಜ ಮತ್ತು ಸಂಸ್ಕೃತಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0055</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ.ಕೆ." address="">ವಾಸುದೇವ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿ ಮತ್ತು ಕಾಲಧರ್ಮ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0061</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್.ಎಂ." address="ಎಂ. ಎ., ಕನ್ನಡ ದಿಪಾರ್ಟ್ಮೆಂಟ್ ಮಾನಸಗಂಗೋತ್ರಿ ಮೈಸೂರು-೬">ಚನ್ನಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇತಾಳ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0067</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್." address="ಎಂ.ಎಸ್. ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ರಘುನಾಥ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮೇರಿಕಾ-ಎರಡು ಕಿರುಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0068</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಪಿ." address="ಎರಡನೆಯ ಮನೆ, ಪೋಸ್ಟ್ ಆಫೀಸ್ ಮೇಲ್ಬಾಗ, ಪೋಸ್ಟ್:ಕೆ. ಆರ್. ಪೇಟೆ,ಮಂಡ್ಯ ಜಿಲ್ಲೆ">ಮನೋಹರಚಂದ್ರನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಿಟಕಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0070</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಪಿ." address="ಎರಡನೆಯ ಮನೆ, ಪೋಸ್ಟ್ ಆಫೀಸ್ ಮೇಲ್ಬಾಗ, ಪೋಸ್ಟ್:ಕೆ. ಆರ್. ಪೇಟೆ,ಮಂಡ್ಯ ಜಿಲ್ಲೆ">ಮನೋಹರಚಂದ್ರನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಮತ್ತು ಪ್ರತಿಭಟನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0071</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಿಚ್ಚು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0075</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಉಪಸಂಪಾದಕ, ಉದಯವಾಣಿ, ಮಣಿಪಾನ್, ದ.ಕ.">ಗೋಪಾಲಕೃಷ್ಣ ಮಧ್ಯಸ್ಥ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇಂಗ್ಲಿಂಡಿನಲ್ಲೊಬ್ಬ ಇಂಡಿಯನ್</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0084</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಫ್. ೮, ಮೇರಿ ಮೊರ್ರಿಸ್ ರೆಸಿಡೆನ್ಸ್, ೨೪, ಶೈರ್ ಓಕ್ ರೋಡ್, ಲೀಡ್ಸ್-೯. (ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡೆಮ್)">ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗತಿ, ಸ್ಥಿತಿ: ಮರುಚಿಂತನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0087</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎನ್." address="ಎಂ.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಘುನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆಲೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0098</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವಿ.ಚಿಕ್ಕವೀರಯ್ಯ, ಮುನಸಿಪಲ್ ಪ್ರಸಿಡೆಂಟ್, ತುಮಕೂರು">ವೀಚಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುಗಿಯದ ಹಾದಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0101</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಆಂಗ್ಲಭಾಷಾ ವಿಭಾಗ, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ">ಉದಯಕುಮಾರ ಹಬ್ಬು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೃಷ್ಣ ಆಲನಹಳ್ಳಿಯವರ ಕಾಡು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0104</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು-೯">ಜಯದೇವಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಖಾಸನೀಸ ಮುಖೇನ ಸಣ್ಣ ಕಥೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0109</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮೊದಲ ಎಂ.ಎ., ಡಿಪಾರ್ಟ್ಮೆಂಟ್ ಆಫ್ ಕನ್ನಡ ಮಾನಸಗಂಗೊತ್ರಿ ಮೈಸೂರು-೬">ದೇವನೂರ ಮಹಾದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಕ್ಕಿ ಹಾರುತಿದೆ ನೋಡಿದಿರಾ-ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0115</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ." address="ಎಂ.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಘುನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವೇದನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0123</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಅಧ್ಯಾಪಕ, ಹಿಂದಿ ವಿಭಾಗ, ನೆಹರು ಆರ್ಟ್ಸ್ ಮತ್ತು ಸೈನ್ಸ್ ಕಾಲೇಜು, ಹುಬ್ಬಳ್ಳಿ">ಧರಣೇಂದ್ರ ಕುರಕುರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅದೆ ಅದೆ ಅದೇ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0125</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಎಸ್." address="ಎಂ.ಎ., ಲೆಕ್ಚರರ್, ಜೆ.ಎಸ್.ಎಸ್. ಕಾಲೇಜು, ಮೈಸೂರು-೪">ಜಯರಾಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜೀವಂತ ಧೋರಣೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0137</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="019">
+		<entry>
+			<title>ಇಂಥ ರಾಷ್ಟ್ರ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಎಂ.ಎ. ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು (ಕೇರಳ)">ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಪ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ !</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0007</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್.ಕೆ. " address="ರೂಮ್ ನಂ ೧, ಉದಯ ನಿವಾಸ, ೬ ನೇ ಕ್ರಾಸ್, ಎಸ್.ಪಿ. ಬಡಾವಣೆ, ಬೆಂಗಳೂರು-೩">ಪ್ರಭು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ವಿಲಕ್ಷಣ ಊರಿನ ಹೆಸರಲ್ಲಿ ಒಂದು ಅಪೂರ್ವ ಕನ್ನಡ ಪದ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0027</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="ರೀಡರ್, ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು-೯">ಚಿದಾನಂದ ಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀಲಾಂಜನ: ಕವಿತಾಗುಚ್ಛ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0032</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್. ಎಸ್." address="ಎಂ. ಎ., ೬, ೧ ನೇ ಕ್ರಾಸ್, ಶಂಕರಪುರಂ, ಬೆಂಗಳೂರು-೪">ಲಕ್ಷ್ಮೀನಾರಾಯಣಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾಂಬರು ಬಂದುದು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0037</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮೊದಲ ಎಂ.ಎ., ಡಿಪಾರ್ಟ್ಮೆಂಟ್ ಆಫ್ ಕನ್ನಡ ಮಾನಸಗಂಗೊತ್ರಿ ಮೈಸೂರು-೬">ದೇವನೂರ ಮಹಾದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0046</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಅಂತ್ಯಯಾತ್ರೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0049</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಗನ್ ಡಿಸೈನ್ ಗ್ರೂಪ್, ಎ.ಆರ್.ಡಿ.ಇ, ಪಾಷಾಣ್, ಪುಣೆ-೨೧">ಪ್ರಭಾಕರ ನಾನಾವಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಭೆಯ ಪಲಾಯನ?</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0051</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0064</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಾಂಚಜನ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0068</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಲಸುಬ್ರಹ್ಮಣ್ಯ ಕಂಜರ್ಪಣೆ {\ /ಒ}ಕೆ. ಪರಮೇಶ್ವರಯ್ಯ, ೧೮-೧೨೮, ಪರ್ಲಡ್ಕ, ಪುತ್ತೂರು, ದ.ಕ. ಜಿಲ್ಲೆ">ಜಯಂತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮುದ್ರಕ್ಕೆ ಸವಾರು ಭಾಷಾಂತರದ ಕೆಲವು ಸಮಸ್ಯೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0069</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಫ್. ೮, ಮೇರಿ ಮೊರ್ರಿಸ್ ರೆಸಿಡೆನ್ಸ್, ೨೪, ಶೈರ್ ಓಕ್ ರೋಡ್, ಲೀಡ್ಸ್-೯. (ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡೆಮ್)">ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಭಾವಂತ ನಾಟಕಕಾರ ಪಿ.ಲಂಕೇಶ್</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0077</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಗಿಂಗ್ಲಿಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಮುನಿಸಿಪಲ್ ಆರ್ಟ್ಸ್ ಕಾಲೇಜು, ಲಕ್ಷ್ಮೇಶ್ವರ, ಧಾರವಾಡ ಜಿಲ್ಲೆ">ಶಿವಪ್ರಕಾಶ್ ಶಿಗ್ಲಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0083</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎಸ್." address="ಎಂ.ಎಸ್. ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ರಘುನಾಥ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಪೂರ್ಣ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0085</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ೨೩೮ ಎ. ಮೂರನೇ ಕ್ರಾಸ್, ೧೨ನೇ ಮೆಯಿನ್, ಸರಸ್ವತೀಪುರಂ, ಮೈಸೂರು-೯">ಶಂಸ ಐತಾಳ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗತಿ, ಸ್ಥಿತಿ ವಿಮರ್ಶೆ ಬಗ್ಗೆ ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0091</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ." address="ಎಂ.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಘುನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0099</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗತಿ, ಸ್ಥಿತಿ-ಒಂದು ವಿಮರ್ಶೆ ಐದು ಅನುಮಾನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0103</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್." address="ಬಿ.ಎ., ಕವಿತಾ ಹೆಬ್ಬಾರಿನ ಕೇರಿ ಅಂಚೆ, ಹೊನ್ನಾವರ, ಉ.ಕ.">ಅವಧಾನಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಿರಿಯವರ ಗತಿ-ಸ್ಥಿತಿ: ವಿಮರ್ಶೆಗೆ ಒಂದು ಸೂಚನೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0107</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸಿಂಡಿಕೇಟ್ ಬ್ಯಾಂಕ್, ಕರ್ನಾಟಕ ಯೂನಿವರ್ಸಿಟಿ ಕಾಂಪಸ್, ಧಾರವಾಡ-೩">ಕಿತ್ತೂರ ರಾಮಚಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೀದಿಗೆ ಬಿದ್ದವ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0108</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್." address="ದೊಡ್ಡತೋಟ ಅಂಚೆ, ಸುಳ್ಯ ಮೂಲಕ, ದ.ಕ.">ಉಬರಡ್ಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುಂಸ್ತ್ರೀಲಿಂಗ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0110</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎಂ." address="ಎಂ.ಎ., ಪಿಎಚ್.ಡಿ., ರೀಡರ್, ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ-೩">ಕಲಬುರ್ಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಿವಾರ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0113</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಮ. ಗಂ." address="ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಜೆ.ಎಸ್.ಎಸ್. ಕಾಲೇಜು, ಮೈಸೂರು">ರೇಣುಕ ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತುಡುಗುಗವನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0124</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮಹಾದೇವ ದೇವನೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವರ್ಧಮಾನ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0125</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಕಾಶ-ಚಿತ್ರಕಲೆಯ ಒಂದು ಅಂಶ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0131</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಜಿ." address="">ಕಾಸರವಳ್ಳಿ ರವೀಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ: ಸಾಹಿತಿಗಳಲ್ಲಿ ಮನವಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0139</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="020">
+		<entry>
+			<title>ಪರಾಧೀನ ಸರಸ್ವತಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಪು. ಗ." address="ಉಪಾಧ್ಯಕ್ಷ ಸಾಹಿತ್ಯ ಸಾಂಸ್ಕೃತಿಕ ಸಂಘ ಅಥಣಿ">ಸಹಸ್ರಬುದ್ದೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಕಥನ ಕವನ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0038</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹಾ. ಮು." address="ಎಂ.ಬಿ.ಬಿ.ಎಸ್ ರುಕ್ಮಿಣೀ ಹಾಲ್ ನೆಹರೂ ರೋಡ್ ಶಿವಮೊಗ್ಗ">ಪಟೇಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೆಟ್ಟವೇರಿದ ಮೇಲೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆನಪುಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0044</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ಯಾರಾಸೈಟ್</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0045</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0054</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಪಿ." address="ಎರಡನೆಯ ಮನೆ, ಪೋಸ್ಟ್ ಆಫೀಸ್ ಮೇಲ್ಬಾಗ, ಪೋಸ್ಟ್:ಕೆ. ಆರ್. ಪೇಟೆ,ಮಂಡ್ಯ ಜಿಲ್ಲೆ">ಮನೋಹರಚಂದ್ರನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮನುಷ್ಯ, ಪ್ರಾಣಿ ಮತ್ತು ಬೇಟೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0055</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್." address="ದೊಡ್ಡತೋಟ ಅಂಚೆ, ಸುಳ್ಯ ಮೂಲಕ, ದ.ಕ.">ಉಬರಡ್ಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನಾದರು ಬದುಕಬೇಕು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0064</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಾಮಧೇಯನ ಡೈರಿಯಿಂದ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0067</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಖಾರಾಮ ಬಾಂಡರ್-ಮರಾಠಿ ರಂಗಪ್ರಯೋಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0073</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.ಬಿ.ಇಡಿ. ತೀರಂದಾಜ್ ಟಾಕೀಸ್ ಹತ್ತಿರ ಗಾಜ್ಪುರ ಗುಲ್ಭರ್ಗ-೧">ಚಂದ್ರಕಾಂತ ಕುಸನೂರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏಕಲವ್ಯ-ಒಂದು ತೌಲನಿಕ ವ್ಯಾಸಂಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0080</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ವಿದ್ಯಾರ್ಥಿನಿ ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಬೆಂಗಳೂರು-೯">ನಾಗಲಕ್ಷ್ಮಿ ಹರಿಹರೇಶ್ವರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಆವಿಷ್ಕಾರದ ಕವಿ ಶ್ರೀ ನಿಸಾರ್ ಅಹಮದ್</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0091</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಾಂತಿನಾಥ ದೇಸಾಯಿ ಅವರ ವಿಕ್ಷೇಪ-ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0106</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು ಬೆಂಗಳೂರು">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಂಶವೃಕ್ಷ-ಒಂದು ವಿಮರ್ಶೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0114</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್. ಎಸ್." address="ಎಂ.ಎಸ್. ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ರಘುನಾಥ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಪುರ-ಒಂದು ಸಮೀಕ್ಷೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0129</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="ಸೆಕ್ರೆಟರಿ ಸೋಷಲಿಸ್ಟ್ ಪಾರ್ಟಿ ಎಸ್.ಸಿ. ರಸ್ತೆ ಬೆಂಗಳೂರು-೯">ವೆಂಕಟರಾಮ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗತಿ, ಸ್ಥಿತಿಯ ವಿಮರ್ಶೆಯ ವಿವೇಚನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0142</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ. ವಿ. ಜಾಲಿಹಾಳ, ಎಂ.ಎ.,) ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು-೬">ಜಾ. ಗೋ.</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="021">
+		<entry>
+			<title>ಜೀವಿಸುವುದು-ಹಾಗೆಂದರೇನು?</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮಹಾಬಲೇಶ್ವರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಕವನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0011</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಯುನೈಟೆಡ್ ಕಮರ್ಷಿಯಲ್ ಬ್ಯಾಂಕ್, ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೯">ವ್ಯಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಕ್ಷರ ಜ್ಞಾನ ಮತ್ತು ಶಿಕ್ಷಣದ ಆಶಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0012</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ವಿ." address="ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು-೯(೫೬೦೦೦೯)">ನಾರಾಯಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೀಟಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0017</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="{\ /ಒ} ಹೆಚ್. ಶಿವರಾಮಭಟ್, ಬಿ.ಎಸ್ಸಿ., ಬಿ.ಎಲ್., ಡೆವಲಪ್ಮೆಂಟ್ ಸೆರ್ಕ್ಷ, ಎಲ್.ಐ.ಸಿ. ಆಫ್ ಇಂಡಿಯ, ಜೇ.ಸಿ. ತಸ್ತೆ, ಬೆಂಗಳೂರು">ಎನ್ನೆಸ್ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0030</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.. ೧೦೫೩ ಹೆಚ್. ವಿನೋಬಾನಗರ ಹುಬ್ಬಳ್ಳಿ-೨೦">ಶಾಮಸುಂದರ ಬಿದರಕುಂದಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕವಿತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0034</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜೀವನ ಚರಿತ್ರೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0035</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್. ಎಸ್." address="ಹೆಚ್.ಎಸ್. ದಿನೇಶ್ ಕುಮಾರ್ (ಎಂ. ಎ., ಇಂಗ್ಲಿಷ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ನ್ಯಾಷನಲ್ ಕಾಲೇಜು, ಬಸವನಗುಡಿ, ಬೆಂಗಳೂರು-೪">ದಿನೇಶ್ ಕುಮಾರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಿ.ಎಸ್. ಸದಾಶಿವ ಅವರ ಕಥೆಗಳ ವಿಕ್ಷಿಪ್ತ ನಾಯಕ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0047</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎನ್." address="ಸಬ್-ಎಡಿಟರ್, ಪ್ರಜಾವಾಣಿ, ೧೬, ಎಂ.ಜಿ. ರೋಡ್ ಬೆಂಗಳೂರು-೧">ರಂಗನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಪದ್ಯಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0070</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿಗ್ಗು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0072</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲ್ಕು ಸಂಣ ಕತೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0073</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಳೆಗೆ ಹೋದದ್ದು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0081</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದನಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="ಎಡನೀರ್, ಅಂಚೆ: {\ ವಿಅ} ಚಂಗಾಲ, ಕಾಸರಗೂಡು (ಕೇರಳ)">ಬಾಲಕೃಷ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಪುರ-ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0093</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು ಬೆಂಗಳೂರು">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನಂದ ತಾಯಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0105</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ವಿ.ಚಿಕ್ಕವೀರಯ್ಯ, ಮುನಸಿಪಲ್ ಪ್ರಸಿಡೆಂಟ್, ತುಮಕೂರು">ವೀಚಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಪುರ-ಒಂದು ಸಮೀಕ್ಷೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0109</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ತತ್ವಜ್ಞಾನ ವಿಭಾಗ, ಸೋಮೈಯ ಕಾಲೇಜು, ವಿದ್ಯಾನಗರ, ಘಟಕೋಪರ, ಮುಂಬಯಿ-೪೦೦೦೭೭">ಮಾರುತಿ ಶಾನಭಾಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಂಶವೃಕ್ಷ-ಒಂದು ಅನಿಸಿಕೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0120</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಗುಬ್ಬಿಗದ್ದೆ, ಅಂಚೆ: ಬಾಳೆಗಡ್ಡೆ, ಶಿರ್ಶಿ ಉ.ಕ.">ಮಹಾಬಲೇಸ್ವರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೈಸೂರು ರಾಜ್ಯದ ವಿಶ್ವವಿದ್ಯಾನಿಲಯಗಳ ಮಸೂದೆ, ೧೯೭೩</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0125</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ಎನ್." address="ಎಂ.ಎ., ಬಿ.ಎಲ್., ಎಕಾನಾಮಿಕ್ಸ್ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಾಯ್ಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕದಡಿದ ನೀರು: ನಾಟಕ ಪ್ರಯೋಗ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0161</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ವಿಮಲಾ ರಾಮರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಯತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0165</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="022">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address=""/>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಮಂತ್ರಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0007</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="೬, ೪, ೪೯೪, ಕೃಷ್ಣನಗರ ಕಾಲೋನಿ, ಬೋಲಕ್ಪುರ್, ಸಿಕಂದರಬಾದ್, (ಎ.ಪಿ.)">ಮೋಹನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮರ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0015</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿರಾಕರಣ-ಒಂದು ಸಈಕ್ಷೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0017</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ವಿಜಯಪುರ ಬಡಾವಣೆ ಚಿಕ್ಕಮಗಳೂರು">ಲಕ್ಯಾ ಸೂರ್ಯನಾರಾಯಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಭಿನಯದಾಚೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0024</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎಸ್ಸಿ., ನಂ ೮೬೨, ಪ್ರಶಾಂತ್ ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್ ಬೆಂಗಳೂರು">ನಾಗಭೂಷಣ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಹ್ವಲ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0025</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಿಪ್ತ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0027</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ವಿ." address="ಎಂ.ಎ.ಬಿ.ಎಲ್ ಪ್ರಜಾವಾಣಿ ನಂ ೧ ಮಹಾತ್ಮಾ ಗಾಂಧಿ ರಸ್ತೆ ಬೆಂಗಳೂರು-೧">ವೈಕುಂಠರಾಜು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವೀಣಾ ಎಲಬುರ್ಗಿ-ಸಣ್ಣ ಕತೆ : ಒಂದು ಅಭ್ಯಾಸ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0035</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸಂಖ್ಯೆ ೪ ಮೊದಲನೇ ಪ್ರಧಾನ ರಸ್ತೆ ಯಾದವಗಿರಿ ಮೈಸೂರು-೩">ಕಮಲ ಹೆಮ್ಮಿಗೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರೋಗಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0042</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್. ಎಸ್." address="ಎಂ.ಎ., ಆರ್ಟ್ಸ್ ಮತ್ತು ಸೈನ್ಸ್ ಕಾಲೇಜು ಸಂಕೇಶ್ವರ (ಬೆಳಗಾಂ ಜಿಲ್ಲೆ)">ಭೀಮನಗೌಡರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಕ್ಕಿಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0045</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., -೨ ವಿದ್ಯಾಗಿರಿ ಧಾರವಾಡ-೫೮೦೦೦೪">ಸಿದ್ಧಲಿಂಗ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಡಭರತರ ಆ ಊರು - ಈ ಊರು ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0061</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಶ್ರೀ ಮಹದೇಶ್ವರ ಕಾಲೇಜು ಕೊಳ್ಳೇಗಾಲ (ಮೈಸೂರು ಜಿಲ್ಲೆ)">ಶಿವರಾಮಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾತು, ಮಾತು, ಮಾತು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0068</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ವಿ.ಕೆ." address="ಎಂ. ಎ., ಇಂಗ್ಲಿಷ್ ಲೆಕ್ಚರರ್, ಪಿ.ಇ.ಎಸ್. ಕಾಲೇಜು ಆಫ್ ಸೈನ್ಸ್, ಮಂಡ್ಯ">ಜನಾರ್ದನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಮನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0070</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕರು, ಭಂಡಾರ್ಕಾರ್ಸ್ ಕಾಲೇಜು, ಕುಂದಾಪುರ">ರಘುರಾಮರಾವ್ ಬೈಕಂಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಾಧಿಯ ಮೂಕ ಸಾಕ್ಷಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0074</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕ. ವೆಂ." address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಂಶವೃಕ್ಷ ಪ್ರತಿಪಾದಿಸುವ ಮೌಲ್ಯ-ಒಂದು ನೋಟ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0084</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸರ್ಕಾರಿ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿರ್ಮಲ ವರ್ಮಾ ಅವರ ಎರಡು ಹಿಂದಿ ಸಣ್ಣ ಕಥೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0092</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಕ್ಷಿಣೆ- ಒಂದು ಮರು ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0111</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಂ.ಎ., ಸೇಂಟ್ ಮಿಲಾಗ್ರೆಟ್ ಕಾಲೇಜು ಕಲ್ಯಾಣಪುರ (ದ.ಕ.)">ಸುಬ್ರಹ್ಮಣ್ಯ ಕೆದ್ಲಾಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಒಂದು ವಿಲಕ್ಷಣ ಊರಿನ ಹೆಸರಿನಲ್ಲಿ ಅಪೂರ್ವ ಕನ್ನಡ ಪದ-ಪ್ರತಿಕ್ರಿಯೆ
+</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0118</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಬಿ." address="ಎಂ.ಎ., ಸೆಂಟ್ರಲ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯನ್ ಲ್ಯಾಂಗ್ವೇಜಸ್ ಮಾನಸಗಂಗೋತ್ರಿ ಮೈಸೂರು-೬)">ರಾಜಪುರೋಹಿತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗತಿ-ಸ್ಥಿತಿ-ಒಂದು ಅಭ್ಯಾಸ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0121</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಎಸ್.ಶಿವಾನಂದ ಅಂತಿಮ ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಮಾನಸಗಂಗೋತ್ರಿ-ಮೈಸೂರು">ಮಹಮ್ಮದ್ ಅಹಮ್ಮದ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="023">
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾತ್ರಿಯೋನಾ (ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0011</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹನಿಗತೆಗಳು (ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0034</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಲಾಯನ (ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0040</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮೂಹ ಸಂಸ್ಕೃತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0041</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಎಸ್." address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0058</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹಾ.ಮು." address="ಎಂ.ಬಿ.ಬಿ.ಎಸ್ ರುಕ್ಮಿಣೀ ಹಾಲ್ ನೆಹರೂ ರೋಡ್ ಶಿವಮೊಗ್ಗ">ಪಟೇಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು, ಭಾಗ್ಯ ಮತ್ತು ಇತರರು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0061</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು ಬೆಂಗಳೂರು">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾರ್ಥನೆ(ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0069</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಉನ್ಮತ್ತ ಉಲ್ಲಾಸ (ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0071</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕು. ಶಿ." address="ಎಂ.ಎ., ಪ್ರಿನ್ಸಿಪಲ್, ಎಂ.ಜಿ.ಎಂ. ಕಾಲೇಜು, ಉಡುಪಿ">ಹರಿದಾಸಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಾವಲಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0084</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೃಷ್ಣ ನಿವಾಸ, ಪೋಸ್ಟ್: ಪೆರಡಾಲ- ೬೭೦೫೫೧ ಕಾಸರಗೋಡು">ಬಾಲಕೃಷ್ಣ ಕೋಳಾರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೇಡಿಗಳು(ನಾಟಕ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0094</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಯ್ ಅವರ ಅಶನಿ ಸಂಕೇತ್</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0115</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಎಂ.ಡಿ. ಶಿರಾಲಿ, ಎ-೨೨, ಮರ್ಕಂಟೈಲ್ ಬ್ಯಾಂಕ್ ಸ್ಪಾಟ್ ಕ್ವಾರ್ಟರ್ಸ್, ೫ ನೇ ನತ್ವಾರ್ ನಗರ ರಸ್ತೆ, ಜೋಗೇಶ್ವರಿ, (ಪೂರ್ವ) ಮುಂಬಯಿ-೬೦, ಪಿನ್: ೪೦೦೦೬೦">ಶರದ್ ಸೌಕೂರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಕ್ಕಳ ನಾಟಕ-ಪ್ರಯೋಗ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0117</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ವಿ." address="ಎಂ.ಎ.ಬಿ.ಎಲ್ ಪ್ರಜಾವಾಣಿ ನಂ ೧ ಮಹಾತ್ಮಾ ಗಾಂಧಿ ರಸ್ತೆ ಬೆಂಗಳೂರು-೧">ವೈಕುಂಠರಾಜು</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="024">
+		<entry>
+			<title>ಶೇಕ್ಸ್ಪಿಯರನ ಸಾನೆಟ್-೪೫ (ಅನುವಾದ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0008</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಭಾರತದಲ್ಲಿ ಚನಲನಚಿತ್ರ ಸಂಸ್ಕೃತಿಯ ಪ್ರಸ್ತುತ ಸನ್ನಿವೇಶ(ಸತೀಶ್ ಬಹಾದುರ್)
+</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0009</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಾಪಾರಿ ಸಿನಿಮಾ ಮತ್ತು ಪಲಾಯನ ತಂತ್ರ(ನೀರದ್ ಮಹಾಪಾತ್ರ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0033</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎನ್." address="ಸಬ್-ಎಡಿಟರ್, ಪ್ರಜಾವಾಣಿ, ೧೬, ಎಂ.ಜಿ. ರೋಡ್ ಬೆಂಗಳೂರು-೧">ರಂಗನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಲನಚಿತ್ರದಲ್ಲಿ ತಂತ್ರ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0043</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ನಿರ್ದೆಶನ ವಿಧ್ಯಾರ್ಥಿ, ಪಿಲ್ಮ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯಾ, ಪೂನಾ-೪">ಕಾಸರವಳ್ಳಿ ಜಿ ಗಿರೀಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಜನಾಂಗ: ಹೊಸ ಚಿತ್ರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0063</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎಸ್." address="ಎಂ.ಎಸ್ಸಿ., ನಂ ೮೬೨, ಪ್ರಶಾಂತ್ ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್ ಬೆಂಗಳೂರು">ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಂಬಲರ್ಹವಾದ ಸಿನಿಮಾದ ದಾರಿ(ದಿಲೀಪ್ ಪಾಡ್ಗಾಂವ್ಕರ್)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0071</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುಮಾರ್ ಶಹಾನಿ ಅವರ ಮಾಯಾದರ್ಪಣ್</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0081</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="ಪೋಷ್ಟ್ ಹೊನ್ನೇಸರ, ಸಾಗರ (ಮೈಸೂರು)">ಸುಬ್ಬಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹುಡುಕಾಟ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0096</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಸ್.ಎಲ್.ಎನ್. ಕಾಲೇಜ್, ಬೆಂಗಳೂರು">ದೊಡ್ಡರಂಗೇಗೌಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೆಳೆಯರು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0099</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಯುನೈಟೆಡ್ ಕಮರ್ಷಿಯಲ್ ಬ್ಯಾಂಕ್, ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೯">ವ್ಯಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಪುರದ ಕುರಿತು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0101</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೋ. ಮ. " address="ಆಫೀಸರ್, ಪಭ್ಲಿಕ್ ರಿಲೇಷನ್ಸ್ ಡಿಪಾರ್ಟಮೆಂಟ್ ಸಿಂಡಿಕೇಟ್ ಬ್ಯಾಂಕ್, ಮಣಿಪಾಲ ದ.ಕ.">ಕಾರಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡದಲ್ಲಿ ಭೌತವಿಜ್ಞಾನಗಳು-ಒಂದು ಅಧ್ಯಯನ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0113</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಟಿ." address="ಎಂ.ಎಸ್ಸಿ., ಅತ್ರಿ ೮ನೇ ಕ್ರಾಸ್, ಸರಸ್ವತೀಪುರಂ, ಮೈಸೂರು">ನಾರಾಯಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಿರಾಕಿಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0123</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ., ಎಲ್.ವಿ.ಡಿ. ಕಾಲೇಜ್, ರಾಯಚೂರು">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="025">
+		<entry>
+			<title>ಒಂಬತ್ತು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವ-ರೂಪ (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0020</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಯುನೈಟೆಡ್ ಕಮರ್ಷಿಯಲ್ ಬ್ಯಾಂಕ್, ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೯">ವ್ಯಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಮೋದ್ದೀಪನ: ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0021</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎಸ್." address="">ನಿಸಾರ್ ಅಹಮದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಿಖಿರದ ದಾರಿ (ಕತೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0027</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್." address="ಎಮ್.ಎ., ನಂ. ೬೪೭, ೧೦ನೇ ಮೈನ್, ಈ ಬ್ಲಾಕ್, ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧.">ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಕಾಲೀನ ಕಾವ್ಯದಲ್ಲಿ ಧ್ವನಿ ಮತ್ತು ಪ್ರತಿಮೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0049</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0053</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎಸ್." address="">ನಿಸಾರ್ ಅಹಮದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಋತು: ಶರತ್ ೧೯೬೬</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0056</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದೌರ್ಬಲ್ಯ (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0061</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಸ್.ಎಲ್.ಎನ್. ಕಾಲೇಜ್, ಬೆಂಗಳೂರು">ದೊಡ್ಡರಂಗೇಗೌಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೊನೆಯ ಪಲಾಯನ(ಕತೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0063</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0067</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎಸ್." address="">ನಿಸಾರ್ ಅಹಮದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪೆನ್ಸಿಲ್ಲಿನ ಸ್ವಪ್ನ (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0069</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎಸ್." address="">ನಿಸಾರ್ ಅಹಮದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಔತಣ(ಕತೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0070</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಎನ್." address="">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಂಗಭೂಮಿಯ ತತ್ವಪ್ರಣಾಲಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0077</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎನ್." address="ಸಬ್-ಎಡಿಟರ್, ಪ್ರಜಾವಾಣಿ, ೧೬, ಎಂ.ಜಿ. ರೋಡ್ ಬೆಂಗಳೂರು-೧">ರಂಗನಾಥ್ರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾರ್ಥನೆ (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0087</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಕೊಠಡಿಯೊಳಕ್ಕೆ ಬಂದ ಹೆಣ್ಣು (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0088</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0089</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶರತ್-ಧಾತ್ರಿ(ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0092</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಲಕ್ಷಿನಾರಾಯ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋರಿ (ಕತೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0093</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹ. ವೆಂ." address="">ನಾಗರಾಜರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಮಾನ್ಯತೆಯಿಂದ ಮುಕ್ತಗೊಳ್ಳಬೇಕು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0098</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ವಿ." address="ಪೋಷ್ಟ್ ಹೊನ್ನೇಸರ, ಸಾಗರ (ಮೈಸೂರು)">ಸುಬ್ಬಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲಗೆ (ಕವನ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0107</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="026">
+		<entry>
+			<title>ಮೊನ್ನೆ ಯಾರೋ ಹೇಳಿದರು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಕೆ." address="ದಿ ಯೂನಿವರ್ಸಿಟಿ ಆಫ್ ಚಿಕಾಗೊ, ಸೌತ್ ಏಷ್ಯ ಲ್ಯಾಂಗ್ವೇಜ್ ಎಂಡ್ ಏರಿಯಾ ಸೆಂಟರ್, ಫಾಸ್ಟರ್ ಹಾಲ್, ೧೧೩೦ ಈಸ್ಟ್, ೫೯ ಸ್ಟ್ರೀಟ್, ಚಿಕಾಗೊ, ಇಲ್ಲಿನಾಸ್ ೬೦೬೩೭">ರಾಮಾನುಜನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೂಢ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0010</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೃಹಚ್ಚರಣರ ಭಾಷೆಯಲ್ಲಿ ಲಿಂಗ-ವಚನ ವ್ಯವಸ್ಥೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0011</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="ಬಿ.ಅ., (ಆನರ್ಸ್) ಕನ್ನಡ ನಿಘಂಟು ಕಚೇರಿ, ಪಂಪ ಮಹಾಕವಿ ರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ, ಬೆಂಗಳೂರು-೧೮">ಮಧುಸೂದನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತನ್ನವನು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0015</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಜವಳಿ ಬಂಧುಗಳು, ತಿರ್ಥಹಳ್ಳಿ, ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ">ರಾಘವ ಜವಳಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಧ್ವನಿಯ ಭಾಷೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0025</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮರಾಜ್ಯೋತ್ಸವ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0032</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಾತ್ರೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0035</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶೆಕ್ಸ್ಪಿಯರ್ನ ಸಾನೆಟ್-೧೩೦ (ಅನುವಾದ)</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0052</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಡಿನ ವಿಜಯ (ಅನುವಾದ)</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0053</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್." address="೧೦/೮೬೩ {\ }. ನವೀನ ಬಿಲ್ಡಿಂಗ್ಸ್, ಚಲ್ಲಪುರಂ, ಕಲ್ಲಿಕೋಟೆ-೨">ಲಕ್ಷ್ಮಣಾಚಾರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗ್ರಹಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0081</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕ. ವೆಂ. " address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಜ್ಯೋತ್ಸವದ ದಿನದಂದು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0083</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ.ಎಲ್." address="">ಸುಬ್ರಹ್ಮಣ್ಯಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭೈರಪ್ಪನವರ ದಾಟು: ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0085</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏರ್ ಹೋಸ್ಟೆಸ್</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0094</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಯುನೈಟೆಡ್ ಕಮರ್ಷಿಯಲ್ ಬ್ಯಾಂಕ್, ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಬೆಂಗಳೂರು-೯">ವ್ಯಾಸರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರಕುಟಿಗ-ವಿಮರ್ಶೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0096</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂತ್ಯ-ವಿಮರ್ಶೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0099</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಪುರದ ರಾಜಕೀಯ-ಒಂದು ಸಮರ್ಥನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0101</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ." address="ಎಲ್.ಐ.ಸಿ. ಆಫ್ ಇಂಡಿಯ, ಡಿವಿಜನಲ್ ಆಫೀಸ್, ಉಡುಪಿ ದ.ಕ.">ರಾಜಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏಕಾಂತ ರಾಮಯ್ಯನ ಅಬ್ಬಲೂರು ಶಾಸನದ ಒಂದು ಪದ್ಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0115</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಆರ್." address="ಕನ್ನಡ ಅಧ್ಯಾಪಕ, ಆಚಾರ್ಯ ಪಾಠಶಾಲಾ ಸಂಜೆ ಕಾಲೇಜು, ಬೆಂಗಳೂರು">ಗಣೇಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುಂದೇನ ಸಖಿ? ಮುಂದೇನ?</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0117</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಆರ್.ಎನ್. ೧೧೯, ಶ್ರೀ ಕೃಷ್ಣಭವನ, ಸ್ಟೇಷನ್ ರೋಡ್, ಹುಬ್ಬಳ್ಳಿ">ವ್ಯಾಸ ದೇಶಪಾಂಡೆ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="027">
+		<entry>
+			<title>ವಾಸನೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಿನಾಶ ಬರೋದು ಬೇಡ (ನಾಟಕ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0008</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಘಾತ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0019</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆರ್ಥಿಕ ಸ್ವಾತಂತ್ರ್ಯದ ಹೋರಾಟ (ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0021</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ವಿ" address="೨೯೬೧/೩೧, ಒಂದನೇ ಮೆಯಿನ್ ರೋಡ್, ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು-೯">ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಕುಲಾಷ್ಟಮಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0049</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿತೆ(ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0053</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ತಿಪ್ಪೇಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿತೆ(ಅನುವಾದ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0055</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ತಿಪ್ಪೇಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಬಂಧಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0056</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಅಧ್ಯಾಪಕರು ಸ್ನಾತಕೋತ್ತರ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಬಿ.ಆರ್.ಪ್ರಾಜೆಕ್ಟ್ (ಶಿವಮೊಗ್ಗ)">ಶ್ರೀಕಂಠ ಕೂಡಿಗೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜೈಲಿನಿಂದ ಜೈಲಿಗೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0064</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಕೆ." address="ದಿ ಯೂನಿವರ್ಸಿಟಿ ಆಫ್ ಚಿಕಾಗೊ, ಸೌತ್ ಏಷ್ಯ ಲ್ಯಾಂಗ್ವೇಜ್ ಎಂಡ್ ಏರಿಯಾ ಸೆಂಟರ್, ಫಾಸ್ಟರ್ ಹಾಲ್, ೧೧೩೦ ಈಸ್ಟ್, ೫೯ ಸ್ಟ್ರೀಟ್, ಚಿಕಾಗೊ, ಇಲ್ಲಿನಾಸ್ ೬೦೬೩೭">ರಾಮಾನುಜನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವನತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0068</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸಂಖ್ಯೆ ೪ ಮೊದಲನೇ ಪ್ರಧಾನ ರಸ್ತೆ ಯಾದವಗಿರಿ ಮೈಸೂರು-೩">ಕಮಲ ಹೆಮ್ಮಿಗೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಿತಾಮಹರಿಗೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0077</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸತ್ತವರ ನೆರಳು-ನಾಟಕದ ತತ್ವಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0080</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ." address="ಎಲ್.ಐ.ಸಿ. ಆಫ್ ಇಂಡಿಯ, ಡಿವಿಜನಲ್ ಆಫೀಸ್, ಉಡುಪಿ ದ.ಕ.">ರಾಜಶೇಖರ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="028">
+		<entry>
+			<title>ಶಿಸ್ತು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಟಿ." address="ಎಂ.ಎಸ್ಸಿ., ಅತ್ರಿ ೮ನೇ ಕ್ರಾಸ್, ಸರಸ್ವತೀಪುರಂ, ಮೈಸೂರು">ನಾರಾಯಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುದ್ದು ಮಕ್ಕಳಿಗೊಂದು ಕವಿತೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0018</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತುಣುಕುಗಳು (ಸಣ್ಣ ಕಥೆ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0021</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಧ್ಯಾಪಕರೆ ನಿಮ್ಮ ನಡೆನುಡಿಗಳ ಬಗ್ಗೆ ಗಮನವಿರಲಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0029</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="">ಶಶಿಧರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹುರಿಗಾಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0039</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ರಾಮದಾಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂಕುರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0048</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯಶವಂತ ಚಿತ್ತಾಲರ ಮೂರು ಕಥೆಗಳಲ್ಲಿ-ಸಾವು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0072</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ.ಎಸ್." address="">ನಾಗರಾಜ ಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅತಿವೃಷ್ಟಿ; ಅನಾವೃಷ್ಟಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0082</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಚೆ." address="">ರಾಮಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಲನಹಳ್ಳಿಯವರ-ಪರಸಂಗದ ಗೆಂಡೆತಿಮ್ಮ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0085</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನವ್ಯ ಸಾಹಿತ್ಯ - ಒಂದು ಹಿನ್ನೋಟ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0092</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="">ಶಿವಾನಂದ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="029">
+		<entry>
+			<title>ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆಯಲ್ಲಿ ಭೂಮಿಯ ಪ್ರಶ್ನೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಸಾಕ್ಷಿ">ಜಿ.ಆರ್.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0064</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು (ಒಂದು ಪರಿಶೀಲನೆ)</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0068</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಬಿ." address="ಎಂ.ಎ., ಸೆಂಟ್ರಲ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯನ್ ಲ್ಯಾಂಗ್ವೇಜಸ್ ಮಾನಸಗಂಗೋತ್ರಿ ಮೈಸೂರು-೬)">ರಾಜಪುರೋಹಿತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಿಲರೇಪ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್. ಎಸ್." address="">ಶಿವಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಪಾದಿತ, ಸೂಚಿತ ಮತ್ತು ಗೃಹೀತಾರ್ಥಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0077</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ಯನ್." address="ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಶಂಕರ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0088</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಸ್ತಿತ್ವವಾದ ಮತ್ತು ಸಾರ್ತ್ರ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0092</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕಿ, ಸಂಸ್ಕೃತ ವಿಭಾಗ, ಜ್ಞಾನ ಭಾರತಿ ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು.">ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಾವನಾ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0098</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ಎಸ್." address="ಎಂ.ಎಸ್ಸಿ., ನಂ ೮೬೨, ಪ್ರಶಾಂತ್ ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್ ಬೆಂಗಳೂರು">ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಳೆದದ್ದರ ಕುರಿತು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0109</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಊರು-ಕಾದಂಬರಿಯ ಪರಿಚಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0112</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ಪಿ." address="ಗುಬ್ಬಿಗದ್ದೆ, ಪೋಷ್ಟ್, ಬಾಳೆಗದ್ದೆ, ಸಿರ್ಸಿ ತಾ|| ಉ.ಕ.">ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="030">
+		<entry>
+			<title>ಕನ್ನಡ ಮತ್ತು ವಿಜ್ಞಾನ: ಒಂದು ಸಮೀಕ್ಷೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ಎಸ್." address="ಎಂ.ಎಸ್ಸಿ., ನಂ ೮೬೨, ಪ್ರಶಾಂತ್ ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್ ಬೆಂಗಳೂರು">ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇಪ್ಪತ್ತೆಂಟನೆಯ ಸ್ವಾತಂತ್ರ್ಯೊತ್ಸವ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0026</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ.. ೧೦೫೩ ಹೆಚ್. ವಿನೋಬಾನಗರ ಹುಬ್ಬಳ್ಳಿ-೨೦">ಶಾಮಸುಂದರ ಬಿದರಕುಂದಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಮುಖ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0027</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್." address="೨೧೧೬/೧ ಎ ಬ್ಲಾಕ್, ಪಿ.ಜೆ. ಬಡಾವಣೆ, ದಾವಣಗೆರೆ-೪">ಪ್ರಕಾಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಮ್ಮ ಈಗಿನ ಕಾವ್ಯ ಪ್ರಪಂಚ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0040</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೊಲ್ಗೊಥಾ ಮತ್ತು ವೈಶಾಖಿ-ಒಂದು ವಿಮರ್ಶೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0052</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಯು. ಎಸ್." address="ಊರುಗಡೂರು ಪೋಸ್ಟ್, ನಿದಿಗೆ ಹೋಬಳಿ, ಶಿವಮೊಗ್ಗ ತಾ.">ಶ್ರೀಧರ ಆರಾಧ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0076</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಲೋಕೋಪಯೋಗಿ ಇಲಾಖೆ, ನಂ ೧ ಉಪವಿಭಾಗ, ಬಾಗಲಕೋಟೆ">ಆನಂದ ಝಂಜರವಾಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೆಬ್ಬೆರಳು-ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0080</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ." address="ಎಂ.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ">ರಘುನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಶ್ವತ್ಥಾಮ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0085</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ. ಎ. ದಿ ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ, ದ. ಕ.">ಶ್ರೀಪತಿ ತಂತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಮತ್ತು ಸಮಾಜ-ಕೆಲವು ಯೋಚನೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0101</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರ ದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಮಲೆಯಾಳಂ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಂಘಯುಗಪ್ರವರ್ತಕ ಕರೂರ್ ನೀಲಕಂಠ ಪಿಳ್ಳೆ
+</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0124</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="031">
+		<entry>
+			<title>ಕರ್ನಾಟಕದ ಕಾಫೀ ತೋಟಗಳ ಕಾರ್ಮಿಕರು: ಒಂದು ವಿವರಣೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಸಾಕ್ಷಿ">ಜಿ.ಆರ್.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಾರಾಜರ ಕ(ವಿ)ತೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0014</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕರು ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು">ವೇಣುಗೋಪಾಲ ಕಾಸರಗೋಡು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಸ್ತು, ಶೈಲಿ ಮತ್ತು ಭಾಷೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0021</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎನ್." address="ಸಬ್-ಎಡಿಟರ್, ಪ್ರಜಾವಾಣಿ, ೧೬, ಎಂ.ಜಿ. ರೋಡ್ ಬೆಂಗಳೂರು-೧">ರಂಗನಾಥರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0033</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೆದ್ದಾರಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0038</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಅಧ್ಯಾಪಕರು ಸ್ನಾತಕೋತ್ತರ ಅಧ್ಯಯನ ಕೇಂದ್ರ ಬಿ.ಆರ್.ಪ್ರಾಜೆಕ್ಟ್ (ಶಿವಮೊಗ್ಗ)">ಶ್ರೀಕಂಠ ಕೂಡಿಗೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾಲ ಮತ್ತು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0039</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎನ್." address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ ನ್ಯಾಷನಲ್ ಕಾಲೇಜು ಬೆಂಗಳೂರು-೪">ನಾಗರಾಜ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯೋದ್ಯೋಗ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0047</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆತ; ಆಫೀಸು; ಆಫೀಸು ಸಮಯ..., ಇತ್ಯಾದಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0049</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. " address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹತ್ಯಾಕಾಂಡ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0066</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ತೆಂಗಿನ ಮರದುದ್ದದ ಮನುಷ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0070</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್.ಕೆ. " address="ರೂಮ್ ನಂ ೧, ಉದಯ ನಿವಾಸ, ೬ ನೇ ಕ್ರಾಸ್, ಎಸ್.ಪಿ. ಬಡಾವಣೆ, ಬೆಂಗಳೂರು-೩">ಪ್ರಭು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0081</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಸ್ತಿತ್ವವಾದಿ ಮನೋವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0085</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ವೈ." address="ಎಂ.ಎ., ಮಹಾರಾಣಿ ಕಾಲೇಜು ಬೆಂಗಳೂರು">ಲಲಿತಾಂಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0092</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೋಮನ ದುಡಿ(ಚಿತ್ರದ ವಿಮರ್ಶೆ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0096</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. " address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆರಳಿಲ್ಲದವರು (ನಾಟಕ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0106</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಿ.ಎಸ್.ಸಿ ಫೋರ್ಟ್ ರೋಡ್, ಹೊಸಪೇಟೆ">ಮಲ್ಹಾರಿ ದೀಕ್ಷಿತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಛಸನಾಲಾ ಆಕ್ರಂದನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0111</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಖಾನಾಪೂರ್ ಬೆಳಗಾಂವ">ಸತೀಶ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿಂಡನಗಲಿದ ಚಿಗರಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0112</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ನ." address="ಎಮ್.ಎ., ಕನ್ನಡ ಡಿಪಾರ್ಟ್ಮೆಂಟ್, ಡಿ. ಬನುಮಯ್ಯ ಕಾಲೇಜ್, ಮೈಸೂರು.">ಶಿವತೀರ್ಥನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0113</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ನಾ." address="ಕರ್ಣಾಟಕ ಕ್ಲಿನಿಕ್, ಕಾಂತಾವರ, ಕಾರ್ಕಳ ಎಸ್.ಕೆ.">ಮೊಗಸಾಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಸ್ನಾಲ-೧೯೭೫</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0117</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="032">
+		<entry>
+			<title>ಸ್ವಯಂ-ವರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. " address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇರುಳು-ಹಗಲು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0016</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ನಂ ೨೮೨೩, ೮ನೇ ಕ್ರಾಸ್, ವಿ.ವಿ.ಮೊಹಲ್ಲಾ, ಮೈಸೂರು-೨">ಚದುರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂದ್ರೇಮಿ ಸಖರೋವ್ ಧ್ವನಿ(ಅನುವಾದ)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0019</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಸಾಕ್ಷಿ">ದಿ.ಎಸ್.ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಲ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0029</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಕೆ.ಎಲ್.ಶ್ರೀನಿವಾಸಮೂರ್ತಿ, ಎಸ್.ಪಿ.ಎಂ.ರೋಡ್, ಶಿವಮೊಗ್ಗ">ವೈದೇಹಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ-ಭಾಷೆಯಿಂದ ಭಾಷೆಗೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0035</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕರು ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು">ವೇಣುಗೋಪಾಲ ಕಾಸರಗೋಡು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾಯ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0049</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್. ವಿ." address="ಎಂ.ಎ., ಸಂಶೋಧನಾಧಿಕಾರಿ, ಭಾಷ ನಿರ್ದೆಶನಾಲಯ, ಮೊದಲನೇ ಮಹಡಿ, ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಕಟ್ಟಡ, ನೃಪತುಂಗ ರಸ್ತೆ ಬೆಂಗಳೂರು-೨">ಭಾಗ್ಯಲಕ್ಷ್ಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕ್ರಾಂತಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0051</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಳ್ಳೊಳ್ಳಿ ಮಠ ರಸ್ತೆ, (ಬಡಿಗೇರ ಓಣಿ) ಹುಬ್ಬಳ್ಳಿ">ಶಿವಲಿಂಗಯ್ಯ ಮ.ಹಿರೇಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆರೋಪ ಅಲ್ಲ ಅಹವಾಲು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0052</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏಕಚಕ್ರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0055</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಎನ್.ಎಸ್.ವೆಂಕಟೇಶ) ೧೬೦೩, ೪೦ನೇ ಕ್ರಾಸ್, ೪ನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು">ಗೌರಿಶಂಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಕ್ತಬೀಜಾಸುರನ ಹಾಡು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0074</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವಂತದ್ದು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0078</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇಬ್ಸನ್-ಗೋಸ್ಟ್</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0080</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮನಂಬುಗುವ ಕಥೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ನಾ." address="ಕರ್ಣಾಟಕ ಕ್ಲಿನಿಕ್, ಕಾಂತಾವರ, ಕಾರ್ಕಳ ಎಸ್.ಕೆ.">ಮೊಗಸಾಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಮೂಡುಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0095</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್.ಎಸ್." address="ಎಂ. ಎ. ಪಿ.ಎಚ್ಡಿ., ಬಾಷಾಶಾಸ್ತ್ರ ವಿಭಾಗ ಡೆಕ್ಕನ್ ಕಾಲೇಜ್, ಪೂನಾ-೬">ಬಿಳಿಗಿರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಶ್ವತ್ಥಾಮ ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0097</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಡ್ವೊಕೇಟ್, ೧೫, ೪ನೇ ಎನ್ ಬ್ಲಾಕ್, ರಾಜಾಜಿನಗರ ಬೆಂಗಳೂರು">ಬಾಪು ಹೆದ್ದೂರ ಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಂಗನಾಥರಾವ್ ಲೇಖನ ಕುರಿತು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0100</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="033">
+		<entry>
+			<title>ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆಯಲ್ಲಿ ಭೂಮಿಯ ಪ್ರಶ್ನೆ - ೨</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಸಾಕ್ಷಿ">ಜಿ.ಆರ್.</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0059</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರೆವು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0065</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ.ಎನ್." address="ಣೊಆರೆ">ಪ್ರಸನ್ನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆ-ಲಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ನಂ ೨೮೨೩, ೮ನೇ ಕ್ರಾಸ್, ವಿ.ವಿ.ಮೊಹಲ್ಲಾ, ಮೈಸೂರು-೨">ಚದುರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬರಿಯೂ ಮಂದಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0081</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚರಿತ್ರೆ ಮತ್ತು ಸಾಹಿತ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0085</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಆಲ್ ಇಂಡಿಯಾ ರೇಡಿಯೋ, ಧಾರವಾಡ">ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0095</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಿ.ಎ., ಬಿ.ಎಡ್., ಚೊಕ್ಕಾಡಿ ಹೈಸ್ಕೂಲ್, ಪೋಸ್ಟ್: ಕುಕ್ಕುಜಡಕ, ಸುಳ್ಯ ತಾಲ್ಲೂಕು (ದ.ಕ.)">ಲಕ್ಷ್ಮೀಶ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮ್ಮನ ಗೊಣಗಾಟ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0099</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಕೆ.ಎಲ್.ಶ್ರೀನಿವಾಸಮೂರ್ತಿ, ಎಸ್.ಪಿ.ಎಂ.ರೋಡ್, ಶಿವಮೊಗ್ಗ">ವೈದೇಹಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತರ-ಮೈ ಮನಗಳ ಸುಳಿಯಲ್ಲಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಕೆ." address="ಇಂಗ್ಲಿಷ್ ಉಪನ್ಯಾಸಕರು, ದಿ.ಆರ್.ಎಮ್. ಕಾಲೇಜ್, ದಾವಣಗೆರೆ-೨">ಸೀತಾರಾಮಶಾಸ್ತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಾಳಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0115</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಸಾಕ್ಷಿ">ಪ್ರಭಾಕರ ಕೆರಕೈ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="034">
+		<entry>
+			<title>ಮೂರನೇ ಆಯಾಮದಾಚೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಕರ್ಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವಗತ ಎಂಬ ಕವನವು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0014</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. ಎನ್." address="ಕಾರ್ ಸ್ಟಿಟ್, ತೀರ್ಥಹಳ್ಳಿ">ಜೈಪ್ರಕಾಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಾಟುವಿನ ಜೀವಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0016</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ.ಎಂ." address="ಕುಪ್ಪಳ್ಳಿ, ಶಿರ್ಶಿ ತಾ|| (ಉ.ಕ.)">ರಮೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0026</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಿ.ಎಸ್.ಸಿ ಎಲ್.ಎಲ್.ಬಿ ಅಂಚೆ: ಪೈಲಾರು. ಬೆಳ್ಳಾರೆ (ದ.ಕ.)">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಕಂಜರ್ಪಣೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಿರಡ್ಡಿಯವರ ಕಥೆ - ಮಣ್ಣು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0032</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಪಿ.ಎಚ್.ಡಿ ಕನ್ನಡ ಅಧ್ಯಾಪಕರು ಸ್ನಾತಕೋತ್ತರ ಕೇಂದ್ರ, ಕಲಬುರ್ಗಿ">ಕೃಷ್ಣಮೂರ್ತಿ ಕಿತ್ತೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಐದು ಕವಿತೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0041</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾ~~ ಎಸ್.ಎಲ್.ಭೈರಪ್ಪನವರ - ಅನ್ವೇಷಣ (ಒಂದು ಚಿಂತನ)</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0049</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಿ.ಎಸ್.ಸಿ ಫೋರ್ಟ್ ರೋಡ್, ಹೊಸಪೇಟೆ">ಮಲ್ಹಾರಿ ದೀಕ್ಷಿತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಪಾಡು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0058</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೊ.ಮ." address="ಕೇರ್ ಶ್ರೀ ಎಚ್.ಎಮ್. ರೇವಾಣಾರಾಧ್ಯ, ಎಮ್.ಬಿ.ಬಿ.ಎಸ್., ಬುದ್ಧ ಸರ್ಕಲ್ ಸಈಪ ಪೋಲಿಸ್ ಸ್ಟೇರ್ಷ ರೋಡ್, ಕೊಟ್ಟೂರು (ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆ)">ಪಂಡಿತರಾಧ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತೀಯ ಯುವಜನಾಂಗ ಮತ್ತು ಒಪ್ಪಂದ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0060</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಲೆಕ್ಚರರ್, ಡೋರ್ ನಂ ೯೮೨/೨, ಜಯಲಕ್ಷ್ಮಿ ಕ್ರಾಸ್, ಚಾಮರಾಜಪುರಂ, ಮೈಸೂರು-೪">ಭಾಸ್ಕರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಿಂದಾಬಾದನ ಆತ್ಮಕಥೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0066</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್.ಎಸ್." address="೧೦೧-ಗಣೇಶ ಮಂದಿರಂ ರೋಡ್, ೨ನೇ ಬ್ಲಾಕ್, ತ್ಯಾಗರಾಜನಗರ, ಬೆಂಗಳೂರು">ವೆಂಕಟೇಶಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹುಟ್ಟಿದ್ದಕ್ಕೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0075</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್.ಎಚ್." address="ಅಸಿಸ್ಟೆಂಟ್ ಲೆಕ್ಚರರ್, ಎಸ್.ಜೆ.ಪಾಲಿಟೆಕ್ನಿಕ್, ಭದ್ರಾವತಿ">ಗಂಗಾಧರಾಚಾರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅತೀಂದ್ರಿಯ ಗ್ರಹಿಕೆ, ಅಂತರ್ಭೊಧೆ ಮತ್ತು ಅನುಭವ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0077</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕಿ, ಸಂಸ್ಕೃತ ವಿಭಾಗ, ಜ್ಞಾನ ಭಾರತಿ ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು.">ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮಾಯಣ(ನಾಟಕ)</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0085</page>
+			<feature>ನಾಟಕ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕರು ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು">ವೇಣುಗೋಪಾಲ ಕಾಸರಗೋಡು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಶ್ವತ್ಥಾಮ-ಸ್ಪಷ್ಟೀಕರಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0112</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ. ಎ. ದಿ ವಿಜಯ ಕಾಲೇಜು, ಮುಲ್ಕಿ, ದ. ಕ.">ಶ್ರೀಪತಿ ತಂತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಂಚಿನಮನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0122</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="035">
+		<entry>
+			<title>ಪರಕೀಯತೆ ಮತ್ತು ಮಾರ್ಕ್ಸ್ವಾದ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0006</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಡ್ವೊಕೇಟ್, ೧೫, ೪ನೇ ಎನ್ ಬ್ಲಾಕ್, ರಾಜಾಜಿನಗರ ಬೆಂಗಳೂರು">ಬಾಪು ಹೆದ್ದೂರ ಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸದ್ಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0020</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಆರ್." address="ಕೆ. ಆರ್. ಬಡಾವಣೆ, ಚಿಂತಾಮಣಿ, ಕೋಲಾರ ಜಿಲ್ಲೆ">ಲಕ್ಷ್ಮಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಾವಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0021</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕೇರಾಫ್ ಕೆ.ಎಲ್.ಶ್ರೀನಿವಾಸಮೂರ್ತಿ, ಎಸ್.ಪಿ.ಎಂ.ರೋಡ್, ಶಿವಮೊಗ್ಗ">ವೈದೇಹಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಹಳೆಯ ಹಾಡು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0029</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. ಎನ್." address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತೆಲುಗು ಕಾವ್ಯಕ್ಕೆ ಜೀವ ತುಂಬಿದ ಶೇಷೇಂದ್ರ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0032</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="" address="ಎಂ.ಎ., ಪಿ.ಹೆಚ್.ಡಿ., ತೆಲುಗು ಭಾಷಾ ಮುಖ್ಯಸ್ಥರು, ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಜ್ಞಾನಭಾರತಿ, ಬೆಂಗಳೂರು">ತಂಗಿರಾಲ ವೆಂಕಟಸುಬ್ಬರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0041</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕ, ಸರ್ಕಾರಿ ಜೂನಿಯರ್ ಕಾಲೇಜ್, ಮೇಗರವಈ (ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ)">ಬಿದರಹಳ್ಳಿ ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಿನೆಮಾದಲ್ಲಿ ವೈಯುಕ್ತಿಕತೆ ಮತ್ತು ಸಾಮಾಜಿಕತೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0045</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಫಿಲ್ಮ್ ಮತ್ತು ಟಿ.ವಿ. ಇನ್ಸ್ಟಿಟ್ಯೂಟ್, ಪುಣೆ-೪">ಸತೀಶ್ ಬಹಾದ್ದೂರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾರ್ಟಿನ್ ಹೈಡೆಗರ್</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0049</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಜಿ." address="ತತ್ವಶಾ ಪ್ರಾಧ್ಯಾಪಕರು, ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು">ಶ್ರೀನಿವಾಸನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗುಲ್ಮೊಹರ್</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0056</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನ್ವೇಷಣೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0058</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೭೪/೫೯ ಡಬ್ಲ್ಯು ಇ.ಎ., ಕರೋಲ್ಬಾಗ್ ಹೊಸದಿಲ್ಲಿ-೫೧೦೦೦೫">ರಾಮಶೇಷ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತುತ್ತಿನ ಚೀಲ-ಒಂದು ವಿವೇಚನೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0067</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಎಸ್." address="ಎಂ.ಎ., ಕನ್ನಡ ಪ್ರಾಧ್ಯಾಪಕ, ಸರ್ಕಾರಿ ಕಾಲೇಜು ಮೂಲ್ಕಿ (ದ.ಕ.)">ಸುಬ್ಬಣ್ಣವರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಾಯ್ನುಡಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0084</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧುನಿಕ ಮಲಯಾಳ ಕಾವ್ಯ- ಕೆಲವು ಪ್ರವೃತ್ತಿಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0088</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕರು ಸರ್ಕಾರಿ ಕಾಲೇಜು ಕಾಸರಗೋಡು">ವೇಣುಗೋಪಾಲ ಕಾಸರಗೋಡು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬದುಕೆಂಬುದು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0105</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="036">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address=""/>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಸ್ತಾವನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0009</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address=""/>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೆರಿಲ್ಲಾ ಕವಿತೆಗಳು (ಕೆಲವು ಅನುವಾದಗಳು)</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0031</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ. " address="ಎಂ.ಎ., ಎಂಇಎಸ್ ಕಾಲೇಜು ಮೆಲ್ಲೇಶ್ವರಂ ಬೆಂಗಳೂರು-೩">ರಾಜಗೋಪಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ಪರ್ಧೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0089</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಎಸ್.ಕೆ. " address="ರೂಮ್ ನಂ ೧, ಉದಯ ನಿವಾಸ, ೬ ನೇ ಕ್ರಾಸ್, ಎಸ್.ಪಿ. ಬಡಾವಣೆ, ಬೆಂಗಳೂರು-೩">ಪ್ರಭು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಡುಗಡ್ಡೆಗೆ ಪಯಣ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0102</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="೧೬೦೩ ೪೦ ನೇ ಕ್ರಾಸ್ ೩ ನೇ ಬ್ಲಾಕ್ ಬಿ-ಜಯನಗರ ಬೆಂಗಳೂರು-೧೧">ವೆಂಕಟೇಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜನ್ನನ ಯಶೋಧರ ಚರಿತೆಯಲ್ಲಿ ಬಲಿಯ ಪ್ರತಿಮೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0116</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಆರ್." address="ರಿಸರ್ಚ್ ಸ್ಕಾಲರ್ (ಕನ್ನಡ) ಭಾರತೀಯ ಭಾಷೆಗಳ ಇಲಾಖೆ ಬನಾರಸ್ ಹಿಂದೂ ಯುನಿವರ್ಸಿಟಿ ವಾರಣಾಸಿ-೫">ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="037">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆ ಕಾವ್ಯ -- ಒಂದು ಚಿಂತನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0011</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ವಿ.ಅ." address="ಕುಸುಮಾಕರ ದೇವರಗೆಣ್ಣೂರ) (ಕನ್ನಡ ಅಧ್ಯಾಪಕರು, ದಯಾನಂದ ಕಾಲೇಜ್, ಸೊಲ್ಲಾಪೂರ (ಮಹಾರಾಷ್ಟ್ರ)">ದಿವಾಣಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪರ್ಕ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0026</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಛೀಫ್ ಆಡಿಟರ್, ವೆಸ್ಟರ್ನ್ ರೈಲ್ವೇಸ್, ಚರ್ಚ್ ಗೇಟ್ ಸ್ಟೇಷನ್, ಮುಂಬಯಿ">ಗಂಗಾಧರ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಂಬುಕ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0029</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ." address="ಅಧ್ಯಾಪಕರು, ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು">ವಿಜಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗರ ಇತ್ತೀಚಿನ ಕಾವ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0033</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕನ್ನಡ ಅಧ್ಯಾಪಕರು, ಶೇಷಾದ್ರಿಪುರಂ ಕಾಲೇಜು, ಬೆಂಗಳೂರು">ನರಹಳ್ಳಿ ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಿಗುರೆಲೆ ಮತ್ತು ಸ್ನೇಹ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0042</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕ, ಶ್ರೀ ಪೂರ್ಣಪ್ರಜ್ಞ ಕಾಲೇಜು, ಉಡುಪಿ, ದ.ಕ.">ಮಾಧವ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಿನ ಮತ್ತೂ ಮತ್ತೊಂದು...</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0045</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಣಿಭದ್ರ ರಸ್ತೆ, ಗೋಕರ್ಣ">ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗರ ಮನೋಧರ್ಮ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0048</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಕಾವ್ಯ ಅಪೇಕ್ಷಿಸುವ ಶಿಸ್ತು ಅನೇಕರಿಗೆ ಅಪ್ರಿಯವೆಂದು ಕಾಣುತ್ತದೆ
+</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0069</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಲ್.ಎಸ್." address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕರು, ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು">ಶೇಷಗಿರಿರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಿಗಣೆ ಮತ್ತು ನಾನು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0074</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ವಿ." address="ಎಂ.ಎ., ಸಂಶೋಧನಾಧಿಕಾರಿ, ಭಾಷ ನಿರ್ದೆಶನಾಲಯ, ಮೊದಲನೇ ಮಹಡಿ, ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಕಟ್ಟಡ, ನೃಪತುಂಗ ರಸ್ತೆ ಬೆಂಗಳೂರು-೨">ಭಾಗ್ಯಲಕ್ಷ್ಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನೇಕೆ ಕಾವ್ಯ ರಚಿಸುತ್ತೇನೆ?</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಬರ್ಟ್ ಲವೆಲ್</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0077</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮಚಂದ್ರ ಶರ್ಮರ ಕಾವ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0081</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ. ಎಸ್. " address="ಕುಪ್ಪಳ್ಳಿ, ಶಿರ್ಶಿ ತಾ|| (ಉ.ಕ.)">ರಮೇಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎತ್ತು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0090</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್.ಎಸ್." address="ಎಂ.ಎ., ಆರ್ಟ್ಸ್ ಮತ್ತು ಸೈನ್ಸ್ ಕಾಲೇಜು ಸಂಕೇಶ್ವರ (ಬೆಳಗಾಂ ಜಿಲ್ಲೆ)">ಭೀಮನಗೌಡರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಿತ್ತಾಲರ ಕಾವ್ಯ: ಕೆಲವು ವಿಚಾರಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0092</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ." address="ಅಧ್ಯಾಪಕರು, ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು">ವಿಜಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುದರೀ ಸಿದ್ದ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0101</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಕನ್ನಡ ವಿಭಾಗ, ಸೆಂಟ್ರಾಲ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಂದ್ರಶೇಖರ ಕಂಬಾರರ ಕಾವ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0113</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್.ಎಸ್." address="೧೦೧-ಗಣೇಶ ಮಂದಿರಂ ರೋಡ್, ೨ನೇ ಬ್ಲಾಕ್, ತ್ಯಾಗರಾಜನಗರ, ಬೆಂಗಳೂರು">ವೆಂಕಟೇಶಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೆಟ್ಟಕ್ಕೆ ಚಳಿಯಾದರೆ ಏನು ಹೊದ್ದಿಸುವರು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0122</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚೆನ್ನಣ್ಣ ವಾಲಿಕಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಚ್.ಎಂ.ಚನ್ನಯ್ಯನವರ ಕಾವ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0125</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಅಧ್ಯಾಪಕರು ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಮಾನಸಗಂಗೋತ್ರಿ,ಮೈಸೂರು">ಶುಭಚಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀಲ ನಿಮಿಷ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0136</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಪದ್ಯಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0138</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., -೨ ವಿದ್ಯಾಗಿರಿ ಧಾರವಾಡ-೫೮೦೦೦೪">ಸಿದ್ಧಲಿಂಗ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸುಮತೀಂದ್ರರ ಪ್ರೇಮಪದ್ಯಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0140</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್.ಎಸ್." address="ಎಂ.ಎ., ಆರ್ಟ್ಸ್ ಮತ್ತು ಸೈನ್ಸ್ ಕಾಲೇಜು ಸಂಕೇಶ್ವರ (ಬೆಳಗಾಂ ಜಿಲ್ಲೆ)">ಭೀಮನಗೌಡರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಾಗಿಲಾಚೆ, ಈಚೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0143</page>
+			<allauthors>
+			<feature>ಕವನ</feature>
+				<author initial1="" initial2="" address="(ಜಿ.ಎಸ್.ಶಿವಪ್ರಕಾಶ), ೭೪೫,೩೭- ಎ ಕ್ರಾಸ್, ನಾಲ್ಕನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಜಯಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸದ್ಯದ ಕಾವ್ಯ-ಒಂದು ನೇರ ನೋಟ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0145</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಫ್. ೮, ಮೇರಿ ಮೊರ್ರಿಸ್ ರೆಸಿಡೆನ್ಸ್, ೨೪, ಶೈರ್ ಓಕ್ ರೋಡ್, ಲೀಡ್ಸ್-೯. (ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡೆಮ್)">ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೇಜರನ ಕೊನೆಯ ದಿನಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0147</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಎಫ್. ೮, ಮೇರಿ ಮೊರ್ರಿಸ್ ರೆಸಿಡೆನ್ಸ್, ೨೪, ಶೈರ್ ಓಕ್ ರೋಡ್, ಲೀಡ್ಸ್-೯. (ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡೆಮ್)">ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆಲವು ಹೊಸ ಪದ್ಯ ಸಂಗ್ರಹಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0149</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಚಿಕ್ಕಾಡಿ (ಬೆಳ್ಳಾರೆ)ಸುಳ್ಯ ತಾ. ದ.ಕ.">ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="038">
+		<entry>
+			<title>ಕಾರಂತರ ಕಾದಂಬರಿಗಳಲ್ಲಿ ಜೀವನದೃಷ್ಟಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಾ.ವೆಂ." address="೮೫, ಕೆ.ಹೆಚ್.ಬಿ. ಕಾಲೋನಿ, ಹುಬ್ಬಳ್ಳಿ">ಆಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತರು ಮತ್ತು ಕಮ್ಯೂನಿಸ್ಟರು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0019</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ." address="ಎಲ್.ಐ.ಸಿ. ಆಫ್ ಇಂಡಿಯ, ಡಿವಿಜನಲ್ ಆಫೀಸ್, ಉಡುಪಿ ದ.ಕ.">ರಾಜಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತರ ಕಾದಂಬರಿಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0066</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="೨೦ಎ/೨೧ (ಮಹಡಿ) ೬ನೇ ಮೈನ್, ಸರಸ್ವತೀಪುರಂ ಮೈಸೂರು-೯">ರಾಮಚಂದ್ರ ದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದೇವದೂತರು:ವಿಡಂಬನ ಕಾದಂಬರಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0048</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ., ಗೋವಿಂದದಾಸ ಕಾಲೇಜು, ಸುರತ್ಕಲ್, ದ.ಕ.">ಶೇಖರ ಇಡ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂಕಜ್ಜಿಯ ಕನಸುಗಳು-ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0096</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ." address="ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕರು, ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು, ಚಿತ್ರದುರ್ಗ">ಶಂಕರನಾರಾಯಣಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೋಮನ ದಂಡಿ-ಹರಿಜನ ಸಮಸ್ಯೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0100</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ." address="೪೯೦ {\ ಈ} ಮೈನ್ ರೋಡ್ ೪ನೇ ಬ್ಲಾಕ್-(ಟಿ) ಬೆಂಗಳೂರು-೧೧">ಕುಪ್ಪುಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತ ಸಂದರ್ಶನ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0110</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="039">
+		<entry>
+			<title>ಎಂ.ಜಿ.ಕೆ- ಒಬ್ಬ ನಿಷ್ಠವಂತ ವಿಮರ್ಶಕ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಶಿವಾಜಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಕೊಲ್ಲಾಪುರ">ಶಾಂತಿನಾಥ ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು ರಾಮಾಯಣ-ಬರಹಗರರ ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0019</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಬಿ." address="ಎಂ.ಎ., ಸೆಂಟ್ರಲ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯನ್ ಲ್ಯಾಂಗ್ವೇಜಸ್ ಮಾನಸಗಂಗೋತ್ರಿ ಮೈಸೂರು-೬)">ರಾಜಪುರೋಹಿತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನಂದರ ನಾನು ಕೊಂದ ಹುಡುಗಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0030</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕ, ಸ್ನಾತಕೋತ್ತರ ಕೇಂದ್ರ, ಗುಲಬರ್ಗಾ">ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0042</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕ, ಸರ್ಕಾರಿ ಜೂನಿಯರ್ ಕಾಲೇಜ್, ಮೇಗರವಈ (ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ)">ಬಿದರಹಳ್ಳಿ ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂಕಜ್ಜಿಯ ಕನಸುಗಳು: ಒಂದು ಅಭ್ಯಾಸ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0044</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎ." address="೨೩/೪, ೮ ನೇ ಮೇನ್, ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು-೯">ಶಂಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡದಲ್ಲಿ ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆಯ ಉಗಮ ಮತ್ತು ಬೆಳವಣಿಗೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0051</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಂ.ಜಿ." address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರು, ಜೋಧಪುರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜೋಧಪುರ">ಕೃಷ್ಣಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="040">
+		<entry>
+			<title>ನಮ್ಮ ಸದಾಶಿವ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0005</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆ.ಸದಾಶಿವರ ಕೆಲವು ಕತೆಗಳು: ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0008</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ವಿ." address="">ಅಯ್ಯರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಗೆಳೆಯ ಸದಾಶಿವ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0016</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೊಂಬೆಯಾಟ-ಸಂಕ್ರಮಣ ಸ್ಥಿತಿಯಲ್ಲಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0021</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಎಂಟೊಯ್ನೆಟ್ ಬಿ. ಹೆಲ್ಸ್ಟಿನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಂಗಭೂಮಿ ಮತ್ತು ಚಲನಚಿತ್ರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0031</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಫಿಲ್ಮ್ ಮತ್ತು ಟಿ.ವಿ. ಇನ್ಸ್ಟಿಟ್ಯೂಟ್, ಪುಣೆ-೪">ಸತೀಶ್ ಬಹಾದ್ದೂರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾರ್ಕ್ಸ್, ಗಾಂಧಿ, ನಾವು ನಮ್ಮ ಕಾಲ ಮತ್ತು ಪರಿಸರ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0045</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮಧು ದಂಡವತೆ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="041">
+		<entry>
+			<title>ಮುನ್ನುಡಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಧ್ಯಕ್ಷ ಪದ್ಧತಿಯ ಬಗ್ಗೆ ಚಿಂತನೆಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0008</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಾ.ವೆಂ." address="೮೫, ಕೆ.ಹೆಚ್.ಬಿ. ಕಾಲೋನಿ, ಹುಬ್ಬಳ್ಳಿ">ಆಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುಷ್ಪ ಪರಿಸರ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0014</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ.ಜಿ.ಎಲ್." address="">ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದಿವಾಸಿಗಳ ಶಿಕ್ಷಣ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0018</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಧೀರನ ಮಾರ್ಗ:ಕಾಸ್ಟನೀದನ ಗುರು ಡ ವಾನನ ವಿಚಾರಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0024</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ." address="ಎಡನೀರ್, ಅಂಚೆ: {\ ವಿಅ} ಚಂಗಾಲ, ಕಾಸರಗೂಡು (ಕೇರಳ)">ಬಾಲಕೃಷ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಈಮಾಂಸೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0037</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಪಾದೆಕಲ್ಲು ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಂಪ್ರದಾಯ, ಹೊಸ ಮಾರ್ಗ ಮತ್ತು ಸಾಹಿತ್ಯನಿರ್ಮಿತಿ
+</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0044</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕ, ಸ್ನಾತಕೋತ್ತರ ಕೇಂದ್ರ, ಗುಲಬರ್ಗಾ">ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಿಕ್ ಫ್ರಾಮ್</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0054</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಯಶವಂತ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಸ್ಥೆಯ ಅರ್ಥವ್ಯಾಪ್ತಿ: ಆದರ್ಶ ಮತ್ತು ವಾಸ್ತವಿಕತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0058</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಎಸ್." address="">ಅಮೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಂಗಾಧರ ಚಿತ್ತಾಲರ ದುಃಖಗೀತ: ಕನ್ನಡದ ಒಂದು ಶ್ರೇಷ್ಠ ಕವನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0063</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಶಿವಾಜಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಕೊಲ್ಲಾಪುರ">ಶಾಂತಿನಾಥ ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆಯವರ ಕಾವ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0070</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರೂಪಾಂತರಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0075</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಂಪನ ಒಂದು ಪದ್ಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0084</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="ಎಂ. ಎ., ೬, ೧ ನೇ ಕ್ರಾಸ್, ಶಂಕರಪುರಂ, ಬೆಂಗಳೂರು-೪">ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯದ ಮಾನವೀಯತೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0086</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ವಿವೇಚಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಯಪಾಲರ ಫ್ಯಾಂಟಸಿ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0087</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="042">
+		<entry>
+			<title>ಮುನ್ನುಡಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅತಿವಾಸ್ತವಿಕತೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ. ವಿ. " address="">ಗುಂಡಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಈಮಾಂಸೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0010</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಫಲತೆಯ ವಿಶ್ಲೇಷಣೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0023</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವೋಪಜ್ಞತೆ ಹಾಗೂ ಸೃಜನಶೀಲ ಸಾಹಿತ್ಯ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0034</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಡಿ.ಎ." address="೨೩/೪, ೮ ನೇ ಮೇನ್, ಸರಸ್ವತಿಪುರಂ, ಮೈಸೂರು-೯">ಶಂಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಕಾವ್ಯ ಮತ್ತು ಅದರ ಸಾರಾಂಶ: ಕ್ಲಿಯಾಂಥ್ ಬ್ರೂಕ್ಸ್ರ ವಿಚಾರಗಳು
+</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0039</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಬಸವರಾಜ ನಾಯ್ಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾನವೀಯ ಜಗತ್ತು: ಒಂದು ಹೊಸ ಆಶಾಕಿರಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0049</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ನಾಗೇಶ್ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧುನಿಕ ವಸ್ತು: ಜೋಸ್ ಆರ್ಟೆಗಾ ಯಿ ಗ್ಯಾಸೆಯ ವಿಚಾರಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0056</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಮನು ಚಕ್ರವರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾರ್ಷಲ್ ಮೆಕ್ಲೂಹಾನ್ ಅವರ ಸಂಪರ್ಕ ಸಿದ್ಧಾಂತಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0063</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಎಸ್" address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಜ್ಞಾನದ ಹೊಸ ಆಯಾಮಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0068</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="(ಎನ್.ಎಸ್.ವೆಂಕಟೇಶ) ೧೬೦೩, ೪೦ನೇ ಕ್ರಾಸ್, ೪ನೇ ಟಿ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು">ಗೌರಿಶಂಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಂಪನ ಪಾತ್ರಸೃಷ್ಟಿಯ ಬಗ್ಗೆ ಚಿಂತನೆಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0076</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಂ." address="ರೀಡರ್, ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರ, ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು-೯">ಚಿದಾನಂದ ಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಚನೋದ್ಯಾನ-ಕೆಲವು ಅನಿಸಿಕೆಗಲು, ಕೆಲವು ಅನುಮಾನಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0083</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಚ್.ಎಸ್." address="">ರಾಘವೇಂದ್ರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತತ್ವಶಾಸ್ತ್ರದಲ್ಲಿ ದಾದಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0087</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಿಷತ್ತಿನ ಪುನರ್ಘಟನೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0088</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ವಿವೇಚಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="043">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address=""/>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಈಮಾಂಸೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0007</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ಎಂ.ಎ. ಪಾದೆಕಲ್ಲು, ಕರೋಪಾಡಿ ಪೋ.ದ.ಕ.">ನರಸಿಂಹ ಭಟ್ಟ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಾಂತವೇರಿ-ಒಂದು ಅಧ್ಯಯನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0017</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಪಿ." address="">ಬಸವರಾಜು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಲಿಯಟ್ ಹಾಗೂ ಕಾವ್ಯದಲ್ಲಿ ನವ್ಯತೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0026</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಸತ್ನಾಮ್ ಹೌಸ್, ೧೯, ಸಹರಾ ರೋಡ್, ವಿಲೆಪಾರ್ಲೆ ಈಸ್ಟ್, ಬೊಂಬಾಯಿ-೫೭">ಅರವಿಂದ ನಾಡಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಾತಿ(ಹರಿಜನರನ್ನು ಬಿಟ್ಟು): ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0037</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್.ಎನ್." address="">ಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಂತ್ರ ಒದಗಿಸಿದ ಕ್ರಾಂತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0042</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಪ್ರೊ||" initial2="ಎಸ್.ಕೆ." address="">ರಾಮಚಂದ್ರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ವ್ಯಕ್ತಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0047</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಪಿ." address="">ಶಂಕರನಾರಾಯಣರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದಿವಾಸಿ ಆಕರ್ಷಣೆ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0056</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ದಾರಿಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0062</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಕನ್ನಡ ಅಧ್ಯಾಪಕರು, ಶೇಷಾದ್ರಿಪುರಂ ಕಾಲೇಜು, ಬೆಂಗಳೂರು">ನರಹಳ್ಳಿ ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇತಾಳರಾಯ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0066</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಹೆಚ್.ಎಸ್." address="೧೦೧-ಗಣೇಶ ಮಂದಿರಂ ರೋಡ್, ೨ನೇ ಬ್ಲಾಕ್, ತ್ಯಾಗರಾಜನಗರ, ಬೆಂಗಳೂರು">ವೆಂಕಟೇಶಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವೈಶಾಖ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0069</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ." address="">ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ದಶಕದ ಕಥೆಗಳನ್ನು ಕುರಿತು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0076</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ." address="">ಸತ್ಯನಾರಾಯಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಂಗ್ಯ ಮಾರ್ಗದ ಬಗ್ಗೆ ಕೆಲವು ವಿಚಾರಗಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0085</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="044">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address=""/>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಡ್ಗರ್ ಆಲನ್ ಪೋ ಅವರ ಕಾರ್ಯರಚನಾ ತತ್ವ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0006</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಬಸವರಾಜ ನಾಯ್ಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದಿವಾಸಿಗಳ ಅರಸ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0015</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಾರಿದ್ರ್ಯ ರೂಪಿಸುವ ಸಂಸ್ಕೃತಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0021</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಪಿ." address="">ಶಂಕರನಾರಾಯಣ ರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಭಿವೃದ್ಧಿಗಿರುವ ಆತಂಕಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0028</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಚ್. ಎಂ. " address="">ಮರುಳಸಿದ್ಧಯ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂಢನಂಬಿಕೆಗಳು ಮತ್ತು ಸಂಪರ್ಕ ಮಾಧ್ಯಮ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0035</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಬಿ. ಎಸ್" address="೨೯, ೭ನೇ ರ್ಮೈ, ೪ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಗಾಗಿ ಯುವಜನರ ಸಂಘಟನೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0040</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನದಲ್ಲಿ ಒಂದು ಪ್ರಯೋಗ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0051</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೋ. ಮ. " address="ಆಫೀಸರ್, ಪಭ್ಲಿಕ್ ರಿಲೇಷನ್ಸ್ ಡಿಪಾರ್ಟಮೆಂಟ್ ಸಿಂಡಿಕೇಟ್ ಬ್ಯಾಂಕ್, ಮಣಿಪಾಲ ದ.ಕ.">ಕಾರಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆಯವರ ನೃತ್ಯಯಜ್ಞ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0057</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎ. ಬೆಂಗಳೂರು">ಸುಮತೀಂದ್ರ ನಾಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕಾರ: ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0064</page>
+			<feature>ಟಿಪ್ಪಣಿ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್.ಎನ್." address="">ಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಸ್.ದಿವಾಕರ್ ಅವರ ಇತಿಹಾಸ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0066</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಬಸವರಾಜ ಕಲ್ಗುಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವೀಚಿ ಅವರ ಸಂಕರತಳಿ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0069</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ. " address="">ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾಚೀನ ಭಾರತೀಯ ನಾಟ್ಯ ಈಮಾಂಸೆ</title>
+			<rutu>ವರ್ಷ</rutu>
+			<page>0071</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="" address="ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಶಿವಾಜಿ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಕೊಲ್ಲಾಪುರ">ಶಾಂತಿನಾಥ ದೇಸಾಯಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="045">
+		<entry>
+			<title>ಸಂಪಾದಕೀಯ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಣ್ಣ ಕತೆ ಉತ್ತರ ದಕ್ಷಿಣ ದಿಕ್ಕುಗಳನ್ನು ಬಲ್ಲವನು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0005</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎಸ್." address="{\ /ಒ} ಶ್ರೀ ಎಸ್.ಆರ್.ಕೃಷ್ಣಮೂರ್ತಿ, ೨೬/೧೦೯, ೨ ನೇ ಮೆಯಿನ್ ರೋಡ್, ೨ ನೇ ಬ್ಲಾಕ್, ಜಯನಗರ, ಬೆಂಗಳೂರು-೧೧">ದಿವಾಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಪಥ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0016</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಮೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0017</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿಮ್ಮ ಆರೋಗ್ಯ-ನಿಮ್ಮ ಮನಸ್ಸು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0018</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಎಂ.ಎಸ್." address="">ತಿಮ್ಮಪ್ಪ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಧುರ್ಯ ಮತ್ತು ಬೆಳಕು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0023</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎ. ಆರ್." address="ಎಂ.ಎಸ್ಸಿ., ನಂ ೮೬೨, ಪ್ರಶಾಂತ್ ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್ ಬೆಂಗಳೂರು">ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೃಜನಾತ್ಮಕ ಸಂಗೀತ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0029</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ವಿ." address="">ಮುತ್ತಾಚಾರ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯೊಹೊದೀಯರು: ಆಗ-ಈಗ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0040</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಆಲ್ ಇಂಡಿಯಾ ರೇಡಿಯೋ, ಧಾರವಾಡ">ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭವಿಷ್ಯ ಚಿಂತನೆ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0046</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ.ಟಿ." address="ಎಂ.ಎಸ್ಸಿ., ಅತ್ರಿ ೮ನೇ ಕ್ರಾಸ್, ಸರಸ್ವತೀಪುರಂ, ಮೈಸೂರು">ನಾರಾಯಣ ರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾನವ ಶಾಸ್ತ್ರೀಯ ದೃಷ್ಟಿಕೋನ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0051</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಪಿ." address="">ಶಂಕರನಾರಾಯಣ ರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನಿನ್ನ ಸಂಗಮ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0060</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ನರಸಿಂಹ ಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಣ್ಣ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0061</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಜಿ." address="೮೮೪, ಬಿ.ಎಚ್. ರಸ್ತೆ, ಶಿವಮೊಗ್ಗ">ಕಾಸರವಳ್ಳಿ ರವೀಶ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನಿಷ್ಟ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0064</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದಿವಾಸಿಗಳ ಬಾಬಾ</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0065</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ. ಎಸ್ಸಿ., ಪಿ.ಎಚ್.ಡಿ., ಸೈಂಟಿಫಿಕ್ ಅಂಡ್ ಫೋಟೊ ಲ್ಯಾಬೋರೆಟರಿ, ಮಿಲ್ ಕಾರ್ನರ್, ಬೆಂಗಳೂರು-೩">ಕೃಷ್ಣಾನಂದ ಕಾಮತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನ ಸಂಗ್ರಹಗಳು</title>
+			<rutu>ಶರತ್</rutu>
+			<page>0069</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಸಿ." address="">ವಿಶ್ವೇಶ್ವರ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="046">
+		<entry>
+			<title>ಸಾಕ್ಷಿಯ ಪುನರುದಯಕ್ಕೆ ಮುನ್ನುಡಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0002</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅರಿಕೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0003</page>
+			<feature>ಸಂಪಾದಕೀಯ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ." address="ವ್ಯವಸ್ಥಾಪಕ ಸಂಪದಕ, ಸಾಗರ ಮುದ್ರಣ, ಸಾಗರ.">ಪ್ರಭಾಕರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಾಸ್ತವವಾದೀ ಮಾರ್ಗದ ಕತೆಗಾರರಾಗಿ ಮಾಸ್ತಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0005</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಪಿ." address="">ಅಶೋಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈಗ, ಇಲ್ಲಿ(ಕವನ)</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0022</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಮಿನಿಸ್ಟ್ರಿ ಆಫ್ ಎಜುಕೇಷನ್, ಪಿ.ಬಿ. ಆರ್ಡಬ್ಲ್ಯು ೯೪. ರಿಡ್ಜ್ವೇ, ಲೂಸಾಕಾ ಜಾಂಬಿಯ">ರಾಮಚಂದ್ರ ಶರ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಆನೆಯ ಹತ್ಯೆ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0026</page>
+			<feature>ಕಥೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ಎಸ್." address="">ಪೂರ್ಣಿಮಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+<title>
+ಆಧುನಿಕ ಕನ್ನಡ ರಂಗಭೂಮಿಯಲ್ಲಿ ಸಂಪ್ರಾದಾಯ-ಆಧುನಿಕಗಳ ಸಮ್ಮೇಳ
+</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0036</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಕೆ.ವಿ." address="">ಅಕ್ಷರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆರ್ಕೆಸ್ಟ್ರಾ ಮತ್ತು ತಂಬೂರಿ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0056</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಭಾಷೆಗಳು, ಹೊಸ ವಾಸ್ತವಗಳು</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0060</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಜಶವಂತ ಜಾಧವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾ|| ಯು.ಆರ್.ಅನಂತಮೂರ್ತಿ ಅವರ ಪೀಠಿಕಾ ಭಾಷಣ</title>
+			<rutu>ಹೇಮಂತ</rutu>
+			<page>0072</page>
+			<feature>ಭಾಷಣ</feature>
+			<allauthors>
+				<author initial1="ಡಾ||" initial2="ಯು. ಆರ್." address="ಎಂ. ಎ., ಪಿ. ಎಚ್ಡಿ., ೭ನೇ ಮೇಯಿನ್ ರಸ್ತೆ, ಸರಸ್ವತಿಪುರಂ, ಮಸೂರು-೧">ಅನಂತಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="047">
+		<entry>
+			<title>ಪ್ರಜಾಪ್ರಭುತ್ವದ ಜೀವಾಳ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0001</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಂ.ಎ. ಡೆ.ಡೈರೆಕ್ಟ್ರ್. (ಸಂ)., ನ್ಯಾಷನಲ್ ಬುಕ್ ಟ್ರಸ್ಟ್ ಇಂಡಿಯಾ, ಎ.೫.ಗ್ರೀನ್ ಪಾರ್ಕ್, ನ್ಯೂ ಡೆಲ್ಲಿ-೧೬">ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹರಳು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0015</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನರ್ತಕಿ ಮತ್ತು ಶಿಲ್ಪಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0016</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಎಮ್.ಎ., ನಂ. ೫೪, ಪೋರ್ಟ್, ಕನಕಪುರ, ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ.">ವೇಣುಗೋಪಾಲ ಸೊರಬ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದರ್ಶ ಅವಾಸ್ತವ? (ಕವನ)</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0017</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಉಪನ್ಯಾಸಕ, ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಶ್ರಿಮಹಾವೀರ ಕಾಲೇಜು, ಮೂಡುಬಿದಿರೆ-೫೭೪೧೯೭">ದತ್ತಾತ್ರೇಯ ಮಾರ್ಪಳ್ಳಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಮತ್ತು ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಹಿಂದಿ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0018</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಟಿ. ಜಿ." address="">ರಾಘವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಾಸ್ತವ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0028</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಚ.ಶ್ರೀ." address="೨೩೫೯/೨ ಎ ಪವಮಾನ, ೧೦ನೇ ಅಡ್ಡರಸ್ತೆ, ಬಸವೇಶ್ವರ ರಸ್ತೆ, ಮೈಸೂರು-೫೭೦೦೦೪">ಸುದರ್ಶನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಕ್ಕಿಯ ಹಾಡು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0029</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="">ಜಯಪ್ರಕಾಶ ಮಾವಿನಕುಳಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರ ತಲೆದಂಡ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0030</page>
+			<feature>ವಿಮರ್ಶೆ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಪಿ.ವಿ." address="ಉಪನ್ಯಾಸಕ, ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ, ಎಲ್.ಬಿ.ಕಲಾ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಾಲೇಜು, ಸಾಗರ-೫೭೭೪೦೧">ಸುಬ್ರಾಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೈನಾ: ಮಹಿಳೆ, ಮದುವೆ ಮತ್ತು ಮನೆತನ</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0043</page>
+			<feature>ಲೇಖನ</feature>
+			<allauthors>
+				<author initial1="" initial2="" address="ಬಂದಗದ್ದೆ, ಪೀ. ಕೆಳದಿ, ಸಾಗರ-೫೭೭೪೦೧">ಶೈಲೇಂದ್ರ ಬಂದಗದ್ದೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಪರಿಚಿತರು</title>
+			<rutu>ವಸಂತ</rutu>
+			<page>0053</page>
+			<feature>ಕವನ</feature>
+			<allauthors>
+				<author initial1="" initial2="ಎನ್.ಎಸ್." address="ಎಂ.ಎಸ್. ಎಂ.ಎ., ಇಂಗ್ಲಿಷ್ ವಿಭಾಗ ಸರ್ಕಾರಿ ಸೈನ್ಸ್ ಕಾಲೇಜು, ಬೆಂಗಳೂರು-೧">ರಘುನಾಥ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+</sakshi>

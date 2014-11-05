@@ -245,9 +245,10 @@ About
 	margin-bottom: 30px;
 }
 #about p {
-	width: 75%;
+	width: 78%;
 	font-size: 1.22em;
 	margin-left: 9em;
+	text-align: left;
 }
 
 
@@ -591,6 +592,115 @@ d3 Js css
 
 
 
+/* ================================
+Sakshi related styles
+================================= */
+
+.mainpage_sakshi {
+	min-height: 25em;
+	width: 100%;
+	clear: both;
+	padding-bottom:7em;
+}
+.mainpage_sakshi .nav_sakshi{
+	float: right;
+	width: 12%;
+	font-family:'Kedage';
+	min-height: 15em;
+	margin: 1em 0 0 0;
+}
+.mainpage_sakshi .menu_sakshi{
+	font-size: 1em;
+	list-style:none;
+}
+.mainpage_sakshi .menu_sakshi li{
+	text-align: left;
+	border-bottom: 1px solid #DDDDDD;
+	padding: 0.5em 0 0.5em 1em;
+	color: #3D3D3D;
+	font-variant: small-caps;
+}
+.mainpage_sakshi .menu_sakshi li a{
+	color: #083967;
+	font-size: 0.95em;
+	text-decoration: none;
+}
+.mainpage_sakshi .menu_sakshi li a:HOVER, .mainpage_sakshi .menu_sakshi li a.active{
+	color: #8B0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+#about_sakshi  {
+	width: 78%;
+	padding-top: 1em;
+	padding-bottom:5em;
+	font-size: 1.22em;
+	margin-left: 9em;
+	text-align: left;
+}
+#about_sakshi span {
+	color:#8b0000;
+}
+#header{
+	width: 85%;
+	margin-left: 6em;
+	padding:0 0 1em 0;
+	color:#083967;
+	border-bottom:2px solid #083967;
+}
+#header span {
+	font-size:1.2em;
+}
+#volumes {
+	width: 100%;
+	min-height: 20em;
+}
+#volumes li  {
+	padding: 2em 3em 1em 3em;
+	display: inline-block;
+	text-align: center;
+}
+.dot li{
+	list-style-type: disc;
+	padding-bottom: 0.5em;
+}
+.titlespan {
+	color: #083967; 
+}
+.titlespan a{
+	color: #083967;
+	text-decoration:none;
+}
+.titlespan a:Hover{
+	color: #000000;
+	text-decoration:underline;
+}
+.featurespan {
+	color: #B22222;
+	font-size: 0.9em; 
+}
+.featurespan a{
+	color: #B22222;
+	text-decoration:none;
+}
+.featurespan a:Hover{
+	color: #B22222;
+	text-decoration:underline;
+}
+.authorspan {
+	color: #483D8B; 
+}
+.authorspan a{
+	color: #483D8B;
+	text-decoration:none;
+}
+.authorspan a:Hover{
+	color: #483D8B;
+	text-decoration:underline;
+}
+.archive_holder {
+	padding-top: 2em;
+}
 /* ================================
 more media queries
 ================================= */
