@@ -13,7 +13,7 @@
 /* Default styles for the demo buttons */
 .button {
   margin: .4em;
-  padding: 1em;
+  padding: 2em 2em 0.5em 2em;
   cursor: pointer;
   background: #e1e1e1;
   text-decoration: none;

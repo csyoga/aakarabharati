@@ -69,9 +69,9 @@ while($line)
 			#~ $page_end = $page;
 		#~ }
 	}	
-	elsif($line =~ /<author initial1="(.*)" initial2="(.*)" address="(.*)">(.*)<\/author>/)
+	elsif($line =~ /<author address="(.*)">(.*)<\/author>/)
 	{
-		$authorname = $4;
+		$authorname = $1;
 		$authids = $authids . ";" . get_authid($authorname);
 		$author_name = $author_name . ";" .$authorname;
 	}

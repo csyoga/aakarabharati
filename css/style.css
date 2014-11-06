@@ -656,7 +656,7 @@ Sakshi related styles
 	min-height: 20em;
 }
 #volumes li  {
-	padding: 2em 3em 1em 3em;
+	padding: 1em 1.5em 0.5em 1.5em;
 	display: inline-block;
 	text-align: center;
 }
@@ -700,6 +700,35 @@ Sakshi related styles
 }
 .archive_holder {
 	padding-top: 2em;
+}
+.alphabet {
+	width: 100%;
+	clear: both;
+	text-align: center;
+	padding-bottom: 2em;
+}
+.alphabet .letter {
+	font-size: 0.9em;
+	color: #3D3D3D;
+	padding: 0 0 0 0.75em;
+}
+.alphabet .letter a{
+	font-size: 1em;
+	color: #3D3D3D;
+	text-decoration:none;
+}
+.alphabet .letter a:Hover{
+	font-size: 1em;
+	color: #000000;
+	text-decoration: underline;
+}
+ .page_title{
+	margin: 2em 0em 1em 0em;
+	padding-bottom: 0.5em;
+	font-size: 1.5em;
+	color: #483D8B;
+	width: 80%;
+	border-bottom: 1px solid #483D8B;	
 }
 /* ================================
 more media queries
