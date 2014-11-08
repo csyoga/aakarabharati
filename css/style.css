@@ -6,15 +6,18 @@ Imports
 @import url('overwrite.css');
 @import url('dlmenu.css');
 @import url('animate.css');
-
+@font-face {
+  font-family: 'Kedage';
+  src: url('Kedage-n.ttf');
+ }
 /* ================================
 General
-================================= */
+================================ */
 body{
 	margin:0;
 	padding:0;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Kedage', sans-serif;
 	font-size: 14px;
 	line-height: 1.6em;
 	
@@ -43,7 +46,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	color: #3a3a3a;
 	font-weight: 700;
 	margin-bottom: 20px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Kedage', sans-serif;
 }
 
 
@@ -168,11 +171,6 @@ Home sections
 Spacer
 ============================= */
 
-#spacer1{
-	background-image: url(../img/logo_combo.jpg);
-	background-repeat: no-repeat;
-	background-size: 60%;
-}
 #spacer2{	
 	background-image: url(../img/spacer/2.jpg);
 }
@@ -250,7 +248,17 @@ About
 	margin-left: 9em;
 	text-align: left;
 }
+.sponcer_text {
+	width:90%;
+	padding:2em 0 0 0;
+	font-size:1.7em;
+	font-family: 'Raleway', sans-serif;
+}
 
+.sponcer_text .inset{display:inline-block;width:80px;height:80px;border-radius:40px;font-size:15px;color:#fff;line-height:80px;font-weight:bold;text-align:center;font-family:'Raleway';text-decoration:none;background:#cccbbb;opacity:0.95}.inset:hover{color:#8b0000;text-shadow:0 0 1px #666;text-decoration:none;opacity:1}
+.sponcer_text span {
+	font-size:1em;
+}
 
 /* ================================
 Services
@@ -600,7 +608,7 @@ Sakshi related styles
 	min-height: 25em;
 	width: 100%;
 	clear: both;
-	padding-bottom:7em;
+	padding-bottom:3em;
 }
 .mainpage_sakshi .nav_sakshi{
 	float: right;
@@ -676,15 +684,15 @@ Sakshi related styles
 	text-decoration:underline;
 }
 .featurespan {
-	color: #B22222;
+	color: #8b0000;
 	font-size: 0.9em; 
 }
 .featurespan a{
-	color: #B22222;
+	color: #8b0000;
 	text-decoration:none;
 }
 .featurespan a:Hover{
-	color: #B22222;
+	color: #8b0000;
 	text-decoration:underline;
 }
 .authorspan {
@@ -699,6 +707,7 @@ Sakshi related styles
 	text-decoration:underline;
 }
 .archive_holder {
+	min-height: 20em;
 	padding-top: 2em;
 }
 .alphabet {
@@ -729,6 +738,17 @@ Sakshi related styles
 	color: #483D8B;
 	width: 80%;
 	border-bottom: 1px solid #483D8B;	
+}
+.authorspan {
+	color: #3D3D3D; 
+}
+.authorspan a{
+	color: #3D3D3D;
+	text-decoration:none;
+}
+.authorspan a:Hover{
+	color: #8b0000;
+	text-decoration:underline;
 }
 /* ================================
 more media queries

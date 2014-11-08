@@ -196,7 +196,7 @@ if($num_rows > 0)
 		if($authid != 0)
 		{
 
-			echo "<br />&mdash;";
+			echo "<br />";
 			$aut = preg_split('/;/',$authid);
 
 			$fl = 0;
@@ -215,12 +215,12 @@ if($num_rows > 0)
 					
 					if($fl == 0)
 					{
-						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+						echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 				if($result2){$result2->free();}

@@ -37,7 +37,7 @@ $dbh->disconnect();
 
 sub insert_authors()
 {
-	my($authorname,$address,) = @_;
+	my($address,$authorname) = @_;
 
 	$address =~ s/'/\\'/g;
 	$authorname =~ s/'/\\'/g;
@@ -48,7 +48,7 @@ sub insert_authors()
 	$ref=$sth->fetchrow_hashref();
 	if($sth->rows()==0)
 	{
-		$sth1=$dbh->prepare("insert into author values('$address','$authorname',null)");
+		$sth1=$dbh->prepare("insert into author values(null,'$address','$authorname')");
 		$sth1->execute();
 		$sth1->finish();
 	}

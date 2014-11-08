@@ -69,10 +69,11 @@ while($line)
 			#~ $page_end = $page;
 		#~ }
 	}	
-	elsif($line =~ /<author address="(.*)">(.*)<\/author>/)
+	elsif($line =~ /<author address="(.*?)">(.*?)<\/author>/)
 	{
-		$authorname = $1;
-		$authids = $authids . ";" . get_authid($authorname);
+		$authorname = $2;
+		#~ $authids_name = $2;
+		$authids = $authids_name . ";" . get_authid($authorname);
 		$author_name = $author_name . ";" .$authorname;
 	}
 	elsif($line =~ /<allauthors\/>/)
@@ -115,6 +116,7 @@ sub get_authid()
 	my($sth,$ref,$authid);
 
 	$authorname =~ s/'/\\'/g;
+	print $authorname;
 	
 	$sth=$dbh->prepare("select authid from author where authorname='$authorname'");
 	$sth->execute();
