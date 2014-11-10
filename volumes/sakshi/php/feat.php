@@ -16,12 +16,12 @@
 						<button class="dl-trigger">Open Menu</button>
 						<ul class="dl-menu">
 							<li>
-								<a href="#intro">ಮುಖಪುಟ</a>
+								<a href="../../../index.html#intro">ಮುಖಪುಟ</a>
 							</li>
-							<li><a href="#about">ಪಕ್ಷಿನೋಟ</a></li>
-							<li><a href="#services">ಸೇವೆಗಳು</a></li>
-							<li><a href="#works">ಸಂಗ್ರಹ</a></li>
-							<li><a href="#contact">ಸಂಪರ್ಕ</a></li>
+							<li><a href="../../../index.html#about">ಪಕ್ಷಿನೋಟ</a></li>
+							<li><a href="../../../index.html#services">ಸೇವೆಗಳು</a></li>
+							<li><a href="../../../index.html#works">ಸಂಗ್ರಹ</a></li>
+							<li><a href="../../../index.html#contact">ಸಂಪರ್ಕ</a></li>
 							<li>
 								<a href="#">ಸಾಕ್ಷಿ</a>
 								<ul class="dl-submenu">
