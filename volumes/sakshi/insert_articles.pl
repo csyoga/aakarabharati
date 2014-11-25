@@ -21,7 +21,7 @@ featid varchar(5),
 rutu varchar(10),
 page varchar(5),
 volume varchar(5),
-titleid int(10) auto_increment, primary key(titleid)) ENGINE=MyISAM DEFAULT CHARSET=utf8");
+titleid int(10) auto_increment, primary key(titleid)) ENGINE=MyISAM");
 $sth11r->execute();
 $sth11r->finish();
 
@@ -50,30 +50,11 @@ while($line)
 	elsif($line =~ /<page>(.*)<\/page>/)
 	{
 		$page = $1;
-		#~ ($page, $page_end) = split(/-/, $pages);
-		#~ if($pages eq $prev_pages)
-		#~ {
-			#~ $count++;
-			#~ $id = "sakshi_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_" . $count; 
-		#~ }
-		#~ else
-		#~ {
-			#~ $id = "sakshi_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
-			#~ $count = 0;		
-		#~ }
-		#~ $prev_pages = $pages;
-		#~ if ($page_end)
-		 #~ {
-	   #~ } 
-		#~ else {
-			#~ $page_end = $page;
-		#~ }
 	}	
-	elsif($line =~ /<author address="(.*?)">(.*?)<\/author>/)
+	elsif($line =~ /<author>(.*)<\/author>/)
 	{
-		$authorname = $2;
-		#~ $authids_name = $2;
-		$authids = $authids_name . ";" . get_authid($authorname);
+		$authorname = $1;
+		$authids = $authids . ";" . get_authid($authorname);
 		$author_name = $author_name . ";" .$authorname;
 	}
 	elsif($line =~ /<allauthors\/>/)
@@ -116,7 +97,6 @@ sub get_authid()
 	my($sth,$ref,$authid);
 
 	$authorname =~ s/'/\\'/g;
-	print $authorname;
 	
 	$sth=$dbh->prepare("select authid from author where authorname='$authorname'");
 	$sth->execute();

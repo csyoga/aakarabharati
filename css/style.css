@@ -610,12 +610,17 @@ Sakshi related styles
 	clear: both;
 	padding-bottom:3em;
 }
-.mainpage_sakshi .nav_sakshi{
-	float: right;
+#nav_sakshi{
+	float: left;
 	width: 12%;
 	font-family:'Kedage';
-	min-height: 15em;
-	margin: 1em 0 0 0;
+	min-height: 12em;
+	margin: 0 0 0 0;
+	padding-right:1em;
+}
+#nav_sakshi ul li {
+	float:right;
+	list-style:none;
 }
 .mainpage_sakshi .menu_sakshi{
 	font-size: 1em;
@@ -639,11 +644,13 @@ Sakshi related styles
 	font-weight: bold;
 }
 #about_sakshi  {
-	width: 78%;
+	display: inline-block;
+	border-left:1px solid #3D3D3D;
+	width: 84%;
 	padding-top: 1em;
 	padding-bottom:5em;
+	padding-left:2em;
 	font-size: 1.22em;
-	margin-left: 9em;
 	text-align: left;
 }
 #about_sakshi span {
@@ -674,6 +681,7 @@ Sakshi related styles
 }
 .titlespan {
 	color: #083967; 
+	
 }
 .titlespan a{
 	color: #083967;
@@ -708,7 +716,7 @@ Sakshi related styles
 }
 .archive_holder {
 	min-height: 20em;
-	padding-top: 2em;
+	padding-top: 1em;
 }
 .alphabet {
 	width: 100%;
@@ -732,11 +740,11 @@ Sakshi related styles
 	text-decoration: underline;
 }
  .page_title{
-	margin: 2em 0em 1em 0em;
+	margin: 0.1em 0em 1em 0em;
 	padding-bottom: 0.5em;
 	font-size: 1.5em;
-	color: #483D8B;
-	width: 80%;
+	color: #8B0000;
+	width: 85%;
 	border-bottom: 1px solid #483D8B;	
 }
 .authorspan {

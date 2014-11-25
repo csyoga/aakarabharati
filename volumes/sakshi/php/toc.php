@@ -29,7 +29,6 @@
 									<li><a href="volumes_list.html"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
 									<li><a href="articles.php"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 									<li><a href="authors.php"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
-									<li><a href="#"><i class="fa fa-thumbs-o-up"></i>&nbsp;&nbsp;ಕೃತಜ್ಞತೆಗಳು</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -40,16 +39,15 @@
 		<span>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</span>	
 		</div>
     <div class="mainpage_sakshi">
-<!--
-		<div class="nav_sakshi">
+		<div id="nav_sakshi">
 			<ul class="menu_sakshi">
-				<li class="last"><a href="sakshi.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
-				<li><a href="html/volumes_list.html"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
-				<li><a href="html/authors.html"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
-				<li><a href="html/articles.html"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
-				<li><a href="html/contributors.html"><i class="fa fa-thumbs-o-up"></i>&nbsp;&nbsp;ಕೃತಜ್ಞತೆಗಳು</a></li>
+				<li><a href="../sakshi.html">&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
+				<li><a href="volumes_list.html">&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
+				<li><a href="authors.php">&nbsp;&nbsp;ಲೇಖಕರು</a></li>
+				<li><a href="articles.php">&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 			</ul>
--->
+		</div>
+
 		<div id="about_sakshi">
 			<div class="archive_holder">
 <?php
@@ -110,7 +108,7 @@ if($db->connect_errno > 0)
 	//~ $dpart = preg_replace("/^0/", "", $part);
 	//~ $dpart = preg_replace("/\-0/", "-", $dpart);
 	//~ 
-	//~ echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;".$year."&nbsp;".$month_name{intval($month)}."&nbsp;;&nbsp;&nbsp;(Volume&nbsp;".intval($volume).",&nbsp;Issue&nbsp;".$dpart.")</div>";
+	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</div>";
 	
 //~ }
 //~ 

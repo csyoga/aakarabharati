@@ -14,7 +14,7 @@ my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $dbh->{'mysql_enable_utf8'} = 1;
 $dbh->do('SET NAMES utf8');
 
-$sth11=$dbh->prepare("CREATE TABLE author(authid int(6) auto_increment, address varchar(50), authorname varchar(1000), primary key(authid))auto_increment=10001 ENGINE=MyISAM;");
+$sth11=$dbh->prepare("CREATE TABLE author(authid int(6) auto_increment,  authorname varchar(400), primary key(authid))auto_increment=10001 ENGINE=MyISAM;");
 $sth11->execute();
 $sth11->finish(); 
 
@@ -22,11 +22,10 @@ $line = <IN>;
 
 while($line)
 {
-	if($line =~ /<author address="(.*?)">(.*?)<\/author>/)
+	if($line =~ /<author>(.*)<\/author>/)
 	{
-		$address = $1;
-		$authorname = $2;
-		insert_authors($address,$authorname);
+		$authorname = $1;
+		insert_authors($authorname);
 	}
 	$line = <IN>;
 }
@@ -37,9 +36,7 @@ $dbh->disconnect();
 
 sub insert_authors()
 {
-	my($address,$authorname) = @_;
-
-	$address =~ s/'/\\'/g;
+	my($authorname) = @_;
 	$authorname =~ s/'/\\'/g;
 	
 	my($sth,$ref,$sth1);
@@ -48,7 +45,7 @@ sub insert_authors()
 	$ref=$sth->fetchrow_hashref();
 	if($sth->rows()==0)
 	{
-		$sth1=$dbh->prepare("insert into author values(null,'$address','$authorname')");
+		$sth1=$dbh->prepare("insert into author values(null,'$authorname')");
 		$sth1->execute();
 		$sth1->finish();
 	}

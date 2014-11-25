@@ -29,7 +29,6 @@
 									<li><a href="volumes_list.html"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
 									<li><a href="articles.php"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 									<li><a href="authors.php"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
-									<li><a href="#"><i class="fa fa-thumbs-o-up"></i>&nbsp;&nbsp;ಕೃತಜ್ಞತೆಗಳು</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -40,18 +39,20 @@
 		<span>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</span>	
 		</div>
     <div class="mainpage_sakshi">
-<!--
-		<div class="nav_sakshi">
+		<div id="nav_sakshi">
 			<ul class="menu_sakshi">
-				<li class="last"><a href="sakshi.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
-				<li><a href="html/volumes_list.html"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
-				<li><a href="html/authors.html"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
-				<li><a href="html/articles.html"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
-				<li><a href="html/contributors.html"><i class="fa fa-thumbs-o-up"></i>&nbsp;&nbsp;ಕೃತಜ್ಞತೆಗಳು</a></li>
+				<li><a href="../sakshi.html">&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
+				<li><a href="volumes_list.html">&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
+				<li><a href="authors.php">&nbsp;&nbsp;ಲೇಖಕರು</a></li>
+				<li><a href="articles.php">&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 			</ul>
--->
+		</div>
 		<div id="about_sakshi">
 			<div class="archive_holder">
+				<?php 
+				if(isset($_GET['feature'])){$feat_name = $_GET['feature'];}else{$feat_name = '';}
+				echo "<div class=\"page_title\"><i class='fa fa-tags fa-1x'></i>&nbsp;&nbsp;ಪ್ರಭೇದ&nbsp;:&nbsp;$feat_name</div>";
+				?>
 			<ul class="dot">
 <?php
 include("connect.php");
@@ -59,7 +60,7 @@ include("connect.php");
 
 if(isset($_GET['feature'])){$feat_name = $_GET['feature'];}else{$feat_name = '';}
 if(isset($_GET['featid'])){$featid = $_GET['featid'];}else{$featid = '';}
-
+//~ echo "<div class=\"page_title\"><i class='fa fa-tags fa-1x'></i>&nbsp;&nbsp;ಪ್ರಭೇದ&nbsp;:&nbsp;$feat_name</div>";
 //~ $feat_name = entityReferenceReplace($feat_name);
 
 //~ if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
@@ -92,8 +93,6 @@ if($db->connect_errno > 0)
 
 //~ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-//~ echo "<div class=\"page_title\"><i class='fa fa-tags fa-1x'></i>&nbsp;&nbsp;Category&nbsp;:&nbsp;$feat_name</div>";
-echo "<ul class=\"dot\">";
 
 
 $query1 = "select * from article where featid='$featid' order by volume,page";
