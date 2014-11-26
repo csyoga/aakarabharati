@@ -62,7 +62,6 @@
 				<span class="letter"><a href="authors.php?letter=ಜ">ಜ</a></span>
 				<span class="letter"><a href="authors.php?letter=ತ">ತ</a></span>
 				<span class="letter"><a href="authors.php?letter=ದ">ದ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಡಾ|">ಡಾ</a></span>
 				<span class="letter"><a href="authors.php?letter=ನ">ನ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಪ">ಪ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಬ">ಬ</a></span>

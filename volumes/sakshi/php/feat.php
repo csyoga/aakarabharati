@@ -139,7 +139,7 @@ if($num_rows1 > 0)
 		echo "<li>";
 		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		echo "
-		<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+		<span class=\"titlespan\"> &nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"featurespan\">
 			<a href=\"toc.php?vol=$volume\">ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</a>
 		</span>";
@@ -176,7 +176,7 @@ if($num_rows1 > 0)
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 				if($result2){$result2->free();}
