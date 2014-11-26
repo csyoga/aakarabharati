@@ -108,7 +108,14 @@ if($db->connect_errno > 0)
 	//~ $dpart = preg_replace("/^0/", "", $part);
 	//~ $dpart = preg_replace("/\-0/", "-", $dpart);
 	//~ 
+	if ($volume =='001a')
+		{
+			echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume)."a)</div>";
+		}
+		else {
+			
 	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</div>";
+		 }
 	
 //~ }
 //~ 
