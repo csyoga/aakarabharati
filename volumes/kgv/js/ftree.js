@@ -1,61 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
-	<link href="../../php/style/index.css" rel="stylesheet" type="text/css">
-	<link href="../../php/style/reset.css" rel="stylesheet" type="text/css">
-	<link href="kgv.css" rel="stylesheet" type="text/css">
-	<link href="../../php/style/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<script type="text/javascript" src="../../php/js/common.js" charset="UTF-8"></script>
-	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-</head>
-<body class="home-page-template" onload="document.getElementById('menu').style.left='-210px';">
-	<script src="http://d3js.org/d3.v3.min.js"></script>
-	<div id="menu">
-		<div id="closeMenu">
-			<p onclick="openMenu()"><i class="fa fa-bars fa"></i></p>
-			<a href="../../index.html"><i class="fa fa-home fa-2x"></i></a>
-			
-		</div>
-		<ul>
-			<li class="heading">ಪಾಕ್ಷಿಕ ಪತ್ರಿಕೆಗಳು</li>
-			<li><a href="sakshi.html">ಸಾಕ್ಷಿ</a></li>
-			<li><a href="#">ಸಂವಾದ </a></li>
-			<li><a href="#">ಸಂಕ್ರಮಣ</a></li>
-			<li><a href="#">ರುಜುವಾತು</a></li>
-			<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
-			<li><a href="#">ಶೂದ್ರ</a></li>
-			<li><a href="#">ಗಾಂಧೀ ಬಜಾರ್ ಪತ್ರಿಕೆ</a></li>
-			<li class="last"><a href="#">ನೀನಾಸಂ ಮಾತುಕತೆ</a></li>        
-		</ul>
-		<ul>
-			<li class="heading">ಆವೃತ್ತಿಗಳು</li>
-			<li><a href="#">ತೀ.ತ.ಶರ್ಮಾ</a></li>
-			<li><a href="#">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
-			<li><a href="#">ಸೆಡಿಯಾಪು ಕೃಷ್ಣ ಭಟ್ಟ</a></li>
-			<li><a href="#">ಫ.ಗು.ಹಲಕಟ್ಟಿ</a></li>
-			<li><a href="#">ಶಂ.ಭಾ.ಜೋಶಿ</a></li>
-			<li><a href="#">ಆಲೂರು ವೆಂಕಟರಾವ್</a></li>
-			<li><a href="#">ಹರ್ಡಿಕರ್ ಮಂಜಪ್ಪ</a></li>
-			<li><a href="#">ಡಿ.ವಿ.ಗುಂಡಪ್ಪ</a></li>
-			<li><a href="#">ದ.ರಾ.ಬೇಂದ್ರೆ </a></li>
-			<li><a href="#">ಎನ್.ಎಸ್.ರಾಜಪುರೋಹಿತ್</a></li>
-			<li class="last"><a href="#">ಜಿ.ಎಸ್.ದೀಕ್ಷಿತ್</a></li>
-		</ul>
-	</div>
-	<div id="header">
-		<h1>ಕರ್ನಾಟಕ ಗತವೈಭವ</h1>
-		<span>ಆಲೂರ ವೆಂಕಟರಾಯರು</span>
-    </div>
-    <div class="mainpage">
-		<div class="nav">
-		</div>
-		<div class="kgv_about">
-			<div class="cover_page">
-
-<script>
-
 var margin = {top: 40, right: 120, bottom: 20, left: 320},
     width = 960 - margin.right - margin.left,
     height = 800 - margin.top - margin.bottom;
@@ -76,8 +18,8 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("kadamba.json", function(error, kadamba) {
-  root = kadamba;
+d3.json("../json/kadamba.json", function(error, flare) {
+  root = flare;
   root.x0 = height / 2;
   root.y0 = 0;
 
@@ -193,10 +135,3 @@ function click(d) {
   }
   update(d);
 }
-
-</script>
-</div>
-</div>
-</div>
-</body>
-</html>
