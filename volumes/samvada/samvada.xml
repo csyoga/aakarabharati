@@ -1,0 +1,4425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE samvada SYSTEM "samvada.dtd">
+<samvada>
+	<volume vnum="002">
+		<entry>
+			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
+			<feature></feature>
+			<page>0001-0006</page>
+			<allauthors>
+				<author>ಶಿವಾನಂದ ಬೇಕಲ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೀತಾಂಜಲಿ : ಸಾವಿನ ಬೊಗಸೆಯಲ್ಲಿ ಹೂಬಿಟ್ಟ ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0007-0020</page>
+			<allauthors>
+				<author>ಶಾಂತ ಬಿ. ಎನ್ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಿಸಿರೊ</title>
+			<feature></feature>
+			<page>0021-0037</page>
+			<allauthors>
+				<author>ಪ್ರಭು ಎಂ. ಎಸ್. ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನೇಕೆ ಅಮೇರಿಕಾ ಬಿಟ್ಟು ಬಂದೆ?</title>
+			<feature></feature>
+			<page>0038-0047</page>
+			<allauthors>
+				<author>ನಾಗರಾಜ ಎ. ಎನ್. ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶ್ರೀಕ್ಲಾಸನ್‌ರಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ</title>
+			<feature></feature>
+			<page>0048-0062</page>
+			<allauthors>
+				<author>ಎಡ್ವರ್ಡ್ ಗೋಲ್ಡಸ್ಮಿತ್ </author>
+				<author>ಯಶವಂತಡೋಂಗ್ರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕೃತಿಗಳು ಮತ್ತು ಕನ್ನಡ ಕಾದಂಬರಿ ಪರಂಪರೆ</title>
+			<feature></feature>
+			<page>0063-0070</page>
+			<allauthors>
+				<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಂಬಿಕೆಗಳು</title>
+			<feature>ಹೊಸಓದು</feature>
+			<page>0071-0073</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಂಕ</title>
+			<feature></feature>
+			<page>0074-0077</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸಪ್ರಸಾದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0078-0080</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="004">
+		<entry>
+			<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಶಜಕಾರಣ</title>
+			<feature></feature>
+			<page>0001-0007</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಂ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಬಸ್ತಾರ್'ನ ಅರಣ್ಯಾಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮ</title>
+			<feature></feature>
+			<page>0008-0012</page>
+			<allauthors>
+				<author>ಭರತ್ ಡೋಗ್ರ</author>
+				<author>ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭರತನಾಟ್ಯ ನಡೆದು ಬಂದ ದಾರಿ</title>
+			<feature></feature>
+			<page>0013-0020</page>
+			<allauthors>
+				<author>ಚಂದ್ರಭಾಗಾದೇವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು ಮತ್ತು ನನ್ನ ನವಿಲು</title>
+			<feature></feature>
+			<page>0021-0029</page>
+			<allauthors>
+				<author>ಗುಂಟೂರು ಶೇಷೇಂದ್ರ ಶರ್ಮ</author>
+				<author>ಸ ರಘುನಾಥ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿನ್ನೆಲೆ</title>
+			<feature>ದಲಿತಸಾಹಿತ್ಯ</feature>
+			<page>0030-0044</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಳಿಮಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭವಿಷ್ಯದ ನಮ್ಮ ಬದುಕು</title>
+			<feature></feature>
+			<page>0045-0058</page>
+			<allauthors>
+				<author>ಅಲ್ವಿನ್ ಟಾಫ್ಲರ್</author>
+				<author>ಅಣಜಿ ಸೀ. ಆರ್ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹರಿವ ನೆರಳ ಬೆನ್ನೇರಿ</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0059-0060</page>
+			<allauthors>
+				<author>ಮುಳ್ಳೂರ್‌ ನಾಗರಾಜ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಾಂಧಾರಿ ಕುಲ</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0061-0062</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಸವಾಗದ ಹನಿಗಳು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0063-0064</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಧ</title>
+			<feature>ಹೊಸ ಓದು</feature>
+			<page>0065-0070</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0071-0081</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="008">
+		<entry>
+			<title>ಕಾರಂತ ಸಂದರ್ಶನ</title>
+			<feature></feature>
+			<page>0001-0008</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಷೇಕ್ಸಪಿಯರ್ ಸ್ವಪ್ನನೌಕೆ'</title>
+			<feature></feature>
+			<page>0009-0017</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿ ಕಾವ್ಯ ಪರಿಚಯ...</title>
+			<feature></feature>
+			<page>0018-0030</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಉನ್ನತೋನ್ನತಿಯ ದಾಹ</title>
+			<feature></feature>
+			<page>0031-0039</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ್ ಸಿ. ಆರ್. ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಸಿವು ಆವರಿಸಿದಾಗ</title>
+			<feature></feature>
+			<page>0040-0044</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮಣ ಬಾಪುಮಾನೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾ|| ಡಿ ಆರ್ ನಾಗರಾಜ್ ಅವರ 'ಶಕ್ತಿ-ಶಾರದೆಯ ಮೇಳ'</title>
+			<feature></feature>
+			<page>0045-0048</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಸಾರ್ವತ್ರಿಕದೆಡೆಗೆ'-ಹೊಸ ಕಾವ್ಯಕ್ಕೊಂದು ಹೊಸ ವಿಮರ್ಶನದನಿ</title>
+			<feature></feature>
+			<page>0049-0054</page>
+			<allauthors>
+				<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹುಡುಕಾಡಿ ಬಂದ ಹೊನ್ನಿನ ಬದುಕು (ಕಾದಂಬರಿ</title>
+			<feature></feature>
+			<page>0055-0056</page>
+			<allauthors>
+				<author>ಶ್ರೀಕೃಷ್ಣ ಚೆನ್ನಂಗೋಡ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಧೇಶ್ವರಿ</title>
+			<feature></feature>
+			<page>0057-0062</page>
+			<allauthors>
+				<author>ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಕತೆಗಾರನಾಗಿ ನನ್ನ ಅನುಭವ'</title>
+			<feature></feature>
+			<page>0063-0068</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕೆಲವು ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0069-0074</page>
+			<allauthors>
+				<author>ಜಯಣ್ಣ ಎಂ. ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ತಮಸ್'ನ ಜ್ಯೋತಿ</title>
+			<feature></feature>
+			<page>0075-0082</page>
+			<allauthors>
+				<author>ಗುಲ್‌ಶನ್ ತನೇಜಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0083-0086</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="011">
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0001-0010</page>
+			<allauthors>
+				<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ|| (ಆನಂದಕಂದ)</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಾಡು ಹಕ್ಕಿ</title>
+			<feature>ಕಾವ್ಯ</feature>
+			<page>0011-0014</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೆಂಗಳೂರು ಪದ್ಯಗಳು</title>
+			<feature></feature>
+			<page>0014-0016</page>
+			<allauthors>
+				<author>ಚಂದ್ರತಾಳೀಕಟ್ಟೆ ಈ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಡುಗೆಂಪು ಎದೆಯ ತಾಮ್ರಕಾರ ಹಕ್ಕಿ</title>
+			<feature></feature>
+			<page>0016-0018</page>
+			<allauthors>
+				<author>ಮೃತ್ಯುಂಜಯ ಕೆ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೃಷ್ಟಿ</title>
+			<feature></feature>
+			<page>0018-0020</page>
+			<allauthors>
+				<author>ಲೋಕೇಶ ಅಗಸನಕಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೆನ್ನವೀರ ಕಣವಿಯವರ ಕಾವ್ಯ:ಸುಸಂಸ್ಕೃತ ವ್ಯಕ್ತಿತ್ವದ ಸುಂದರ ಅಭಿವ್ಯಕ್ತಿ </title>
+			<feature></feature>
+			<page>0021-0032</page>
+			<allauthors>
+				<author>ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ನರಹಳ್ಳಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪು ತಿ ನ ಅವರ ಶ್ರೀ ಹರಿಚರಿತೆ.</title>
+			<feature></feature>
+			<page>0033-0038</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮ್ಮನಗುಡ್ಡ</title>
+			<feature></feature>
+			<page>0039-0046</page>
+			<allauthors>
+				<author>ರಾಜಶೇಖರ್ ಬಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶ್,ಕಂಬಾರ, ಚಂ.ಪಾ.ನಾಟಕಗಳಲ್ಲಿ ಸಮಕಾಲೀನತೆ*</title>
+			<feature></feature>
+			<page>0047-0053</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾರತದ ನದೀಜಾಲ ಗಂಗಾ-ಕಾವೇರಿ ಯೋಜನೆ.</title>
+			<feature></feature>
+			<page>0054-0056</page>
+			<allauthors>
+				<author>ಅಣಜಿ ಸಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜನಪ್ರಿಯ ಸಾಹಿತ್ಯ ಹಾಗೂ ಗಂಭೀರ ಸಾಹಿತ್ಯ.</title>
+			<feature></feature>
+			<page>0057-0064</page>
+			<allauthors>
+				<author>ಚಿಂದಬರರಾವ್‌ ಎನ್ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭಾಷೆ-ಭಾವನೆ-ಹೃದಯ ಸಂಬಂಧ ಇತ್ಯಾದಿ*...</title>
+			<feature></feature>
+			<page>0065-0072</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಋತು ವಿಲಾಸ:</title>
+			<feature></feature>
+			<page>0073-0074</page>
+			<allauthors>
+				<author>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಾಸನಾಮಯ ಬದುಕಿನ ಆಚೆ ಈಚೆ</title>
+			<feature></feature>
+			<page>0075-0080</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸ ಪ್ರಸಾದ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0081-0087</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="013">
+		<entry>
+			<title>ಹಿಂದು ಧರ್ಮ</title>
+			<feature></feature>
+			<page>0001-0019</page>
+			<allauthors>
+				<author>ರಾಂಮನೋಹರ ಲೋಹಿಯ</author>
+				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ.ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಜಾಸತ್ತೆಗಾಗಿ ತಂತ್ರಜ್ಞಾನ*</title>
+			<feature></feature>
+			<page>0020-0032</page>
+			<allauthors>
+				<author>ಶೂಮೇಕರ್ ಇ. ಎಫ್</author>
+				<author>ಚಂದ್ರಶೇಖರತಾಳ್ಯ</author>
+			</allauthors>
+    </entry
+			>
+		<entry>
+			<title>ಅಮ್ಮನ ನೆನಪು.</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0033-0034</page>
+			<allauthors>
+				<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+    </entry 
+			>
+		<entry>
+			<title>ಕಡಲಾಳ</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0035-0037</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬರೀ ನೆಗೆಟಿವ್‌ಗಳು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0038-0038</page>
+			<allauthors>
+				<author>ರಾಮಗಿರಿ ರವೀಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಶ್ನೆಗಳು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0039-0039</page>
+			<allauthors>
+				<author>ಪ್ರೇಮಲೀಲಾ ಹೆಚ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಧೂಳು</title>
+			<feature></feature>
+			<page>0040-0045</page>
+			<allauthors>
+				<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0046-0056</page>
+			<allauthors>
+				<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ||(ಆನಂದಕಂದ)</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಕೌನ್‌ ಕಹತಾ ಹೈ ತುಝೆ ಮೈನೆ ಭುಲಾ ರಖಾ ಹೈ?" ಯಾರು ಹೇಳುತ್ತಾರೆ ನಾ ನಿನ್ನ ಮರೆತಿದ್ದೇನೆಂದು?</title>
+			<feature></feature>
+			<page>0057-0063</page>
+			<allauthors>
+				<author>ಮೋಹಳಕರ</author>
+				<author>ಮುಕುಂದ ಜೋಷಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೆಸರಲ್ಲಿ ಏನಿದೆ?</title>
+			<feature></feature>
+			<page>0064-0068</page>
+			<allauthors>
+				<author>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಧು</title>
+			<feature>ಹೊಸಓದು</feature>
+			<page>0069-0072</page>
+			<allauthors>
+				<author>ಅನುಪಮಾ ನಿರಂಜನ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕೃತಿ-ಧರ್ಮ-ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ ಇತ್ಯಾದಿ...</title>
+			<feature>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</feature>
+			<page>0073-0078</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಪುಸ್ತಕಗಳು</title>
+			<feature></feature>
+			<page>0079-0081</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="014">
+		<entry>
+			<title>ಐದು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0001-0009</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ ಕಮ್ಮಟ</title>
+			<feature></feature>
+			<page>0010-0028</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title></title>
+			<feature>ಸೃಜನಶೀಲತೆ ಮತ್ತು ಬಂಡಾಯ</feature>
+			<page>0029-0034</page>
+			<allauthors>
+				<author>ಶಿವರಾಮ ಕಾರಂತ  ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪರಿಸರ ಮತ್ತು ನಾವು</title>
+			<feature></feature>
+			<page>0034-0044</page>
+			<allauthors>
+				<author>ಕೃಷ್ಣಾನಂದ ಕಾಮತ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0045-0047</page>
+			<allauthors>
+				<author>ದೇವನೂರ ಮಹದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0048-0057</page>
+			<allauthors>
+				<author>ಆನಂದ ಕಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಜಾನಪದ : ಕೆಲವು ಮುಖಗಳು</title>
+			<feature>ಹೊಸ ಓದು</feature>
+			<page>0058-0062</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾಥ ಟಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಿಂಧೂ ನದಿಯ ದಂಡೆಯ ಮೇಲೆ</title>
+			<feature></feature>
+			<page>0062-0064</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0065-0068</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="016">
+		<entry>
+			<title>ಕಥಾ ಕಮ್ಮಟ</title>
+			<feature></feature>
+			<page>0003-0013</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅರಬ್ಬೀ ಲೇಖಕ : ನಗೀಬ್ ಮಹಫುಜ್‌ರ ಪ್ರಪಂಚ</title>
+			<feature></feature>
+			<page>0014-0024</page>
+			<allauthors>
+				<author>ಮಿತಾವ್ ಘೋಷ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0025-0034</page>
+			<allauthors>
+				<author>ಜಯರಾಮ ಕಾರಂತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಜ಼ಾನದ ಅಧ್ಯಾತ್ಮ</title>
+			<feature></feature>
+			<page>0035-0053</page>
+			<allauthors>
+				<author>ಫ್ರಿತೋ ಕಾಪ್ರಾ </author>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0054-0059</page>
+			<allauthors>
+				<author>ಆನಂದ ಕಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುರುಷೋತ್ತಮ</title>
+			<feature>ಹೊಸ ಓದು</feature>
+			<page>0060-0078</page>
+			<allauthors>
+				<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0079-0080</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="017">
+		<entry>
+			<title>ಎರಡು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0003-0005</page>
+			<allauthors>
+				<author>ಹೇಮಾ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನೆರಡು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0006-0009</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಿನಚರಿ</title>
+			<feature></feature>
+			<page>0009-0012</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಿಶಿರದ ಸದ್ದು</title>
+			<feature></feature>
+			<page>0013-0030</page>
+			<allauthors>
+				<author>ಖುರ್ರಾತುಲ್ ಹೈದರ್</author>
+				<author>ಬಾನು ಮುಷ್ತಾಕ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರಾಠಿ ದಲಿತ ಸಾಹಿತ್ಯ:</title>
+			<feature></feature>
+			<page>0031-0051</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಿ.ವಿ.ಜಿ.ಅವರ ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ</title>
+			<feature></feature>
+			<page>0052-0059</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0060-0067</page>
+			<allauthors>
+				<author>ಆನಂದಕಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0067-0069</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಲ್ಲುಕರಗುವ ಸಮಯ</title>
+			<feature></feature>
+			<page>0069-0071</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತಲೆದಂಡ</title>
+			<feature></feature>
+			<page>0072-0074</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0075-0078</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0079-0080</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="020">
+		<entry>
+			<title>ಸುಮ್ಮನಿರುವ ಸುಮ್ಮಾನ:</title>
+			<feature></feature>
+			<page>0003-0005</page>
+			<allauthors>
+				<author>ಎಸ್ ಮಂಜುನಾಥ</author>
+				<author>ಲಾವೋತ್ಸೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬುದ್ಧಿಮಂದ ಹಕ್ಕಿ</title>
+			<feature></feature>
+			<page>0006-0008</page>
+			<allauthors>
+				<author>ಚುವಾಂಗ್‌ತ್ಸೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆಯವರ 'ತುತ್ತಿನ ಚೀಲ'</title>
+			<feature></feature>
+			<page>0008-0021</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲ್ಕು ಸುನೀತಗಳು</title>
+			<feature></feature>
+			<page>0022-0024</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಳಸ್ಥಿ ಪಂಜರದೊಳಗೆ</title>
+			<feature></feature>
+			<page>0024-0026</page>
+			<allauthors>
+				<author>ಮಲ್ಲು ಸಿ ಕೊತ್ನೂರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶರೀಫನಿಗೆ</title>
+			<feature></feature>
+			<page>0027-0027</page>
+			<allauthors>
+				<author>ಶೆಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶ್ರದ್ಧಾಂಜಲಿ</title>
+			<feature></feature>
+			<page>000028-0034</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಕ್ಷಿಪ್ತಪ್ರಭೇದ: ಹೋಮೋ ಸೇಪಿಯನ್ಸ್</title>
+			<feature></feature>
+			<page>0035-0047</page>
+			<allauthors>
+				<author>ಅರ್ಥರ ಕೊಸ್ಲರ್</author>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0048-0058</page>
+			<allauthors>
+				<author>ಆನಂದ ಕಂದ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0059-0062</page>
+			<allauthors>
+				<author>ಬಸವರಾಜ ಸಬರದ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಜ ಮತ್ತು ಹಕ್ಕಿ</title>
+			<feature></feature>
+			<page>0063-0067</page>
+			<allauthors>
+				<author>ಆನಂದ ಝಂಝುರವಾಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೆಜ್ಜೆ ಮೂಡಿದ ಹಾದಿ</title>
+			<feature></feature>
+			<page>0067-0069</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜೆ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0070-0073</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0074-0076</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="021">
+		<entry>
+			<title>ಸಂಗೀತಾಸ್ವಾದನೆಯ ಮೂಲತತ್ವಗಳು</title>
+			<feature></feature>
+			<page>0003-0007</page>
+			<allauthors>
+				<author>ದಿವಾಕರ್ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಲ್ಕು ಕಪ್ಪು ಕವಿ</title>
+			<feature></feature>
+			<page>0008-0010</page>
+			<allauthors>
+				<author>ಇತಿಕಾ ಅಂತೊಲಿ</author>
+				<author>ಚೆನ್ನವೀರ ಕಣವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನೆರಡು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0011-0015</page>
+			<allauthors>
+				<author>ನಟರಾಜ ಕೆ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಅಸ್ತಿತ್ವವಾದ"</title>
+			<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+			<page>0016-0022</page>
+			<allauthors>
+				<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಮ್ಯುನಿಸಂ ನಂತರದ ಪ್ರಜಾಪ್ರಭುತ್ವ:</title>
+			<feature></feature>
+			<page>0023-0034</page>
+			<allauthors>
+				<author>ದಿಲೀಪ್ ಪಡಗಾಂವಕರ್</author>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮ್ಯಾಗ್‌ಸೆಸೆ ಪ್ರಶಸ್ತಿಗೆ ಪ್ರತಿಸ್ಪಂದನ*</title>
+			<feature></feature>
+			<page>0035-0042</page>
+			<allauthors>
+				<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾನವ ಜನ್ಮ ದೊಡ್ಡದು...?</title>
+			<feature></feature>
+			<page>0043-0048</page>
+			<allauthors>
+				<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0049-0058</page>
+			<allauthors>
+				<author>ಆನಂದಕಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಮರ್ಶಾ ಕಮ್ಮಟ: ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
+			<feature></feature>
+			<page>0059-0063</page>
+			<allauthors>
+				<author>ಬಸವರಾಜ ವಕ್ಕುಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಓದು</title>
+			<feature></feature>
+			<page>0064-0067</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ದಿಕ್ಕು</title>
+			<feature></feature>
+			<page>0067-0070</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0070-0072</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0073-0076</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="022">
+		<entry>
+			<title>ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಲೇಖಕಿ</title>
+			<feature></feature>
+			<page>0003-0005</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title> ಡೀಸಿಯಾದಿಂದ ಬಂದ ರೈಲು</title>
+			<feature></feature>
+			<page>0005-0012</page>
+			<allauthors>
+				<author>ನ್ಯಾಡಿನ್ ಗಾರ್ಡಿಮರ್</author>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರು ಹಾಡುಗಳು</title>
+			<feature></feature>
+			<page>0013-0020</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯುನೆಸ್ಕೋದಲ್ಲಿ ಜಾನಪದ</title>
+			<feature></feature>
+			<page>0021-0030</page>
+			<allauthors>
+				<author>ಶಂಕರನಾರಾಯಣ ತೀ. ನಂ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುರಾಣ ಮತ್ತು ಆಧಿನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ</title>
+			<feature></feature>
+			<page>0031-0038</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಸೇರಿಬಿಟ್ಟಿರುವ ಬೇಚೈನು...</title>
+			<feature></feature>
+			<page>0039-0048</page>
+			<allauthors>
+				<author>ಕಾನ್ರಾಡ್ ಲಾರೆಝ್</author>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಾಜವಾದದ ಕಾಲ ಮುಗಿಯತೆ?</title>
+			<feature></feature>
+			<page>0049-0055</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಆರ್. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ನೆನಪುಗಳು</title>
+			<feature></feature>
+			<page>0056-0063</page>
+			<allauthors>
+				<author>ಆನಂದಕಂದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಓದು</title>
+			<feature></feature>
+			<page>0064-0067</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರೇಯಸಿಗೆ ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0067-0069</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅರ್ಥ</title>
+			<feature></feature>
+			<page>0069-0072</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0073-0078</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0079-0082</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="023-024">
+		<entry>
+			<title>ಮಾಸ್ತಿ ಕಥಾಲೋಕ:ಒಂದು ಪ್ರವೇಶ</title>
+			<feature></feature>
+			<page>0001-0005</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ಥತ್ಯಂತರಗಳ ಶತಮಾನದ ಕತೆಗಾರ ಮಾಸ್ತಿ</title>
+			<feature></feature>
+			<page>0006-0018</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿಯವರ ಕತೆಗಳಲ್ಲಿ ಸಾಮಾಜಿಕ ಘರ್ಷಣೆಯ ನಿರ್ವಹಣೆ</title>
+			<feature></feature>
+			<page>0019-0028</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ ಕಥೆಗಳ ಸ್ತ್ರೀ ಪಾತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0029-0039</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ರಾಬಾಯಿ ಬಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ ಕಥೆಗಳಲ್ಲಿ ಧರ್ಮ</title>
+			<feature></feature>
+			<page>0040-0050</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚೆನ್ನಬಸವನಾಯಕ:ಮಾಸ್ತಿಯವರ 'ಮಲ್ಲಿಗೆ'</title>
+			<feature></feature>
+			<page>0051-0054</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ" ಕಾದಂಬರಿಯಲ್ಲಿ ದುರಂತ ಪ್ರಜ್ಙೆ</title>
+			<feature></feature>
+			<page>0055-0076</page>
+			<allauthors>
+				<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಟಕಕಾರ ಮಾಸ್ತಿ</title>
+			<feature></feature>
+			<page>0075-0087</page>
+			<allauthors>
+				<author>ರಂಗನಾಥರಾವ್ ಜಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿಯವರ ಕಾವ್ಯ: ಒಂದು ಪರಿಶೀಲನೆ</title>
+			<feature></feature>
+			<page>0088-0104</page>
+			<allauthors>
+				<author>ವಿ.ಚಂದ್ರಶೇಖರ ನಂಗಲಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿಯವರ ವಿಮರ್ಶೆ: ಇತಿಮಿತಿಗಳು</title>
+			<feature></feature>
+			<page>0105-0114</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ. ವಿ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ ಮತ್ತು ಕುವೆಂಪು: ಕೆಲವು ತುಲನಾತ್ಮಕ ಸಂಗತಿಗಳು</title>
+			<feature></feature>
+			<page>0115-0127</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರರಾವ್ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ-ಕಾರಂತ: ಸಂಸ್ಕೃತಿ ಚಿಂತನೆ೧</title>
+			<feature></feature>
+			<page>0128-0143</page>
+			<allauthors>
+				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜೆ ಎಚ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಭಾವ'ದಲ್ಲಿ ಮೂಡುವ ಮಾಸ್ತಿ</title>
+			<feature></feature>
+			<page>0144-0151</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಜೀವನ' ಕಾರ್ಯಾಲಯದ ಮಾಸ್ತಿ</title>
+			<feature></feature>
+			<page>0152-0161</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸ ರಾಜು ಚಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0162-0164</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="025">
+		<entry>
+			<title>ಮೂರು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0003-0007</page>
+			<allauthors>
+				<author>ಭಾಗೀರಥಿ ಹೆಗೆಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನೂ ಮೂರು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0008-0012</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಾಸ್ವಾದನೆ: ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0013-0019</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರರಾವ್ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಸ್ತ ಮಹಾಕಾವ್ಯ: ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<feature></feature>
+			<page>0020-0025</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರನಂಗಲಿ ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಮುಸ್ಲಿಂ ಲೇಖಕರ ಮೇಲೆ ಧಾರ್ಮಿಕ ಮತ್ತು ತಾತ್ತ್ವಿಕ ಪ್ರಭಾವ</title>
+			<feature></feature>
+			<page>0026-0035</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣ ವಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಥಮ ಸ್ತ್ರೀವಾದಿ ವಿಮರ್ಶಕಿ: ವರ್ಜೀನಿಯಾ ವುಲ್ಫ್: ಒಂದು ನೆನಪು</title>
+			<feature></feature>
+			<page>0036-0037</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳೆ ಮತ್ತು ಕಥಾ ಸಾಹಿತ್ಯ</title>
+			<feature></feature>
+			<page>0038-0048</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೀಸಲಾತಿ ಗೊಂದಲ: ಒಂದು ಒಳನೋಟ</title>
+			<feature></feature>
+			<page>0049-0056</page>
+			<allauthors>
+				<author>ದೇವನೂರ ಮಹಾದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅವಿಚಾರಿಯಾದ ವಿಚಾರವಾದಿ</title>
+			<feature></feature>
+			<page>0057-0069</page>
+			<allauthors>
+				<author>ಅಚಾರ್ಯ ರಜನೀಶ್</author>
+				<author>ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿರಂಜನರಿಗೆ ನಮಸ್ಕಾರ:</title>
+			<feature></feature>
+			<page>0070-0082</page>
+			<allauthors>
+				<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0083-0084</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="026-027">
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0003-0004</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಕಾಕ, ಕಾರಂತ, ಕಣವಿ: ಒಂದು ಮಾತುಕತೆ</title>
+			<feature></feature>
+			<page>0005-0019</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಂಬಶಿವ: ನನ್ನ ಪ್ರಯೋಗಕ್ಕೆ ಪ್ರೇರಣೆಗಳು</title>
+			<feature></feature>
+			<page>0020-0024</page>
+			<allauthors>
+				<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0025-0029</page>
+			<allauthors>
+				<author>ವಕ್ಕುಂದ ಎಂ. ಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ್ತೆರಡು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0030-0034</page>
+			<allauthors>
+				<author>ದಿವಾಕರ್ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸತ್ಯಜಿತ್‌ರೇ: ಒಂದು ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0035-0052</page>
+			<allauthors>
+				<author>ಮೇರಿ ಸೇಟನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರೇ: ಒಂದು ಸಂದರ್ಶನ</title>
+			<feature></feature>
+			<page>0053-0063</page>
+			<allauthors>
+				<author>ಫಿರೋಜ್ ರಂಗೊನ್ ವಾಲಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಖಗಮ</title>
+			<feature>ಕಥೆ</feature>
+			<page>0064-0085</page>
+			<allauthors>
+				<author>ಸತ್ಯಜಿತ್‌ ರೇ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0086-0090</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಸ್ತೆಯಂಚಿನ ಗಾಡಿ</title>
+			<feature></feature>
+			<page>0091-0094</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಸಕ್ತಿ</title>
+			<feature></feature>
+			<page>0095-0098</page>
+			<allauthors>
+				<author>ನಾಗಾಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಭಿನಯದ ಬಯಲು</title>
+			<feature></feature>
+			<page>0099-00101</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಜ್ಙಾತ ಮುಂಬಯಿ</title>
+			<feature></feature>
+			<page>00102-00103</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಸಂದರ್ಭ</title>
+			<feature></feature>
+			<page>00104-00116</page>
+			<allauthors>
+				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ ಎಚ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0116-0119</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="028">
+		<entry>
+			<title>‌‌ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0003-0004</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ: ಒಂದು ಸೃಜನಾತ್ಮಕ ನೆನಪು</title>
+			<feature></feature>
+			<page>0005-0011</page>
+			<allauthors>
+				<author>ಚದುರಂಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಚೆನ್ನಬಸವನಾಯಕ": ದೈವದ ಆಟ ಅಥವಾ ವಿಧಿವಿಲಾಸ...*</title>
+			<feature></feature>
+			<page>0012-0020</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+				<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಕ್ಕಮಹಾದೇವಿ: ಶರಣ ಚಳುವಳಿಯಲ್ಲೊಂದು ಭಿನ್ನಸ್ವರ</title>
+			<feature></feature>
+			<page>0021-0036</page>
+			<allauthors>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>(ಅ)ಪೂರ್ವರಂಗ</title>
+			<feature></feature>
+			<page>0037-0045</page>
+			<allauthors>
+				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ ಎಚ್</author>
+				<author>ಕಾರಂತ ಬಿ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಐದು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0046-0051</page>
+			<allauthors>
+				<author>ಕಮಲ ಎಂ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗರ ಸಾವು</title>
+			<feature>ಶ್ರದ್ಧಾಂಜಲಿ</feature>
+			<page>0052-0053</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗ:ಪೂರ್ಣ ಕಾವ್ಯ ವ್ಯಕ್ತಿತ್ವ</title>
+			<feature></feature>
+			<page>0054-0055</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ವಿಶಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ</title>
+			<feature></feature>
+			<page>0056-0065</page>
+			<allauthors>
+				<author>ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಓದು</title>
+			<feature></feature>
+			<page>0066-0067</page>
+			<allauthors>
+				<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಸವೇಶ್ವರ-ಅಂಬೇಡ್ಕರ್(ವಿಚಾರ)</title>
+			<feature></feature>
+			<page>0068-0072</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ್ ಸಿ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಗರು (ಕಥೆಗಳು)</title>
+			<feature></feature>
+			<page>0072-0075</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0075-0079</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0000-0000</page>
+			<allauthors>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="029-030">
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0001-0008</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ತ್ರೀವಾದೀ ದೃಷ್ಟಿಕೋನ:ಒಂದು ತಾತ್ವಿಕ ವಿವೇಚನೆ</title>
+			<feature></feature>
+			<page>0009-0017</page>
+			<allauthors>
+				<author>ನೇವಿ ಚಂದ್ರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾದಂಬರಿ ಸಾಹಿತ್ಯ: ಮಹಿಳೆಯರ ಕೊಡುಗೆ</title>
+			<feature></feature>
+			<page>00018-0029</page>
+			<allauthors>
+				<author>ವಿಜಯಶ್ರೀ ಸಬರದ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥಾ ಸಾಹಿತ್ಯ: ಮಹಿಳೆಯರ ಸಾಧನೆ</title>
+			<feature></feature>
+			<page>0030-0040</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ರಾಬಾಯಿ ಬಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳಾ ಕಾವ್ಯ: ಇತಿಹಾಸದ ಹೆಜ್ಜೆಗಳು </title>
+			<feature></feature>
+			<page>0041-0053</page>
+			<allauthors>
+				<author>ಚೆನ್ನಕ್ಕ ಎಲಿಗಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಆರ್ದ್ರ ಗರ್ವದ ಹುಡುಗಿ ನಮ್ಮ ಗೌರಿ":</title>
+			<feature></feature>
+			<page>0054-0058</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಭಕ್ತ ಕವಯಿತ್ರಿಯರು"*</title>
+			<feature></feature>
+			<page>0059-0073</page>
+			<allauthors>
+				<author>ರಾಜಶೇಖರ್ ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳಾ ಕಾವ್ಯ: ಒಂದು ಕಿರು ಟಿಪ್ಪಣಿ</title>
+			<feature></feature>
+			<page>0074-0076</page>
+			<allauthors>
+				<author>ಬಿದರಹಳ್ಳಿ ನರಸಿಂಹಮೂರ್ತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೀದಿ ನಾಟಕ:ನನ್ನ ಅನುಭವಗಳು</title>
+			<feature></feature>
+			<page>0077-0086</page>
+			<allauthors>
+				<author>ವಿಜಯಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳಾ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನ: ನಾಲ್ಕು ಮಹತ್ವದ ಪುಸ್ತಕಗಳು</title>
+			<feature></feature>
+			<page>0087-0094</page>
+			<allauthors>
+				<author>ವಿಜಯಲಕ್ಷ್ಮಿ ಬಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳಾ ಪತ್ರಿಕೆಗಳು: ಒಂದು ನೋಟ</title>
+			<feature></feature>
+			<page>0095-0097</page>
+			<allauthors>
+				<author>ಚಂದ್ರಮತಿ ಸೋಂದಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆ ಕಾಲ...ಈ ಕಾಲ...</title>
+			<feature></feature>
+			<page>0098-0101</page>
+			<allauthors>
+				<author>ಶಾಂತಾದೇವಿ ಕಣವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನೇಕೆ ಹಾಸ್ಯ ಸಾಹಿತಿಯಾದೆ?</title>
+			<feature></feature>
+			<page>0102-0106</page>
+			<allauthors>
+				<author>ಟಿ ಸುನಂದಮ್ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕೆಲವು ಸ್ತ್ರೀ ಪಾತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0107-0113</page>
+			<allauthors>
+				<author>ಸಾರಾ ಅಬೂಬಕ್ಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು ಕತೆಗಾರ್ತಿ ಆಗಿದ್ದು ಹೀಗೆ...</title>
+			<feature></feature>
+			<page>0114-0117</page>
+			<allauthors>
+				<author>ಭಾಗೀರಥಿ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿತೆಯೆಂಬ ಮಾಯೆ</title>
+			<feature></feature>
+			<page>0118-0121</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಹಿಳಾ ಸಾಹಿತ್ಯ: ಒಂದು ಹಿನ್ನೋಟ</title>
+			<feature></feature>
+			<page>0122-0126</page>
+			<allauthors>
+				<author>ಕಮಲಾ ಹಂಪನಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹದಿನೈದು ಕವನಗಳು</title>
+			<feature></feature>
+			<page>0127-0146</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಐದು ಗದ್ಯ ಭಾಗಗಳು</title>
+			<feature></feature>
+			<page>0147-0160</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಓದು</title>
+			<feature></feature>
+			<page>0161-0169</page>
+			<allauthors>
+				<author>ಉಷಾ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತ್ತೆ ಬರೆದ ಕಥೆಗಳು</title>
+			<feature></feature>
+			<page>0169-0172</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0173-0174</page>
+			<allauthors>
+				<author>ಲೀಲಾವತಿ ದೇವದಾಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="031">
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0003-0006</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಿಗೊಬರ್ಟ್ ಮೆಂಚು : ಆರದ ಬೆಂಕಿ</title>
+			<feature></feature>
+			<page>0007-0012</page>
+			<allauthors>
+				<author>ಶಾಂತ ಬಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಅಳಿದಮೇಲೆ' ಅರ್ಥ-ಪರಮಾರ್ಥದ ದ್ವಂದ್ವ ವಿನ್ಯಾಸ</title>
+			<feature></feature>
+			<page>0013-0021</page>
+			<allauthors>
+				<author> ಮಣಿಪಾಲ   ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0022-0030</page>
+			<allauthors>
+				<author>ಶರಣು ಬಳಿಗೇರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಕ್ಕಮಹಾದೇವಿ ವಚನಗಳಲ್ಲಿ-ಹೆಣ್ಣುತನ ಹಾಗೂ ಯಾತನೆಯ ಸ್ವರೂಪ</title>
+			<feature></feature>
+			<page>0031-0045</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ಟಿ.ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಸವಪೂರ್ವಯುಗ: ಒಂದು ಪರಿಚಯ</title>
+			<feature></feature>
+			<page>0046-0055</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆನಪ ಬುತ್ತಿಯ ಗಂಟು...</title>
+			<feature></feature>
+			<page>0056-0065</page>
+			<allauthors>
+				<author>ಬೆಳಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಸವಣ್ಣನವರ ಒಂದು ವಚನ ವಿಶ್ಲೇಷಣೆ</title>
+			<feature></feature>
+			<page>0066-0072</page>
+			<allauthors>
+				<author>ರಾಜಶೇಖರ ಎಸ್.ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0072-0078</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0078-0080</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="032-033">
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0001-0006</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಮಾತ್ ' ಭಾಷೆಯಲ್ಲಿ ದೇವರನ್ನು ಕರೆದವರು...</title>
+			<feature></feature>
+			<page>0007-0019</page>
+			<allauthors>
+				<author>ರಾಮಾಮಜನ್ ಎ. ಕೆ</author>
+				<author>ಪವನ ಸುರೇಶ ಕುಲಕರ್ಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೆಣ್ಣಿನೊಳಗಿನ ಮರವ ಬಲ್ಲವನೆ ಜಾಣ..' ಎ.ಕೆ.ರಾಮನಂಜನ್ ಕಾವ್ಯಾನುಸಂಧಾನ</title>
+			<feature></feature>
+			<page>0020-0037</page>
+			<allauthors>
+				<author>ಕೀರ್ತಿನಾಥಕುರ್ತಕೋಟ ಪ್ರೊ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾಮಾನುಜನ್ನರ 'ತಿರುಗಿ ಬಂದೆ' ಕವನ ಒಂದು ಸ್ಥೂಲ ಪರಿಶೀಲನೆ</title>
+			<feature></feature>
+			<page>0038-0045</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣಭಟ್ಟ ಎನ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥೆಹೇಳವ ಪರಂಪರೆಯ ಮುಂದುವರಿಕೆ 'ಪೋಕ್ ಟೇಲ್ಸ್ ಫ್ರಮ್ ಇಂಡಿಯ'</title>
+			<feature></feature>
+			<page>0046-0049</page>
+			<allauthors>
+				<author>ಗಿರೀಶ ಕಾರ್ನಾಡ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಮತ್ತೊಬ್ಬನ ಆತ್ಮ ಚರಿತ್ರೆ': ತಂತ್ರ ವಿನ್ಯಾಸ</title>
+			<feature></feature>
+			<page>0050-0060</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0061-0069</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಕಾಲೀನ ಅನುಭವದ ಗ್ರಹಿಕೆ ಹಾಗೂ ವೈಜ್ಞಾನಿಕ ಮನೋಧರ್ಮ</title>
+			<feature></feature>
+			<page>0070-0078</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಕಲಿಯುಗ' 'ಚಾಕರಿ' 'ಭಕ್ತಿ': ರಾಮಕೃಷ್ಣ ಮತ್ತು ಅವರ ಕಾಲ</title>
+			<feature></feature>
+			<page>0079-0111</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ ಸರ್ಕಾರ್</author>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭೂಗೋಲವನ್ನ ಹಸಿರಾಗಿಸುವುದು: ಜಾಗತಿಕ ಪರಿಸರ ಸಮತೋಲನದ ಸಂಘರ್ಷಗಳು</title>
+			<feature></feature>
+			<page>0112-0117</page>
+			<allauthors>
+				<author>ವಂದನಾಶಿವ ಡಾ||</author>
+				<author>ಮಲ್ಲಿಕಾರ್ಜನ ಜೆ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆನಪ ಬುತ್ತಿಯ ಗಂಟು...</title>
+			<feature></feature>
+			<page>0118-0123</page>
+			<allauthors>
+				<author>ಬೆಳೆಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0124-0134</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಂಸ್ಕೃತಿಕ ವಿಮರ್ಶೆಯ ಸಾಹಿತ್ಯಿಕ ಸಮಸ್ಯೆಗಳು </title>
+			<feature></feature>
+			<page>0134-0148</page>
+			<allauthors>
+				<author>ಶಿವಾನಂದ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಭೂಮಧ್ಯರೇಖೆ(ಕವಿತೆ)</title>
+			<feature></feature>
+			<page>0148-0152</page>
+			<allauthors>
+				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0152-0160</page>
+			<allauthors>
+				<author>ಬಸವರಾಜ ಸಬರದ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0160-0162</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="034">
+		<entry>
+			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಎಚ್ಚೆತ್ತ ಮಹಿಳೆ</title>
+			<feature></feature>
+			<page>0001-0018</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರರಾವ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0019-0024</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಚನ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಮಹಿಳೆ: ಇನ್ನೊಂದು ಟಿಪ್ಪಣಿ</title>
+			<feature></feature>
+			<page>0025-0028</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ಟಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಿರ್‍ಯೂಕ್</title>
+			<feature></feature>
+			<page>0029-0037</page>
+			<allauthors>
+				<author>ಐನಾನ್ ತುರ್ಗಿನೇವ್</author>
+				<author>ಸುರೇಶ ಕೆ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ವಿಜ್ಙಾನ ಮತ್ತು ಸಮಾಜ</title>
+			<feature></feature>
+			<page>0038-0055</page>
+			<allauthors>
+				<author>ವೇಣುಗೋಪಾಲ ಟಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಲಿಯುಗ ಚಾಕರಿ ಮತ್ತು ಭಕ್ತಿ: ರಾಮಕೃಷ್ಣ ಮತ್ತು ಅವರ ಕಾಲ</title>
+			<feature></feature>
+			<page>0056-0072</page>
+			<allauthors>
+				<author>ಸುಮೀತ್ ಸರ್ಕಾರ್</author>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0073-0078</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0078-0079</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0080-0083</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="035-036">
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>000e-0001</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಉಲಿಯ ಉಯ್ಯಲೆ ಅಭಿವ್ಯಕ್ತಿ-ಸ್ವರೂಪ ಮತ್ತು ಸಮಸ್ಯೆಗಳು</title>
+			<feature></feature>
+			<page>0003-0012</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಸ್ವಾಮಿ ಓ. ಎಲ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುನರ್ಲಿಖಿತ ಭಾರತೀಯ ಕಾವ್ಯ ಶಾಸ್ತ್ರದತ್ತ...</title>
+			<feature></feature>
+			<page>0012-0021</page>
+			<allauthors>
+				<author>ಕೃಷ್ಣರಾಯನ್ ಪ್ರೊ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಪಿಂಛಾ ಆಡಿಸಬಾರದು'</title>
+			<feature></feature>
+			<page>0022-0024</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ್ ಎಸ್. </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ನವೋದಯದ ಪ್ರಕೃತಿದರ್ಶನ</title>
+			<feature></feature>
+			<page>0025-0036</page>
+			<allauthors>
+				<author>ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ನವ್ಯಕವಿತೆಯಲ್ಲಿಯ ಮನೋಧರ್ಮ ಒಂದು ಟಿಪ್ಪಣಿ</title>
+			<feature></feature>
+			<page>0037-0045</page>
+			<allauthors>
+				<author>ಶಾಂತಿನಾಥ ದೇಸಾಯಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಂಡಾಯ ಕಾವ್ಯ ಸ್ವರೂಪ ಒಂದು ಪರಿಚಯ</title>
+			<feature></feature>
+			<page>0046-0053</page>
+			<allauthors>
+				<author>ಮಣಿಪಾಲ ಆರ್‍ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಸಿಕ ಸ್ಪಂದನೆ...</title>
+			<feature></feature>
+			<page>0054-0060</page>
+			<allauthors>
+				<author>ರಾಜೀವ ತಾರಾನಾಥ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯಮಾಧ್ಯಮನಾದ ಕವಿ</title>
+			<feature></feature>
+			<page>0061-0062</page>
+			<allauthors>
+				<author>ಅಂಬಿಕಾತನಯದತ್ತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯಾವ ರೂಟ್ಸ್...? ಯಾರು ಅನುಮೋದಿಸುತ್ತಿರುವ ಸಂವಹನಶೀಲತೆ?</title>
+			<feature></feature>
+			<page>0063-0066</page>
+			<allauthors>
+				<author>ತಿರುಮಲೇಶ್ ಕೆ. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನವ್ಯತೆಯ ಗೀಳು...</title>
+			<feature></feature>
+			<page>0067-0068</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕಾವ್ಯ ಪ್ರತಿಮೆಗಳು</title>
+			<feature></feature>
+			<page>0069-0072</page>
+			<allauthors>
+				<author>ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ ಕಾರಣ...</title>
+			<feature></feature>
+			<page>0073-0075</page>
+			<allauthors>
+				<author>ಜಯಂತ ಕಾಯ್ಕಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನೇನೋ ನನ್ನ ಕಾವ್ಯವೂ ಅದೇ...</title>
+			<feature></feature>
+			<page>0076-0077</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುಟ್ಟಿ ಇಡುವ ಶಬ್ದ...ಸೋಸಿಹೋಗುವ ಸಿದ್ಧಾಂತ...</title>
+			<feature></feature>
+			<page>0078-0079</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾವೆ ಯಾವುದಕ್ಕಾ ಕಾವ್ಯ ಜಗಕೆ?</title>
+			<feature></feature>
+			<page>0080-0086</page>
+			<allauthors>
+				<author>ವೈದೇ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯವೆಂದರೆ...</title>
+			<feature></feature>
+			<page>0087-0088</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾನು,ನನ್ನ ಕಾವ್ಯ...</title>
+			<feature></feature>
+			<page>0089-0089</page>
+			<allauthors>
+				<author>ಆನಂದ ಝಂಜರವಾಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿಂಗೆ ಬದುಕುತ್ತಾ ಬರೆಯುತ್ತಿರುವಾಗ...</title>
+			<feature></feature>
+			<page>0090-0092</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಿತವಾದ ಕ್ಷೇತ್ರದಲ್ಲಿ ಲಯಬದ್ಧ ಕುಣಿತ...</title>
+			<feature></feature>
+			<page>0093-0094</page>
+			<allauthors>
+				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏನೋ ಹೇಳಬೇಕೆಂಬ ತಹ ತಹಿಕೆ...</title>
+			<feature></feature>
+			<page>0095-0096</page>
+			<allauthors>
+				<author>ಸರಜೂ ಕಾಟ್ಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ-ಸಂವಹನಶೀಲತೆ..ಇತ್ಯಾದಿ..</title>
+			<feature></feature>
+			<page>0097-0098</page>
+			<allauthors>
+				<author>ಶಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ ಗುಚ್ಛ: ಇತ್ತೀಚಿನ ಕನ್ನಡ ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0099-0099</page>
+			<allauthors>
+				<author>ಅಂಬಿಕಾತನಯದತ್ತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಚಾರ್ ಅಡಿಗ</title>
+			<feature></feature>
+			<page>0101-0104</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈ ಕಾವ್ಯ ಗುಚ್ಛಕ್ಕೊಂದು ಚೌಕಟ್ಟು...</title>
+			<feature></feature>
+			<page>0105-0110</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆ.ವಿ.ತಿರುಮಲೇಶ್</title>
+			<feature></feature>
+			<page>0111-0119</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಏನೀ ಅದ್ಭತವೇ!</title>
+			<feature></feature>
+			<page>0119-0121</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ.ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಮರ</title>
+			<feature></feature>
+			<page>0122-0126</page>
+			<allauthors>
+				<author>ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಾಡೆ ಹನುಮವ್ವಾ...</title>
+			<feature></feature>
+			<page>0126-0129</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗಗನ ಚುಕ್ಕಿ-ಪರ್ಣಕುಟಿ</title>
+			<feature></feature>
+			<page>0130-0133</page>
+			<allauthors>
+				<author>ವೈದೇಹಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪೂರಕೆ</title>
+			<feature></feature>
+			<page>0133-0134</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ತೃಪ್ತಿ-ರುಚಿ'</title>
+			<feature></feature>
+			<page>0134-0136</page>
+			<allauthors>
+				<author>ಆನಂದ ಝಂಜರವಾಡ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿಮಿತ್ತ</title>
+			<feature></feature>
+			<page>0136-0138</page>
+			<allauthors>
+				<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾವು ಹುಡುಗಿಯರೇ ಹೀಗೆ....</title>
+			<feature></feature>
+			<page>0138-0141</page>
+			<allauthors>
+				<author>ಪ್ರತಿಭಾ ನಂದಕುಮಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇದಿಮಾಯಿ ತಾಯಿ ಹಾಡು</title>
+			<feature></feature>
+			<page>0142-0145</page>
+			<allauthors>
+				<author>ಶಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಕಾಲ</title>
+			<feature></feature>
+			<page>0145-0147</page>
+			<allauthors>
+				<author>ಸಿದ್ದಯ್ಯ ಕೆ. ಬಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೀಗೇಕಾಯಿತು?</title>
+			<feature></feature>
+			<page>0147-0149</page>
+			<allauthors>
+				<author>ಮುಕ್ತಯಕ್ಕ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಹುಟ್ಟು</title>
+			<feature></feature>
+			<page>0149-0151</page>
+			<allauthors>
+				<author>ಹೇಮಾ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೋಮಾ ಎಂಬ ಪಕ್ಷಿ*</title>
+			<feature></feature>
+			<page>0152-0154</page>
+			<allauthors>
+				<author>ಭೀಮನಗೌಡರ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ರಿಪಬ್ಲಕ್ ನರ್ಸಿಂಗ್ ಹೋಂ"ನ ಲೇಬರ್ ವಾರ್ಡ್</title>
+			<feature></feature>
+			<page>0154-0157</page>
+			<allauthors>
+				<author>‌ಕಮಲ ಎಂ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರದ ಗಟ್ಟಿತನ</title>
+			<feature></feature>
+			<page>0157-0159</page>
+			<allauthors>
+				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬರಲಾರೆ ಅನ್ನದಿರು</title>
+			<feature></feature>
+			<page>0159-0160</page>
+			<allauthors>
+				<author>ರಘುನಾಥ ಸ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಸಂತಕ್ಕೆ ಒಪ್ಪದ ಹಾಡು; ಅಥವಾ</title>
+			<feature></feature>
+			<page>0160-0162</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀಶ್ ತೊಳ್ಪಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೂರನೆಯ ಜನಮ ಬೇಡ</title>
+			<feature></feature>
+			<page>0162-0163</page>
+			<allauthors>
+				<author>ಕನಕ ಹಾ. ಮ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನದೆಂಬ ಧಾವಂತ</title>
+			<feature></feature>
+			<page>0163-0163</page>
+			<allauthors>
+				<author>ಮುಕುಂದರಾಜ್ ಎಲ್. ಎನ್</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="037">
+		<entry>
+			<title>ಕರ್ನಾಟಕ ಜಾನಪದ ಮತ್ತು ಲೋಕ ದೃಷ್ಟಿ</title>
+			<feature></feature>
+			<page>0001-0016</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0017-0024</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು ಕಾದಂಬರಿಗಳಲ್ಲಿ ವಸಾಹತುಶಾಹಿ (ಕೊಲೋನಿಯಲ್) ಅನುಭವದ ಸ್ವರೂಪ</title>
+			<feature></feature>
+			<page>0025-0046</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮರಳಿ "ಮರಳಿ ಮಣ್ಣಿಗೆ" </title>
+			<feature></feature>
+			<page>0047-0054</page>
+			<allauthors>
+				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ ಎಚ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾಸ್ತಿ ಕತೆಗಳ ಹಿಂದಿರುವ ತಿಳುವಳಿಕೆ</title>
+			<feature></feature>
+			<page>0055-0067</page>
+			<allauthors>
+				<author>ರಘುನಾಥರಾವ್ ಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0068-0072</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0073-0074</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="039">
+		<entry>
+			<title>ಮಾನುಷ ಕಲೆ ಮತ್ತು ನಿರ್ಮಾನುಷ ನಿಸರ್ಗ</title>
+			<feature></feature>
+			<page>0001-0012</page>
+			<allauthors>
+				<author>ಹರ್ಬರ್ಟ್‌‌ರೀಡ್</author>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಬಣ್ಣದ ಮದ್ರಾಸ್ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0013-0026</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0027-0035</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥೆ</title>
+			<feature></feature>
+			<page>0036-0044</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚನ್ನವೀರ ಕಣವಿ ಅವರ ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0045-0051</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್.ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಮತ್ತು ತತ್ವಜ್ಙಾನಗಳು</title>
+			<feature></feature>
+			<page>0052-0064</page>
+			<allauthors>
+				<author>ಕೇಶವಶರ್ಮ ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪದಾರ್ಥ</title>
+			<feature></feature>
+			<page>0065-0066</page>
+			<allauthors>
+				<author>ಚಿದಂಬರರಾವ್‌ ಎನ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0067-0070</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0071-0073</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0074-0076</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು</title>
+			<feature></feature>
+			<page>0076-0077</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="040">
+		<entry>
+			<title>ಎಮರ್ಜನ್ಸಿಯ ನೆನಪು ಮತ್ತು ನನ್ನ ಭಾರತ ದೇಶ...</title>
+			<feature>ಪ್ರಸ್ತುತ</feature>
+			<page>0001-0006</page>
+			<allauthors>
+				<author>ನಾನಿ ಎ ಪಾಲ್ಕೀವಾಲಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಾಸ್ತವದಿಂದ ಅದೆಷ್ಟು ದೂರ!</title>
+			<feature>ಶಿಕ್ಷಣ</feature>
+			<page>0006-0012</page>
+			<allauthors>
+				<author>ವಿಜಯ ಸಂಘ್ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0013-0018</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕವಿತೆಯ ಹೊಣೆ</title>
+			<feature></feature>
+			<page>0019-0026</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ಮತ್ತು ಶಿಕ್ಷಣ</title>
+			<feature></feature>
+			<page>0026-0032</page>
+			<allauthors>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತರ್ಕ ಮತ್ತು ಬದುಕು</title>
+			<feature></feature>
+			<page>0033-0040</page>
+			<allauthors>
+				<author>ಪದ್ಮಿನಿ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಾನುಷ ಕಲೆ ಮತ್ತು ನಿರ್ಮಾನುಷ ನಿಸರ್ಗ</title>
+			<feature></feature>
+			<page>0041-0051</page>
+			<allauthors>
+				<author>ಹರ್ಬರ್ಟ್‌‌ರೀಡ್</author>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶ್ರೇಷ್ಠತೆಯ ಸವಾರಿ</title>
+			<feature></feature>
+			<page>0052-0057</page>
+			<allauthors>
+				<author>ಶುಭದಾಯಿನಿ ಆರ್. ತಾರಿಣಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪದಾರ್ಥ</title>
+			<feature></feature>
+			<page>0058-0060</page>
+			<allauthors>
+				<author>ಚಿದಂಬರರಾವ್ ಎನ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಕ್ರಿಯೆ-ಚರ್ಚೆ</title>
+			<feature></feature>
+			<page>0061-0082</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0083-0090</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0091-0092</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0093-0094</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="041">
+		<entry>
+			<title>ಹನಿಯಿಂದ ಹರಿವ ನದಿ</title>
+			<feature>ಕಥೆ</feature>
+			<page>0001-0013</page>
+			<allauthors>
+				<author>ಶಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚಂದ್ರಶೇಖರ ಕಂಬಾರರ ನಾಟಕಗಳಲ್ಲಿ ವಸಾಹತುಶಾಹಿಯ ಸ್ವರೂಪದ ಗ್ರಹಿಕೆ</title>
+			<feature></feature>
+			<page>0014-0026</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0027-0034</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ಬಸವ ಪುರಾಣಗಳು_ಒಂದು ಸಮೀಕ್ಷೆ</title>
+			<feature></feature>
+			<page>0035-0051</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ.ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಕ್ರಿಯೆ-ಚರ್ಚೆ</title>
+			<feature></feature>
+			<page>0052-0064</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪದಾರ್ಥ</title>
+			<feature></feature>
+			<page>0064-0066</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0066-0072</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="042">
+		<entry>
+			<title>ಶಿಕ್ಷೆ, ಕಾಯಕ ಮತ್ತು ಆಟ...</title>
+			<feature></feature>
+			<page>0001-0011</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0012-0022</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆಯವರ ಕಾವ್ಯದಲ್ಲಿ ದಾಂಪತ್ಯದ ಸ್ವರೂಪ</title>
+			<feature></feature>
+			<page>0023-0033</page>
+			<allauthors>
+				<author>ಸುಮಿತ್ರಾ ಎಲ್. ಸಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥೆ</title>
+			<feature></feature>
+			<page>0034-0044</page>
+			<allauthors>
+				<author>ಯಶಸ್ವಿನಿ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಂಸ್ಥೆಗಳು ಒಂದು ಚರ್ಚೆ</title>
+			<feature></feature>
+			<page>0045-0048</page>
+			<allauthors>
+				<author>ಚಿಕ್ಕಣ್ಣ ಕಾ. ತ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನಂದಕಂದರ ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿಗಳು</title>
+			<feature></feature>
+			<page>0049-0064</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧುನಿಕ ಕಲೆ ಮತ್ತು ಹಡಪದ್</title>
+			<feature></feature>
+			<page>0065-0073</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಕೆ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಕ್ರಿಯೆ-ಚರ್ಚೆ</title>
+			<feature></feature>
+			<page>0074-0079</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0079-0080</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0081-0083</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="043">
+		<entry>
+			<title>ಭಾರತೀಯವೆನ್ನುವ ಒಂದು ಚಿಂತನಕ್ರಮ ಇದೆಯೇ?</title>
+			<feature></feature>
+			<page>0001-0035</page>
+			<allauthors>
+				<author>ರಾಮಾನುಜನ್ ವಿ. ಕೆ ಡಾ||</author>
+				<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0035-0042</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಚನ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಮಹಿಳೆ: ಒಂದು ಗತಿಶೀಲ ಅಧ್ಯಯನ</title>
+			<feature></feature>
+			<page>0042-0066</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನುಬಂಧ-೧</title>
+			<feature></feature>
+			<page>0067-0068</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಕಾಲೀನ ವರದಿ</title>
+			<feature></feature>
+			<page>0068-0072</page>
+			<allauthors>
+				<author>ಗುಡಿಹಳ್ಳಿ ನಾಗರಾಜ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0072-0078</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="044">
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0000c-0000f</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಧರ್ಮ ಸಂಸ್ಥೆಯಾದಾಗ...</title>
+			<feature></feature>
+			<page>0001-0010</page>
+			<allauthors>
+				<author>ಆಚಾರ್ಯರಜನೀಶ</author>
+				<author>ಕೃಷ್ಣಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥೆ</title>
+			<feature></feature>
+			<page>0011-0013</page>
+			<allauthors>
+				<author>ಶೇಷಾದ್ರಿಕಿನಾರ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0013-0021</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರ್ನಾಡರ ನಾಟಕಗಳಲ್ಲಿ ನವ್ಯ ಹಾಗೂ ಆಧುನಿಕೋತ್ತರ ಪ್ರವೃತ್ತಿಗಳು</title>
+			<feature></feature>
+			<page>0022-0034</page>
+			<allauthors>
+				<author>ಗುರುರಾವ್ ಬಾಪಟ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪೂವೋತ್ತರ</title>
+			<feature></feature>
+			<page>0035-0043</page>
+			<allauthors>
+				<author>ಶಂಕರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಾಲಚಂದ್ರ ನೇಮಾಡೆ ಅವರನ್ನು ಕಂಡಾಗ...</title>
+			<feature></feature>
+			<page>0044-0052</page>
+			<allauthors>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿವೃತ್ತಿ</title>
+			<feature></feature>
+			<page>0053-0056</page>
+			<allauthors>
+				<author>ರಾಮಪ್ಪ ಜಿ. ಎಲ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪದಾರ್ಥ</title>
+			<feature></feature>
+			<page>057-0066</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚರ್ಚೆ-ವಾದ-ವಿವಾದ</title>
+			<feature></feature>
+			<page>0067-0072</page>
+			<allauthors>
+				<author>ರಾಮಚಂದ್ರದೇವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0073-0082</page>
+			<allauthors>
+				<author>ಶಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0082-0084</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="045">
+		<entry>
+			<title>ಗಿರೀಶ ಕಾರ್ನಾಡರ ನಾಟಕಗಳಲ್ಲಿ ಜಾನಪದ ನಾಗಮಂಡಲದ ಅಭ್ಯಾಸ*</title>
+			<feature></feature>
+			<page>0001-0013</page>
+			<allauthors>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0014-0019</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡಳಿದು ಮತ್ತೊಂದಾಗುವ ಪರಿಯೆ...</title>
+			<feature></feature>
+			<page>0020-0031</page>
+			<allauthors>
+				<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಪುಸ್ತಕ</title>
+			<feature></feature>
+			<page>0032-0041</page>
+			<allauthors>
+				<author>ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಡಿಗರ ಕಾವ್ಯದಲ್ಲಿ ಧರ್ಮದ ಕಲ್ಪನೆ</title>
+			<feature></feature>
+			<page>0042-0049</page>
+			<allauthors>
+				<author>ರಘುನಾಥರಾವ್ ಡಿ </author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶ್ರೇಷ್ಠ-ಕನಿಷ್ಟ ತರತಮ </title>
+			<feature></feature>
+			<page>0050-0054</page>
+			<allauthors>
+				<author>ಪದ್ಮಿನಿ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಥೆ</title>
+			<feature></feature>
+			<page>0055-0060</page>
+			<allauthors>
+				<author>ವೈಕಂ ಮಹಮದ್ ಬಷೀರ್</author>
+				<author>ಗಂಗಾಧರಯ್ಯ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಾಪಕ ಪ್ರಜ್ಙೆಯ ಲೇಖಕರಾಗುವುದೆಂದರೆ...</title>
+			<feature></feature>
+			<page>0061-0066</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ವಾತಂತ್ರೋತ್ತರ ಭಾರತದ-ಐವತ್ತುವರ್ಷ</title>
+			<feature></feature>
+			<page>0067-0068</page>
+			<allauthors>
+				<author>ಪ್ರಭಾವತಿ ಎಸ್. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯಪುರದ ಗರತಿ-ಮುದುಕಿಯ ಮುಲುಕಾಟಗಳು...</title>
+			<feature></feature>
+			<page>0069-0071</page>
+			<allauthors>
+				<author>ಆಂದಾನಪ್ಪ ಚಾಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0072-0080</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0080-0081</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0082-0086</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="047">
+		<entry>
+			<title>ವ್ಯಾಜ್ಯ</title>
+			<feature>ಕಥೆ</feature>
+			<page>0002-0015</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮದೃಷ್ಟಿಯ ಮಾರ್ಕ್ಸ್‌‌ವಾದಿ ಚಿಂತಕ ಪ್ರೋಫಸರ್ ಏಜಾಜ್ ಅಹಮದ್</title>
+			<feature></feature>
+			<page>0016-0027</page>
+			<allauthors>
+				<author>ವರದರಾಜು ಮಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು ಕವನ 'ಕಲ್ಕಿ' ಒಂದು ಮರು ಓದು</title>
+			<feature></feature>
+			<page>0028-0035</page>
+			<allauthors>
+				<author>ನಿತ್ಯಾನಂದ ಟಿ. ಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡದಲ್ಲಿ ಪ್ರಾದೇಶಿಕತೆಯ ನೆಲೆಗಳು</title>
+			<feature></feature>
+			<page>0036-0045</page>
+			<allauthors>
+				<author>ಕೇಶವಶರ್ಮ ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿರಂಜನರ ಕೃತಿಗಳಲ್ಲಿ ಮಹಿಳಾ ಸಮಸ್ಯೆಗಳು</title>
+			<feature></feature>
+			<page>0046-0056</page>
+			<allauthors>
+				<author>ಬಸವರಾಜ ಸಬರದ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆದುನಿಕ ಶ್ರೀಲಂಕಾ ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0057-0064</page>
+			<allauthors>
+				<author>ಕುಮಾರಪ್ಪ ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0070-0077</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಯು.ಆರ್.ಅನಂತಮೂರ್ತಿಯವರೊಂದಿಗೆ</title>
+			<feature>ಸಂದರ್ಶನ</feature>
+			<page>ಶ78-0083</page>
+			<allauthors>
+				<author>ನಂದಕುಮಾರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ತ್ರೀವಾದ ಮತ್ತು ಜನಜೀವನ</title>
+			<feature></feature>
+			<page>0084-0088</page>
+			<allauthors>
+				<author>ಪ್ರಭಾವತಿ ಎಸ್. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಚರ್ಚೆ-ವಾಗ್ವಾದ</title>
+			<feature></feature>
+			<page>0089-0090</page>
+			<allauthors>
+				<author>ಬಾಲಸುಬ್ರಮಣ್ಯ ಕಂಜರ್ಪಣೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಕವಿತೆ ನನ್ನಂತೆ</title>
+			<feature></feature>
+			<page>0091-0094</page>
+			<allauthors>
+				<author>ಡುಂಡಿರಾಜ್ ಎಚ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0095-0116</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title></title>
+			<feature>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</feature>
+			<page>0117-0118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="049">
+		<entry>
+			<title>ಕಲೆಯ ಕುರಿತು ಕಾರಂತರ ವಿಚಾರಗಳು ರಾಷ್ಟ್ರೀಯ ಕಲಾ ಇತಿಹಾಸದ ದ್ವಂದ್ವಗಳ ಮರು ಪರಿಶೀಲನೆ </title>
+			<feature></feature>
+			<page>0001-0019</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮುಪ್ಪಿಂದೊಪವಳಿಯದ ಮುನ್ನ</title>
+			<feature></feature>
+			<page>0020-0027</page>
+			<allauthors>
+				<author>ರಾಧಾಕೃಷ್ಣ ಟಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ:ನುಡಿಯ ತಳಗಳು</title>
+			<feature></feature>
+			<page>0028-0030</page>
+			<allauthors>
+				<author>ಶಂಕರ ಪಿಳ್ಳೆ ಕೆ. ಜಿ</author>
+				<author>ಶೇಖರ ತೇರಳಿ ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಪೂರ್ಣ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</title>
+			<feature></feature>
+			<page>0031-0035</page>
+			<allauthors>
+				<author>ಬರವರಾಜ ಮಲಶೆಟ್ಟಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾ.ಶಿವರಾಮ ಕಾರಂತರೊಂದಿಗೆ ಸಂದರ್ಶನ</title>
+			<feature></feature>
+			<page>0036-0044</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನ ಮೇಲು ಸಂಪಾದನೆ</title>
+			<feature></feature>
+			<page>0045-0052</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾರ್ಥದ ವಾಸ್ತವಿಕತೆ</title>
+			<feature></feature>
+			<page>0053-0059</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಡಾ.ಎಸ್.ಎಲ್ ಭೈರಪ್ಪನವರ ವಿಭಿನ್ನ ಕೃತಿ ಸಾರ್ಥ</title>
+			<feature></feature>
+			<page>0060-0066</page>
+			<allauthors>
+				<author>ಮಂಜುನಾಥ ಎ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಲಿತ-ಭಂಡಾಯ ಸ್ಥಗಿತತೆ: ಒಂದು ಸಂವಾದ</title>
+			<feature></feature>
+			<page>0067-0098</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0095-0096</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0096-0100</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="050">
+		<entry>
+			<title>ಆರು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0002-0005</page>
+			<allauthors>
+				<author>ತಿರುಮಲೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆ ಕಾವ್ಯ: ಅವೈದಿಕ ನೆಲೆಗಳಲ್ಲಿ</title>
+			<feature></feature>
+			<page>0006-0016</page>
+			<allauthors>
+				<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬೇಂದ್ರೆ ಕಾವ್ಯ: ಕೆಲವು ಚೆಲ್ಲುವರಿದ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0017-0033</page>
+			<allauthors>
+				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುವೆಂಪು:ಸ್ವಾತಂತ್ರೋತ್ತರ ಸನ್ನಿವೇಸದಲ್ಲಿ</title>
+			<feature></feature>
+			<page>0024-0033</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೃಷ್ಟಿಶೀಲತೆಯ ಆರಾಧಕ ಕವಿ: ಜಿ.ಎಸ್.ಎಸ್</title>
+			<feature></feature>
+			<page>0034-0038</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್.ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎ.ಕೆ.ರಾಮಾನುಜನ್‌ರೊಂದಿಗೆ ಸಂದರ್ಶನ</title>
+			<feature>ಸಂದರ್ಶನ</feature>
+			<page>0039-0058</page>
+			<allauthors>
+				<author>ಶಂಕರನಾರಾಯಣ ತೀ. ನಂ ಡಾ||</author>
+				<author>ಕೃಷ್ಣಯ್ಯ ಎಸ್. ಎ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆರ್. ಎಂ ಹಡಪದ್ ಅವರ ಕಲೆ</title>
+			<feature></feature>
+			<page>0059-0063</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಕೆ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಶಂಕರಚಾರ್ಯರ 'ಮನೀಷಾ ಪಂಚಕ'</title>
+			<feature></feature>
+			<page>0064-0069</page>
+			<allauthors>
+				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ. ವಿ ಪ್ರೊ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನಷ್ಟು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0070-0075</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಕಾಲೀನ ಕನ್ನಡ ಸಾಹಿತ್ಯ: ಒಂದಿಷ್ಟು ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0076-0085</page>
+			<allauthors>
+				<author>ಸಂತೋಷ ಚೊಕ್ಕಾಡಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಆ ಕೊಳ್ಳಕ್ಕೊಬ್ಬ ಬರೆಹಗಾರ ಬೇಕಿದ್ದಿತು.." ಅರುಂಧತಿ ರಾಯ್‌ರೊಂದಿಗೆ ಸಂದರ್ಶನ</title>
+			<feature>ಸಂದರ್ಶನ</feature>
+			<page>0086-0092</page>
+			<allauthors>
+				<author>ಲೈಲಾ ಬಾವದಮ್</author>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0093-0095</page>
+			<allauthors>
+				<author>ಮಣಿಪಾಲ ಆರ್‍ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ಯಾಂಜಿಯಾ</title>
+			<feature></feature>
+			<page>0096-0097</page>
+			<allauthors>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀಲಾಂಜನ</title>
+			<feature></feature>
+			<page>0098-0101</page>
+			<allauthors>
+				<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಕ್ಟೋರಿಯಾ ಮಗ ದೇವಲಿಂಗು</title>
+			<feature></feature>
+			<page>0102-0104</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲನೋಟ</title>
+			<feature></feature>
+			<page>0105-0109</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪತ್ರಗಳು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಗಳು</title>
+			<feature></feature>
+			<page>0110-0116</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0117-0118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="051">
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0003-0009</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಧುರಚನ್ನರ ಆತ್ಮಶೋಧ</title>
+			<feature></feature>
+			<page>0010-0017</page>
+			<allauthors>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮಧುರಚೆನ್ನರ ಅನುಭಾವ ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0018-0029</page>
+			<allauthors>
+				<author>ಚೆನ್ನವೀರ ಕಣವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಲೀಂದ್ರ: ರಾಜ್ಯದಿಂದ ಗಡೀಪಾರಿನವರಿಗೆ</title>
+			<feature></feature>
+			<page>0030-0045</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸ್ಥಾವರಕ್ಕಳಿವುಂಟು ಜಂಗಮಕ್ಕಳಿವಿಲ್ಲ</title>
+			<feature></feature>
+			<page>0046-0052</page>
+			<allauthors>
+				<author>ಶಿವಮೂರ್ತಿ ಶಿವಾಚಾರ್ಯ ಮಹಾಸ್ವಾಮಿಗಳು ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಈಗ ಹೇಳಿ... ಇದನ್ನು ಹೇಗೆ ಹಂಚುವುದು?</title>
+			<feature></feature>
+			<page>0053-0066</page>
+			<allauthors>
+				<author>ಶಶಿಕಲಾ ವೀರಯ್ಯಸ್ವಾಮಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಷ್ಟುನಾಯ್ಕರ ಕಾವ್ಯ: ಒಂದು ಅವಲೋಕನ</title>
+			<feature></feature>
+			<page>0067-0079</page>
+			<allauthors>
+				<author>ಭಂಡಾರಿ ಆರ್. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನಿಷ್ಟು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0080-0089</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಪಿಕ್ ಥಿಯೇಟರ್</title>
+			<feature></feature>
+			<page>0089-0095</page>
+			<allauthors>
+				<author>ಲಿಂಗದೇವರು ಹಳೆಮನೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪ್ರತಿಕ್ರಿಯೆ-ಚರ್ಚೆ</title>
+			<feature></feature>
+			<page>0096-0103</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0104-0113</page>
+			<allauthors>
+				<author>ದಿವಾಕರ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟಗಳು</title>
+			<feature></feature>
+			<page>0113-0117</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0118-0120</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಶಟೀಲ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="052">
+		<entry>
+			<title>ಎಚ್.ಎಸ್.ವೆಂಕಟೇಶಮೂರ್ತಿಯವರ ನಾಲ್ಕು ಹೊಸ ಕವಿತೆಗಳು </title>
+			<feature>ಕಾವ್ಯ</feature>
+			<page>0003-0007</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಪರಂಪರೆಯ ಸಾತತ್ಯ ಮತ್ತು ಸ್ಥಿತ್ಯಂತರ: ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0008-0021</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಾಗ-ನಾಗರ ಪಂಚಮಿ</title>
+			<feature></feature>
+			<page>0022-0027</page>
+			<allauthors>
+				<author>ಗಜಾನನ ಈಶ್ವರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗರ ಕಾವ್ಯ ಕಲ್ಪನೆ</title>
+			<feature></feature>
+			<page>0028-0032</page>
+			<allauthors>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವ್ಯಾಸರಾವ್ ಬಲ್ಲಾಳರ ಕಥೆಗಳು: ಒಂದಿಷ್ಟು ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0033-0042</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇವನಂಥ ಚಲುವರಿಲ್ಲ ನೋಡುಬಾರೆ...</title>
+			<feature></feature>
+			<page>0043-0053</page>
+			<allauthors>
+				<author>ರಾಧಾಕೃಷ್ಣ ಟಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನಿಷ್ಟು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0053-0057</page>
+			<allauthors>
+				<author>ವಿಜಯರಾಘವನ್ ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ನೀಲಿತತ್ತಿ'ಯೊಡೆದು ಬೆಳೆದು ಗಿರಿನವಿಲು</title>
+			<feature></feature>
+			<page>0058-0071</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕೆ.ನ ಶಿವತೀರ್ಥನ್‌ರ 'ಗೆಂಡಗಯ್ಯ' ಉಪ ಸಂಸ್ಕೃತಿಯ ಜೀವಧಾತು</title>
+			<feature></feature>
+			<page>0072-0079</page>
+			<allauthors>
+				<author>ಶಿವಾನಂದ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅರ್ಥೈಸುವಿಕೆಯ ವಿರುದ್ಧ...</title>
+			<feature></feature>
+			<page>0080-0093</page>
+			<allauthors>
+				<author>ಸೂಸಾನ್ ಸೊಂಟಾಗ್</author>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಂ. ಎಸ್. ಕೆ. ಪ್ರಭು ಹಸಿರು ಹುಲ್ಲಿನ ನಡುವೆ ವಿಷ್ಣು ನೀಲಿ...</title>
+			<feature></feature>
+			<page>0094-0098</page>
+			<allauthors>
+				<author>ಲಿಂಗದೇವರು ಹಳಿಮನೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0099-0115</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>00115-0118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0118-0120</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="053">
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature></feature>
+			<page>0002-0006</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾವ್ಯ: ಮೂರು ಕವಿಗಳು ಮತ್ತು ಏಳು ಪದ್ಯಗಳು</title>
+			<feature></feature>
+			<page>0007-0017</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದಲಿತ ಆತ್ಮಕಥನದೊಳಿಗಿನ ಜೀವ ಹಂಸ</title>
+			<feature></feature>
+			<page>0018-0030</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರಯ್ಯ ಎಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಟ್ಟ</title>
+			<feature></feature>
+			<page>0031-0044</page>
+			<allauthors>
+				<author>ನಂದಾ ಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂತೆ ಸಾಮಾನು ಹೊರಿಸಿದಾತ...</title>
+			<feature></feature>
+			<page>0045-0050</page>
+			<allauthors>
+				<author>ಶ್ರೀಸತ್ ಉಪಾಸಿ ಮುಗ್ಧಮಲ್ಲಿಕಾರ್ಜುನ ಗುರವರ್ಯರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಿಃಶಬ್ದ ಸಾಗರದಲ್ಲಿ ಶಬ್ದಯಾನದ ಟೈಟಾನಿಕ್</title>
+			<feature></feature>
+			<page>0051-0060</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎರಡು ಅತಿ ಸಣ್ಣ ಕಥೆಗಳು</title>
+			<feature></feature>
+			<page>0061-0062</page>
+			<allauthors>
+				<author>ಗಜಾನನ ಈಶ್ವರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದೃಶ್ಯಭಾಷೆ: ಕೆಲವು ಸಮಸ್ಯೆಗಳು</title>
+			<feature></feature>
+			<page>0063-0072</page>
+			<allauthors>
+				<author>ಶಂಕರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಂಡಾಯ ಕಥೆಗಳು</title>
+			<feature></feature>
+			<page>0073-0078</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಡತನದ ಬೆಂಕಿಯಲ್ಲಿ ಅರಳಿದ ಅಂತಃಕರಣದ ಹೂವುಗಳು...</title>
+			<feature></feature>
+			<page>0079-0084</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಇನ್ನಷ್ಟು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0085-0087</page>
+			<allauthors>
+				<author>ರಾಮು ಸಿರಿಗೆರೆ ಯು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಕ್ವಾಂಟಮ್ ಸಮಾಜ'ವೆಂದರೆ ಏನು?</title>
+			<feature></feature>
+			<page>0088-0106</page>
+			<allauthors>
+				<author>ದಾನಾಹ್ ಝೋಹರ್</author>
+				<author>ಇಯಾನ್ ಮಾರ್ಶಲ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>00106-0113</page>
+			<allauthors>
+				<author>ಭಂಡಾರಿ ಆರ್. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರೂಪಗಳ ಸಾವು</title>
+			<feature></feature>
+			<page>0114-0118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>0118-0120</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="054-055">
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>000k-000q</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶ್‌ಗೆ</title>
+			<feature>ಕಾವ್ಯಂಜಲಿ</feature>
+			<page>0001-0001</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕುತೂಹಲಗಳ ಬೆನ್ನಹಿಂದ</title>
+			<feature>ಕಾವ್ಯಂಜಲಿ</feature>
+			<page>0002-0003</page>
+			<allauthors>
+				<author>ಶಂಕರ ಕಟಗಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಕ್ಷರ ಸಾಕ್ಷಿ</title>
+			<feature>ಕಾವ್ಯಂಜಲಿ</feature>
+			<page>0004-0004</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣರಾವ್ ಅಣತಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶ</title>
+			<feature>ಕಾವ್ಯಂಜಲಿ</feature>
+			<page>0005-0009</page>
+			<allauthors>
+				<author>ಗಜಾನನ ಈಶ್ವರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನನ್ನಪ್ಪ</title>
+			<feature>ಲಂಕೇಶ್...ಒಂದಿಷ್ಟು ಹತ್ತಿರ-ಒಂದಿಷ್ಟು ದೂರ-ಒಂದಿಷ್ಟು ಲೋಕಾಭಿರಾಮ:</feature>
+			<page>0010-0015</page>
+			<allauthors>
+				<author>ಗೌರಿ ಲಂಕೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಗೆಳತಿ:ಲಂಕೇಶ್</title>
+			<feature></feature>
+			<page>0016-0025</page>
+			<allauthors>
+				<author>ವೈದೇಹಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ಸ್ನೇಹ ಗರಗಸದಲ್ಲಿ</title>
+			<feature></feature>
+			<page>0026-0033</page>
+			<allauthors>
+				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶ್ ನೆನಪು: ಜಗಳ-ಆತ್ಮೀಯತೆ-ಲೋಕಾಭಿರಾಮ</title>
+			<feature></feature>
+			<page>0034-0041</page>
+			<allauthors>
+				<author></author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನವಾಗಿ ಲಂಕೇಶ್</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0042-0050</page>
+			<allauthors>
+				<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶ್:ವ್ಯಕ್ತಿವಾದಿ ಹೋರಾಟಗಾರ</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0051-0055</page>
+			<allauthors>
+				<author>ಮಣಿಪಾಲ ಆರ್. ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಯುವತನಕ ಓದು</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0056-0060</page>
+			<allauthors>
+				<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಚೇತನ ನೀಡಿದ ಪತ್ರಿಕೆ</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0061-0065</page>
+			<allauthors>
+				<author>ವಿರಭದ್ರಪ್ಪ ಬಿ. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಲಂಕೇಶ್ : ಪತ್ರಿಕೆ' ಇಪ್ಪತ್ತು ವರ್ಷ : ಎರಡು ಪ್ರತಿಕ್ರಿಯೆಗಳು :ವ್ಯವಸ್ಥೆಗೆ ಮಣಿಯದ ಗುಣ</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0066-0066</page>
+			<allauthors>
+				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ವಿಮರ್ಶೆ ಶಿಕ್ಷೆಯ ತೀರ್ಪಿನಂತೆ</title>
+			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
+			<page>0067-0000</page>
+			<allauthors>
+				<author>ನಾಗಭೂಷಣ ಸ್ವಾಮಿ ಓ. ಎಲ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ಕಾದಂಬರಿಗಳನ್ನು ಮತ್ತೆ ಓದಿದಾಗ</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0072-0085</page>
+			<allauthors>
+				<author>ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಬಿರುಕು' ಮತ್ತು 'ಅಕ್ಕ' : ಚಲ್ಲಾಡಿದ ಒಂದಿಷ್ಟು ಟಿಪ್ಪಣಿಗಳು</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0086-0091</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ನಾಟಕಗಳ ಭಾಷೆ</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0092-0102</page>
+			<allauthors>
+				<author>ಲಿಂಗದೇವರು ಹಳೆಮನೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಗುಣಮುಖ'ದ ದೃಶ್ಯ ವಿನ್ಯಾಸ</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0103-0108</page>
+			<allauthors>
+				<author>ರಾಜಶೇಖರ ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಿ. ಲಂಕೇಶರ 'ಅವ್ವ' </title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0109-0113</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ಟಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ಕಥೆಗಳು</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0114-0121</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಂಕೇಶರ ಕಥೆಗಳು : ಒಂದು ಸ್ತ್ರೀವಾದೀ ಪ್ರವೇಶದ ಸಾಧ್ಯತೆ</title>
+			<feature>ಲಂಕೇಶ್ ... ಸೃಜನಶೀಲತೆ</feature>
+			<page>0122-0128</page>
+			<allauthors>
+				<author>ಪದ್ಮಿನಿ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೆನಪು ಕೆದರಿದ ಒಂದು ಭಾಷಣ</title>
+			<feature></feature>
+			<page>0129-0137</page>
+			<allauthors>
+				<author>ಲಂಕೇಶ್ ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅನುಭವಿಗಳ ಕ್ರಾಂತಿ</title>
+			<feature></feature>
+			<page>00138-00143</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ್ ಟಿ. ಆರ್ ಡಾ||</author>
+				<author>ಮಹೇಶ್ ತಿಪ್ಪಶೆಟ್ಟಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮತಾಂತರ ಮತ್ತು ಇತರ ಲೇಖನಗಳು</title>
+			<feature></feature>
+			<page>0144-0145</page>
+			<allauthors>
+				<author>ಮುನಿವೆಂಕಟಪ್ಪ ಡಾ||</author>
+				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನ ಕಟ್ಟೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಿರುಗಾಳಿ</title>
+			<feature></feature>
+			<page>0146-0147</page>
+			<allauthors>
+				<author>ಭಂಡಾರಿ ಆರ್. ವಿ ಡಾ||</author>
+				<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದುರುಗ ಜಾನಪದ ಮತ್ತು ಗೊಲ್ಲಕಡಗ</title>
+			<feature></feature>
+			<page>0148-015೨</page>
+			<allauthors>
+				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ ಡಾ||</author>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="056-057">
+		<entry>
+			<title>ಡೆಡಲಸ್ಸಿನ ಸ್ವಗತ</title>
+			<feature>ಕಾವ್ಯ</feature>
+			<page>0001-0003</page>
+			<allauthors>
+				<author>ರಾಮಚಂದ್ರಶರ್ಮ ಬಿ. ಸಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜೋಹೋ ಜೋಹಯ್...</title>
+			<feature>ಕಾವ್ಯ</feature>
+			<page>0004-0005</page>
+			<allauthors>
+				<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಣ್ಣುಮಕ್ಕಳು ಕ್ಷಣ ನಕ್ಕರೆ</title>
+			<feature>ಕಾವ್ಯ</feature>
+			<page>0005-0006</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಾಲ್ಯ ಸಖಿ</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0006-0009</page>
+			<allauthors>
+				<author>ಸಿದ್ದರಾಮಯ್ಯ ಎಸ್. ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಅಮಟೆ ಅಮಟೆ</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0009-0011</page>
+			<allauthors>
+				<author>ರವಿಂದ್ರಕುಮಾರ್ ಜಿ.ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪಾಡು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0011-0013</page>
+			<allauthors>
+				<author>ಮೂಗಳ್ಳಿ ಗಣೇಶ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪುಸ್ತಕಗಳು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0013-0015</page>
+			<allauthors>
+				<author>ಸಫ್ದರ್ ಹಶ್ಮಿ</author>
+				<author>ಸರಜೂ ಕಾಟ್ಕರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೀರೊಳಗಣ ಕಿಚ್ಚು</title>
+			<feature>ಕವಿತೆ</feature>
+			<page>0015-0016</page>
+			<allauthors>
+				<author>ವಿಜಯರಾಘವನ್  ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಸಾರ್ಥ' ಕಥೆಯ ಇತಿಹಾಸ</title>
+			<feature></feature>
+			<page>0017-0043</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>"ಯಾವ ಜಪ್ತಿಗೂ ಸಿಗದೆ ಗೋಡೆ ಮೇಲಿನ ನೆವುಲುಗಳು ಕುಣಿಯುತ್ತಿದ್ದವು" ಯಾಕೆ?</title>
+			<feature></feature>
+			<page>0044-0066</page>
+			<allauthors>
+				<author>ರಘು ಸೋಫೀನಾ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಟ್ರಂಕು...</title>
+			<feature></feature>
+			<page>0067-0077</page>
+			<allauthors>
+				<author>ನಂದಾ ಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ನಾಟಕ ಮತ್ತು ರಂಗಭೂಮಿಯ ಮುಂದಿನ ಸವಾಲುಗಳು</title>
+			<feature></feature>
+			<page>0078-0090</page>
+			<allauthors>
+				<author>ಲಿಂಗದೇವರು ಹಳೆಮನೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ವ್ಯಾಖ್ಯಾನ ಕಥೆ</title>
+			<feature></feature>
+			<page>0091-0094</page>
+			<allauthors>
+				<author>ಗಜಾನನ ಈಶ್ವರ ಹೆಗಡೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತೊಗಲ ಮೂಗನು ಕುಯ್ದು...</title>
+			<feature></feature>
+			<page>0095-0104</page>
+			<allauthors>
+				<author>ರಾಧಾಕೃಷ್ಣ ಟಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನಮ್ಮವರಾಗದೆ ಉಳಿದು ನೋಡಿದ ನಾಟಕ...</title>
+			<feature></feature>
+			<page>0105-0113</page>
+			<allauthors>
+				<author>ತುಕಾರಾಮ್ ಎಸ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸಧ್ವನಿಗಳು</title>
+			<feature></feature>
+			<page>0114-0123</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ನೇತ್ರದಾನ</title>
+			<feature></feature>
+			<page>0124-0126</page>
+			<allauthors>
+				<author>ಪದ್ಮಿನಿ ಹೆಗ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಒಂದು ಜಾನಪದ ತಿರುಗಾಟ</title>
+			<feature></feature>
+			<page>0127-0133</page>
+			<allauthors>
+				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನ್ನಡ ವಿಚಾರ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹಿಳೆಯರ ಕೊಡುಗೆ</title>
+			<feature></feature>
+			<page>0134-0144</page>
+			<allauthors>
+				<author>ಪ್ರಭಾವತಿ ಎಸ್. ವಿ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಐದು ಗದ್ಯ ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0145-0146</page>
+			<allauthors>
+				<author>ಕೃಷ್ಣಮೂರ್ತಿ ಬಿಳಿಗೆರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0147-0156</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂತುಲಿತ ಆಯ್ಕೆ</title>
+			<feature></feature>
+			<page>0156-0158</page>
+			<allauthors>
+				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ಜಯಂತಿ' ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ಪತ್ರಿಕೆ.</title>
+			<feature></feature>
+			<page>0161-0166</page>
+			<allauthors>
+				<author>ಸುಮತೀಂದ್ರ ನಾಡಿಗೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನಂದಕಂದರ ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0167-0173</page>
+			<allauthors>
+				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ  ಎಚ್. ಎಸ್ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆನಂದಕಂದರ ಕಾವ್ಯದಲ್ಲಿ ದೇಶಿ ಸಂವೇದನೆ</title>
+			<feature></feature>
+			<page>0174-0185</page>
+			<allauthors>
+				<author>ನಾವಲಗಿ ಸಿ. ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣೆಗಳು...</title>
+			<feature></feature>
+			<page>0186-0187</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="058">
+		<entry>
+			<title>ಕಾವ್ಯ</title>
+			<feature></feature>
+			<page>0003-0010</page>
+			<allauthors>
+				<author>ಆನಂದ ಝಂಜರವಾಡರ</author>
+				<author>ರವೀಂದ್ರಕುಮಾರ ಜಿ. ಕೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಾರಂತ ಪ್ರಪಂಚಕ್ಕೊಂದು ಪ್ರವೇಶ*</title>
+			<feature></feature>
+			<page>0011-0027</page>
+			<allauthors>
+				<author>ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಹು ಸಾಂಸ್ಕೃತಿಕ ನೆಲೆಗಟ್ಟಿನಲ್ಲಿ ಕಲೆ*</title>
+			<feature></feature>
+			<page>0028-0037</page>
+			<allauthors>
+				<author>ಸುಬ್ರಹ್ಮಣ್ಯನ್</author>
+				<author>ವಿಶ್ವನಾಥ್ ಬಿ. ಆರ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಲೆ: ಒಂದು ಚಿಂತನೆ</title>
+			<feature></feature>
+			<page>0038-0048</page>
+			<allauthors>
+				<author>ಚಂದ್ರಕಾಂತ ಕುಸನೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>'ತರಿ ಮರ'</title>
+			<feature></feature>
+			<page>0049-0053</page>
+			<allauthors>
+				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಂಗಮ:ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+			<feature></feature>
+			<page>0054-0063</page>
+			<allauthors>
+				<author>ವನಮಾಲಾ ಕಟ್ಟಿಗೌಡರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಪು.ತಿ.ನ.ಅವರ ಮಲೆ ದೇಗುಲ:ಅವಲೋಕನ</title>
+			<feature></feature>
+			<page>0063-0079</page>
+			<allauthors>
+				<author>ರಂಗಾಚಾರ ಎಚ್. ವಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ದೇವರು ರುಜು ಮಾಡಿದನು ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+			<feature></feature>
+			<page>0080-0086</page>
+			<allauthors>
+				<author>ರಾಜಶೇಖರಪ್ಪ ಬಿ. ಪ್ರೊ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕನಕ ಹಾ. ಮ ಅವರ ನಾಲ್ಕು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0086-0093</page>
+			<allauthors>
+				<author>ಹಾ.ಮ.ಕನಕ</author>
+				<author>ಮೀನಾ ಸದಾಶಿವ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0094-0114</page>
+			<allauthors>
+				<author>ಮಹಾಶ್ವೇತಾದೇವಿ</author>
+				<author>ಕುಮಾರಪ್ಪ ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ</title>
+			<feature></feature>
+			<page>00115-00117</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>00117-00118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="059">
+		<entry>
+			<title>ಕಾವ್ಯ:</title>
+			<feature></feature>
+			<page>0003-0007</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ತೇರನೆಳೆಯತಾರ ತಂಗೀ...</title>
+			<feature></feature>
+			<page>0008-0039</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸೇಡಿಯಾಪು ಕೃಷ್ಣಭಟ್ಟರ ಕಥೆಗಳು</title>
+			<feature></feature>
+			<page>0040-0062</page>
+			<allauthors>
+				<author>ತಾಳ್ತಜೆ ವಸಂತಕುಮಾರ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹರಿಹರರಲ್ಲಿ ಸ್ತ್ರೀ ಮತ್ತು ಕಾಮದ ನೆಲೆಗಳು.</title>
+			<feature></feature>
+			<page>0062-0079</page>
+			<allauthors>
+				<author>ರಾಮಲಿಂಗಪ್ಪ ಟಿ. ಬೇಗೂರು</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಮಾಜವಾದಿ ತತ್ವದ ತಂತ್ರಜ್ಙಾನ ನೀತಿ</title>
+			<feature></feature>
+			<page>0070-0080</page>
+			<allauthors>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಜಿ. ಎನ್</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಲೆ ಎಂದರೇನು?</title>
+			<feature></feature>
+			<page>0081-0093</page>
+			<allauthors>
+				<author>ಚಂದ್ರಕಾಂತ ಕುಸನೂರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಹಿತ್ಯ ಮತ್ತು ಧರ್ಮ: ಅಂತರ ಮತ್ತು ಅಂತರ್‌ಸಂಬಂಧ</title>
+			<feature></feature>
+			<page>0094-0098</page>
+			<allauthors>
+				<author>ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಕಾ. ವೆಂ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಕಂಬಾರರ ನಾಟಕಗಳು:</title>
+			<feature></feature>
+			<page>0099-0107</page>
+			<allauthors>
+				<author>ಶಿವರೆಡ್ಡಿ ಕೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0107-0118</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0119-0120</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+	<volume vnum="060-061">
+		<entry>
+			<title>ಆರು ಕವಿತೆಗಳು</title>
+			<feature></feature>
+			<page>0001-0006</page>
+			<allauthors>
+				<author>ಸಿದ್ದರಾಮಯ್ಯ ಎಸ್. ಜಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಂಸ್ಕೃತಿಕ ಮುಖಾ ಮುಖಿ: ವಸಾಹತು ಸಂದರ್ಭ</title>
+			<feature></feature>
+			<page>0007-0037</page>
+			<allauthors>
+				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಲಕ್ಷ್ಮಣ್ ಅವರ ಆತ್ಮಕಥನ</title>
+			<feature></feature>
+			<page>0038-0043</page>
+			<allauthors>
+				<author>ಶಿವರಾಮಯ್ಯ ಪ್ರೊ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಾಂಪ್ರಾದಾಯಕ ಊರ ಪರಂಪರೆಯಲ್ಲಿ ಕಾಲ ಮತ್ತು ಅವಕಾಶದ ಪ್ರಜ್ಙೆ</title>
+			<feature></feature>
+			<page>0044-0053</page>
+			<allauthors>
+				<author>ನಾಗರಾಜ ವಸ್ತಾರೆ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ರಾ.ಕು.ಪ್ರಬಂಧಗಳು</title>
+			<feature></feature>
+			<page>0054-0068</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ. ಡಾ||</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಎಚ್.ಎಸ್.ವಿ.ಯವರ 'ನದೀ ತೀರದಲ್ಲಿ': ಆಟದ ಗುಣದೊಂದಿಗೆ ಆರಾಧನೆಯ ತೀವ್ರತೆ...</title>
+			<feature></feature>
+			<page>0069-0083</page>
+			<allauthors>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಆಧುನಿಕತೆ ಮತ್ತು ಪ್ರತಿಭಟನೆ: ಎರಡು ಪ್ರಸಂಗಗಳು</title>
+			<feature></feature>
+			<page>0084-0090</page>
+			<allauthors>
+				<author>ಶ್ರೀಧರ ಬಳಗಾರ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಜಾಗತೀಕರಣದಲ್ಲಿ ಸಂಸ್ಕೃತಿ</title>
+			<feature></feature>
+			<page>0091-0110</page>
+			<allauthors>
+				<author>ಅರವಿಂದ ಚೊಕ್ಕಾಡಿ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಬಿ.ಆರ್.ಲಕ್ಷ್ಮಣರಾವ್ ಅವರ ಕಾವ್ಯ*</title>
+			<feature></feature>
+			<page>00111-0118</page>
+			<allauthors>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹಿಂದೂಮತ ಹಾಗೂ ಅತೀಂದ್ರಿಯ ಅನುಭವ</title>
+			<feature></feature>
+			<page>0119-0124</page>
+			<allauthors>
+				<author>ಪ್ರಭಾಕರ ಎಂ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಹೊಸ ಓದು</title>
+			<feature></feature>
+			<page>0124-0138</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಮೊದಲ ನೋಟ...</title>
+			<feature></feature>
+			<page>0138-0140</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+		<entry>
+			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
+			<feature></feature>
+			<page>0140-0142</page>
+			<allauthors>
+				<author>ಸಂಪಾದಕ</author>
+			</allauthors>
+		</entry>
+	</volume>
+
+</samvada>
+<!--vishwas@srirangadigital.com-->
