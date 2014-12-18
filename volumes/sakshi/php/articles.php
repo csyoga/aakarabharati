@@ -137,11 +137,11 @@ if($db->connect_errno > 0)
 
 if($letter == 'Special')
 {
-	$query = "select * from article where title not regexp '^[a-zA-Z].*' order by title, volume, page";
+	$query = "select * from article_sakshi where title not regexp '^[a-zA-Z].*' order by title, volume, page_start";
 }
 else
 {
-	$query = "select * from article where title like '$letter%' order by title, volume, page";
+	$query = "select * from article_sakshi where title like '$letter%' order by title, volume, page_start";
 }
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
@@ -159,7 +159,7 @@ if($num_rows > 0)
 		$titleid=$row['titleid'];
 		$title=$row['title'];
 		$featid=$row['featid'];
-		$page=$row['page'];
+		$page=$row['page_start'];
 		$authid=$row['authid'];
 		$volume=$row['volume'];
 		//~ $part=$row['part'];
@@ -168,7 +168,7 @@ if($num_rows > 0)
 		
 		$title1=addslashes($title);
 		
-		$query3 = "select feat_name from feature where featid='$featid'";
+		$query3 = "select feat_name from feature_sakshi where featid='$featid'";
 		
 		$result3 = $db->query($query3); 
 		//~ $result3 = mysql_query($query3);	
@@ -231,7 +231,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo "<li>Sorry! No articles were found to begin with the letter '$letter' in Records of the The Vedanta Kesari</li>";
+	echo "<li>Sorry! No articles were found to begin with the letter '$letter' in sakshi</li>";
 }
 if($result){$result->free();}
 $db->close();

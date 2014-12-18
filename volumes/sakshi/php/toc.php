@@ -121,7 +121,7 @@ if($db->connect_errno > 0)
 //~ 
 //~ if($result){$result->free();}
 echo "<ul class=\"dot\">";
-$query = "select * from article where volume='$volume' order by page";
+$query = "select * from article_sakshi where volume='$volume' order by page_start";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -140,14 +140,14 @@ if($num_rows > 0)
 		$featid=$row['featid'];
 		$titleid=$row['titleid'];
 		
-		$page=$row['page'];
+		$page=$row['page_start'];
 		
 		$volume=$row['volume'];
 		//~ $part=$row1['part'];
 		//~ $year=$row1['year'];
 		//~ $month=$row1['month'];
 		$title1=addslashes($title);
-		$query3 = "select feat_name from feature where featid='$featid'";
+		$query3 = "select feat_name from feature_sakshi where featid='$featid'";
 		//~ $result3 = mysql_query($query3);		
 		//~ $row3=mysql_fetch_assoc($result3);
 

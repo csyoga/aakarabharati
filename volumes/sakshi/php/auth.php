@@ -96,7 +96,7 @@ if($db->connect_errno > 0)
 
 
 
-$query = "(select titleid, title, page from article where authid like '%$authid%')";
+$query = "(select titleid, title, page_start from article_sakshi where authid like '%$authid%')";
 //~ UNION ALL (select 'type', titleid, title, page from article_memoirs where authid like '%$authid%') 
 //~ UNION ALL (select 'type', titleid, title, page from article_occpapers where authid like '%$authid%') 
 //~ UNION ALL (select type, book_id, title, page from fbi_books_list where authid like '%$authid%') 
@@ -127,12 +127,12 @@ if($num_rows > 0)
 		//~ $type=$row['type'];
 		$book_id=$row['titleid'];
 		$title=$row['title'];
-		$page=$row['page'];
+		$page=$row['page_start'];
 		
 		$title = preg_replace('/!!(.*)!!/', "<i>$1</i>", $title);
 		$title = preg_replace('/!/', "", $title);
 		$type = 1;
-		$query_aux = "select * from article where titleid='$book_id'";
+		$query_aux = "select * from article_sakshi where titleid='$book_id'";
 			
 			//~ $result_aux = mysql_query($query_aux);
 			$result_aux = $db->query($query_aux); 
@@ -142,7 +142,7 @@ if($num_rows > 0)
 			$titleid=$row_aux['titleid'];
 			$title=$row_aux['title'];
 			$featid=$row_aux['featid'];
-			$page=$row_aux['page'];
+			$page=$row_aux['page_start'];
 			$authid=$row_aux['authid'];
 			$volume=$row_aux['volume'];
 			//~ $part=$row_aux['part'];
@@ -154,7 +154,7 @@ if($num_rows > 0)
 			$paper = $volume;	
 			$title1=addslashes($title);
 					
-			$query3 = "select feat_name from feature where featid='$featid'";
+			$query3 = "select feat_name from feature_sakshi where featid='$featid'";
 			
 			//~ $result3 = mysql_query($query3);		
 			//~ $row3=mysql_fetch_assoc($result3);

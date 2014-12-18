@@ -25,7 +25,7 @@
 							<li>
 								<a href="#">ಸಾಕ್ಷಿ</a>
 								<ul class="dl-submenu">
-									<li><a href="../sakshi.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
+									<li><a href="../samvada.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
 									<li><a href="volumes_list.html"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
 									<li><a href="articles.php"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 									<li><a href="authors.php"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
@@ -116,7 +116,7 @@ if($db->connect_errno > 0)
 //~ 
 //~ if($result){$result->free();}
 echo "<ul class=\"dot\">";
-$query = "select * from article where volume='$volume' order by page_start";
+$query = "select * from article_samvada where volume='$volume' order by page_start";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -142,7 +142,7 @@ if($num_rows > 0)
 		//~ $year=$row1['year'];
 		//~ $month=$row1['month'];
 		$title1=addslashes($title);
-		$query3 = "select feat_name from feature where featid='$featid'";
+		$query3 = "select feat_name from feature_samvada where featid='$featid'";
 		//~ $result3 = mysql_query($query3);		
 		//~ $row3=mysql_fetch_assoc($result3);
 

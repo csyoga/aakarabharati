@@ -95,7 +95,7 @@ if($db->connect_errno > 0)
 
 
 
-$query1 = "select * from article where featid='$featid' order by volume,page_start";
+$query1 = "select * from article_samvada where featid='$featid' order by volume,page_start";
 
 $result1 = $db->query($query1); 
 $num_rows1 = $result1 ? $result1->num_rows : 0;
@@ -122,7 +122,7 @@ if($num_rows1 > 0)
 		
 		$title1=addslashes($title);
 		
-		$query3 = "select feat_name from feature where featid='$featid'";
+		$query3 = "select feat_name from feature_samvada where featid='$featid'";
 		
 		//~ $result3 = mysql_query($query3);		
 		//~ $row3=mysql_fetch_assoc($result3);

@@ -529,7 +529,7 @@ x:-o-prefocus, .lb-overlay img {
 
 
 /* ================================
-Contact
+search
 ================================= */
 
 
@@ -758,6 +758,61 @@ Sakshi related styles
 	color: #8b0000;
 	text-decoration:underline;
 }
+
+
+
+/* ================================
+Search related styles
+================================= */
+
+
+.archive_search {
+	border: 1px solid red;
+	margin: 0em 0em 0em 1em;
+	width: 50em;
+	min-height: 40em;
+	line-height: 1.5em;
+}
+.archive_search table{
+	width: 500px;	
+}
+.archive_search table .left{
+	width: 67px;
+	height: 40px;
+	text-align: right;
+	padding: 1em 2em 1em 0;
+	vertical-align: middle;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+.archive_search table .right{
+	width: 180px;
+	text-align: left;
+	vertical-align: middle;
+	padding: 1em 0 1em 2em;
+	border-bottom: 1px solid #CCCCCC;
+}
+.archive_search input{
+	background: none;
+	border: 1px solid #CCCCCC;
+}
+.archive_search .wide{
+	width: 20em;
+}
+.archive_search .med{
+	width: 7em;
+}
+.archive_search select{
+	background: none;
+	border: 1px solid #CCCCCC;
+}
+
+
+
+
+
+
+
 /* ================================
 more media queries
 ================================= */

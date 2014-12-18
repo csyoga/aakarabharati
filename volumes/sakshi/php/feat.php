@@ -95,7 +95,7 @@ if($db->connect_errno > 0)
 
 
 
-$query1 = "select * from article where featid='$featid' order by volume,page";
+$query1 = "select * from article_sakshi where featid='$featid' order by volume,page_start";
 
 $result1 = $db->query($query1); 
 $num_rows1 = $result1 ? $result1->num_rows : 0;
@@ -113,7 +113,7 @@ if($num_rows1 > 0)
 		$titleid=$row1['titleid'];
 		$title=$row1['title'];
 		$featid=$row1['featid'];
-		$page=$row1['page'];
+		$page=$row1['page_start'];
 		$authid=$row1['authid'];
 		$volume=$row1['volume'];
 		//~ $part=$row1['part'];
@@ -122,7 +122,7 @@ if($num_rows1 > 0)
 		
 		$title1=addslashes($title);
 		
-		$query3 = "select feat_name from feature where featid='$featid'";
+		$query3 = "select feat_name from feature_sakshi where featid='$featid'";
 		
 		//~ $result3 = mysql_query($query3);		
 		//~ $row3=mysql_fetch_assoc($result3);

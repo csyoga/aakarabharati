@@ -124,7 +124,7 @@ if($db->connect_errno > 0)
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$query = "select * from author where authorname like '$letter%' order by authorname";
+$query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
 /*
 $query = "select * from author where authorname like '$letter%' order by authorname";
 */
@@ -146,7 +146,7 @@ if($num_rows > 0)
 		$authorname=$row['authorname'];
 
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a href=\"auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+		echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 		echo "</li>\n";
 	}
 }
