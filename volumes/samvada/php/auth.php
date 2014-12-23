@@ -145,13 +145,13 @@ if($num_rows > 0)
 			$page=$row_aux['page_start'];
 			$authid=$row_aux['authid'];
 			$volume=$row_aux['volume'];
-			//~ $part=$row_aux['part'];
+			$part=$row_aux['part'];
 			//~ $year=$row_aux['year'];
 			//~ $month=$row_aux['month'];
 			
 			if($result_aux){$result_aux->free();}
 			
-			$paper = $volume;	
+			$paper = $part;	
 			$title1=addslashes($title);
 					
 			$query3 = "select feat_name from feature_samvada where featid='$featid'";
@@ -162,21 +162,21 @@ if($num_rows > 0)
 			$result3 = $db->query($query3); 
 			$row3 = $result3->fetch_assoc();
 			
-			//~ $dpart = preg_replace("/^0/", "", $part);
-			//~ $dpart = preg_replace("/\-0/", "-", $dpart);
+			$dpart = preg_replace("/^0/", "", $part);
+			$dpart = preg_replace("/\-0/", "-", $dpart);
 			$feature=$row3['feat_name'];
 			
 			if($result3){$result3->free();}
 					
 				echo "<li>";
-				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 				
 				if($feature != "")
 				{
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";
 				}
 				echo "<br /><span class=\"featurespan\">
-					<a href=\"toc.php?vol=$volume\">ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</a>
+					<a href=\"toc.php?part=$part\">ಸಂಚಿಕೆ&nbsp;(".intval($part).")</a>
 				</span>";
 				
 				//~ echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";

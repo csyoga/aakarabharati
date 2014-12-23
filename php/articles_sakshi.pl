@@ -8,32 +8,39 @@ $pwd = $ARGV[3];
 use DBI();
 @ids=();
 
-open(IN,"samvada.xml") or die "can't open samvada.xml\n";
+open(IN,"sakshi.xml") or die "can't open sakshi.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $dbh->{'mysql_enable_utf8'} = 1;
 $dbh->do('SET NAMES utf8');
 
-$sth11r=$dbh->prepare("CREATE TABLE article_samvada(title varchar(1500), 
+$sth11r=$dbh->prepare("CREATE TABLE article_sakshi(title varchar(500), 
 authid varchar(20),
 authorname varchar(1000),
 featid varchar(5),
 type varchar(5),
 page_start varchar(5),
 page_end varchar(5),
-volume varchar(10),
+volume varchar(5),
+part varchar(5),
+info varchar(100),
 titleid int(10) auto_increment, primary key(titleid)) ENGINE=MyISAM");
 $sth11r->execute();
 $sth11r->finish();
 
 $line = <IN>;
-
+print "Sakshi\n";
 while($line)
 {
 	if($line =~ /<volume vnum="(.*)">/)
 	{
 		$volume = $1;
 		print $volume . "\n";
+	}	
+	elsif($line =~ /<part pnum="(.*)" info="(.*)">/)
+	{
+		$pnum = $1;
+		$info = $2;
 	}	
 	elsif($line =~ /<title>(.*)<\/title>/)
 	{
@@ -44,12 +51,12 @@ while($line)
 		$feature = $1;
 		$featid = get_featid($feature);
 	}	
-	elsif($line =~ /<page>(.*)<\/page>/)
+	elsif($line =~ /<page>(.*)-(.*)<\/page>/)
 	{
-		$page = $1;
-		($page_start,$page_end) = split(/-/,$page)
+		$page_start = $1;
+		$page_end = $2;
 	}	
-	elsif($line =~ /<author type="(.*)">(.*)<\/author>/)
+	elsif($line =~ /<author type="(.*?)">(.*)<\/author>/)
 	{
 		$type = $1;
 		$authorname = $2;
@@ -63,13 +70,11 @@ while($line)
 	}
 	elsif($line =~ /<\/entry>/)
 	{
-		insert_article($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume);
+		insert_article($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume,$pnum,$info);
 		$authids = "";
 		$featid = "";
 		$author_name = "";
 		$id = "";
-		$page_start = "";
-		$page_end = "";
 	}
 	$line = <IN>;
 }
@@ -79,14 +84,14 @@ $dbh->disconnect();
 
 sub insert_article()
 {
-	my($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume) = @_;
+	my($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume,$pnum,$info) = @_;
 	my($sth1);
 
 	$title =~ s/'/\\'/g;
 	$authids =~ s/^;//;
 	$author_name =~ s/^;//;
 	$author_name =~ s/'/\\'/g;
-	$sth1=$dbh->prepare("insert into article_samvada values('$title','$authids','$author_name','$featid','$type','$page_start','$page_end','$volume','')");
+	$sth1=$dbh->prepare("insert into article_sakshi values('$title','$authids','$author_name','$featid','$type','$page_start','$page_end','$volume','$pnum','$info','')");
 	
 	$sth1->execute();
 	$sth1->finish();
@@ -115,7 +120,7 @@ sub get_featid()
 
 	$feature =~ s/'/\\'/g;
 	
-	$sth=$dbh->prepare("select featid from feature_samvada where feat_name='$feature'");
+	$sth=$dbh->prepare("select featid from feature_sakshi where feat_name='$feature'");
 	$sth->execute();
 			
 	my $ref = $sth->fetchrow_hashref();

@@ -137,11 +137,11 @@ if($db->connect_errno > 0)
 
 if($letter == 'Special')
 {
-	$query = "select * from article_sakshi where title not regexp '^[a-zA-Z].*' order by title, volume, page_start";
+	$query = "select * from article_sakshi where title not regexp '^[a-zA-Z].*' order by title, part, page_start";
 }
 else
 {
-	$query = "select * from article_sakshi where title like '$letter%' order by title, volume, page_start";
+	$query = "select * from article_sakshi where title like '$letter%' order by title, part, page_start";
 }
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
@@ -162,7 +162,7 @@ if($num_rows > 0)
 		$page=$row['page_start'];
 		$authid=$row['authid'];
 		$volume=$row['volume'];
-		//~ $part=$row['part'];
+		$part=$row['part'];
 		//~ $year=$row['year'];
 		//~ $month=$row['month'];
 		
@@ -176,15 +176,15 @@ if($num_rows > 0)
 		//~ $row3=mysql_fetch_assoc($result3);		
 		$row3 = $result3->fetch_assoc();		
 		$feature=$row3['feat_name'];
-		//~ $dpart = preg_replace("/^0/", "", $part);
-		//~ $dpart = preg_replace("/\-0/", "-", $dpart);
+		$dpart = preg_replace("/^0/", "", $part);
+		$dpart = preg_replace("/\-0/", "-", $dpart);
 		if($result3){$result3->free();}
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		echo "
 		<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"titlespan\">
-			<a href=\"toc.php?vol=$volume\">ಸಂಚಿಕೆ (".intval($volume).")</a>
+			<a href=\"toc.php?part=$part\">ಸಂಚಿಕೆ (".intval($part).")</a>
 		</span>";
 		if($feature != "")
 		{

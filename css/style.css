@@ -177,12 +177,27 @@ Spacer
 
 
 /* ================================
+image_header
+================================= */
+
+.image_header {
+/*
+-webkit-transform: rotate(7deg);
+*/
+	margin-top: 10vh;
+	width: 95vw;
+	height: 15vh;
+}
+
+
+
+/* ================================
 Intro
 ================================= */
 
 #intro{
     height:90vh;
-    width:100%;
+    width:100%vw;
     background-color: #083967;
 /*
     background-color: #428bca;
@@ -202,7 +217,7 @@ Intro
 .intro-text {
 	position:relative;
 	width:100%;
-	margin-top:200px;
+	margin-top:150px;
 	z-index:1000;
 }
 #intro .brand {
@@ -243,9 +258,8 @@ About
 	margin-bottom: 30px;
 }
 #about p {
-	width: 78%;
+	width: 100%;
 	font-size: 1.22em;
-	margin-left: 9em;
 	text-align: left;
 }
 .sponcer_text {

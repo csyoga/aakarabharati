@@ -56,7 +56,7 @@ include("connect.php");
 //~ require_once("../common.php");
 
 if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
-//~ if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
+if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 
 //~ if(!(isValidVolume($volume) && isValidPart($part)))
 //~ { 
@@ -105,23 +105,23 @@ if($db->connect_errno > 0)
 	//~ $month=$row['month'];
 	//~ $year=$row['year'];
 	//~ 
-	//~ $dpart = preg_replace("/^0/", "", $part);
-	//~ $dpart = preg_replace("/\-0/", "-", $dpart);
-	//~ 
-	if ($volume =='001a')
+	$dpart = preg_replace("/^0/", "", $part);
+	$dpart = preg_replace("/\-0/", "-", $dpart);
+	
+	if ($part =='001a')
 		{
-			echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume)."a)</div>";
+			echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($part)."a)</div>";
 		}
 		else {
 			
-	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</div>";
+	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($part).")</div>";
 		 }
 	
 //~ }
 //~ 
 //~ if($result){$result->free();}
 echo "<ul class=\"dot\">";
-$query = "select * from article_sakshi where volume='$volume' order by page_start";
+$query = "select * from article_sakshi where part='$part' order by page_start";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -157,7 +157,7 @@ if($num_rows > 0)
 		$feature=$row3['feat_name'];
 		
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		if($feature != "")
 		{
 			echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";

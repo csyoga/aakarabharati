@@ -95,7 +95,7 @@ if($db->connect_errno > 0)
 
 
 
-$query1 = "select * from article_sakshi where featid='$featid' order by volume,page_start";
+$query1 = "select * from article_sakshi where featid='$featid' order by part,page_start";
 
 $result1 = $db->query($query1); 
 $num_rows1 = $result1 ? $result1->num_rows : 0;
@@ -116,7 +116,7 @@ if($num_rows1 > 0)
 		$page=$row1['page_start'];
 		$authid=$row1['authid'];
 		$volume=$row1['volume'];
-		//~ $part=$row1['part'];
+		$part=$row1['part'];
 		//~ $year=$row1['year'];
 		//~ $month=$row1['month'];
 		
@@ -134,14 +134,14 @@ if($num_rows1 > 0)
 		
 		if($result3){$result3->free();}
 		
-		//~ $dpart = preg_replace("/^0/", "", $part);
-		//~ $dpart = preg_replace("/\-0/", "-", $dpart);
+		$dpart = preg_replace("/^0/", "", $part);
+		$dpart = preg_replace("/\-0/", "-", $dpart);
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		echo "
 		<span class=\"titlespan\"> &nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"featurespan\">
-			<a href=\"toc.php?vol=$volume\">ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</a>
+			<a href=\"toc.php?part=$part\">ಸಂಚಿಕೆ&nbsp;(".intval($part).")</a>
 		</span>";
 		
 		if($authid != 0)

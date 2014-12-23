@@ -54,7 +54,7 @@
 include("connect.php");
 //~ require_once("../common.php");
 
-if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 //~ if(isset($_GET['year'])){$year = $_GET['year'];}else{$year = '';}
 
 //~ if(!(isValidVolume($volume) && isValidYear($year)))
@@ -84,7 +84,7 @@ if($db->connect_errno > 0)
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;Volume ".$volume."</div>";
+echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;Volume ".$part."</div>";
 ?>
 
 			<div class="col1">
@@ -95,7 +95,7 @@ echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;Volu
 $row_count = 4;
 //~ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-$query = "select distinct volume from article where volume='$volume' order by volume";
+$query = "select distinct volume from article where part='$part' order by part";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -115,7 +115,7 @@ if($num_rows > 0)
 		
 		$part=$row['part'];
 		
-		$query11 = "select min(page) as minpage from article where volume='$volume'";
+		$query11 = "select min(page) as minpage from article where part='$part'";
 		
 		//~ $result11 = mysql_query($query11);
 		//~ $num_rows11 = mysql_num_rows($result11);
@@ -132,7 +132,7 @@ if($num_rows > 0)
 		}
 		if($result11){$result11->free();}
 
-		$query12 = "select max(page_end) as maxpage from article where volume='$volume'";
+		$query12 = "select max(page_end) as maxpage from article where part='$part'";
 		
 		//~ $result12 = mysql_query($query12);
 		//~ $num_rows12 = mysql_num_rows($result12);
@@ -148,7 +148,7 @@ if($num_rows > 0)
 		}
 		if($result12){$result12->free();}
 
-		$query1 = "select distinct month from article where volume='$volume' and part='$part' order by month";
+		$query1 = "select distinct month from article where part='$part' order by month";
 
 		//~ $result1 = mysql_query($query1);
 		//~ $num_rows1 = mysql_num_rows($result1);
@@ -174,10 +174,10 @@ if($num_rows > 0)
 			$dpart = preg_replace("/^0/", "", $part);
 			$dpart = preg_replace("/\-0/", "-", $dpart);
 			
-			echo "<li class=\"li_below\"><span class=\"yearspan\"><a href=\"toc.php?vol=$volume\">Issue&nbsp;".$dpart;
+			echo "<li class=\"li_below\"><span class=\"yearspan\"><a href=\"toc.php?part=$part\">Issue&nbsp;".$dpart;
 			if(intval($volume) != 0)
 			{
-				echo "&nbsp;(".$volume.")";
+				echo "&nbsp;(".$part.")";
 			}
 			echo "<br /></a></span></li>";
 		}

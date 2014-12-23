@@ -55,8 +55,8 @@
 include("connect.php");
 //~ require_once("../common.php");
 
-if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
 //~ if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
+if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 
 //~ if(!(isValidVolume($volume) && isValidPart($part)))
 //~ { 
@@ -110,13 +110,13 @@ if($db->connect_errno > 0)
 	//~ 
 
 			
-	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($volume).")</div>";
+	echo "<div class=\"page_title\"><i class='fa fa-book fa-1x'></i>&nbsp;&nbsp;"."ಸಂಚಿಕೆ&nbsp;(".intval($part).")</div>";
 	
 //~ }
 //~ 
 //~ if($result){$result->free();}
 echo "<ul class=\"dot\">";
-$query = "select * from article_samvada where volume='$volume' order by page_start";
+$query = "select * from article_samvada where part='$part' order by page_start";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -138,7 +138,7 @@ if($num_rows > 0)
 		$page=$row['page_start'];
 		
 		$volume=$row['volume'];
-		//~ $part=$row1['part'];
+		$part=$row['part'];
 		//~ $year=$row1['year'];
 		//~ $month=$row1['month'];
 		$title1=addslashes($title);
@@ -152,7 +152,7 @@ if($num_rows > 0)
 		$feature=$row3['feat_name'];
 		
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		if($feature != "")
 		{
 			echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";
