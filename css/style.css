@@ -690,7 +690,7 @@ Sakshi related styles
 	text-align: center;
 }
 .dot li{
-	list-style-type: disc;
+	list-style-type: none;
 	padding-bottom: 0.5em;
 }
 .titlespan {
@@ -781,7 +781,6 @@ Search related styles
 
 
 .archive_search {
-	border: 1px solid red;
 	margin: 0em 0em 0em 1em;
 	width: 50em;
 	min-height: 40em;
@@ -789,6 +788,8 @@ Search related styles
 }
 .archive_search table{
 	width: 500px;	
+	font-size: 0.9em;
+	font-family:'kedage';
 }
 .archive_search table .left{
 	width: 67px;
@@ -809,6 +810,7 @@ Search related styles
 .archive_search input{
 	background: none;
 	border: 1px solid #CCCCCC;
+	color:#083967;
 }
 .archive_search .wide{
 	width: 20em;
@@ -821,12 +823,92 @@ Search related styles
 	border: 1px solid #CCCCCC;
 }
 
-
-
-
-
-
-
+.mainpage_search {
+	min-height: 25em;
+	width: 100%;
+	clear: both;
+	padding-bottom:3em;
+}
+#nav_search{
+	float: left;
+	width: 15%;
+	font-family:'sans-serif';
+	min-height: 15em;
+	margin: 0 0 0 0;
+	padding-right:1em;
+}
+#nav_search ul li {
+	list-style:none;
+	text-align:center;
+}
+.mainpage_search .menu_search{
+	font-size: 1em;
+	list-style:none;
+}
+.mainpage_search .menu_search li{
+	text-align: left;
+	border-bottom: 1px solid #DDDDDD;
+	padding: 0.5em 0 0.5em 1em;
+	color: #3D3D3D;
+	font-variant: small-caps;
+}
+.mainpage_search .menu_search li a{
+	color: #083967;
+	font-size: 0.95em;
+	text-decoration: none;
+}
+.mainpage_search .menu_search li a:HOVER, .mainpage_search .menu_search li a.active{
+	color: #8B0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+#about_search  {
+	display: inline-block;
+	border-left:1px solid #3D3D3D;
+	width: 84%;
+	padding-top: 1em;
+	padding-bottom:5em;
+	padding-left:2em;
+	font-size: 1.22em;
+	text-align: left;
+}
+.titlespan_search {
+	color:#8b0000;
+	font-size: 0.95em;
+}
+.count{
+	width: 15em;
+	float: right;
+	margin-top: 0.1em;
+}
+.motif{
+	color: #fff;
+	height:28px;
+	width:28px;
+	border-radius:50%;
+	font-weight: bold;
+	font-size: 16px;
+	float:left;
+	text-align:center;
+	padding-right: 1px;
+	margin-right: 1em;
+	line-height: 1.5em;
+	
+}
+.sakshi_motif, .sak_motif{
+	background: #083967;
+}
+.sakshi_motif:before, .sak_motif:before{
+	content: 'ಸಾ';
+	color:white;
+}
+.samvada_motif, .sam_motif{
+	background: #A39446;
+}
+.samvada_motif:before, .sam_motif:before{
+	content: 'ಸಂ';
+	color:white;
+}
 /* ================================
 more media queries
 ================================= */

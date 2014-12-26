@@ -4,7 +4,7 @@ $host = $ARGV[0];
 $db = $ARGV[1];
 $usr = $ARGV[2];
 $pwd = $ARGV[3];
-
+$type_code = '02';
 use DBI();
 @ids=();
 
@@ -58,7 +58,7 @@ while($line)
 	}	
 	elsif($line =~ /<author type="(.*)">(.*)<\/author>/)
 	{
-		$type = $1;
+		$author_type = $1;
 		$authorname = $2;
 		$authids = $authids . ";" . get_authid($authorname);
 		$author_name = $author_name . ";" .$authorname;
@@ -70,7 +70,7 @@ while($line)
 	}
 	elsif($line =~ /<\/entry>/)
 	{
-		insert_article($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume,$pnum,$info);
+		insert_article($title,$authids,$author_name,$featid,$type_code,$page_start,$page_end,$volume,$pnum,$info);
 		$authids = "";
 		$featid = "";
 		$author_name = "";
@@ -86,14 +86,14 @@ $dbh->disconnect();
 
 sub insert_article()
 {
-	my($title,$authids,$author_name,$featid,$type,$page_start,$page_end,$volume,$pnum,$info) = @_;
+	my($title,$authids,$author_name,$featid,$type_code,$page_start,$page_end,$volume,$pnum,$info) = @_;
 	my($sth1);
 
 	$title =~ s/'/\\'/g;
 	$authids =~ s/^;//;
 	$author_name =~ s/^;//;
 	$author_name =~ s/'/\\'/g;
-	$sth1=$dbh->prepare("insert into article_samvada values('$title','$authids','$author_name','$featid','$type','$page_start','$page_end','$volume','$pnum','$info','')");
+	$sth1=$dbh->prepare("insert into article_samvada values('$title','$authids','$author_name','$featid','$type_code','$page_start','$page_end','$volume','$pnum','$info','')");
 	
 	$sth1->execute();
 	$sth1->finish();

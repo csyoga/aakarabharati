@@ -35,8 +35,13 @@
 					</div><!-- /dl-menuwrapper -->
 	</div>	
 		<div id="header">
+<!--
 			<h1>ಸಾಕ್ಷಿ</h1>
-		<span>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</span>	
+-->
+		<div class="image_heading">
+			<img src="images/sakshi.png">
+		</div>
+		<span><br>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</span>	
 		</div>
     <div class="mainpage_sakshi">
 		<div id="nav_sakshi">
