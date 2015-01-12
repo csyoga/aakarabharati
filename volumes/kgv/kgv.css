@@ -1,5 +1,4 @@
 .kgv_about{
-	border: 1px solid red;
 	display: inline-block;
 	float: left;
 	font-family:'kedage';
@@ -63,41 +62,46 @@
 	font-size: 1em;
 	font-weight:bold;
 }
-.node {
-  cursor: pointer;
-}
+	.node {
+    cursor: pointer;
+  }
 
-.node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 1.5px;
-}
+  .overlay{
+      background-color:#EEE;
+  }
+   
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+   
+  .node text {
+    font-size:10px; 
+    font-family:sans-serif;
+  }
+   
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+  }
 
-.node text {
-  font: 10px sans-serif;
-}
+  .templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+  }
 
-.link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 1.5px;
-}
-.node {
-  cursor: pointer;
-}
+  .ghostCircle.show{
+      display:block;
+  }
 
-.node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 2px;
-}
-
-.node text {
-  font: 10px sans-serif;
-}
-
-.link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 2px;
+  .ghostCircle, .activeDrag .ghostCircle{
+       display: none;
+  }
+  #tree-container {
+	display:block;
+	border: 1px solid red;
+	width: 60%;
 }
