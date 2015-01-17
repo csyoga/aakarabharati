@@ -84,6 +84,7 @@
 			<entry>
 				<title>ತಿರುಗಾಟ ೮೬ ರ 'ಆಲೀಬಾಬಾ" ಮಕ್ಕಳ ಮಾತಿನಲ್ಲಿ</title>
 				<feature>ತಿರುಗಾಟ</feature>
+				<play>ಆಲೀಬಾಬಾ</play>
 				<page>0003-0004</page> 
 				<allauthors/>
 			</entry>
@@ -96,6 +97,7 @@
 			<entry>
 				<title>ಮುಖಾಮುಖಿ -೨</title>
 				<feature></feature>
+				<play>ತ್ರೀಪೆನ್ನಿ ಅಪೇರ</play>
 				<page>0007-0008</page> 
 				<allauthors/>
 			</entry>
@@ -163,6 +165,7 @@
 				<title>'ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ' ಶತಮಾನೋತ್ಸವ</title>
 				<feature></feature>
 				<page>0001-0002</page>
+				<play>ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ</play>
 				<allauthors/>
 			</entry>
 			<entry>
@@ -181,6 +184,7 @@
 				<title>ಬೆಪ್ಪು ತಕ್ಕಡಿ ಭೋಳೇಶಂಕರ</title>
 				<feature></feature>
 				<page>0004-0004</page>
+				<play>ಬೆಪ್ಪು ತಕ್ಕಡಿ ಭೋಳೇಶಂಕರ</play>
 				<allauthors/>
 			</entry>
 			<entry>
@@ -242,6 +246,7 @@
 			<entry>
 				<title>ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
+				<play>ಮೇಘಸಂದೇಶಮ್</play>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ.  ವಿ</author>
@@ -302,7 +307,7 @@
 			</part>
     </volume>
 	<volume vnum="003">
-		<part pnum="01" month="03" year="1987">
+		<part pnum="01" month="02" year="1987">
 			<entry>
 				<title>ಸಫ್ದರ್ ಹಷ್ಮಿ</title>
 				<feature></feature>
@@ -343,19 +348,22 @@
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ 89</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0002-0006</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ತ್ರಿಚೂರು ನಾಟಕ ಶಾಲೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0006-0007</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
+					<author>ಕೆ. ಜಿ. ಕೃಷ್ಣಮೂರ್ತಿ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ಲಾರೆನ್ಸ್ ಒಲಿವಿಯರ್, ಷೆೇಕ್‌ಸ್ಪಿಯರ್, ಇತ್ಯಾದಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0008-0008</page> 
 				<allauthors/>
 			</entry>
@@ -380,7 +388,7 @@
 		</part>
 	</volume>
 	<volume vnum="004"> 
-		<part pnum="01" month="03" year="1990">
+		<part pnum="01" month="02" year="1990">
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ ಕಳೆದ ಅವಧಿಯ ಚಟುವಟಿಕೆಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -411,7 +419,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಗೀತವೇದಿಕೆ ಕಾರ್ಯಕ್ರಮಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0011-0011</page> 
 				<allauthors/>
 			</entry>
@@ -432,13 +440,7 @@
 			<entry>
 				<title>ಶಿಬಿರ ಯೋಜನೆ</title>
 				<feature></feature>
-				<page>0002-0002</page> 
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>ಭಾಗವಹಿಸುವವರಲ್ಲಿ ವಿನಂತಿ</title>
-				<feature></feature>
-				<page>0003-0004</page> 
+				<page>0002-0004</page> 
 				<allauthors/>
 			</entry>
 			<entry>
@@ -455,9 +457,11 @@
 			</entry>
 			<entry>
 				<title>ಗಿರೀಶ್ ಕಾರ್ನಾಡ್‌ರೊಂದಿಗೆ ಒಂದು ಸಂದರ್ಶನ</title>
-				<feature></feature>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0008-00013</page> 
-				<allauthors/>
+				<allauthors>
+					<author>(ಅನು)ವೆಂಕಟಗಿರಿ ಬೇದೂರು</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ಮಾತುಕತೆ</title>
@@ -469,13 +473,13 @@
 		<part pnum="04" month="11" year="1990">
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ಅಕ್ಟೋಬರ್ 90</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0006</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ 90 - ಮೊದಲ ಪ್ರವಾಸದ ಪ್ರಾರಂಭ</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0006-0006</page> 
 				<allauthors/>
 			</entry>
@@ -512,14 +516,16 @@
 				<feature></feature>
 				<page>0002-0004</page> 
 				<allauthors>
-					<author>ಪ್ರೊ|| ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟ</author>
+					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮ</title>
 				<feature></feature>
 				<page>0005-0005</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ಮಾತುಕತೆ</title>
@@ -586,8 +592,8 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ೯೧ ಯೋಜನೆ</title>
-				<feature></feature>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ 91 ಯೋಜನೆ</title>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0003-0004</page> 
 				<allauthors/>
 			</entry>
@@ -601,12 +607,14 @@
 				<title>ಡಾ|| ಚಂದ್ರಶೇಖರ ಕಂಬಾರರೊಡನೆ ಒಂದು ಸಂದರ್ಶನ</title>
 				<feature></feature>
 				<page>0010-0010</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1991">	
 			<entry>
-				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೯೧ </title>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 91 </title>
 				<feature></feature>
 				<page>0001-0002</page> 
 				<allauthors/>
@@ -617,13 +625,25 @@
 				<page>0003-0007</page> 
 				<allauthors/>
 			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0008-0008</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ 91</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0009-0010</page> 
+				<allauthors/>
+			</entry>
 		</part>
 	</volume>
 	<volume vnum="006">
 		<part pnum="01" month="03" year="1992"> 
 			<entry>
 				<title>ಗಂಧರ್ವ ಸಂವಹನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0003</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -635,7 +655,7 @@
 				<page>0003-0006</page> 
 				<allauthors>
 					<author>ಪ್ರಸನ್ನ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -644,7 +664,6 @@
 				<page>0006-0009</page> 
 				<allauthors>
 					<author>ಸತ್ಯಜಿತ್ ರಾಯ್ </author>
-					<author>ಓರಿಯಂಟ್ - ಲಾಂಗ್ಮನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -652,7 +671,7 @@
 				<feature></feature>
 				<page>0009-0010</page> 
 				<allauthors>
-					<author>ಐತಾಳ</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -681,7 +700,7 @@
 			</entry>
 			<entry>
 				<title>ರಂಗಾಯಣ ವಾರ್ತೆ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0014-0014</page> 
 				<allauthors/>
 			</entry>
@@ -695,15 +714,17 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ೯೧ - ೯೨ ಕಾರ್ಯಕ್ರಮ ಯೋಜನೆ</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0015-0017</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಮಿಥುನ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0018-0018</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="02" month="05" year="1992">
@@ -713,25 +734,25 @@
 				<page>0002-0004</page> 
 				<allauthors>
 					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಮಿಸ್ಟರ್ ಅಲ್ಕಾಜಿಯರೆ, ಭಾರತ ಬದಲಾಗಿದೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0004-0007</page> 
 				<allauthors>
 					<author>ಪ್ರಸನ್ನ</author>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ </author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ದಿನಸಿತ್ಯದ ಬದುಕೇ ಒಂದು ರಂಗಭೂಮಿ</title>
+				<title>ದಿನನಿತ್ಯದ ಬದುಕೇ ಒಂದು ರಂಗಭೂಮಿ</title>
 				<feature></feature>
 				<page>0007-0007</page> 
 				<allauthors>
 					<author>ಬರ್ಟೋಲ್ಟ್ ಬ್ರೆಕ್ಟ್</author>
-					<author>ಮಾಲತಿ ಎಸ್</author>
+					<author>(ಅನು)ಮಾಲತಿ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -743,9 +764,10 @@
 			<entry>
 				<title>ಹ್ಯಾಮ್ಲೆಟ್‌ನ ಸ್ವಗತಗಳು</title>
 				<feature></feature>
+				<play>ಹ್ಯಾಮ್ಲೆಟ್‌</play>
 				<page>0013-0014</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -762,7 +784,7 @@
 			</entry>
 			<entry>
 				<title>ರಂಗಾಯಣ ವಾರ್ತೆ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0017-0017</page> 
 				<allauthors/>
 			</entry>
@@ -782,7 +804,7 @@
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ ೯೨ : ಯೋಜನೆ</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0002-0003</page> 
 				<allauthors/>
 			</entry>
@@ -814,7 +836,7 @@
 			</entry>
 			<entry>
 				<title>ನಿನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0013-0013</page> 
 				<allauthors/>
 			</entry>
@@ -834,16 +856,17 @@
 			</entry>
 			<entry>
 				<title>ವೊಯ್‌ಜೆಕ್ ಹಾಡುಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
+				<play>ವೊಯ್‌ಜೆಕ್</play>
 				<page>0015-0016</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1992">
 			<entry>
-				<title>ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<title>ಸಂಸ್ಕೃತಿ ಶಿಬಿರ - 92 </title>
 				<feature></feature>
 				<page>0001-0001</page> 
 				<allauthors/>
@@ -851,14 +874,16 @@
 			<entry>
 				<title>ಅಶೋಕ ವಾಜಪೇಯಿ ಅವರ ಉದ್ಘಾಟನಾ ಭಾಷಣ</title>
 				<feature></feature>
-				<page>0001-0001</page> 
+				<page>0002-0007</page> 
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>ಪರಂಪರೆ ಮತ್ತು ಆಧುನಿಕತೆಗಳ ನಡುವೆ ಜೀಕಾಡುತ್ತ ಗಿರೀಶ್ ಕಾರ್ನಾಡ </title>
-				<feature></feature>
+				<title>ಪರಂಪರೆ ಮತ್ತು ಆಧುನಿಕತೆಗಳ ನಡುವೆ ಜೀಕಾಡುತ್ತ </title>
+				<feature>ಲೇಖನ</feature>
 				<page>0008-0016</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರದ  ಚಟುವಟಿಕೆಗಳು</title>
@@ -868,11 +893,9 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0017-0017</page> 
-				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ರಂಗಾಯಣ ಮೈಸೂರು</title>
@@ -888,7 +911,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ೯೨</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0018-0018</page> 
 				<allauthors/>
 			</entry>
@@ -897,10 +920,12 @@
 	<volume vnum="007"> 
 		<part pnum="01" month="03" year="1993"> 
 			<entry>
-				<title>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ - ಸಂಗೀತದ ಬಗ್ಗೆ </title>
+				<title>ಸಂಗೀತದ ಬಗ್ಗೆ </title>
 				<feature></feature>
 				<page>0001-0018</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣಕೇಂದ್ರ - ಚಟುವಟಿಕೆಗಳು</title>
@@ -910,7 +935,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಕಾರ್ಯಕ್ರಮ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0019-0019</page> 
 				<allauthors/>
 			</entry>
@@ -934,7 +959,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ - ೯೨  ಪ್ರದರ್ಶನಗಳು</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0021-0021</page> 
 				<allauthors/>
 			</entry>
@@ -948,17 +973,20 @@
 			</entry>
 			<entry>
 				<title>ರಂಗವಾಸ್ತವವಾಗಿ ಸತ್ಯ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0006</page> 
 				<allauthors>
 					<author>ಪ್ರಸನ್ನ</author>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸ್ಟಾನಿಸ್ಲಾವ್‌ಸ್ಕಿ ಹೊಸಬೆಳಕು</title>
 				<feature></feature>
 				<page>0007-0007</page> 
-				<allauthors/>
+				<allauthors>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ಆಂಟನ್ ಚೆಕಾವ್ ಮತ್ತು ಮಾಸ್ಕೊ ಆರ್ಟಥಿಯೇಟರ್ : ಕೆಲವು ನೆನಪುಗಳು</title>
@@ -968,13 +996,13 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ - ವಿವಿಧ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0017-0017</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ -೯೨  ಕೆಲವು ಅಂಕಿ-ಅಂಶಗಳು</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0017-0017</page> 
 				<allauthors/>
 			</entry>
@@ -993,20 +1021,21 @@
 		</part>
 		<part pnum="03" month="08" year="1993"> 
 			<entry>
-				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೯೩</title>
-				<feature></feature>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 93</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>ತಿರುಗಾಟ-೯೩ : ಯೋಜನೆ</title>
-				<feature></feature>
+				<title>ತಿರುಗಾಟ-93 : ಯೋಜನೆ</title>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0002-0003</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಗೋಕುಲ ನಿರ್ಗಮನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
+				<play>ಗೋಕುಲ ನಿರ್ಗಮನ</play>
 				<page>0004-0016</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1014,7 +1043,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0016-0016</page> 
 				<allauthors/>
 			</entry>
@@ -1027,14 +1056,14 @@
 		</part>
 		<part pnum="04" month="11" year="1993"> 
 			<entry>
-				<title>ನೀನಾಸಮ್  ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೧೯೯೩</title>
-				<feature></feature>
+				<title>ನೀನಾಸಮ್  ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1993</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್   ಪ್ರತಿಷ್ಠಾನ ಕಾರ್ಯಕ್ರಮಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
@@ -1048,7 +1077,9 @@
 				<title>ಹಬೀದ್ ತನ್ವೀರ್ - ಒಂದು ಸಂದರ್ಶನ</title>
 				<feature></feature>
 				<page>0002-0016</page> 
-				<allauthors/>
+				<allauthors>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರದ ಚಟುವಟಿಕೆಗಳು</title>
@@ -1065,10 +1096,10 @@
 		</part>
 	</volume>
 	<volume vnum="008"> 
-		<part pnum="01" month="03" year="1994"> 
+		<part pnum="01" month="02" year="1994"> 
 			<entry>
 				<title>ಮೂರು ತಿಂಗಳು </title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0010</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1076,7 +1107,7 @@
 			</entry>
 			<entry>
 				<title>ತೋಂಡಿ ಸಂಪ್ರದಾಯ ಮತ್ತು ಆಧುನಿಕ ಕಾವ್ಯ ವಿಚಾರ ಸಂಕಿರಣದ ಆಶಯ ಭಾಷಣ </title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0010-0018</page> 
 				<allauthors>
 					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
@@ -1084,7 +1115,7 @@
 			</entry>
 			<entry>
 				<title>ನಾಟಕಕೃತಿ ಹಾಗೂ ಪ್ರದರ್ಶನ ಪಠ್ಯ </title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0018-0021</page> 
 				<allauthors>
 					<author>ರುಸ್ತುಂ ಭರೂಚಾ</author>
@@ -1096,11 +1127,12 @@
 				<page>0022-0022</page> 
 				<allauthors>
 					<author>ರುಸ್ತುಂ ಭರೂಚಾ</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಹನಗುಂದ : ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ಭರವಸೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0023-0024</page> 
 				<allauthors>
 					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
@@ -1108,17 +1140,17 @@
 			</entry>
 			<entry>
 				<title>ಮಂಚಿಕೇರಿ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0025-0028</page> 
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>ಷೆೇಕ್‌ಸ್ಪಿಯರನ ಒಗಟು</title>
-				<feature></feature>
+				<title>ಷೇಕ್‌ಸ್ಪಿಯರನ ಒಗಟು</title>
+				<feature>ಲೇಖನ</feature>
 				<page>0029-0031</page> 
 				<allauthors>
 					<author>ಇಯಾನ್‌ಕಾಟ್</author>
-					<author>ಜೆ.ಜೆ</author>
+					<author>(ಅನು)ಜೆ.ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1137,7 +1169,7 @@
 			</entry>
 			<entry>
 				<title>ಮೂರು ತಿಂಗಳು </title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0008</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1145,7 +1177,7 @@
 			</entry>
 			<entry>
 				<title>ನಾಟಕ - ರಂಗಭೂಮಿ - ನಾನು </title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0009-0020</page> 
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
@@ -1157,17 +1189,19 @@
 				<page>0021-0027</page> 
 				<allauthors>
 					<author>ಕುರಿಯನ್ ವಿ</author>
-					<author>ಜೆ. ಜೆ</author>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಚನ್ನರಾಯಪಟ್ಟಣದಲ್ಲಿ ಕಾವ್ಯ ಸಹೃದಯತಾ ಶಿಬಿರ </title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0028-0029</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>ಜಿಲ್ಲಾ ರಂಗಮಂದಿರ ಇತ್ಯಾದಿ</title>
+				<title>ಜಿಲ್ಲಾ ರಂಗಮಂದಿರ ಇತ್ಯಾದಿ ವಿನ್ಯಾಸಗಳ ಬಗ್ಗೆ ಸಮಾಲೋಚನೆ</title>
 				<feature></feature>
 				<page>0029-0031</page> 
 				<allauthors/>
@@ -1192,25 +1226,25 @@
 		<part pnum="03" month="08" year="1994"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1994 </title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ 94 </title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ 94 ಯೋಜನೆ</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0003-0004</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಗಾಯನಗಂಗೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0005-0014</page> 
 				<allauthors>
 					<author>ಸತ್ಯನಾರಾಯಣ. ರಾ</author>
@@ -1249,7 +1283,7 @@
 		</part>
 		<part pnum="04" month="11" year="1994"> 
 			<entry>
-				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1994</title>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1994 ಆಶಯ ಭಾಷಣ: ಡಾ|| ಎಂ. ಎನ್. ಶ್ರೀನಿವಾಸ </title>
 				<feature></feature>
 				<page>0001-0019</page> 
 				<allauthors/>
@@ -1258,11 +1292,13 @@
 				<title>ಮತೀಯವಾದ-ಒಂದು ಚರ್ಚೆ</title>
 				<feature></feature>
 				<page>0020-0036</page> 
-				<allauthors/>
+				<allauthors>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 94 </title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0037-0038</page> 
 				<allauthors/>
 			</entry>
@@ -1281,10 +1317,16 @@
 		</part>
 	</volume>
 	<volume vnum="009"> 
-		<part pnum="01" month="03" year="1995"> 
+		<part pnum="01" month="02" year="1995"> 
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ದಶಮಾನೋತ್ಸವ ರಂಗ ಅಧ್ಯಯನ ಶಿಬಿರ</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0001-0002</page> 
+				<allauthors/>
+			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಹಿನ್ನಲೆಯಲ್ಲಿ ಸೆಲೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0017</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1292,13 +1334,15 @@
 			</entry>
 			<entry>
 				<title>ಒಲಿದು ಬಂದವಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0018-0024</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ಭಟ್  ಜಿ. ಎಸ್, ಡಾ|| </author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನಮ್ಮ ಕೊಳೆಗೇರಿಗಳ ಸುಧಾರಣೆಯ ಸಾಧ್ಯತೆಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0025-0034</page> 
 				<allauthors>
 					<author>ಲಾರಿ ಬೇಕರ್</author>
@@ -1306,21 +1350,23 @@
 			</entry>
 			<entry>
 				<title>ಹೆನ್ರಿಕ್ ಇಬ್ಸೆನ್</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0035-0037</page> 
-				<allauthors/>
+				<allauthors>
+					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ಈರುಳ್ಳಿಯ ಸಂಕೇತದ ಕೆಳಗೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0038-0041</page> 
 				<allauthors>
 					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಖೇರ್ ದಂಪತಿಗಳ "ಸಾಲ್‌ಗಿರ್ಹಾ</title>
-				<feature></feature>
+				<title>ಖೇರ್ ದಂಪತಿಗಳ "ಸಾಲ್‌ಗಿರ್ಹಾ"</title>
+				<feature>ಲೇಖನ</feature>
 				<page>0042-0044</page> 
 				<allauthors>
 					<author>ಕನಕ ಹಾ. ಮ</author>
@@ -1330,30 +1376,31 @@
 		<part pnum="02" month="05" year="1995"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ: ಅಕ್ಟೋಬರ್ 1995</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ 95</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಪ್ರಸ್ತುತ ಭಾರತ ಮತ್ತು ಗ್ರಾಮೀಣ ತತ್ವಪರಿಕಲ್ಪನೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0013</page> 
 				<allauthors>
 					<author>ಆಶೀಶ ನಂದಿ</author>
+					<author>(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಡೇರೆಮೇಳ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0014-0020</page> 
 				<allauthors>
-					<author>ದಿ| ಕೆರೆಮನೆ ಶಿವರಾಮ ಹೆಗಡೆ</author>
+					<author>ಭಟ್  ಜಿ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1362,6 +1409,7 @@
 				<page>0021-0031</page> 
 				<allauthors>
 					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1374,7 +1422,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0036-0039</page> 
 				<allauthors/>
 			</entry>
@@ -1390,11 +1438,13 @@
 				<title>ಪ್ರಸ್ತುತ ಭಾರತ ಮತ್ತು ದೇಶಿಯ ಜ್ಙಾನಪರಂಪರೆಗಳು- ಒಂದು ಚರ್ಚೆ</title>
 				<feature></feature>
 				<page>0001-0040</page> 
-				<allauthors/>
+				<allauthors>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0041-0043</page> 
 				<allauthors/>
 			</entry>
@@ -1419,21 +1469,21 @@
 				<feature></feature>
 				<page>0013-0015</page> 
 				<allauthors>
-					<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ. ಡಾ||</author>
+					<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ. , ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಜಯ್ ಸಹನಾ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0016-0024</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರಗಾಂಧಿ</author>
+					<author>ರಾಮಚಂದ್ರ ಗಾಂಧಿ</author>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಬದುಕು ಹಣ್ಣಾಗಿ ಮೂಡಿದ ನಾಟಕ: ದ. ರಾ. ಬೇಂದ್ರೆಯವರ ಹೊಸ ಸಂಸಾರ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0025-0036</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
@@ -1441,15 +1491,15 @@
 			</entry>
 			<entry>
 				<title>ಭಾರತೀಯ ನಾಸ್ತಿಕ ದರ್ಶನಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0037-0049</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0050-0050</page> 
 				<allauthors>
 					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
@@ -1458,7 +1508,7 @@
 		</part>
 	</volume>
 	<volume vnum="010"> 
-		<part pnum="01" month="03" year="1996"> 
+		<part pnum="01" month="02" year="1996"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ - ಪ್ರಕಟಣೆ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1467,23 +1517,24 @@
 			</entry>
 			<entry>
 				<title>ದೇವದೇವಿಯರ ಜಗತ್ತು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0017</page> 
 				<allauthors>
-					<author>ಆಶೀಶ್ ನಂದಿ ಡಾ||</author>
+					<author>ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
+					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ದೈವಸಂಕರ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0018-0027</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author>ನಾಗರಾಜ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ರೋಗ, ಚಿಕಿತ್ಸೆ ಮತ್ತು ಗುಣಮುಖ: ಲಂಕೇಶರ ನಾಟಕಗಳ ಒಂದು ತಾತ್ವಿಕ ನಕ್ಷೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0028-0041</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ. ವಿ </author>
@@ -1497,7 +1548,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0043-0045</page> 
 				<allauthors/>
 			</entry>
@@ -1505,7 +1556,7 @@
 		<part pnum="02" month="05" year="1996"> 
 			<entry>
 				<title>ಬಡತನದ ವ್ರತ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0004</page> 
 				<allauthors>
 					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
@@ -1514,16 +1565,17 @@
 			</entry>
 			<entry>
 				<title>ಭಾರತೀಯವೆನ್ನುವ ಒಂದು ಚಿಂತನಕ್ರಮ ಇದೆಯೆ?</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0005-0036</page> 
 				<allauthors>
-					<author>ರಾಮಾನುಜನ್ ವಿ. ಕೆ ಡಾ||</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>ರಾಮಾನುಜನ್ ಎ. ಕೆ, ಡಾ||</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಪು. ತಿ. ನ. ಅವರ ಅಹಲ್ಯೆ: ಸತತ ಬಿನದದ ಜೀವನಕ್ರಮಕ್ಕೆ ಒಂದು ಸವಾಲು</title>
 				<feature></feature>
+				<play>ಅಹಲ್ಯೆ</play>
 				<page>0037-0050</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
@@ -1531,7 +1583,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0051-0051</page> 
 				<allauthors/>
 			</entry>
@@ -1551,13 +1603,13 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ: ಅಕ್ಟೋಬರ್ 1996</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಕಾರಂತರು ಮತ್ತು ದಕ್ಷಿಣ ಕನ್ನಡತನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0011</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ್ ಜಿ</author>
@@ -1565,7 +1617,7 @@
 			</entry>
 			<entry>
 				<title>ಸೌಂದರ್ಯ ಸ್ಪರ್ಧೆಯನ್ನು ಪ್ರತಿಭಟಿಸುವುದೇತಕ್ಕೆ?</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0012-0019</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1577,11 +1629,12 @@
 				<page>0020-0024</page> 
 				<allauthors>
 					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಒಂದು ಸಮಗ್ರ ನೋಟ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0025-0027</page> 
 				<allauthors/>
 			</entry>
@@ -1595,24 +1648,24 @@
 		<part pnum="04" month="11" year="1996"> 
 			<entry>
 				<title>ಶಿವಾಪುರದ ದೇವ-ದೇವಿಯರು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
-					<author>ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಡಾ||</author>
+					<author>ಚಂದ್ರಶೇಖರ ಕಂಬಾರ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಪರಮಾಣು ಮತ್ತು ಆತ್ಮ</title>
-				<feature></feature>
-				<page>0018-0026</page> 
+				<feature>ಲೇಖನ</feature>
+				<page>0018-0033</page> 
 				<allauthors>
-					<author>ಕೊಠಾರಿ ಡಿ. ಎಸ್ ಪ್ರೊ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>ಕೊಠಾರಿ ಡಿ. ಎಸ್, ಪ್ರೊ.</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಗಿಳಿಪಾಠದ ನೆನಪು-ಅರ್ಥಾತ್ ಬಿ. ವಿ. ಕಾರಂತರಿಗೊಂದು ಅಭಿವಂದನೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0034-0042</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ.ವಿ</author>
@@ -1620,22 +1673,22 @@
 			</entry>
 			<entry>
 				<title>ಭ್ರಮ್ಯಮಾನ ಅಸ್ಸಾಮ್‌ನ ಸಂಚಾರಿ ರಂಗಭೂಮಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0043-0055</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
-				<page>0056-0056</page> 
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0056-0062</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="011"> 
-		<part pnum="01" month="03" year="1997"> 
+		<part pnum="01" month="02" year="1997"> 
 			<entry>
 				<title>ಕಂಬನಿ</title>
 				<feature></feature>
@@ -1650,7 +1703,7 @@
 			</entry>
 			<entry>
 				<title>ನಾಗರಿಕ/ಸೈನಿಕ </title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0003-0016</page> 
 				<allauthors>
 					<author>ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
@@ -1658,15 +1711,15 @@
 			</entry>
 			<entry>
 				<title>ಛದ್ಮವೇಷ ಮತ್ತು ಛತ್ರಪತಿತ್ವ : ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ ಛಂದೋರೂಪಗಳ ವಾಗ್ವಾದ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0017-0025</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಅಡಿಕೆಯ ಮಾನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0026-0033</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1674,17 +1727,23 @@
 			</entry>
 			<entry>
 				<title>ಅಭಿನಯದ ಬಗ್ಗೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0033-0050</page> 
 				<allauthors>
 					<author>ಅನುರಾಧಾ ಕಪೂರ ಡಾ||</author>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ನೀನಾಸಮ್ ಸಂಗೀತ-ಸಹೃದಯತೆ ಶಿಬಿರ : ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<title>ನೀನಾಸಮ್ ಸಂಗೀತ-ಸಹೃದಯತೆ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0051-0052</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ </title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0052-0053</page> 
 				<allauthors/>
 			</entry>
 		</part>
@@ -1697,15 +1756,15 @@
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ವಾಗ್ವಾದಗಳು-ಭಾಗ ೨</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0009</page> 
 				<allauthors>
-					<author>ಬಸವರಾಜ ಕಲ್ಗುಡಿ</author>
+					<author>ಬಸವರಾಜ ಕಲ್ಗುಡಿ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಭವಕೇರಳ ಭಾವ ಕೇರಳ</title>
-				<feature></feature>
+				<title>ಭವಕೇರಳ ಭಾವಕೇರಳ</title>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0010-0020</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1717,12 +1776,13 @@
 				<page>0021-0036</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್ : ಒಂದು ವಿಮರ್ಶೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
+				<play>ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್</play>
 				<page>0037-0042</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -1730,32 +1790,57 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0043-0043</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ : ೯೬ - ೯೭ನೆಯ ವರ್ಷ</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0043-0046</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ : ಚಟುವಟಿಕೆಗಳು</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0047-0048</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0049-0049</page> 
 				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="03" month="08" year="1997"> 
 			<entry>
 				<title>ಪ್ರಕಟಣೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
 			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ : ೯೭</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0002-0002</page> 
+				<allauthors/>
+			</entry>
+
+			<entry>
 				<title>ಗಾಂಧೀಜಿ ಬನಾರಸ್ ಭಾಷಣ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0003-0014</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ದೈರ್ಯದ ತಾಯಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0015-0019</page> 
 				<allauthors>
-					<author>ಸುಚಿತ್ರಲತಾ</author>
+					<author>ಸುಚಿತ್ರಲತಾ ಎಸ್</author>
 					<author>ಮೀರಾ ಎಲ್. ಜಿ</author>
 				</allauthors>
 			</entry>
@@ -1764,35 +1849,38 @@
 				<feature></feature>
 				<page>0019-0027</page> 
 				<allauthors>
-					<author>ಶಂಭುಮಿತ್ರ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>ಶಂಭುಮಿತ್ರ, ದಿ.</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ವಾಗ್ವಾದಗಳು ನವ್ಯ ಚಳುವಳಿಗೆ ಸಂಬಂಧಿಸಿ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0028-0038</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಐತಿಹ್ಯ ಮಾಲೆಯ ಕಥೆಗಳು</title>
 				<feature></feature>
-				<page>0039-0059</page> 
-				<allauthors/>
+				<page>0039-0049</page> 
+				<allauthors>
+					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
-				<page>0050-0050</page> 
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0050-0053</page> 
 				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1997"> 
 			<entry>
-				<title>ಸುಬ್ಬರಾಯರು :ಕೆ.ವಿ. ಸುಬ್ಬಣ್ಣ</title>
-				<feature></feature>
+				<title>ಸುಬ್ಬರಾಯರು</title>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0005</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1806,16 +1894,16 @@
 			</entry>
 			<entry>
 				<title>ನದಿಯಮೇಲೆ ನೆಲದ ಚೊಂತೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0007-0009</page> 
 				<allauthors>
-					<author>ಗಾಂಧೀಜಿ</author>
+					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ - ೯೬ : ಒಂದು ವಿಮರ್ಶೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0010-0025</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -1823,16 +1911,17 @@
 			</entry>
 			<entry>
 				<title>ಒಳದನಿಗೆ ಓಗೊಟ್ಟವರು : ಬ್ರಿಟಿಷ್ ಸಾಮ್ರಾಜ್ಯದ ಇನ್ನೊಂದು ಮುಖ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0026-0045</page> 
 				<allauthors>
 					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author>ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author>ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ : ರೂಪಕದಾಚೆಗಿನ ರೂಪಕ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
+				<play>ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ</play>
 				<page>0046-0054</page> 
 				<allauthors>
 					<author>ವಿಜಯ ಪದಕಿ</author>
@@ -1845,22 +1934,22 @@
 				<page>0055-0058</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0059-0059</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="012"> 
-		<part pnum="01" month="03" year="1998"> 
+		<part pnum="01" month="02" year="1998"> 
 			<entry>
 				<title>ಎಲ್ಲಿ ಹೋದರೊ ಅವರು ಎಂದು ಬರುವರು?</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0002-0005</page> 
 				<allauthors>
 					<author>ವೈದೇಹಿ</author>
@@ -1868,20 +1957,20 @@
 			</entry>
 			<entry>
 				<title>ಜಾತಿ ಕುರಿತು ಗಾಂಧಿಚಿಂತನೆಯಲ್ಲಾದ ಬದಲಾವಣೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0006-0044</page> 
 				<allauthors>
 					<author>ಮಾರ್ಕ್ ಲಿಂಡ್‌ಲೆ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಬಿದಿರಿನ ಮನೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0045-0059</page> 
 				<allauthors>
 					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author>‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1890,18 +1979,18 @@
 				<page>0060-0065</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0066-0066</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಮುನ್ನೋಟ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0067-0067</page> 
 				<allauthors>
 					<author>ವೈದೇಹಿ</author>
@@ -1917,7 +2006,7 @@
 			</entry>
 			<entry>
 				<title>ಮೂಕ ಸಹ್ಯಾದ್ರಿಗೆ ಮಾತುಕೊಟ್ಟವಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0010</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1925,11 +2014,11 @@
 			</entry>
 			<entry>
 				<title>ಮನು ಸಮ್ಮುಖದಲ್ಲಿ ಸ್ವಗತ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0011-0013</page> 
 				<allauthors>
-					<author>ಮಹಾತ್ಮ ಗಾಂಧಿ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1937,7 +2026,7 @@
 				<feature></feature>
 				<page>0014-0025</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್</author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1946,15 +2035,15 @@
 				<page>0026-0029</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಪುಸ್ತಕ ಅವಲೋಕನ-ಕೂಡಿಯಾಟ್ಟಂನಲ್ಲಿ ಸ್ತ್ರೀಯರ ಪಾತ್ರ</title>
+				<title>ಕೂಡಿಯಾಟ್ಟಂನಲ್ಲಿ ಸ್ತ್ರೀಯರ ಪಾತ್ರ</title>
 				<feature></feature>
 				<page>0030-0033</page> 
 				<allauthors> 
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1964,14 +2053,14 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>ರಂಗಸಂವಾದ: ಇವತ್ತಿನ ಭಾರತದಲ್ಲಿ ರಂಗಪ್ರಯೋಗ</title>
-				<feature></feature>
+				<title>ರಂಗಸಂವಾದ: ಇವತ್ತಿನ ಭಾರತದಲ್ಲಿ ರಂಗ ಪ್ರಯೋಗ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0035-0038</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ: ಐವತ್ತನೆಯ ಕಾರ್ಯಕ್ರಮದ ಹೊಸ್ತಿಲಲ್ಲಿ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0039-0039</page> 
 				<allauthors/>
 			</entry>
@@ -1979,25 +2068,32 @@
 		<part pnum="03" month="08" year="1998"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರಕಟಣೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0001-0001</page> 
 				<allauthors/>
 			</entry>
 			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ - 98</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0002-0002</page> 
+				<allauthors/>
+			</entry>
+			<entry>
 				<title>ಬುದ್ಧಿ ಮುಗುಳು ನಗುತ್ತಿಲ್ಲ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0014</page> 
 				<allauthors>
 					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author>ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ. ಡಾ||</author>
+					<author>(ಅನು)ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ., ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಿಜ್ಞಾನ, ವಸಾಹತುಶಾಹಿ ಹಾಗೂ ಹಿಂಸೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0015-0032</page> 
 				<allauthors>
 					<author>ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾದವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2006,32 +2102,32 @@
 				<page>0033-0039</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್ </author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1998"> 
 			<entry>
 				<title>ಒಂದು ಜಗತ್ತಿನಿಂದ ಇನ್ನೊಂದಕ್ಕೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0009</page> 
 				<allauthors>
 					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author>ಮಾಧವ ಐತಾಳ</author>
+					<author>(ಅನು)ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಿಜ್ಞಾನ, ವಸಾಹತುಶಾಹಿ ಹಾಗೂ ಹಿಂಸೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0010-0038</page> 
 				<allauthors>
 					<author>ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಅಪೂರ್ವ ಅಭಿನೇತ್ರಿ: ತೃಪ್ತಿಮಿತ್ರ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0039-0047</page> 
 				<allauthors>
 					<author>ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
@@ -2040,6 +2136,7 @@
 			<entry>
 				<title>ಪುಟ್ಟ ಪಟ್ಟಣದಲ್ಲೊಂದು ನಾಟಕ ಪ್ರಯೋಗ</title>
 				<feature></feature>
+				<play>ಹಯವದನ</play>
 				<page>0048-0051</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -2047,20 +2144,20 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0052-00</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="013"> 
-		<part pnum="01" month="03" year="1999"> 
+		<part pnum="01" month="02" year="1999"> 
 			<entry>
 				<title>ಆತಂಕಿತ ಹಿಂದೂ ಮತ್ತು ಕುಪಿತ ರೈತ : ಜಾಗತೀಕರಣದ ಪ್ರಕ್ರಿಯೆಗೆ ಭಾರತದ ಪ್ರತಿಸ್ಪಂದನೆಯ ಎರಡು ರೂಪಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0030</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ </author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2069,19 +2166,25 @@
 				<page>0031-0042</page> 
 				<allauthors>
 					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ </author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್ </author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0043-0044</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ </author>
+					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="02" month="05" year="1999"> 
+			<entry>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0003</page> 
+				</allauthors>
+			</entry>
 			<entry>
 				<title>ಆಚಾರ್ಯನೊಬ್ಬನ ಅಸ್ತಮಾನ ಜೆರ್ರಿ ಗ್ರೊಟೋವ್‌ಸ್ಕಿ</title>
 				<feature></feature>
@@ -2092,18 +2195,24 @@
 			</entry>
 			<entry>
 				<title>ಸೋಮನಾಥ : ಇತಿಹಾಸ ಮತ್ತು ಕಥನಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0014-0038</page> 
 				<allauthors>
 					<author>ರೋಮಿಲಾ ಥಾಪರ್</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="03" month="08" year="1999"> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0002</page> 
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ನನ್ನ ಕನ್ನಡ ಜಗತ್ತು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0013</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -2111,7 +2220,7 @@
 			</entry>
 			<entry>
 				<title>ಪರಿಸರವಾದ: ಹಿನ್ನೋಟ-ಮುನ್ನೋಟ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0014-0035</page> 
 				<allauthors>
 					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
@@ -2120,17 +2229,35 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</title>
-				<feature></feature>
-				<page>0036-0040</page> 
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0036-0038</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ೯೮ - ೯೯</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0038-0038</page> 
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0039-0039</page> 
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ - ೯೯ </title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0040-0040</page> 
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1999"> 
 			<entry>
 				<title>ನಮ್ಮ ಹಿತ್ತಲಿನತ್ತ ಹಿನ್ನೋಟ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
 					<author>ನಾಗೇಶ ಹೆಗಡೆ</author>
@@ -2138,24 +2265,25 @@
 			</entry>
 			<entry>
 				<title>ಪ್ರಕೃತಿ ನಿಷೇದಿಸಿದ ಪಥಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0018-0045</page> 
 				<allauthors>
 					<author>ಸುನಿಲ್ ಸಹಸ್ರಬುದ್ಧೆ</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಯುದ್ಧಕಾಲದಲ್ಲಿ ಕಲೆಯ ಕಾಯಕ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0046-0051</page> 
 				<allauthors>
 					<author>ಸದಾನಂದ ಮೆನೋನ್</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ: ರಂಗಸಂಸ್ಕೃತಿಯ ನಿರ್ಮಾಣದ ತುಡಿತ</title>
-				<feature></feature>
+				<feature>ತಿರುಗಾಟ</feature>
 				<page>0052-0054</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -2163,14 +2291,14 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0054-0056</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="014"> 
-		<part pnum="01" month="03" year="2000"> 
+		<part pnum="01" month="02" year="2000"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2179,16 +2307,16 @@
 			</entry>
 				<entry>
 				<title>ವಿಶ್ವಾತ್ಮಕ ದೇಶಭಾಷೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0071</page> 
 				<allauthors>
 					<author>ಷೆಲ್ಡನ್ ಪೊಲಾಕ್</author>
-					<author>‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನದ ಕಾರ್ಯಕ್ರಮಗಳು ಗಿಡಮೂಲಿಕಾ ವೈದ್ಯಕೀಯ ತರಬೇತಿ ಶಿಬಿರ-೫</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0072-0072</page> 
 				<allauthors/>
 			</entry>
@@ -2196,13 +2324,19 @@
 		<part pnum="02" month="05" year="2000"> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
-				<page>0001-0002</page> 
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಹೆದ್ದಾರಿ ಬದಲಿಗೆ ಒಳದಾರಿಗಳಿವೆಯೇ?</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0006</page> 
 				<allauthors>
 					<author>ಶ್ರೀಧರ ಕೆ. ಜಿ</author>
@@ -2210,7 +2344,7 @@
 			</entry>
 			<entry>
 				<title>ಕೈಗಾದ ಕೆಂಪುಕಣಗಿಲೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0007-0010</page> 
 				<allauthors>
 					<author>ಧರ್ಮೇಂದ್ರ ಅರಸ್</author>
@@ -2218,43 +2352,50 @@
 			</entry>
 			<entry>
 				<title>ವಿದ್ರೋಹಕಾರಿ ನಾಟಕ ಪ್ರಯೋಗ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0011-0015</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಾಲಚಕ್ರ</title>
+				<title>ಕಾಲಯಾತ್ರೆ</title>
 				<feature></feature>
+				<play>ರಥಯಾತ್ರೆ</play>
 				<page>0016-0032</page> 
 				<allauthors>
 					<author>ರವೀಂದ್ರನಾಥ ಟಾಗೋರ</author>
-					<author>ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
-					<author>ಚನ್ನಕೇಶವ</author>
+					<author>(ಅನು)ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
+					<author>(ಅನು)ಚನ್ನಕೇಶವ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಕ್ಲಿಷ್ಟತೆಯ ಮೋಹ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0033-0038</page> 
 				<allauthors>
 					<author>ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ ಬಿ. ಆರ್</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0039-0040</page> 
 				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="03" month="08" year="2000"> 
 			<entry>
-				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೨೦೦೦ ನೀನಾಸಮ್ ತಿರುಗಾಟ ೨೦೦೦</title>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೨೦೦೦</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ೨೦೦೦</title>
 				<feature>ತಿರುಗಾಟ</feature>
-				<page>0001-0003</page> 
+				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
