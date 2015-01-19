@@ -2359,7 +2359,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಾಲಯಾತ್ರೆ</title>
+				<title>ಕಾಲಚಕ್ರ</title>
 				<feature></feature>
 				<play>ರಥಯಾತ್ರೆ</play>
 				<page>0016-0032</page> 
@@ -2400,35 +2400,35 @@
 			</entry>
 			<entry>
 				<title>ತಂತ್ರಜನ್ಯ ನಾಗರಿಕತೆ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಒಂದು ವೈಜ್ಞಾನಿಕ ನಿರ್ಮಾಣ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0020</page> 
 				<allauthors>
-					<author>ವ್ಯಾಷೆಸ್ಲೆವ್ ಸ್ಟಿಯೋಸಿನ್</author>
-					<author>ಹೆಲೆನ್ ಪೆಟ್ರೋವ್‌ಸ್ಕಿ</author>
-					<author>ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
+					<author>(ರಷ್ಯನ್)ವ್ಯಾಷೆಸ್ಲೆವ್ ಸ್ಟಿಯೋಸಿನ್</author>
+					<author>(ಇಂಗ್ಲಿಷ್)ಹೆಲೆನ್ ಪೆಟ್ರೋವ್‌ಸ್ಕಿ</author>
+					<author>(ಕನ್ನಡಾನುವಾದ)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಅಣವಸ್ತ್ರೀಕರಣ, ಮಾನವಹಕ್ಕು ಮತ್ತು ನೈತಿಕತೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0021-0033</page> 
 				<allauthors>
-					<author>ಅಮೂಲ್ಯ ಕೆ. ಎನ್ ಡಾ||</author>
-					<author>ಮಾಧವ ಐತಾಳ</author>
+					<author>ಅಮೂಲ್ಯ ಕೆ. ಎನ್, ಡಾ||</author>
+					<author>(ಅನು)ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಪು.ಲ: ಒಂದು ನೆನಪು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0034-0038</page> 
 				<allauthors>
 					<author>ದೇಶಪಾಂಡೆ ಜಿ. ಪಿ</author>
-					<author>ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
+					<author>(ಅನು)ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಸಂತ ಪಯಣದಲ್ಲಿ 'ಮಾಸ್ತಿ' ಮತ್ತು 'ನಾನು'</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0039-0044</page> 
 				<allauthors>
 					<author>ಚನ್ನಕೇಶವ</author>
@@ -2442,7 +2442,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಚಟುವಟಿಕೆಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0047-0048</page> 
 				<allauthors/>
 			</entry>
@@ -2450,7 +2450,7 @@
 		<part pnum="04" month="11" year="2000"> 
 			<entry>
 				<title>ಯುಗಪಲ್ಲಟ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0023</page> 
 				<allauthors>
 					<author>ಅನಂತಮೂರ್ತಿ  ಯು. ಆರ್</author>
@@ -2458,7 +2458,7 @@
 			</entry>
 				<entry>
 				<title>ರಂಗಭೂಮಿ ಮತ್ತು ಸಮುದಾಯ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0024-0040</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -2466,17 +2466,17 @@
 			</entry>
 				<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0041-0044</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="015"> 
-		<part pnum="01" month="03" year="2001"> 
+		<part pnum="01" month="02" year="2001"> 
 			<entry>
 				<title>ಬಾಲುರಾಯರಿಗೆ ನಮಸ್ಕಾರ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0006</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
@@ -2484,7 +2484,7 @@
 			</entry>
 			<entry>
 				<title>ಭಾರತದಲ್ಲಿ ಹಿಂದುತ್ವವಾದದ ಬೆಳವಣಿಗೆ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0007-0035</page> 
 				<allauthors>
 					<author>ಫಣಿರಾಜ ಕೆ</author>
@@ -2492,7 +2492,7 @@
 			</entry>
 			<entry>
 				<title>ಸೆಕ್ಯುಲರಿಸಂ ಎಂಬ ಪರಿಕಲ್ಪನೆ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0036-0051</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -2501,16 +2501,28 @@
 		</part>
 		<part pnum="02" month="05" year="2001"> 
 			<entry>
+				<title>ಪ್ರಕಟಣೆ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ಗಾಂಧೀಯ ಆರ್ಥಿಕ ತತ್ವಶಾಸ್ತ್ರದ ಪ್ರಸ್ತುತತೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0011</page> 
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0011-0011</page> 
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ಪ್ರಶ್ನೋತ್ತರದ ಮತ್ತೊಂದಿಷ್ಟು ಮಾದರಿಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0012-0042</page> 
 				<allauthors>
 					<author>ಜಸವಂತ್ ಜಾಧವ್</author>
@@ -2518,7 +2530,7 @@
 			</entry>
 			<entry>
 				<title>ಧರ್ಮದುರಂತ: ವಿಷಾದ ಮುಖೇನ ವ್ಯಾಖ್ಯಾನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0043-0047</page> 
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -2528,16 +2540,16 @@
 		<part pnum="03" month="08" year="2001"> 
 			<entry>
 				<title>ಅಣುದುರಂತದ ಸಮಾಜಶಾಸ್ತ್ರ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0003-0045</page> 
 				<allauthors>
 					<author>ಮಾರಿಸಿಯೋ ಶೊಯ್ಜೆಟ್</author>
-					<author>ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
+					<author>(ಅನು)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಮೀನಿನ ಹೆಜ್ಜೆಯ ಬೆನ್ನು ಹತ್ತಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0046-0055</page> 
 				<allauthors>
 					<author>ರಘುನಂದನ</author>
@@ -2547,25 +2559,25 @@
 		<part pnum="04" month="11" year="2001"> 
 			<entry>
 				<title>'ಅದೇ ಹಿಂಸೆ: ಗುರಿ ಮಾತ್ರ ಹೊಸತು...</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0001-0008</page> 
 				<allauthors>
 					<author>ನೋಮ್ ಚೋಮ್‌ಸ್ಕಿ</author>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author>(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸೆಪ್ಟೆಂಬರ್ ೧೧ ಮತ್ತು ಅನಂತರದವಿದ್ಯಮಾನಗಳು</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0009-0016</page> 
 				<allauthors>
 					<author>ಎಡ್ವರ್ಡ್ ಸಯೀದ್</author>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author>(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಆಧುನಿಕತೆಯ ಸಮಸ್ಯೆಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0017-0036</page> 
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
@@ -2573,7 +2585,7 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರದ ವರದಿ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0037-0040</page> 
 				<allauthors/>
 			</entry>
@@ -2583,7 +2595,7 @@
 		<part pnum="01" month="03" year="2002"> 
 			<entry>
 				<title>ಜನಾಂಗದ ಕನ್ನಡಿಯಲ್ಲಿ ಜಾತಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
 					<author>ಶೇಠ್ ಡಿ. ಎಲ್</author>
@@ -2592,15 +2604,15 @@
 			</entry>
 			<entry>
 				<title>ಜಾತಿ-ಜನಾಂಗ : ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0018-0023</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
+					<author>ಸದಾನಂದ ಜೆ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಜಾತಿ ಒಂದು ಜನಾಂಗವಲ್ಲ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0024-0031</page> 
 				<allauthors>
 					<author>ಮೊಗಳ್ಳಿ ಗಣೇಶ್</author>
@@ -2608,7 +2620,7 @@
 			</entry>
 			<entry>
 				<title>ದಲಿತರು, ಜಾತೀಯತೆ ಮತ್ತು ಜನಾಂಗವಾದ - ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0032-0036</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -2616,16 +2628,16 @@
 			</entry>
 			<entry>
 				<title>ಇಸ್ಲಾಮಿನ ಮರು ಚಿಂತನೆ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0037-0051</page> 
 				<allauthors>
 					<author>ಜಿಯಾವುದ್ದೀನ್ ಸರದಾರ್</author>
-					<author>‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author>‌(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವ್ಯಾಖ್ಯಾನ - ಆಖ್ಯಾನಗಳ ಸುಳಿಯಲ್ಲಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0052-0054</page> 
 				<allauthors>
 					<author>ಜೆ. ಜೆ</author>
@@ -2634,23 +2646,29 @@
 		</part>
 		<part pnum="02" month="05" year="2002"> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ಮನುಸ್ಮೃತಿಯಿಂದ  ಮಧುಸ್ಮೃತಿಯವರೆಗೆ - ಪೌರಾಣಿಕ ಶತ್ರುವೊಬ್ಬನಿಗೆ ಛಡಿಯೇಟು</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0002-0015</page> 
 				<allauthors>
 					<author>ಮಧು ಕೀಶ್ವರ್</author>
-					<author>ಮೀರಾ ಎಲ್. ಜಿ</author>
+					<author>(ಅನು)ಮೀರಾ ಎಲ್. ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಯುಗಪ್ರವರ್ತಕ ಯುಗಪ್ರತೀಕ ಕಾರಂತ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0016-0016</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಕಾರಂತಯುಗದ ದ್ವಂದ್ವಸಂದಿಗ್ಧಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0017-0027</page> 
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
@@ -2658,7 +2676,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾರಂತಪ್ರತಿಭೆಯ ಕೆಲವು ಹೊಳಹುಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0028-0034</page> 
 				<allauthors>
 					<author>ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
@@ -2666,7 +2684,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾರಂತ ಕಾದಂಬರಿಗಳ ಕಥನಮಾದರಿಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0035-0040</page> 
 				<allauthors>
 					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
@@ -2674,21 +2692,27 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರಕಟಣೆ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0041-0042</page> 
 				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="03" month="08" year="2002"> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
+			<entry>
 				<title>ಗುಜರಾತಿನ ಧರ್ಮದ್ವಂದ್ವ ದಾರುಣಕಥನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0002</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ನಾಯಂ ಹಂತಿ ನ ಹನ್ಯತೇ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0006</page> 
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
@@ -2696,36 +2720,36 @@
 			</entry>
 			<entry>
 				<title>ಸಂಸ್ಕೃತಿಯೊಂದಕ್ಕೆ ಶ್ರದ್ಧಾಂಜಲಿ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0007-0016</page> 
 				<allauthors>
 					<author>ಆಶೀಷ್ ಸಂದಿ</author>
-					<author>ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author>(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ನೀನಾಸಮ್ ಮಿತ್ರರಲ್ಲಿ ಒಂದು ಅರಿಕೆ</title>
-				<feature>ಆದಿವಾಸಿ ಆಖ್ಯಾನ</feature>
+				<title>ಆದಿವಾಸಿ ಆಖ್ಯಾನ</title>
+				<feature>ಅನುವಾದ</feature>
 				<page>0017-0039</page> 
 				<allauthors>
 					<author>ಗಣೇಶ ದೇವಿ</author>
-					<author>ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್ ಡಾ||</author>
+					<author>(ಅನು)ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸೆಕ್ಯುಲರಿಸಂನಿಂದ ವ್ಯಾಪಾರ - ವಹಿವಾಟಿಗೇನಾದರೂ ಲಾಭವಿದೆಯೇ?</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0040-0052</page> 
 				<allauthors>
 					<author>ಸೈರಸ್ ಗಝದರ್</author>
-					<author>ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author>(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="2002"> 
 			<entry>
 				<title>ಶಾಪಗ್ರಸ್ತ ಗಂಧರ್ವ - ಬಿ.ವಿ. ಕಾರಂತ ಸಂಸ್ಮರಣೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0006</page> 
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
@@ -2733,7 +2757,7 @@
 			</entry>
 			<entry>
 				<title>ಜಾಗತೀಕರಣ ಮತ್ತು ಭಾರತ : ಸೈದ್ಧಾಂತಿಕ ನೆಲೆಗಳು ಹಾಗೂ ಐತಿಹಾಸಿಕ ವಿಪರ್ಯಾಸಗಳು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0007-0030</page> 
 				<allauthors>
 					<author>ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
@@ -2741,15 +2765,16 @@
 			</entry>
 			<entry>
 				<title>ಜಾಗತೀಕರಣ : ಪರ್ಯಾಯ ಸಾಧ್ಯತೆಳು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0031-0054</page> 
 				<allauthors>
-					<author>ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ ಡಾ||</author>
+					<author>ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸಾವ ಸಮ್ಮುಖದಲ್ಲಿ ಜೀವನಾದ  ಬೇಂದ್ರೆಯವರ 'ನಾದಲೀಲೆ' ಒಂದು ಅನುಭವ</title>
 				<feature></feature>
+				<play>ನಾದಲೀಲೆ</play>
 				<page>0055-0078</page> 
 				<allauthors>
 					<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
@@ -2757,17 +2782,23 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೨೦೦೨ - ವರದಿ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0079-0080</page> 
 				<allauthors/>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="017"> 
-		<part pnum="01" month="03" year="2003"> 
+		<part pnum="01" month="02" year="2003"> 
+			<entry>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
 			<entry>
 				<title>ಕಾಡುವ ಭವಿಷ್ಯಕಾಲದ ಭ್ರೂಣಗೂಢಗಳು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0014</page> 
 				<allauthors>
 					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
@@ -2775,23 +2806,25 @@
 			</entry>
 			<entry>
 				<title>ಆಶಯ ಭಾಷಣಕ್ಕೆ ಪ್ರತಿಸ್ಪಂದನೆ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0015-0020</page> 
 				<allauthors>
 					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author>(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಭಾರತದಲ್ಲಿ ಆಧುನಿಕ ವಿಜ್ಞಾನದ  ಭೂತ-ವರ್ತಮಾನ-ಭವಿಷ್ಯ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0021-0054</page> 
 				<allauthors>
 					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಪ್ರಭುತ್ವ, ಹಿಂಸೆ ಮತ್ತು ಲೇಖಕ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0055-0058</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -2799,7 +2832,7 @@
 			</entry>
 			<entry>
 				<title>ವಚನಗಳಲ್ಲಿ ಜಾತಿ-ವರ್ಣ : ವಚನಗಳ ಓದಿನ ಕಾರ್ಯಾಗಾರ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0059-0060</page> 
 				<allauthors/>
 			</entry>
@@ -2807,23 +2840,26 @@
 		<part pnum="02" month="05" year="2003"> 
 			<entry>
 				<title>ಭವಿಷ್ಯವೆಂಬ ಬಹುರೂಪಿ ಬೆಳಕು</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0001-0011</page> 
 				<allauthors>
 					<author>ಅಶೋಕ ವಾಜಪೇಯಿ</author>
+					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಅಡಕತ್ತರಿಯಲ್ಲಿ ಅಡಕೆಯ ಭವಿಷ್ಯ</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0012-0032</page> 
 				<allauthors>
 					<author>ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
+					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author>(ಅನು)ವಾಸುದೇವ ವಿ ಗಂಗೇರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಜಾಗತೀಕರಣಕ್ಕೆ ಸಾಂಸ್ಕೃತಿಕ ಪ್ರತಿರೋಧಗಳು : ಒಂದು ಪುನರ್ ಕಥನ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0033-0055</page> 
 				<allauthors>
 					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
@@ -2831,15 +2867,27 @@
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0056-0056</page> 
 				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="03" month="08" year="2003"> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ  ೨೦೦೩</title>
+				<feature>ತಿರುಗಾಟ</feature>
+				<page>0002-0002</page> 
+				<allauthors/>
+			</entry>
+			<entry>
 				<title>ಸಹೃದಯ ಸಂಹಿತೆ - ಕೀರ್ತಿನಾಥ ದತ್ತಾತ್ರೇಯಕುರ್ತಕೋಟಿ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0003-0010</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -2847,7 +2895,7 @@
 			</entry>
 			<entry>
 				<title>ಆಧುನಿಕ ಕವಿಸಮಯಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0011-0015</page> 
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
@@ -2855,7 +2903,7 @@
 			</entry>
 			<entry>
 				<title>ಆಧುನಿಕ ಕವಿಸಮಯಗಳು -ಪ್ರತಿಸ್ಪಂದನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0016-0019</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -2863,23 +2911,24 @@
 			</entry>
 			<entry>
 				<title>ವರ್ತಮಾನಕಾಲ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0020-0033</page> 
 				<allauthors>
-					<author>ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್ ವಿದ್ವಾನ್</author>
+					<author>ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್, ವಿದ್ವಾನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಭಾರತೀಯ ಸಂಗೀತದ ಭವಿಷ್ಯಶ್ರುತಿ</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0034-0049</page> 
 				<allauthors>
 					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author>(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಹಿಂದುಳಿದ ವರ್ಗದ ರಾಜಕೀಯ ಹಾಗೂ ಸಾಮಾಜಿಕ ನ್ಯಾಯದ ಸಂದಿಗ್ಧತೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0050-0064</page> 
 				<allauthors>
 					<author>ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
@@ -2889,13 +2938,13 @@
 		<part pnum="04" month="11" year="2003"> 
 			<entry>
 				<title>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿಯವರ ಬರಹಗಳು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0001-0061</page> 
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಕುತುಹಲದ ಕಡಲು</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0062-0071</page> 
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -2903,15 +2952,15 @@
 			</entry>
 			<entry>
 				<title>ವರ್ತಮಾನ ಕಾಲ - ಒಂದು ಸಹಸ್ಪಂದನ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0072-0077</page> 
 				<allauthors>
-					<author>ಶಂಕರ ಭಟ್ಟ ಡಿ. ಎನ್ ಡಾ||</author>
+					<author>ಶಂಕರ ಭಟ್ಟ ಡಿ. ಎನ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0078-0080</page> 
 				<allauthors/>
 			</entry>
@@ -2920,8 +2969,14 @@
 	<volume vnum="018"> 
 		<part pnum="01" month="03" year="2004"> 
 			<entry>
+				<title>ನೀನಾಸಮ್  ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors/>
+			</entry>
+			<entry>
 				<title>ತನ್ನಂತೆ ಪರರ ಬಗೆದೊಡೆ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0020</page> 
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -2929,15 +2984,15 @@
 			</entry>
 			<entry>
 				<title>ಇತಿಹಾಸದ ಹೊಸ ಸಮಸ್ಯೆಗಳು</title>
-				<feature></feature>
+				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0021-0044</page> 
 				<allauthors>
-					<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
+					<author>ರಾಜಾರಾಮ ಹೆಗಡೆ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಬಣ್ಣದ ಮೇಷ್ಟ್ರು ಅರ್ಥಾತ್ ಎಪ್ಪತ್ತೈದು ವರ್ಷದ ಯುವಕ</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0045-0051</page> 
 				<allauthors>
 					<author>ಚನ್ನಕೇಶವ</author>
