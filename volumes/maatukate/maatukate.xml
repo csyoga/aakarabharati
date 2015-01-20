@@ -2,7 +2,7 @@
 <!DOCTYPE  maatukate SYSTEM "maatukate.dtd">
 <maatukate>
 	<volume vnum="001"> 
-		<part pnum="01" month="03" year="1987">
+		<part pnum="01" month="03" year="1987" info="">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -34,7 +34,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1987"> 
+		<part pnum="02" month="05" year="1987" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಮಿತ್ರರಲ್ಲಿ ಒಂದು ಅರಿಕೆ</title>
 				<feature></feature>
@@ -45,9 +45,7 @@
 				<title>ನೀನಾಸಮ್ ಮಾತುಕತೆ</title>
 				<feature></feature>
 				<page>0010-0010</page> 
-			<allauthors>
-				<author></author>
-			</allauthors>
+			<allauthors/>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
@@ -74,7 +72,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1987">
+		<part pnum="03" month="08" year="1987" info="">
 			<entry>
 				<title>ತಿರುಗಾಟ ೮೬ - ಸ್ಥೂಲ ವರದಿ</title>
 				<feature>ತಿರುಗಾಟ</feature>
@@ -108,7 +106,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1987">	
+		<part pnum="04" month="11" year="1987" info="">	
 			<entry>
 				<title>ನೀನಾಸಮ್ - ತಿರುಗಾಟ ೮೭</title>
 				<feature>ತಿರುಗಾಟ</feature>
@@ -160,7 +158,7 @@
 		</part>
     </volume>
 	<volume vnum="002"> 
-		<part pnum="01" month="03" year="1988">
+		<part pnum="01" month="03" year="1988" info="">
 			<entry>
 				<title>'ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ' ಶತಮಾನೋತ್ಸವ</title>
 				<feature></feature>
@@ -212,7 +210,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1988">
+		<part pnum="02" month="05" year="1988" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ಮಿತ್ರರಲ್ಲಿ ಒಂದು ಅರಿಕೆ</title>
 				<feature></feature>
@@ -249,7 +247,7 @@
 				<play>ಮೇಘಸಂದೇಶಮ್</play>
 				<page>0007-0010</page>
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ.  ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ.  ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -257,11 +255,11 @@
 				<feature></feature>
 				<page>0012-0012</page>
 			<allauthors>
-				<author></author>
+				<author type="01"></author>
 			</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1988">
+		<part pnum="03" month="08" year="1988" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ಚಲನಚಿತ್ರ ಸಹೃದಯತಾ ಶಿಬಿರ...ಹತ್ತನೇ ವರ್ಷ ಮತ್ತು ಪ್ರೊ. ಸತೀಶ್ ಬಹಾದುರ್</title>
 				<feature></feature>
@@ -307,7 +305,7 @@
 			</part>
     </volume>
 	<volume vnum="003">
-		<part pnum="01" month="02" year="1987">
+		<part pnum="01" month="02" year="1987" info="">
 			<entry>
 				<title>ಸಫ್ದರ್ ಹಷ್ಮಿ</title>
 				<feature></feature>
@@ -339,7 +337,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1987">
+		<part pnum="03" month="08" year="1987" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ಚಲನಚಿತ್ರ ಮತ್ತು ರಂಗಭೂಮಿ ಸಹೃದಯತಾ ಶಿಬಿರ ಅಕ್ಟೋಬರ್ 89</title>
 				<feature></feature>
@@ -357,8 +355,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0006-0007</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
-					<author>ಕೆ. ಜಿ. ಕೃಷ್ಣಮೂರ್ತಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
+					<author type="01">ಕೆ. ಜಿ. ಕೃಷ್ಣಮೂರ್ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -388,7 +386,7 @@
 		</part>
 	</volume>
 	<volume vnum="004"> 
-		<part pnum="01" month="02" year="1990">
+		<part pnum="01" month="02" year="1990" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ ಕಳೆದ ಅವಧಿಯ ಚಟುವಟಿಕೆಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -406,7 +404,7 @@
 				<feature></feature>
 				<page>0007-0009</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -414,7 +412,7 @@
 				<feature></feature>
 				<page>0009-0010</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -436,7 +434,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1990">	
+		<part pnum="03" month="08" year="1990" info="">	
 			<entry>
 				<title>ಶಿಬಿರ ಯೋಜನೆ</title>
 				<feature></feature>
@@ -460,7 +458,7 @@
 				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0008-00013</page> 
 				<allauthors>
-					<author>(ಅನು)ವೆಂಕಟಗಿರಿ ಬೇದೂರು</author>
+					<author type="01">(ಅನು)ವೆಂಕಟಗಿರಿ ಬೇದೂರು</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -470,7 +468,7 @@
 				<allauthors/>
 			</entry>
 			</part>
-		<part pnum="04" month="11" year="1990">
+		<part pnum="04" month="11" year="1990" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ಅಕ್ಟೋಬರ್ 90</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -504,7 +502,7 @@
 		</part>
 	</volume>
 	<volume vnum="005">
-		<part pnum="01" month="03" year="1991">
+		<part pnum="01" month="03" year="1991" info="">
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ - ಈ ಅವಧಿಯ ಚಟುವಟಿಕೆಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -516,7 +514,7 @@
 				<feature></feature>
 				<page>0002-0004</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -524,7 +522,7 @@
 				<feature></feature>
 				<page>0005-0005</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -534,7 +532,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1991">	
+		<part pnum="02" month="05" year="1991" info="">	
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ, ಹೆಗ್ಗೋಡು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -584,7 +582,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1991">	
+		<part pnum="03" month="08" year="1991" info="">	
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ(೨)</title>
 				<feature></feature>
@@ -608,11 +606,11 @@
 				<feature></feature>
 				<page>0010-0010</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ, ಪ್ರೊ||</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1991">	
+		<part pnum="04" month="11" year="1991" info="">	
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 91 </title>
 				<feature></feature>
@@ -640,13 +638,13 @@
 		</part>
 	</volume>
 	<volume vnum="006">
-		<part pnum="01" month="03" year="1992"> 
+		<part pnum="01" month="03" year="1992" info=""> 
 			<entry>
 				<title>ಗಂಧರ್ವ ಸಂವಹನ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0003</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -654,8 +652,8 @@
 				<feature></feature>
 				<page>0003-0006</page> 
 				<allauthors>
-					<author>ಪ್ರಸನ್ನ</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಪ್ರಸನ್ನ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -663,7 +661,7 @@
 				<feature></feature>
 				<page>0006-0009</page> 
 				<allauthors>
-					<author>ಸತ್ಯಜಿತ್ ರಾಯ್ </author>
+					<author type="01">ಸತ್ಯಜಿತ್ ರಾಯ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -671,7 +669,7 @@
 				<feature></feature>
 				<page>0009-0010</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -709,7 +707,7 @@
 				<feature></feature>
 				<page>0014-0014</page> 
 				<allauthors>
-					<author>ಸಿಂಧುವಳ್ಳಿ ಅನಂತಮೂರ್ತಿ</author>
+					<author type="01">ಸಿಂಧುವಳ್ಳಿ ಅನಂತಮೂರ್ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -723,18 +721,18 @@
 				<feature>ಕವನ</feature>
 				<page>0018-0018</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1992">
+		<part pnum="02" month="05" year="1992" info="">
 			<entry>
 				<title>ವೊಯ್‌ಜೆಕ್‌ನ ವಿಚಿತ್ರ ಪ್ರಪಂಚ</title>
 				<feature></feature>
 				<page>0002-0004</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -742,8 +740,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0004-0007</page> 
 				<allauthors>
-					<author>ಪ್ರಸನ್ನ</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ </author>
+					<author type="01">ಪ್ರಸನ್ನ</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -751,8 +749,8 @@
 				<feature></feature>
 				<page>0007-0007</page> 
 				<allauthors>
-					<author>ಬರ್ಟೋಲ್ಟ್ ಬ್ರೆಕ್ಟ್</author>
-					<author>(ಅನು)ಮಾಲತಿ ಎಸ್</author>
+					<author type="01">ಬರ್ಟೋಲ್ಟ್ ಬ್ರೆಕ್ಟ್</author>
+					<author type="01">(ಅನು)ಮಾಲತಿ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -767,7 +765,7 @@
 				<play>ಹ್ಯಾಮ್ಲೆಟ್‌</play>
 				<page>0013-0014</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -795,7 +793,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1992">
+		<part pnum="03" month="08" year="1992" info="">
 			<entry>
 				<title>ನಿನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature></feature>
@@ -819,7 +817,7 @@
 				<feature></feature>
 				<page>0009-0012</page> 
 				<allauthors>
-					<author>ಚಿದಾನಂದ ದಾಸ್‌ಗುಪ್ತಾ</author>
+					<author type="01">ಚಿದಾನಂದ ದಾಸ್‌ಗುಪ್ತಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -851,7 +849,7 @@
 				<feature></feature>
 				<page>0014-0015</page> 
 				<allauthors>
-					<author>ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
+					<author type="01">ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -860,11 +858,11 @@
 				<play>ವೊಯ್‌ಜೆಕ್</play>
 				<page>0015-0016</page> 
 				<allauthors>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1992">
+		<part pnum="04" month="11" year="1992" info="">
 			<entry>
 				<title>ಸಂಸ್ಕೃತಿ ಶಿಬಿರ - 92 </title>
 				<feature></feature>
@@ -882,7 +880,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0008-0016</page> 
 				<allauthors>
-					<author>ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
+					<author type="01">ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -918,13 +916,13 @@
 		</part>
 	</volume>
 	<volume vnum="007"> 
-		<part pnum="01" month="03" year="1993"> 
+		<part pnum="01" month="03" year="1993" info=""> 
 			<entry>
 				<title>ಸಂಗೀತದ ಬಗ್ಗೆ </title>
 				<feature></feature>
 				<page>0001-0018</page> 
 				<allauthors>
-					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ</author>
+					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -964,7 +962,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1993"> 
+		<part pnum="02" month="05" year="1993" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್  ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -976,8 +974,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0006</page> 
 				<allauthors>
-					<author>ಪ್ರಸನ್ನ</author>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">ಪ್ರಸನ್ನ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -985,7 +983,7 @@
 				<feature></feature>
 				<page>0007-0007</page> 
 				<allauthors>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1019,7 +1017,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1993"> 
+		<part pnum="03" month="08" year="1993" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 93</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1038,7 +1036,7 @@
 				<play>ಗೋಕುಲ ನಿರ್ಗಮನ</play>
 				<page>0004-0016</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1054,7 +1052,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1993"> 
+		<part pnum="04" month="11" year="1993" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್  ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1993</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1078,7 +1076,7 @@
 				<feature></feature>
 				<page>0002-0016</page> 
 				<allauthors>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1096,13 +1094,13 @@
 		</part>
 	</volume>
 	<volume vnum="008"> 
-		<part pnum="01" month="02" year="1994"> 
+		<part pnum="01" month="02" year="1994" info=""> 
 			<entry>
 				<title>ಮೂರು ತಿಂಗಳು </title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0010</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1110,7 +1108,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0010-0018</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1118,7 +1116,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0018-0021</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚಾ</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1126,8 +1124,8 @@
 				<feature></feature>
 				<page>0022-0022</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚಾ</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚಾ</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1135,7 +1133,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0023-0024</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1149,8 +1147,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0029-0031</page> 
 				<allauthors>
-					<author>ಇಯಾನ್‌ಕಾಟ್</author>
-					<author>(ಅನು)ಜೆ.ಜೆ</author>
+					<author type="01">ಇಯಾನ್‌ಕಾಟ್</author>
+					<author type="01">(ಅನು)ಜೆ.ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1160,7 +1158,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1994"> 
+		<part pnum="02" month="05" year="1994" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ </title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1172,7 +1170,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0008</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1180,7 +1178,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0009-0020</page> 
 				<allauthors>
-					<author>ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
+					<author type="01">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1188,8 +1186,8 @@
 				<feature></feature>
 				<page>0021-0027</page> 
 				<allauthors>
-					<author>ಕುರಿಯನ್ ವಿ</author>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">ಕುರಿಯನ್ ವಿ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1197,7 +1195,7 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0028-0029</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1211,7 +1209,7 @@
 				<feature></feature>
 				<page>0032-0035</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1219,11 +1217,11 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0036-0036</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1994"> 
+		<part pnum="03" month="08" year="1994" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1994 </title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1247,7 +1245,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0005-0014</page> 
 				<allauthors>
-					<author>ಸತ್ಯನಾರಾಯಣ. ರಾ</author>
+					<author type="01">ಸತ್ಯನಾರಾಯಣ. ರಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1281,7 +1279,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1994"> 
+		<part pnum="04" month="11" year="1994" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ 1994 ಆಶಯ ಭಾಷಣ: ಡಾ|| ಎಂ. ಎನ್. ಶ್ರೀನಿವಾಸ </title>
 				<feature></feature>
@@ -1293,7 +1291,7 @@
 				<feature></feature>
 				<page>0020-0036</page> 
 				<allauthors>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1317,7 +1315,7 @@
 		</part>
 	</volume>
 	<volume vnum="009"> 
-		<part pnum="01" month="02" year="1995"> 
+		<part pnum="01" month="02" year="1995" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ತಿರುಗಾಟ ದಶಮಾನೋತ್ಸವ ರಂಗ ಅಧ್ಯಯನ ಶಿಬಿರ</title>
 				<feature>ತಿರುಗಾಟ</feature>
@@ -1329,7 +1327,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0017</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1337,7 +1335,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0018-0024</page> 
 				<allauthors>
-					<author>ಭಟ್  ಜಿ. ಎಸ್, ಡಾ|| </author>
+					<author type="01">ಭಟ್  ಜಿ. ಎಸ್, ಡಾ|| </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1345,7 +1343,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0025-0034</page> 
 				<allauthors>
-					<author>ಲಾರಿ ಬೇಕರ್</author>
+					<author type="01">ಲಾರಿ ಬೇಕರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1353,7 +1351,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0035-0037</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1361,7 +1359,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0038-0041</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1369,11 +1367,11 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0042-0044</page> 
 				<allauthors>
-					<author>ಕನಕ ಹಾ. ಮ</author>
+					<author type="01">ಕನಕ ಹಾ. ಮ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1995"> 
+		<part pnum="02" month="05" year="1995" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ: ಅಕ್ಟೋಬರ್ 1995</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1391,8 +1389,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0013</page> 
 				<allauthors>
-					<author>ಆಶೀಶ ನಂದಿ</author>
-					<author>(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="01">ಆಶೀಶ ನಂದಿ</author>
+					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1400,7 +1398,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0014-0020</page> 
 				<allauthors>
-					<author>ಭಟ್  ಜಿ. ಎಸ್, ಡಾ||</author>
+					<author type="01">ಭಟ್  ಜಿ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1408,8 +1406,8 @@
 				<feature></feature>
 				<page>0021-0031</page> 
 				<allauthors>
-					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1417,7 +1415,7 @@
 				<feature></feature>
 				<page>0032-0035</page> 
 				<allauthors>
-					<author>ಸುಂದರಲಾಲ್</author>
+					<author type="01">ಸುಂದರಲಾಲ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1433,13 +1431,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1995"> 
+		<part pnum="03" month="08" year="1995" info=""> 
 			<entry>
 				<title>ಪ್ರಸ್ತುತ ಭಾರತ ಮತ್ತು ದೇಶಿಯ ಜ್ಙಾನಪರಂಪರೆಗಳು- ಒಂದು ಚರ್ಚೆ</title>
 				<feature></feature>
 				<page>0001-0040</page> 
 				<allauthors>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1455,13 +1453,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1995"> 
+		<part pnum="04" month="11" year="1995" info=""> 
 			<entry>
 				<title>ಈಯಿಬ್ಬರು</title>
 				<feature></feature>
 				<page>0001-0012</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1469,7 +1467,7 @@
 				<feature></feature>
 				<page>0013-0015</page> 
 				<allauthors>
-					<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ. , ಡಾ||</author>
+					<author type="01">ಶಿವರಾಮ ಕಾರಂತ ಕೆ. , ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1477,8 +1475,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0016-0024</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರ ಗಾಂಧಿ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ರಾಮಚಂದ್ರ ಗಾಂಧಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1486,7 +1484,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0025-0036</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1494,7 +1492,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0037-0049</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1502,13 +1500,13 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0050-0050</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="010"> 
-		<part pnum="01" month="02" year="1996"> 
+		<part pnum="01" month="02" year="1996" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ - ಪ್ರಕಟಣೆ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1520,8 +1518,8 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0017</page> 
 				<allauthors>
-					<author>ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
-					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
+					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1529,7 +1527,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0018-0027</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1537,7 +1535,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0028-0041</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ </author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1553,14 +1551,14 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1996"> 
+		<part pnum="02" month="05" year="1996" info=""> 
 			<entry>
 				<title>ಬಡತನದ ವ್ರತ</title>
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0004</page> 
 				<allauthors>
-					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author type="01">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1568,8 +1566,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0005-0036</page> 
 				<allauthors>
-					<author>ರಾಮಾನುಜನ್ ಎ. ಕೆ, ಡಾ||</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ರಾಮಾನುಜನ್ ಎ. ಕೆ, ಡಾ||</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1578,7 +1576,7 @@
 				<play>ಅಹಲ್ಯೆ</play>
 				<page>0037-0050</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1594,7 +1592,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1996"> 
+		<part pnum="03" month="08" year="1996" info=""> 
 			<entry>
 				<title>ಶ್ರದ್ಧಾಂಜಲಿ</title>
 				<feature></feature>
@@ -1612,7 +1610,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0011</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ್ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ್ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1620,7 +1618,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0012-0019</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1628,8 +1626,8 @@
 				<feature></feature>
 				<page>0020-0024</page> 
 				<allauthors>
-					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1645,13 +1643,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1996"> 
+		<part pnum="04" month="11" year="1996" info=""> 
 			<entry>
 				<title>ಶಿವಾಪುರದ ದೇವ-ದೇವಿಯರು</title>
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
-					<author>ಚಂದ್ರಶೇಖರ ಕಂಬಾರ, ಡಾ||</author>
+					<author type="01">ಚಂದ್ರಶೇಖರ ಕಂಬಾರ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1659,8 +1657,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0018-0033</page> 
 				<allauthors>
-					<author>ಕೊಠಾರಿ ಡಿ. ಎಸ್, ಪ್ರೊ.</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಕೊಠಾರಿ ಡಿ. ಎಸ್, ಪ್ರೊ.</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1668,7 +1666,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0034-0042</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ.ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ.ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1676,7 +1674,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0043-0055</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1688,7 +1686,7 @@
 		</part>
 	</volume>
 	<volume vnum="011"> 
-		<part pnum="01" month="02" year="1997"> 
+		<part pnum="01" month="02" year="1997" info=""> 
 			<entry>
 				<title>ಕಂಬನಿ</title>
 				<feature></feature>
@@ -1706,7 +1704,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0003-0016</page> 
 				<allauthors>
-					<author>ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
+					<author type="01">ಗಿರೀಶ್ ಕಾರ್ನಾಡ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1714,7 +1712,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0017-0025</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1722,7 +1720,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0026-0033</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1730,8 +1728,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0033-0050</page> 
 				<allauthors>
-					<author>ಅನುರಾಧಾ ಕಪೂರ ಡಾ||</author>
-					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅನುರಾಧಾ ಕಪೂರ ಡಾ||</author>
+					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1747,7 +1745,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1997"> 
+		<part pnum="02" month="05" year="1997" info=""> 
 			<entry>
 				<title>ಕಂಬನಿ</title>
 				<feature></feature>
@@ -1759,7 +1757,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0009</page> 
 				<allauthors>
-					<author>ಬಸವರಾಜ ಕಲ್ಗುಡಿ, ಡಾ||</author>
+					<author type="01">ಬಸವರಾಜ ಕಲ್ಗುಡಿ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1767,7 +1765,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0010-0020</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1775,8 +1773,8 @@
 				<feature></feature>
 				<page>0021-0036</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1785,7 +1783,7 @@
 				<play>ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್</play>
 				<page>0037-0042</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1813,7 +1811,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1997"> 
+		<part pnum="03" month="08" year="1997" info=""> 
 			<entry>
 				<title>ಪ್ರಕಟಣೆಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -1832,7 +1830,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0003-0014</page> 
 				<allauthors>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1840,8 +1838,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0015-0019</page> 
 				<allauthors>
-					<author>ಸುಚಿತ್ರಲತಾ ಎಸ್</author>
-					<author>ಮೀರಾ ಎಲ್. ಜಿ</author>
+					<author type="01">ಸುಚಿತ್ರಲತಾ ಎಸ್</author>
+					<author type="01">ಮೀರಾ ಎಲ್. ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1849,8 +1847,8 @@
 				<feature></feature>
 				<page>0019-0027</page> 
 				<allauthors>
-					<author>ಶಂಭುಮಿತ್ರ, ದಿ.</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಶಂಭುಮಿತ್ರ, ದಿ.</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1858,7 +1856,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0028-0038</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1866,8 +1864,8 @@
 				<feature></feature>
 				<page>0039-0049</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1877,13 +1875,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1997"> 
+		<part pnum="04" month="11" year="1997" info=""> 
 			<entry>
 				<title>ಸುಬ್ಬರಾಯರು</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0005</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1897,8 +1895,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0007-0009</page> 
 				<allauthors>
-					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1906,7 +1904,7 @@
 				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0010-0025</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1914,8 +1912,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0026-0045</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ರಾಮಚಂದ್ರ ಗುಹಾ</author>
+					<author type="01">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1924,8 +1922,8 @@
 				<play>ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ</play>
 				<page>0046-0054</page> 
 				<allauthors>
-					<author>ವಿಜಯ ಪದಕಿ</author>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ವಿಜಯ ಪದಕಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1933,8 +1931,8 @@
 				<feature></feature>
 				<page>0055-0058</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1946,13 +1944,13 @@
 		</part>
 	</volume>
 	<volume vnum="012"> 
-		<part pnum="01" month="02" year="1998"> 
+		<part pnum="01" month="02" year="1998" info=""> 
 			<entry>
 				<title>ಎಲ್ಲಿ ಹೋದರೊ ಅವರು ಎಂದು ಬರುವರು?</title>
 				<feature>ಕವನ</feature>
 				<page>0002-0005</page> 
 				<allauthors>
-					<author>ವೈದೇಹಿ</author>
+					<author type="01">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1960,8 +1958,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0006-0044</page> 
 				<allauthors>
-					<author>ಮಾರ್ಕ್ ಲಿಂಡ್‌ಲೆ</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಮಾರ್ಕ್ ಲಿಂಡ್‌ಲೆ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1969,8 +1967,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0045-0059</page> 
 				<allauthors>
-					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
+					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1978,8 +1976,8 @@
 				<feature></feature>
 				<page>0060-0065</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1993,11 +1991,11 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0067-0067</page> 
 				<allauthors>
-					<author>ವೈದೇಹಿ</author>
+					<author type="01">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1998"> 
+		<part pnum="02" month="05" year="1998" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ, ಹೆಗ್ಗೋಡು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2009,7 +2007,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0010</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2017,8 +2015,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0011-0013</page> 
 				<allauthors>
-					<author>ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author>(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
+					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2026,7 +2024,7 @@
 				<feature></feature>
 				<page>0014-0025</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2034,8 +2032,8 @@
 				<feature></feature>
 				<page>0026-0029</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2043,7 +2041,7 @@
 				<feature></feature>
 				<page>0030-0033</page> 
 				<allauthors> 
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2065,7 +2063,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1998"> 
+		<part pnum="03" month="08" year="1998" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರಕಟಣೆಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2083,8 +2081,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0014</page> 
 				<allauthors>
-					<author>ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author>(ಅನು)ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ., ಡಾ||</author>
+					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
+					<author type="01">(ಅನು)ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ., ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2092,8 +2090,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0015-0032</page> 
 				<allauthors>
-					<author>ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾದವ್</author>
+					<author type="01">ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾದವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2101,19 +2099,19 @@
 				<feature></feature>
 				<page>0033-0039</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1998"> 
+		<part pnum="04" month="11" year="1998" info=""> 
 			<entry>
 				<title>ಒಂದು ಜಗತ್ತಿನಿಂದ ಇನ್ನೊಂದಕ್ಕೆ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0009</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author>(ಅನು)ಮಾಧವ ಐತಾಳ</author>
+					<author type="01">ರಾಮಚಂದ್ರ ಗುಹಾ</author>
+					<author type="01">(ಅನು)ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2121,8 +2119,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0010-0038</page> 
 				<allauthors>
-					<author>ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2130,7 +2128,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0039-0047</page> 
 				<allauthors>
-					<author>ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
+					<author type="01">ಜ್ಯೋತ್ಸ್ನಾ ಕಾಮತ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2139,7 +2137,7 @@
 				<play>ಹಯವದನ</play>
 				<page>0048-0051</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2151,13 +2149,13 @@
 		</part>
 	</volume>
 	<volume vnum="013"> 
-		<part pnum="01" month="02" year="1999"> 
+		<part pnum="01" month="02" year="1999" info=""> 
 			<entry>
 				<title>ಆತಂಕಿತ ಹಿಂದೂ ಮತ್ತು ಕುಪಿತ ರೈತ : ಜಾಗತೀಕರಣದ ಪ್ರಕ್ರಿಯೆಗೆ ಭಾರತದ ಪ್ರತಿಸ್ಪಂದನೆಯ ಎರಡು ರೂಪಗಳು</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0030</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2165,8 +2163,8 @@
 				<feature></feature>
 				<page>0031-0042</page> 
 				<allauthors>
-					<author>ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ </author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಕೊಟ್ಟಾರತ್ತಿಲ್ ಶಂಕುಣ್ಣಿ </author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2174,11 +2172,11 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0043-0044</page> 
 				<allauthors>
-					<author>ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
+					<author type="01">ನಾಗರಾಜ್ ಡಿ. ಆರ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="1999"> 
+		<part pnum="02" month="05" year="1999" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2190,7 +2188,7 @@
 				<feature></feature>
 				<page>0003-0013</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2198,12 +2196,12 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0014-0038</page> 
 				<allauthors>
-					<author>ರೋಮಿಲಾ ಥಾಪರ್</author>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ರೋಮಿಲಾ ಥಾಪರ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="1999"> 
+		<part pnum="03" month="08" year="1999" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2215,7 +2213,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0013</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2223,8 +2221,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0014-0035</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ರಾಮಚಂದ್ರ ಗುಹಾ</author>
+					<author type="01">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2232,7 +2230,7 @@
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0036-0038</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2254,13 +2252,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="1999"> 
+		<part pnum="04" month="11" year="1999" info=""> 
 			<entry>
 				<title>ನಮ್ಮ ಹಿತ್ತಲಿನತ್ತ ಹಿನ್ನೋಟ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
-					<author>ನಾಗೇಶ ಹೆಗಡೆ</author>
+					<author type="01">ನಾಗೇಶ ಹೆಗಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2268,8 +2266,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0018-0045</page> 
 				<allauthors>
-					<author>ಸುನಿಲ್ ಸಹಸ್ರಬುದ್ಧೆ</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಸುನಿಲ್ ಸಹಸ್ರಬುದ್ಧೆ</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2277,8 +2275,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0046-0051</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಮೆನೋನ್</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಸದಾನಂದ ಮೆನೋನ್</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2286,7 +2284,7 @@
 				<feature>ತಿರುಗಾಟ</feature>
 				<page>0052-0054</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2298,7 +2296,7 @@
 		</part>
 	</volume>
 	<volume vnum="014"> 
-		<part pnum="01" month="02" year="2000"> 
+		<part pnum="01" month="02" year="2000" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2310,8 +2308,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0071</page> 
 				<allauthors>
-					<author>ಷೆಲ್ಡನ್ ಪೊಲಾಕ್</author>
-					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಷೆಲ್ಡನ್ ಪೊಲಾಕ್</author>
+					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2321,7 +2319,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2000"> 
+		<part pnum="02" month="05" year="2000" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ವರದಿಗಳು</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2339,7 +2337,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0006</page> 
 				<allauthors>
-					<author>ಶ್ರೀಧರ ಕೆ. ಜಿ</author>
+					<author type="01">ಶ್ರೀಧರ ಕೆ. ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2347,7 +2345,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0007-0010</page> 
 				<allauthors>
-					<author>ಧರ್ಮೇಂದ್ರ ಅರಸ್</author>
+					<author type="01">ಧರ್ಮೇಂದ್ರ ಅರಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2355,7 +2353,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0011-0015</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2364,9 +2362,9 @@
 				<play>ರಥಯಾತ್ರೆ</play>
 				<page>0016-0032</page> 
 				<allauthors>
-					<author>ರವೀಂದ್ರನಾಥ ಟಾಗೋರ</author>
-					<author>(ಅನು)ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
-					<author>(ಅನು)ಚನ್ನಕೇಶವ</author>
+					<author type="01">ರವೀಂದ್ರನಾಥ ಟಾಗೋರ</author>
+					<author type="01">(ಅನು)ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
+					<author type="01">(ಅನು)ಚನ್ನಕೇಶವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2374,8 +2372,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0033-0038</page> 
 				<allauthors>
-					<author>ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2385,7 +2383,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2000"> 
+		<part pnum="03" month="08" year="2000" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೨೦೦೦</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2403,9 +2401,9 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0020</page> 
 				<allauthors>
-					<author>(ರಷ್ಯನ್)ವ್ಯಾಷೆಸ್ಲೆವ್ ಸ್ಟಿಯೋಸಿನ್</author>
-					<author>(ಇಂಗ್ಲಿಷ್)ಹೆಲೆನ್ ಪೆಟ್ರೋವ್‌ಸ್ಕಿ</author>
-					<author>(ಕನ್ನಡಾನುವಾದ)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
+					<author type="01">(ರಷ್ಯನ್)ವ್ಯಾಷೆಸ್ಲೆವ್ ಸ್ಟಿಯೋಸಿನ್</author>
+					<author type="01">(ಇಂಗ್ಲಿಷ್)ಹೆಲೆನ್ ಪೆಟ್ರೋವ್‌ಸ್ಕಿ</author>
+					<author type="01">(ಕನ್ನಡಾನುವಾದ)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2413,8 +2411,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0021-0033</page> 
 				<allauthors>
-					<author>ಅಮೂಲ್ಯ ಕೆ. ಎನ್, ಡಾ||</author>
-					<author>(ಅನು)ಮಾಧವ ಐತಾಳ</author>
+					<author type="01">ಅಮೂಲ್ಯ ಕೆ. ಎನ್, ಡಾ||</author>
+					<author type="01">(ಅನು)ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2422,8 +2420,8 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0034-0038</page> 
 				<allauthors>
-					<author>ದೇಶಪಾಂಡೆ ಜಿ. ಪಿ</author>
-					<author>(ಅನು)ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
+					<author type="01">ದೇಶಪಾಂಡೆ ಜಿ. ಪಿ</author>
+					<author type="01">(ಅನು)ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2431,7 +2429,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0039-0044</page> 
 				<allauthors>
-					<author>ಚನ್ನಕೇಶವ</author>
+					<author type="01">ಚನ್ನಕೇಶವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2447,13 +2445,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2000"> 
+		<part pnum="04" month="11" year="2000" info=""> 
 			<entry>
 				<title>ಯುಗಪಲ್ಲಟ</title>
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0023</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ  ಯು. ಆರ್</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ  ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -2461,7 +2459,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0024-0040</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -2473,13 +2471,13 @@
 		</part>
 	</volume>
 	<volume vnum="015"> 
-		<part pnum="01" month="02" year="2001"> 
+		<part pnum="01" month="02" year="2001" info=""> 
 			<entry>
 				<title>ಬಾಲುರಾಯರಿಗೆ ನಮಸ್ಕಾರ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0006</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2487,7 +2485,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0007-0035</page> 
 				<allauthors>
-					<author>ಫಣಿರಾಜ ಕೆ</author>
+					<author type="01">ಫಣಿರಾಜ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2495,11 +2493,11 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0036-0051</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2001"> 
+		<part pnum="02" month="05" year="2001" info=""> 
 			<entry>
 				<title>ಪ್ರಕಟಣೆ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2511,7 +2509,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0011</page> 
 				<allauthors>
-					<author>ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್</author>
+					<author type="01">ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2525,7 +2523,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0012-0042</page> 
 				<allauthors>
-					<author>ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author type="01">ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2533,18 +2531,18 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0043-0047</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2001"> 
+		<part pnum="03" month="08" year="2001" info=""> 
 			<entry>
 				<title>ಅಣುದುರಂತದ ಸಮಾಜಶಾಸ್ತ್ರ</title>
 				<feature>ಅನುವಾದ</feature>
 				<page>0003-0045</page> 
 				<allauthors>
-					<author>ಮಾರಿಸಿಯೋ ಶೊಯ್ಜೆಟ್</author>
-					<author>(ಅನು)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
+					<author type="01">ಮಾರಿಸಿಯೋ ಶೊಯ್ಜೆಟ್</author>
+					<author type="01">(ಅನು)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2552,18 +2550,18 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0046-0055</page> 
 				<allauthors>
-					<author>ರಘುನಂದನ</author>
+					<author type="01">ರಘುನಂದನ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2001"> 
+		<part pnum="04" month="11" year="2001" info=""> 
 			<entry>
 				<title>'ಅದೇ ಹಿಂಸೆ: ಗುರಿ ಮಾತ್ರ ಹೊಸತು...</title>
 				<feature>ಅನುವಾದ</feature>
 				<page>0001-0008</page> 
 				<allauthors>
-					<author>ನೋಮ್ ಚೋಮ್‌ಸ್ಕಿ</author>
-					<author>(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ನೋಮ್ ಚೋಮ್‌ಸ್ಕಿ</author>
+					<author type="01">(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2571,8 +2569,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0009-0016</page> 
 				<allauthors>
-					<author>ಎಡ್ವರ್ಡ್ ಸಯೀದ್</author>
-					<author>(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ಎಡ್ವರ್ಡ್ ಸಯೀದ್</author>
+					<author type="01">(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2580,7 +2578,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0017-0036</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2592,14 +2590,14 @@
 		</part>
 	</volume>
 	<volume vnum="016"> 
-		<part pnum="01" month="03" year="2002"> 
+		<part pnum="01" month="03" year="2002" info=""> 
 			<entry>
 				<title>ಜನಾಂಗದ ಕನ್ನಡಿಯಲ್ಲಿ ಜಾತಿ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0017</page> 
 				<allauthors>
-					<author>ಶೇಠ್ ಡಿ. ಎಲ್</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಶೇಠ್ ಡಿ. ಎಲ್</author>
+					<author type="01">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2607,7 +2605,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0018-0023</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಜೆ. ಎಸ್, ಡಾ||</author>
+					<author type="01">ಸದಾನಂದ ಜೆ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2615,7 +2613,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0024-0031</page> 
 				<allauthors>
-					<author>ಮೊಗಳ್ಳಿ ಗಣೇಶ್</author>
+					<author type="01">ಮೊಗಳ್ಳಿ ಗಣೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2623,7 +2621,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0032-0036</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2631,8 +2629,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0037-0051</page> 
 				<allauthors>
-					<author>ಜಿಯಾವುದ್ದೀನ್ ಸರದಾರ್</author>
-					<author>‌(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಜಿಯಾವುದ್ದೀನ್ ಸರದಾರ್</author>
+					<author type="01">‌(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2640,11 +2638,11 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0052-0054</page> 
 				<allauthors>
-					<author>ಜೆ. ಜೆ</author>
+					<author type="01">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2002"> 
+		<part pnum="02" month="05" year="2002" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2656,8 +2654,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0002-0015</page> 
 				<allauthors>
-					<author>ಮಧು ಕೀಶ್ವರ್</author>
-					<author>(ಅನು)ಮೀರಾ ಎಲ್. ಜಿ</author>
+					<author type="01">ಮಧು ಕೀಶ್ವರ್</author>
+					<author type="01">(ಅನು)ಮೀರಾ ಎಲ್. ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2671,7 +2669,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0017-0027</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2679,7 +2677,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0028-0034</page> 
 				<allauthors>
-					<author>ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
+					<author type="01">ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2687,7 +2685,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0035-0040</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2697,7 +2695,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2002"> 
+		<part pnum="03" month="08" year="2002" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2715,7 +2713,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0006</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2723,8 +2721,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0007-0016</page> 
 				<allauthors>
-					<author>ಆಶೀಷ್ ಸಂದಿ</author>
-					<author>(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author type="01">ಆಶೀಷ್ ಸಂದಿ</author>
+					<author type="01">(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2732,8 +2730,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0017-0039</page> 
 				<allauthors>
-					<author>ಗಣೇಶ ದೇವಿ</author>
-					<author>(ಅನು)ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್, ಡಾ||</author>
+					<author type="01">ಗಣೇಶ ದೇವಿ</author>
+					<author type="01">(ಅನು)ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2741,18 +2739,18 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0040-0052</page> 
 				<allauthors>
-					<author>ಸೈರಸ್ ಗಝದರ್</author>
-					<author>(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
+					<author type="01">ಸೈರಸ್ ಗಝದರ್</author>
+					<author type="01">(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2002"> 
+		<part pnum="04" month="11" year="2002" info=""> 
 			<entry>
 				<title>ಶಾಪಗ್ರಸ್ತ ಗಂಧರ್ವ - ಬಿ.ವಿ. ಕಾರಂತ ಸಂಸ್ಮರಣೆ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0006</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2760,7 +2758,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0007-0030</page> 
 				<allauthors>
-					<author>ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
+					<author type="01">ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2768,7 +2766,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0031-0054</page> 
 				<allauthors>
-					<author>ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ, ಡಾ||</author>
+					<author type="01">ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2777,7 +2775,7 @@
 				<play>ನಾದಲೀಲೆ</play>
 				<page>0055-0078</page> 
 				<allauthors>
-					<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
+					<author type="01">ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2789,7 +2787,7 @@
 		</part>
 	</volume>
 	<volume vnum="017"> 
-		<part pnum="01" month="02" year="2003"> 
+		<part pnum="01" month="02" year="2003" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2801,7 +2799,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0014</page> 
 				<allauthors>
-					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
+					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2809,8 +2807,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0015-0020</page> 
 				<allauthors>
-					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author>(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2818,8 +2816,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0021-0054</page> 
 				<allauthors>
-					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2827,7 +2825,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0055-0058</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2837,14 +2835,14 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2003"> 
+		<part pnum="02" month="05" year="2003" info=""> 
 			<entry>
 				<title>ಭವಿಷ್ಯವೆಂಬ ಬಹುರೂಪಿ ಬೆಳಕು</title>
 				<feature>ಅನುವಾದ</feature>
 				<page>0001-0011</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ವಾಜಪೇಯಿ</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="01">ಅಶೋಕ ವಾಜಪೇಯಿ</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2852,9 +2850,9 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0012-0032</page> 
 				<allauthors>
-					<author>ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
-					<author>(ಅನು)ವಾಸುದೇವ ವಿ ಗಂಗೇರ್</author>
+					<author type="01">ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">(ಅನು)ವಾಸುದೇವ ವಿ ಗಂಗೇರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2862,7 +2860,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0033-0055</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2872,7 +2870,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2003"> 
+		<part pnum="03" month="08" year="2003" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2890,7 +2888,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0003-0010</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2898,7 +2896,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0011-0015</page> 
 				<allauthors>
-					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
+					<author type="01">ಕೀರ್ತಿನಾಥ ಕುರ್ತುಕೊಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2906,7 +2904,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0016-0019</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2914,7 +2912,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0020-0033</page> 
 				<allauthors>
-					<author>ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್, ವಿದ್ವಾನ್</author>
+					<author type="01">ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್, ವಿದ್ವಾನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2922,8 +2920,8 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0034-0049</page> 
 				<allauthors>
-					<author>ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author>(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
+					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2931,11 +2929,11 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0050-0064</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
+					<author type="01">ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2003"> 
+		<part pnum="04" month="11" year="2003" info=""> 
 			<entry>
 				<title>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿಯವರ ಬರಹಗಳು</title>
 				<feature>ಲೇಖನ</feature>
@@ -2947,7 +2945,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0062-0071</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2955,7 +2953,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0072-0077</page> 
 				<allauthors>
-					<author>ಶಂಕರ ಭಟ್ಟ ಡಿ. ಎನ್, ಡಾ||</author>
+					<author type="01">ಶಂಕರ ಭಟ್ಟ ಡಿ. ಎನ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2967,7 +2965,7 @@
 		</part>
 	</volume>
 	<volume vnum="018"> 
-		<part pnum="01" month="03" year="2004"> 
+		<part pnum="01" month="03" year="2004" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್  ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -2979,7 +2977,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0020</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2987,7 +2985,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0021-0044</page> 
 				<allauthors>
-					<author>ರಾಜಾರಾಮ ಹೆಗಡೆ, ಡಾ||</author>
+					<author type="01">ರಾಜಾರಾಮ ಹೆಗಡೆ, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2995,7 +2993,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0045-0051</page> 
 				<allauthors>
-					<author>ಚನ್ನಕೇಶವ</author>
+					<author type="01">ಚನ್ನಕೇಶವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3005,7 +3003,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2004"> 
+		<part pnum="02" month="05" year="2004" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -3017,8 +3015,8 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0028</page> 
 				<allauthors>
-					<author>ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3026,7 +3024,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0029-0039</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3036,13 +3034,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2004"> 
+		<part pnum="03" month="08" year="2004" info=""> 
 			<entry>
 				<title>ವಿಸ್ಮಯದಲ್ಲಿ ಬದುಕಿದ  ಅಪರೂಪದ ವ್ಯಕ್ತಿ - ಡಾ|| ನಿ. ಮುರಾರಿ ಬಲ್ಲಾಳ್</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0011</page> 
 				<allauthors>
-					<author>ಕೆದ್ಲಾಯ ಕೆ. ಎಸ್  ಪ್ರೊ||</author>
+					<author type="01">ಕೆದ್ಲಾಯ ಕೆ. ಎಸ್  ಪ್ರೊ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3050,7 +3048,7 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0012-0034</page> 
 				<allauthors>
-					<author>(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3058,18 +3056,18 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0035-0048</page> 
 				<allauthors>
-					<author>ಜಾರ್ಜ್ ಬುಶ್ನರ್ </author>
-					<author>(ಅನು)ಶ್ರೀಧರ ಹೆಗ್ಗೋಡು</author>
+					<author type="01">ಜಾರ್ಜ್ ಬುಶ್ನರ್ </author>
+					<author type="01">(ಅನು)ಶ್ರೀಧರ ಹೆಗ್ಗೋಡು</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2004"> 
+		<part pnum="04" month="11" year="2004" info=""> 
 			<entry>
 				<title>ಕುವೆಂಪು ನಾಟಕಗಳು : ರಾಷ್ಟ್ರ ಮತ್ತು ಪ್ರಭುತ್ವ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0022</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3077,8 +3075,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0023-0036</page> 
 				<allauthors>
-					<author>ರೊದ್ದಂ ನರಸಿಂಹ</author>
-					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ರೊದ್ದಂ ನರಸಿಂಹ</author>
+					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3086,13 +3084,13 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0037-0040</page> 
 				<allauthors>
-					<author>ರಶ್ಮಿ ರಾ. ಹೆಬ್ಬೂರು</author>
+					<author type="01">ರಶ್ಮಿ ರಾ. ಹೆಬ್ಬೂರು</author>
 				</allauthors>
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="019"> 
-		<part pnum="01" month="02" year="2005"> 
+		<part pnum="01" month="02" year="2005" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್  ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -3104,7 +3102,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0012</page> 
 				<allauthors>
-					<author>ನರಸಿಂಹಚಾರ್ ಪು. ತಿ</author>
+					<author type="01">ನರಸಿಂಹಚಾರ್ ಪು. ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3112,7 +3110,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0013-0024</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3120,8 +3118,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0025-0046</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3129,7 +3127,7 @@
 				<feature></feature>
 				<page>0047-0050</page> 
 				<allauthors>
-					<author>ವೈದೇಹಿ</author>
+					<author type="01">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3139,7 +3137,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2005"> 
+		<part pnum="02" month="05" year="2005" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -3151,7 +3149,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0024</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3159,8 +3157,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0025-0054</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಬಿ. ಕೆ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಬಿ. ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3170,13 +3168,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2005"> 
+		<part pnum="03" month="08" year="2005" info=""> 
 			<entry>
 				<title>ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಲಿಪಿ</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0002-0010</page> 
 				<allauthors>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3184,8 +3182,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0011-0016</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಮೆನೊನ</author>
-					<author>(ಅನು)ವೈದೇಹಿ</author>
+					<author type="01">ಸದಾನಂದ ಮೆನೊನ</author>
+					<author type="01">(ಅನು)ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3193,7 +3191,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0017-0022</page> 
 				<allauthors>
-					<author>ಪ್ರಕಾಶ ಬೆಳವಾಡಿ</author>
+					<author type="01">ಪ್ರಕಾಶ ಬೆಳವಾಡಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3201,7 +3199,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0023-0025</page> 
 				<allauthors>
-					<author>ದೀಪ ಗಣೇಶ್</author>
+					<author type="01">ದೀಪ ಗಣೇಶ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3209,7 +3207,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0026-0029</page> 
 				<allauthors>
-					<author>ಪ್ರಸನ್ನ</author>
+					<author type="01">ಪ್ರಸನ್ನ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3217,18 +3215,18 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0030-0036</page> 
 				<allauthors>
-					<author>ಸುಧನ್ವ ದೇಶಪಾಂಡೆ</author>
-					<author>(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="01">ಸುಧನ್ವ ದೇಶಪಾಂಡೆ</author>
+					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2005"> 
+		<part pnum="04" month="11" year="2005" info=""> 
 			<entry>
 				<title>ಹಿಂಸೆ ಮತ್ತು ಭಾಷೆ</title>
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0001-0019</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3236,7 +3234,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0020-0032</page> 
 				<allauthors>
-					<author>ಫಣಿರಾಜ್ ಕೆ</author>
+					<author type="01">ಫಣಿರಾಜ್ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3244,8 +3242,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0033-0045</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3257,13 +3255,13 @@
 		</part>
 	</volume>
 	<volume vnum="020"> 
-		<part pnum="01" month="03" year="2006"> 
+		<part pnum="01" month="03" year="2006" info=""> 
 			<entry>
 				<title>ಜನಪರ ಚಳುವಳಿಗಳು ಮತ್ತು ನಕ್ಸಲೀಯರು: ಕೆಲವು ಪ್ರಶ್ನೆಗಳು</title>
 				<feature>ಲೇಖನ</feature>
 				<page>0001-0011</page> 
 				<allauthors>
-					<author>ಸಿರಾಜ್ ಅಹಮದ್ ಎಸ್</author>
+					<author type="01">ಸಿರಾಜ್ ಅಹಮದ್ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3271,8 +3269,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0012-029</page> 
 				<allauthors>
-					<author>ರೂಬಿ ರಾಜನ್</author>
-					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ರೂಬಿ ರಾಜನ್</author>
+					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3280,8 +3278,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0030-0047</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3291,7 +3289,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2006"> 
+		<part pnum="02" month="05" year="2006" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್  ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -3303,7 +3301,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0002-0007</page> 
 				<allauthors>
-					<author>ಆಶಾದೇವಿ ಎಂ. ಎಸ್</author>
+					<author type="01">ಆಶಾದೇವಿ ಎಂ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3311,7 +3309,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0008-0023</page> 
 				<allauthors>
-					<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ</author>
+					<author type="01">ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3319,19 +3317,19 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0024-0048</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2006"> 
+		<part pnum="03" month="08" year="2006" info=""> 
 			<entry>
 				<title>ಯಾಹೂ</title>
 				<feature>ಅನುವಾದ</feature>
 				<page>0003-0021</page> 
 				<allauthors>
-					<author>ಝಿಯಾವುದ್ದೀನ್ ಸರ್ದಾರ್</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಝಿಯಾವುದ್ದೀನ್ ಸರ್ದಾರ್</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3339,7 +3337,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0022-0024</page> 
 				<allauthors>
-					<author>ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3347,8 +3345,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0024-0048</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3358,14 +3356,14 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2006"> 
+		<part pnum="04" month="11" year="2006" info=""> 
 			<entry>
 				<title>ಭೂಪಟಗಳು</title>
 				<feature>ಅನುವಾದ</feature>
 				<page>0002-0012</page> 
 				<allauthors>
-					<author>ಶಂಕರನ್ ಕೃಷ್ಣ</author>
-					<author>(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಶಂಕರನ್ ಕೃಷ್ಣ</author>
+					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3373,8 +3371,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0013-0021</page> 
 				<allauthors>
-					<author>ಆಶೀಶ್ ನಂದಿ</author>
-					<author>(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಆಶೀಶ್ ನಂದಿ</author>
+					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3382,8 +3380,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0022-0031</page> 
 				<allauthors>
-					<author>ವಿನಯಲಾಲ್</author>
-					<author>(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ವಿನಯಲಾಲ್</author>
+					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3391,7 +3389,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0033-0036</page> 
 				<allauthors>
-					<author>ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
+					<author type="01">ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3399,8 +3397,8 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0037-0045</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3412,13 +3410,13 @@
 		</part>
 	</volume>
 	<volume vnum="021"> 
-		<part pnum="01" month="02" year="2007"> 
+		<part pnum="01" month="02" year="2007" info=""> 
 			<entry>
 				<title>ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಕ್ಕೆ ದೇವಸ್ಥಾನ ಸೂಕ್ತ ಸ್ಥಳವೇ?</title>
 				<feature></feature>
 				<page>0002-0007</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3426,7 +3424,7 @@
 				<feature></feature>
 				<page>0008-0020</page> 
 				<allauthors>
-					<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
+					<author type="01">ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3434,8 +3432,8 @@
 				<feature></feature>
 				<page>0021-0039</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3445,13 +3443,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2007"> 
+		<part pnum="02" month="05" year="2007" info=""> 
 			<entry>
 				<title>ಕನ್ನಡನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ : ಮುನ್ನೋಟ </title>
 				<feature></feature>
 				<page>0002-0021</page> 
 				<allauthors>
-					<author>ಶಂಕರ ಭಟ್ಟ್ ಡಿ. ಎನ್</author>
+					<author type="01">ಶಂಕರ ಭಟ್ಟ್ ಡಿ. ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3459,8 +3457,8 @@
 				<feature></feature>
 				<page>0022-0039</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3470,13 +3468,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2007"> 
+		<part pnum="03" month="08" year="2007" info=""> 
 			<entry>
 				<title>ಸಂಪ್ರದಾಯದ ಗ್ರಹಿಕೆಗೊಂದು ಹೊಸ ದಿಕ್ಸೂಚಿ </title>
 				<feature></feature>
 				<page>0001-0012</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3484,8 +3482,8 @@
 				<feature></feature>
 				<page>0013-0042</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3493,18 +3491,18 @@
 				<feature></feature>
 				<page>0043-0044</page> 
 				<allauthors>
-					<author>ಕೆನ್ನೆತ್ ಟೈನನ್</author>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಕೆನ್ನೆತ್ ಟೈನನ್</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2007"> 
+		<part pnum="04" month="11" year="2007" info=""> 
 			<entry>
 				<title>ಹಿಂಸೆಯ ಎಡ - ಬಲ  </title>
 				<feature></feature>
 				<page>0001-0025</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3512,7 +3510,7 @@
 				<feature></feature>
 				<page>0026-0032</page> 
 				<allauthors>
-					<author>ಕಾವ್ಯಶ್ರೀ</author>
+					<author type="01">ಕಾವ್ಯಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3520,7 +3518,7 @@
 				<feature></feature>
 				<page>0033-0037</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3532,14 +3530,14 @@
 		</part>
 	</volume>
 	<volume vnum="022"> 
-		<part pnum="01" month="03" year="2008"> 
+		<part pnum="01" month="03" year="2008" info=""> 
 			<entry>
 				<title>ಶಬ್ದ ಮತ್ತು ಜಗತ್ತು: ಪರಿಶಿಷ್ಟಗಳು : ಸಂಕೇತವಿಜ್ಞಾನ ಮತ್ತು ಅಲಂಕಾರಶಾಸ್ತ್ರ</title>
 				<feature></feature>
 				<page>0001-0030</page> 
 				<allauthors>
-					<author>ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author>ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
+					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3547,18 +3545,18 @@
 				<feature></feature>
 				<page>0031-0048</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2008"> 
+		<part pnum="02" month="05" year="2008" info=""> 
 			<entry>
 				<title>ಹಿಂಸೆಯಒಳ - ಹೊರಗು : ಧಿರ ಹಂತಕರ ಅಧೀರ ಮನೋಲೋಕದೊಳಗೊಂದು ಸುತ್ತು </title>
 				<feature></feature>
 				<page>0001-0034</page> 
 				<allauthors>
-					<author>ಆಶೀಶ ನಂದಿ</author>
-					<author>ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="01">ಆಶೀಶ ನಂದಿ</author>
+					<author type="01">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3568,14 +3566,14 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2008"> 
+		<part pnum="03" month="08" year="2008" info=""> 
 			<entry>
 				<title>ಪ್ರಮಾಣಶಾಸ್ತ್ರ ಮತ್ತು ದಾರ್ಶನಿಕ ಸಮಸ್ಯೆಗಳು</title>
 				<feature></feature>
 				<page>0002-0037</page> 
 				<allauthors>
-					<author>ಬಿಮಲ್‌ಕೃಷ್ಣ ಮತಿಲಾಲ್</author>
-					<author>ಪ್ರಭಾಕರ ಜೋಶಿ ಎಂ</author>
+					<author type="01">ಬಿಮಲ್‌ಕೃಷ್ಣ ಮತಿಲಾಲ್</author>
+					<author type="01">ಪ್ರಭಾಕರ ಜೋಶಿ ಎಂ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3583,7 +3581,7 @@
 				<feature></feature>
 				<page>0038-0038</page> 
 				<allauthors>
-					<author>ಗಾಂಧಿ ಎಂ. ಕೆ</author>
+					<author type="01">ಗಾಂಧಿ ಎಂ. ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3593,13 +3591,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2008"> 
+		<part pnum="04" month="11" year="2008" info=""> 
 			<entry>
 				<title>ಭಾರತೀಯ ಬಹುಸಂಸ್ಕೃತಿಗಳು ಮತ್ತು ಸೆಕ್ಯುಲರ್‌ವಾದ</title>
 				<feature></feature>
 				<page>0001-0027</page> 
 				<allauthors>
-					<author>ರಾಜಾರಾಮ ಹೆಗಡೆ  ಡಾ||</author>
+					<author type="01">ರಾಜಾರಾಮ ಹೆಗಡೆ  ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3607,7 +3605,7 @@
 				<feature></feature>
 				<page>0028-0043</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ </author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3619,13 +3617,13 @@
 		</part>
 	</volume>
 	<volume vnum="023"> 
-		<part pnum="01" month="03" year="2009"> 
+		<part pnum="01" month="03" year="2009" info=""> 
 			<entry>
 				<title>ಭಾರತೀಯರಿಗೆ ಏನು ಬೇಕು - ಚರಿತ್ರೆಯೊ, ಗತಕಾಲವೊ?</title>
 				<feature></feature>
 				<page>0001-0027</page> 
 				<allauthors>
-					<author>ಬಾಲಗಂಗಾಧರ ಎಸ್. ಎನ್ </author>
+					<author type="01">ಬಾಲಗಂಗಾಧರ ಎಸ್. ಎನ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3633,7 +3631,7 @@
 				<feature></feature>
 				<page>0028-0044</page> 
 				<allauthors>
-					<author>ಮನು ವಿ. ದೇವನ್ </author>
+					<author type="01">ಮನು ವಿ. ದೇವನ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3643,14 +3641,14 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2009"> 
+		<part pnum="02" month="05" year="2009" info=""> 
 			<entry>
 				<title>ಪಳಗಿಸಲಾಗದ ವಿಶ್ವಪ್ರಜ್ಞೆಯ ಗೆಲುವು</title>
 				<feature></feature>
 				<page>0002-0014</page> 
 				<allauthors>
-					<author>ಆಶೀಶ್ ನಂದಿ</author>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಆಶೀಶ್ ನಂದಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -3664,7 +3662,7 @@
 				<feature></feature>
 				<page>0022-0025</page> 
 				<allauthors>
-					<author>ಸೋಮಶೇಖರ ಬಿ. ಎಸ್</author>
+					<author type="01">ಸೋಮಶೇಖರ ಬಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -3672,7 +3670,7 @@
 				<feature></feature>
 				<page>0026-0029</page> 
 				<allauthors>
-					<author>ಸುಷುಮ್ನಾ ಕಣ್ಣನ್</author>
+					<author type="01">ಸುಷುಮ್ನಾ ಕಣ್ಣನ್</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -3680,7 +3678,7 @@
 				<feature></feature>
 				<page>0030-0036</page> 
 				<allauthors>
-					<author>ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
+					<author type="01">ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -3688,7 +3686,7 @@
 				<feature></feature>
 				<page>0037-0038</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 				<entry>
@@ -3698,7 +3696,7 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2009"> 
+		<part pnum="03" month="08" year="2009" info=""> 
 			<entry>
 				<title>ಕೆ.ವಿ. ಸುಬ್ಬಣ್ಣ ಅವರ ಬರಹಗಳ ಇಂಗ್ಲೀಷ್ ಸಂಕಲನ 'ಕಮ್ಯೂನಿಟಿ ಎಂಡ್ ಕಲ್ಚರ್' ಪುಸ್ತಕ ಬಿಡುಗಡೆ ಸಮಾರಂಭದ ಭಾಷಣಗಳು</title>
 				<feature></feature>
@@ -3710,7 +3708,7 @@
 				<feature></feature>
 				<page>0036-0039</page> 
 				<allauthors>
-					<author>ರಜನಿ ಗರುಡ</author>
+					<author type="01">ರಜನಿ ಗರುಡ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3720,13 +3718,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2009"> 
+		<part pnum="04" month="11" year="2009" info=""> 
 			<entry>
 				<title>ಭಾರತೀಯ ರಂಗಭೂಮಿಯ ಆಯಾಮಗಳು 'ಅವರ್ ಸ್ಟೇಜ್' ಪುಸ್ತಕ ವಿಮರ್ಶೆ</title>
 				<feature></feature>
 				<page>0001-0008</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3734,7 +3732,7 @@
 				<feature></feature>
 				<page>0009-0038</page> 
 				<allauthors>
-					<author>ವೈದೇಹಿ</author>
+					<author type="01">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3746,13 +3744,13 @@
 		</part>
 	</volume>
 	<volume vnum="024"> 
-		<part pnum="01" month="03" year="2010"> 
+		<part pnum="01" month="03" year="2010" info=""> 
 			<entry>
 				<title>ಭಾಷೆಭಾಷೆಗಳ ನಡುವೆ ಉಲ್ಲಂಘನೆ ದಾರಿಗಳು</title>
 				<feature></feature>
 				<page>0001-0010</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3760,10 +3758,10 @@
 				<feature></feature>
 				<page>0011-0021</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
-					<author>ನಾಗಭೂಷಣ ಸ್ವಾಮಿ ಒ. ಎಲ್</author>
-					<author>ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್</author>
-					<author>ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ನಾಗಭೂಷಣ ಸ್ವಾಮಿ ಒ. ಎಲ್</author>
+					<author type="01">ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್</author>
+					<author type="01">ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3771,7 +3769,7 @@
 				<feature></feature>
 				<page>0022-0032</page> 
 				<allauthors>
-					<author>ಲುಡ್‌ವಿಗ್ ವಿಟ್ಗೆನ್‌ಸ್ಟೆಯ್ನ್</author>
+					<author type="01">ಲುಡ್‌ವಿಗ್ ವಿಟ್ಗೆನ್‌ಸ್ಟೆಯ್ನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3779,7 +3777,7 @@
 				<feature></feature>
 				<page>0032-0036</page> 
 				<allauthors>
-					<author>ಶಂಕರ್ ವೆಂಕಟೇಶ್ವರನ್</author>
+					<author type="01">ಶಂಕರ್ ವೆಂಕಟೇಶ್ವರನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3795,13 +3793,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2010"> 
+		<part pnum="02" month="05" year="2010" info=""> 
 			<entry>
 				<title>ಗಿರೀಶ್ ಕಾರ್ನಾಡರ ಕಥೆಗಳು</title>
 				<feature></feature>
 				<page>0001-0011</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3809,8 +3807,8 @@
 				<feature></feature>
 				<page>0012-0025</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಮೆನೊನ್</author>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಸದಾನಂದ ಮೆನೊನ್</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3826,13 +3824,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2010"> 
+		<part pnum="03" month="08" year="2010" info=""> 
 			<entry>
 				<title>ಕಾಳಿದಾಸನ ಅಭಿಜ್ಞಾನ ಸಂವಿಧಾನ</title>
 				<feature></feature>
 				<page>0001-0010</page> 
 				<allauthors>
-					<author>ಉಮಾಕಾಂತ ಭಟ್ಟ ವಿದ್ವಾನ್ ಮೇಲುಕೋಟೆ </author>
+					<author type="01">ಉಮಾಕಾಂತ ಭಟ್ಟ ವಿದ್ವಾನ್ ಮೇಲುಕೋಟೆ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3840,7 +3838,7 @@
 				<feature></feature>
 				<page>0011-0015</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3848,7 +3846,7 @@
 				<feature></feature>
 				<page>0016-0030</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3856,7 +3854,7 @@
 				<feature></feature>
 				<page>0031-0038</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3866,15 +3864,15 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2010"> 
+		<part pnum="04" month="11" year="2010" info=""> 
 			<entry>
 				<title>ಸುಖದ ಹಾದಿಯ ಹಿತದರ್ಶನ</title>
 				<feature></feature>
 				<page>0001-0017</page> 
 				<allauthors>
-					<author>ಜಿಗ್ಮೀ ವೈಥೀನ್‌ಲೇ </author>
-					<author>ಕರ್ಮಾ ಉರ </author>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಜಿಗ್ಮೀ ವೈಥೀನ್‌ಲೇ </author>
+					<author type="01">ಕರ್ಮಾ ಉರ </author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3882,9 +3880,9 @@
 				<feature></feature>
 				<page>0018-0037</page> 
 				<allauthors>
-					<author>ಸತೀಶ ಬಹಾದುರ್ ಪ್ರೊ</author>
-					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಸತೀಶ ಬಹಾದುರ್ ಪ್ರೊ</author>
+					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3892,7 +3890,7 @@
 				<feature></feature>
 				<page>0038-0049</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3904,13 +3902,13 @@
 		</part>
 	</volume>
 	<volume vnum="025"> 
-		<part pnum="01" month="03" year="2011"> 
+		<part pnum="01" month="03" year="2011" info=""> 
 			<entry>
 				<title>ಬದುಕು, ಭಾಷೆ ಮತ್ತು ಅರ್ಥಗಳ ಅನುವರ್ತನೆ</title>
 				<feature></feature>
 				<page>0001-0014</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3918,8 +3916,8 @@
 				<feature></feature>
 				<page>0015-0039</page> 
 				<allauthors>
-					<author>ರಾಧಾವಲ್ಲಭ ತ್ರಿಪಾಠಿ</author>
-					<author>ಅತ್ತೀಮುರುಡು ವಿಶ್ವೇಶ್ವರ</author>
+					<author type="01">ರಾಧಾವಲ್ಲಭ ತ್ರಿಪಾಠಿ</author>
+					<author type="01">ಅತ್ತೀಮುರುಡು ವಿಶ್ವೇಶ್ವರ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3929,13 +3927,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2011"> 
+		<part pnum="02" month="05" year="2011" info=""> 
 			<entry>
 				<title>ಬಾದಲ್ ಸರ್ಕಾರ್: ಭಾರತೀಯ ರಂಗಭೂಮಿಗೊಂದು ಅಂಕದಪರದೆ</title>
 				<feature></feature>
 				<page>0001-0012</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಮೆನೋನ್</author>
+					<author type="01">ಸದಾನಂದ ಮೆನೋನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3943,7 +3941,7 @@
 				<feature></feature>
 				<page>0013-0019</page> 
 				<allauthors>
-					<author>ಪ್ರಸನ್ನ</author>
+					<author type="01">ಪ್ರಸನ್ನ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3951,7 +3949,7 @@
 				<feature></feature>
 				<page>0020-0027</page> 
 				<allauthors>
-					<author>ಸುಧನ್ವ ದೇಶಪಾಂಡೆ</author>
+					<author type="01">ಸುಧನ್ವ ದೇಶಪಾಂಡೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3959,7 +3957,7 @@
 				<feature></feature>
 				<page>0028-0030</page> 
 				<allauthors>
-					<author>ರಾಮು ರಾಮನಾಥನ್</author>
+					<author type="01">ರಾಮು ರಾಮನಾಥನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3967,7 +3965,7 @@
 				<feature></feature>
 				<page>0031-0034</page> 
 				<allauthors>
-					<author>‌ಆನಂದ ಲಾಲ್</author>
+					<author type="01">‌ಆನಂದ ಲಾಲ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3975,17 +3973,17 @@
 				<feature></feature>
 				<page>0035-0037</page> 
 				<allauthors>
-					<author>ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
+					<author type="01">ನಟರಾಜ ಹೊನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2011"> 
+		<part pnum="03" month="08" year="2011" info=""> 
 			<entry>
 				<title>ಕಂಬಾರರಿಗೆ ಅಭಿನಂದನೆ</title>
 				<feature></feature>
 				<page>0001-0008</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3993,7 +3991,7 @@
 				<feature></feature>
 				<page>0009-0038</page> 
 				<allauthors>
-					<author>ರಘುನಂದನ</author>
+					<author type="01">ರಘುನಂದನ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4003,13 +4001,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2011"> 
+		<part pnum="04" month="11" year="2011" info=""> 
 			<entry>
 				<title>ಪಕ್ಷಪಾತದ ಪರವಾಗಿ</title>
 				<feature></feature>
 				<page>0002-0011</page> 
 				<allauthors>
-					<author>ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
+					<author type="01">ಸತ್ಯನಾರಾಯಣ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4017,7 +4015,7 @@
 				<feature></feature>
 				<page>0012-0024</page> 
 				<allauthors>
-					<author>ಬಸವರಾಜ ಜಿ. ಪಿ</author>
+					<author type="01">ಬಸವರಾಜ ಜಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4025,7 +4023,7 @@
 				<feature></feature>
 				<page>0025-0031</page> 
 				<allauthors>
-					<author>ಶೂದ್ರ ಶ್ರೀನಿವಾಸ</author>
+					<author type="01">ಶೂದ್ರ ಶ್ರೀನಿವಾಸ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4033,7 +4031,7 @@
 				<feature></feature>
 				<page>0032-0036</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4041,8 +4039,8 @@
 				<feature></feature>
 				<page>0037-0051</page> 
 				<allauthors>
-					<author>ಆರ್ಯನಿಲ್ ಮುಖರ್ಜಿ</author>
-					<author>ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
+					<author type="01">ಆರ್ಯನಿಲ್ ಮುಖರ್ಜಿ</author>
+					<author type="01">ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4050,8 +4048,8 @@
 				<feature></feature>
 				<page>0052-0063</page> 
 				<allauthors>
-					<author>ಮಂಗೇಶ ನಾರಾಯಣರಾವ್ ಕಾಳೆ</author>
-					<author>ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
+					<author type="01">ಮಂಗೇಶ ನಾರಾಯಣರಾವ್ ಕಾಳೆ</author>
+					<author type="01">ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4063,7 +4061,7 @@
 		</part>
 	</volume>
 	<volume vnum="026"> 
-		<part pnum="01" month="03" year="2012"> 
+		<part pnum="01" month="03" year="2012" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರ - ಪ್ರಕಟಣೆ</title>
 				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
@@ -4075,7 +4073,7 @@
 				<feature></feature>
 				<page>0002-0007</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4083,7 +4081,7 @@
 				<feature></feature>
 				<page>0008-0011</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4105,13 +4103,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2012"> 
+		<part pnum="02" month="05" year="2012" info=""> 
 			<entry>
 				<title>ಕುಮಾರವ್ಯಾಸನ: ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
 				<feature></feature>
 				<page>0002-0012</page> 
 				<allauthors>
-					<author>ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4119,7 +4117,7 @@
 				<feature></feature>
 				<page>0013-0022</page> 
 				<allauthors>
-					<author>ಹೆಗಡೆ  ಎಂ. ಎ</author>
+					<author type="01">ಹೆಗಡೆ  ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4127,7 +4125,7 @@
 				<feature></feature>
 				<page>0023-0034</page> 
 				<allauthors>
-					<author>ವೈದೇಹಿ</author>
+					<author type="01">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4135,7 +4133,7 @@
 				<feature></feature>
 				<page>0035-0039</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4145,13 +4143,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2012"> 
+		<part pnum="03" month="08" year="2012" info=""> 
 			<entry>
 				<title>ಹರಿದ ಬೆಳದಿಂಗಳು</title>
 				<feature></feature>
 				<page>0001-0005</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4159,7 +4157,7 @@
 				<feature></feature>
 				<page>0006-0012</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4167,7 +4165,7 @@
 				<feature></feature>
 				<page>0013-0021</page> 
 				<allauthors>
-					<author>ಪೂರ್ಣಿಮಾ ಕೆ. ಎಸ್</author>
+					<author type="01">ಪೂರ್ಣಿಮಾ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4175,7 +4173,7 @@
 				<feature></feature>
 				<page>0022-0033</page> 
 				<allauthors>
-					<author>ಫಣಿರಾಜ್ ಕೆ</author>
+					<author type="01">ಫಣಿರಾಜ್ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4183,11 +4181,11 @@
 				<feature></feature>
 				<page>0034-0040</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2012"> 
+		<part pnum="04" month="11" year="2012" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಒಂದು ಅವಲೋಕನ</title>
 				<feature></feature>
@@ -4199,7 +4197,7 @@
 				<feature></feature>
 				<page>0003-0015</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4207,7 +4205,7 @@
 				<feature></feature>
 				<page>0016-0021</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4215,7 +4213,7 @@
 				<feature></feature>
 				<page>0022-0028</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
+					<author type="01">ಸದಾನಂದ ಜೆ. ಎಸ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4223,7 +4221,7 @@
 				<feature></feature>
 				<page>0029-0045</page> 
 				<allauthors>
-					<author>ರಘುನಂದನ</author>
+					<author type="01">ರಘುನಂದನ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4235,13 +4233,13 @@
 		</part>
 	</volume>
 	<volume vnum="027"> 
-		<part pnum="01" month="03" year="2013"> 
+		<part pnum="01" month="03" year="2013" info=""> 
 			<entry>
 				<title>ಲಂಕೇಶರ ಎರಡು ಕತೆಗಳು</title>
 				<feature></feature>
 				<page>0001-0010</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4249,7 +4247,7 @@
 				<feature></feature>
 				<page>0011-0017</page> 
 				<allauthors>
-					<author>ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
+					<author type="01">ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4257,7 +4255,7 @@
 				<feature></feature>
 				<page>0018-0021</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4265,7 +4263,7 @@
 				<feature></feature>
 				<page>0022-0027</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4273,7 +4271,7 @@
 				<feature></feature>
 				<page>0028-0031</page> 
 				<allauthors>
-					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+					<author type="01">ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4281,11 +4279,11 @@
 				<feature></feature>
 				<page>0032-0039</page> 
 				<allauthors>
-					<author>ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
+					<author type="01">ಐತಾಳ ಬಿ. ಆರ್. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2013"> 
+		<part pnum="02" month="05" year="2013" info=""> 
 			<entry>
 				<title>ನೀನಾಸಮ್ ಸಂಸ್ಕೃತಿ ಶಿಬಿರ ೨೦೧೩ ಪ್ರಕಟಣೆ</title>
 				<feature></feature>
@@ -4297,7 +4295,7 @@
 				<feature></feature>
 				<page>0002-0032</page> 
 				<allauthors>
-					<author>ಅಮರನಾಥ ಎಚ್. ಆರ್</author>
+					<author type="01">ಅಮರನಾಥ ಎಚ್. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4305,7 +4303,7 @@
 				<feature></feature>
 				<page>0033-0041</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4313,8 +4311,8 @@
 				<feature></feature>
 				<page>0042-0048</page> 
 				<allauthors>
-					<author>ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
-					<author>ಆಸೀಂ ಸಿದ್ದೀಕಿ</author>
+					<author type="01">ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
+					<author type="01">ಆಸೀಂ ಸಿದ್ದೀಕಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4324,13 +4322,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2013"> 
+		<part pnum="03" month="08" year="2013" info=""> 
 			<entry>
 				<title>ಕೆ.ವಿ.ಸುಬ್ಬಣ್ಣ ಸ್ಮರಣೆ</title>
 				<feature></feature>
 				<page>0001-0008</page> 
 				<allauthors>
-					<author>ಗಂಗಾಧರ್ ಕಲ್ಲಹಳ್ಳ</author>
+					<author type="01">ಗಂಗಾಧರ್ ಕಲ್ಲಹಳ್ಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4338,7 +4336,7 @@
 				<feature></feature>
 				<page>0009-0023</page> 
 				<allauthors>
-					<author>ಶ್ರೀರಾಮ್ ಎಂ. ಎಸ್</author>
+					<author type="01">ಶ್ರೀರಾಮ್ ಎಂ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4346,7 +4344,7 @@
 				<feature></feature>
 				<page>0024-0043</page> 
 				<allauthors>
-					<author>ಶ್ರೀರಾಮ್ ಎಂ. ಎಸ್</author>
+					<author type="01">ಶ್ರೀರಾಮ್ ಎಂ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4354,7 +4352,7 @@
 				<feature></feature>
 				<page>0044-0055</page> 
 				<allauthors>
-					<author>ಅಕ್ಷರ ಕೆ.ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ.ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4364,13 +4362,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="04" month="11" year="2013"> 
+		<part pnum="04" month="11" year="2013" info=""> 
 			<entry>
 				<title>ಸಿ. ಎನ್. ರಾಮಚಂದ್ರನ್ ಅವರ 'ಆಖ್ಯಾನ-ವ್ಯಾಖ್ಯಾನ'</title>
 				<feature></feature>
 				<page>0001-0007</page> 
 				<allauthors>
-					<author>ಅಶೋಕ ಟಿ. ಪಿ</author>
+					<author type="01">ಅಶೋಕ ಟಿ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4378,7 +4376,7 @@
 				<feature></feature>
 				<page>0008-0021</page> 
 				<allauthors>
-					<author>ಮನು ಚಕ್ರವರ್ತಿ</author>
+					<author type="01">ಮನು ಚಕ್ರವರ್ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4386,7 +4384,7 @@
 				<feature></feature>
 				<page>0022-0047</page> 
 				<allauthors>
-					<author>ಗಣೇಶ ಎಂ</author>
+					<author type="01">ಗಣೇಶ ಎಂ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4398,13 +4396,13 @@
 		</part>
 	</volume>
 	<volume vnum="028"> 
-		<part pnum="01" month="03" year="2014"> 
+		<part pnum="01" month="03" year="2014" info=""> 
 			<entry>
 				<title>ಮೊಟಕುಗೊಳಿಸಿದ ಮಹಾತ್ಮ</title>
 				<feature></feature>
 				<page>0001-0009</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4412,7 +4410,7 @@
 				<feature></feature>
 				<page>0010-0051</page> 
 				<allauthors>
-					<author>ರಘುನಂದನ</author>
+					<author type="01">ರಘುನಂದನ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4422,13 +4420,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="02" month="05" year="2014"> 
+		<part pnum="02" month="05" year="2014" info=""> 
 			<entry>
 				<title>ಸೃಜನಶೀಲತೆಯ ಆಳ-ನಿಗೂಢಗಳ ಹುಡುಕಾಟ ಅನಂತಮೂರ್ತಿಯವರ ಕಥೆಗಳ ಜಿಜ್ಞಾಸೆ</title>
 				<feature></feature>
 				<page>0001-0015</page> 
 				<allauthors>
-					<author>ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
+					<author type="01">ಮನು ಚಕ್ರವರ್ತಿ ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4436,7 +4434,7 @@
 				<feature></feature>
 				<page>0016-0037</page> 
 				<allauthors>
-					<author>ಅಮರನಾಥ ಎಚ್. ಆರ್</author>
+					<author type="01">ಅಮರನಾಥ ಎಚ್. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4446,13 +4444,13 @@
 				<allauthors/>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2014"> 
+		<part pnum="03" month="08" year="2014" info=""> 
 			<entry>
 				<title>ಭಾರತೀಯ ಎನ್ನುವ ಒಂದು ಚಿಂತನಕ್ರಮ ಇದೆಯೆ? - ಒಂದು ಜಿಜ್ಞಾಸೆ ಒಂದು ಮೌಲಿಕ ಲೇಖನ</title>
 				<feature></feature>
 				<page>0003-0008</page> 
 				<allauthors>
-					<author>ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್</author>
+					<author type="01">ರಾಮಚಂದ್ರನ್ ಸಿ. ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4460,7 +4458,7 @@
 				<feature></feature>
 				<page>0009-0015</page> 
 				<allauthors>
-					<author>ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4468,7 +4466,7 @@
 				<feature></feature>
 				<page>0016-0022</page> 
 				<allauthors>
-					<author>ಸದಾನಂದ ಜಿ. ಎಸ್</author>
+					<author type="01">ಸದಾನಂದ ಜಿ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4476,7 +4474,7 @@
 				<feature></feature>
 				<page>0023-0030</page> 
 				<allauthors>
-					<author>ಸುಮಿತ್ರಾಬಾಯಿ ಬಿ. ಎನ್</author>
+					<author type="01">ಸುಮಿತ್ರಾಬಾಯಿ ಬಿ. ಎನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4484,7 +4482,7 @@
 				<feature></feature>
 				<page>0031-0037</page> 
 				<allauthors>
-					<author>ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4492,7 +4490,7 @@
 				<feature></feature>
 				<page>0038-0052</page> 
 				<allauthors>
-					<author>ಪ್ರಭಾಕರ ಜೋಷಿ ಎಂ</author>
+					<author type="01">ಪ್ರಭಾಕರ ಜೋಷಿ ಎಂ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4500,8 +4498,8 @@
 				<feature></feature>
 				<page>0053-0059</page> 
 				<allauthors>
-					<author>ಸುಂದರ ಸಾರುಕ್ಕೈ</author>
-					<author>ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
+					<author type="01">ಸುಂದರ ಸಾರುಕ್ಕೈ</author>
+					<author type="01">ಮಾಧವ ಚಿಪ್ಪಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4509,7 +4507,7 @@
 				<feature></feature>
 				<page>0060-0063</page> 
 				<allauthors>
-					<author>ಆಶಾದೇವಿ ಎಂ. ಎಸ್ ಡಾ||</author>
+					<author type="01">ಆಶಾದೇವಿ ಎಂ. ಎಸ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>

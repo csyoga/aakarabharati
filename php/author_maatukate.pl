@@ -19,7 +19,7 @@ $line = <IN>;
 
 while($line)
 {
-	if($line =~ /<author>(.*)<\/author>/)
+	if($line =~/<author type="(.*)">(.*)<\/author>/)
 	{
 		$type = $1;
 		$authorname = $2;
@@ -37,7 +37,6 @@ sub insert_authors()
 	my($authorname) = @_;
 
 	$authorname =~ s/'/\\'/g;
-	
 	my($sth,$ref,$sth1);
 	$sth = $dbh->prepare("select * from author where authorname='$authorname'");
 	$sth->execute();

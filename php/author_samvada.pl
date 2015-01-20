@@ -19,7 +19,7 @@ $line = <IN>;
 
 while($line)
 {
-	if($line =~ /<author type="(.*)">(.*)<\/author>/)
+	if($line =~/<author type="(.*)">(.*)<\/author>/)
 	{
 		$type = $1;
 		$authorname = $2;

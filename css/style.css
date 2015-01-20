@@ -689,6 +689,7 @@ Sakshi related styles
 	display: inline-block;
 	text-align: center;
 }
+
 .dot li{
 	list-style-type: none;
 	padding-bottom: 0.5em;
@@ -772,6 +773,62 @@ Sakshi related styles
 	color: #8b0000;
 	text-decoration:underline;
 }
+
+
+
+
+
+/* ================================
+Maatukate  related styles
+================================= */
+
+
+.mainpage_maatukate {
+	min-height: 25em;
+	width: 100%;
+	background-image:url('../volumes/maatukate/php/images/kvs.jpeg');
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	background-size:40%;
+	clear: both;
+	padding-bottom:3em;
+}
+.mainpage_maatukate .menu_sakshi{
+	font-size: 1em;
+	list-style:none;
+}
+.mainpage_maatukate .menu_sakshi li{
+	text-align: left;
+	border-bottom: 1px solid #DDDDDD;
+	padding: 0.5em 0 0.5em 1em;
+	color: #3D3D3D;
+	font-variant: small-caps;
+}
+.mainpage_maatukate .menu_sakshi li a{
+	color: #083967;
+	font-size: 0.95em;
+	text-decoration: none;
+}
+.mainpage_maatukate .menu_sakshi li a:HOVER, .mainpage_maatukate .menu_sakshi li a.active{
+	color: #8B0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.button.alt {
+			background-color: transparent;
+			box-shadow: inset 0 0 0 2px #e5e5e5;
+			width:13em;
+			text-decoration: none;
+			color: #777;
+		}
+		.button.alt a {
+			color:#777;
+		}
+		.button.alt:hover {
+				background-color: #f8f8f8;
+				
+			}
+
 
 
 
