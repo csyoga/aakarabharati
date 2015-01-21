@@ -48,16 +48,16 @@
 		<div class="mainpage_sakshi">
 		<div id="nav_sakshi">
 			<ul class="menu_sakshi">
-				<li><a href="../sakshi.html">&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
-				<li><a href="volumes_list.html">&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
+				<li><a href="../maatukate.html">&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
+				<li><a href="volumes.php">&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
 				<li><a href="authors.php">&nbsp;&nbsp;ಲೇಖಕರು</a></li>
 				<li><a href="articles.php">&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>
 			</ul>
 		</div>
 		<div id="about_sakshi">
-			<div class="archive_holder">
+			<div class="archive_holder_maatukate">
 				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಚಿಕೆಗಳು</div>
-					<div id="volumes">
+					<div id="volumes_maatukate">
 												<?php
 
 												include("connect.php");
@@ -65,21 +65,24 @@
 												$query = 'select distinct volume from article_maatukate order by volume';
 												$result = $db->query($query); 
 												$num_rows = $result ? $result->num_rows : 0;
-												$row_count = 10;
-												$count = 0;
-												$col = 3;
+												//~ $row_count = 10;
+												//~ $count = 0;
+												//~ $col = 3;
+												echo '<ul class="dot">';
 												if($num_rows > 0)
 												{
 													while($row = $result->fetch_assoc())
 													{
-														$count++;
-														if($count > $row_count) {
-															$count = 1;
-														}
+														
+														//~ $count++;
+														//~ if($count > $row_count) {
+															//~ $count = 1;
+														//~ }
 														//~ echo '<a href="part.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div></a>';
-														echo '<a href="part.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;</div></a>';
+														echo '<a href="part.php?vol='. $row['volume'] .'"><li class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;</li></a>';
 													}
 												}
+												echo '</ul>';
 												if($result){$result->free();}
 												$db->close();
 										?>

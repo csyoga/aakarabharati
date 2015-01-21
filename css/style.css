@@ -829,8 +829,27 @@ Maatukate  related styles
 				
 			}
 
-
-
+#volumes_maatukate {
+	background-image:url('../volumes/maatukate/php/images/title.png');
+	background-size:contain;
+	background-position:center center;
+	background-repeat:no-repeat;
+	opacity:0.9;
+	display:inline-block;
+	width: 100%;
+	min-height: 20em;
+}
+#volumes_maatukate li  {
+	padding: 1em 1.5em 0.5em 1.5em;
+	display: inline-block;
+	text-align: center;
+	vertical-align:center top;
+}
+.archive_holder_maatukate {
+	
+	min-height: 20em;
+	padding-top: 1em;
+}
 
 /* ================================
 Search related styles
