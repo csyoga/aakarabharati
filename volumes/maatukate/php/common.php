@@ -106,7 +106,7 @@ function getYearMonth($volume, $part)
 {
 	include("connect.php");
 
-	$query = "select distinct year,month from article where volume='$volume' and part='$part'";
+	$query = "select distinct year,month from article_maatukate where volume='$volume' and part='$part'";
 	$result = $db->query($query);
 	$num_rows = $result ? $result->num_rows : 0;
 	if($num_rows > 0) {

@@ -1,9 +1,7 @@
-	<?php include("header.php");?>
-	<?php include("nav.php"); ?>
-		<!-- Main -->
-			<section id="main" class="container">
-				<?php include("sec_nav.php"); ?>
-											<?php
+<?php include('header.php'); ?>
+<?php include('nav.php'); ?>
+		<div id="about_sakshi">
+			<?php
 
 												include("connect.php");
 												require_once("common.php");
@@ -15,52 +13,40 @@
 													exit(1);
 												}
 
-												$query = "select distinct year,part,month from article where volume='$volume' order by part";
+												$query = "select distinct year,part,month from article_maatukate where volume='$volume' order by part";
 												$result = $db->query($query); 
 												$num_rows = $result ? $result->num_rows : 0;
 												
-												echo '<header>';
-												echo '<h2>'.getYear($volume).'</h2>';
-												echo '<p>Volume&nbsp;'.intval($volume).'</p>';
-												echo '</header>';
+												echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ&nbsp;'.intval($volume).'</div>';
 											?>
+			<div class="archive_holder_maatukate">
+				<div id="volumes_maatukate">
 				
-								<div class="row">
-									<div class="12u">
-										<section class="box">
-												
-												
-								<div class="clearfix">
-									<nav id="menu" class="nav">					
 											<?php
-												echo '<ol>';
+												echo '<ul class="dot">';
 
 												if($num_rows > 0)
 												{
 													$isFirst = 1;
 													while($row = $result->fetch_assoc())
 													{
-														echo "<li>";
-														echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">';
-														echo '<span>'.getMonth_part($row['month']).'</span>';
-														echo "</a>";
+														echo '<a href="toc.php?vol='.$volume.'&amp;part='.$row['part'].'">';
+														echo '<li class="button alt">';
+														echo getMonth_part($row['month']);
 														echo "</li>";
+														echo "</a>";
 														$isFirst = 0;
 													}
 												}
-													echo '</ol>';
+													echo '</ul>';
 
 												if($result){$result->free();}
 												$db->close();
 
 												?>
-							</nav>
-							</div>
-						</section>
 						</div>
 					</div>
-
-			</section>
-					
+				</div>	
+			</div>					
 			
 		<?php include("footer.php"); ?>

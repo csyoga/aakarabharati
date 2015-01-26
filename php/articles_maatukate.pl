@@ -18,6 +18,8 @@ $sth11r=$dbh->prepare("CREATE TABLE article_maatukate(title varchar(1500),
 authid varchar(20),
 authorname varchar(1000),
 featid varchar(5),
+year varchar(10),
+month varchar(10),
 play varchar(20),
 type varchar(5),
 page_start varchar(5),
@@ -38,10 +40,12 @@ while($line)
 		$volume = $1;
 		print $volume . "\n";
 	}	
-	elsif($line =~ /<part pnum="(.*)" info="(.*)">/)
+	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)" info="(.*)">/)
 	{
 		$pnum = $1;
-		$info = $2;
+		$month= $2;
+		$year = $3;
+		$info = $4;
 	}	
 	elsif($line =~ /<title>(.*)<\/title>/)
 	{
@@ -75,7 +79,7 @@ while($line)
 	}
 	elsif($line =~ /<\/entry>/)
 	{
-		insert_article($title,$authids,$author_name,$featid,$play,$type_code,$page_start,$page_end,$volume,$pnum,$info);
+		insert_article($title,$authids,$author_name,$featid,$year,$month,$play,$type_code,$page_start,$page_end,$volume,$pnum,$info);
 		$authids = "";
 		$featid = "";
 		$author_name = "";
@@ -91,14 +95,14 @@ $dbh->disconnect();
 
 sub insert_article()
 {
-	my($title,$authids,$author_name,$featid,$play,$type_code,$page_start,$page_end,$volume,$pnum,$info) = @_;
+	my($title,$authids,$author_name,$featid,$year,$month,$play,$type_code,$page_start,$page_end,$volume,$pnum,$info) = @_;
 	my($sth1);
 
 	$title =~ s/'/\\'/g;
 	$authids =~ s/^;//;
 	$author_name =~ s/^;//;
 	$author_name =~ s/'/\\'/g;
-	$sth1=$dbh->prepare("insert into article_maatukate values('$title','$authids','$author_name','$featid','$play','$type_code','$page_start','$page_end','$volume','$pnum','$info','')");
+	$sth1=$dbh->prepare("insert into article_maatukate values('$title','$authids','$author_name','$featid','$year','$month','$play','$type_code','$page_start','$page_end','$volume','$pnum','$info','')");
 	
 	$sth1->execute();
 	$sth1->finish();

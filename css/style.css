@@ -830,11 +830,6 @@ Maatukate  related styles
 			}
 
 #volumes_maatukate {
-	background-image:url('../volumes/maatukate/php/images/title.png');
-	background-size:contain;
-	background-position:center center;
-	background-repeat:no-repeat;
-	opacity:0.9;
 	display:inline-block;
 	width: 100%;
 	min-height: 20em;

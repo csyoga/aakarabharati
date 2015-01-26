@@ -3412,8 +3412,16 @@
 	<volume vnum="021"> 
 		<part pnum="01" month="02" year="2007" info=""> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಕ್ಕೆ ದೇವಸ್ಥಾನ ಸೂಕ್ತ ಸ್ಥಳವೇ?</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0007</page> 
 				<allauthors>
 					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
@@ -3429,16 +3437,16 @@
 			</entry>
 			<entry>
 				<title>ಶಬ್ದ ಮತ್ತು ಜಗತ್ತು: ಪದಗಳಿಗೆ ಎದುರಾಗಿ ವಾಕ್ಯಗಳು</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0021-0039</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0040-0040</page> 
 				<allauthors/>
 			</entry>
