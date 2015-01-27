@@ -853,12 +853,6 @@ kgn related styles
 	width:100%;
 	text-align: center;
 	}
-#kgv_about p {
-	padding:0 6em;
-
-}
-
-
 
 
 /* ================================
@@ -1047,4 +1041,10 @@ more media queries
 	#intro{
 		background-image: none;
 	}
+}
+.cover_page p{
+	text-align: justify;
+	width: 80%;
+	max-width: 800px;
+	margin: 0 auto 20px auto;
 }

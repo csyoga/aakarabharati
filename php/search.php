@@ -91,10 +91,10 @@ if($db->connect_errno > 0)
 					<table>
 						<tr>
 							<td class="right" colspan="2">
-								<input type="checkbox" name="check[]" value="sak" id="check_sak"/>&nbsp;<label for="check_sak">ಸಾಕ್ಷಿ</label><br />
-								<input type="checkbox" name="check[]" value="sam" id="check_sam"/>&nbsp;<label for="check_sam">ಸಂವಾದ</label><br />
-								<input type="checkbox" name="check[]" value="maa" id="check_maa"/>&nbsp;<label for="check_maa">ನೀನಾಸಮ್ ಮಾತುಕತೆ</label><br />
-								<input type="checkbox" name="check[]" value="pp" id="check_pp"/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
+								<input type="checkbox" name="check[]" value="sak" id="check_sak" checked/>&nbsp;<label for="check_sak">ಸಾಕ್ಷಿ</label><br />
+								<input type="checkbox" name="check[]" value="sam" id="check_sam" checked/>&nbsp;<label for="check_sam">ಸಂವಾದ</label><br />
+								<input type="checkbox" name="check[]" value="maa" id="check_maa" checked/>&nbsp;<label for="check_maa">ನೀನಾಸಮ್ ಮಾತುಕತೆ</label><br />
+								<input type="checkbox" name="check[]" value="pp" id="check_pp" checked/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
 							</td>
 						</tr>
 				<?php
