@@ -847,6 +847,21 @@ Maatukate  related styles
 }
 
 /* ================================
+kgn related styles
+================================= */
+#kgv_about {
+	width:100%;
+	text-align: center;
+	}
+#kgv_about p {
+	padding:0 6em;
+
+}
+
+
+
+
+/* ================================
 Search related styles
 ================================= */
 
