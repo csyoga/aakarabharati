@@ -23,9 +23,9 @@
 							<li><a href="#works">ಸಂಗ್ರಹ</a></li>
 							<li><a href="#contact">ಸಂಪರ್ಕ</a></li>
 							<li>
-								<a href="#">ಸಾಕ್ಷಿ</a>
+								<a href="#">ಸಂವಾದ</a>
 								<ul class="dl-submenu">
-									<li><a href="../sakshi.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
+									<li><a href="../samvada.html"><i class="fa fa-home"></i>&nbsp;&nbsp;ಮುಖಪುಟ</a></li>
 									<li><a href="#"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</a></li>
 									<li><a href="#"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
 									<li><a href="#"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</a></li>

@@ -8,7 +8,7 @@
 
 												include("connect.php");
 												require_once("common.php");
-												$query = 'select distinct volume from article_maatukate order by volume';
+												$query = 'select distinct volume from article_pp order by volume';
 												$result = $db->query($query); 
 												$num_rows = $result ? $result->num_rows : 0;
 												//~ $row_count = 10;
@@ -25,7 +25,7 @@
 															//~ $count = 1;
 														//~ }
 														//~ echo '<a href="part.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div></a>';
-														echo '<li class="button alt" ><a href="part.php?vol='. $row['volume'] .'"> Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;</a></li>';
+														echo '<li class="button alt" ><a href="part.php?vol='. $row['volume'] .'"><img src="images/volume/'.$row['volume'].'.png" alt=""><p>Volume&nbsp;'. intval($row['volume']) .'</p></a></li>';
 													}
 												}
 												echo '</ul>';

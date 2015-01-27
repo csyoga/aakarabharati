@@ -980,6 +980,20 @@ Search related styles
 	content: 'ಸಂ';
 	color:white;
 }
+.maatukate_motif, .maa_motif{
+	background: #FF8C00;
+}
+.maatukate_motif:before, .maa_motif:before{
+	content: 'ಮಾ';
+	color:white;
+}
+.pustakaprapancha_motif, .pp_motif{
+	background: #3E4FA7;
+}
+.pustakaprapancha_motif:before, .pp_motif:before{
+	content: 'ಪು';
+	color:white;
+}
 /* ================================
 more media queries
 ================================= */

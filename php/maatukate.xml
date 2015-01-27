@@ -721,7 +721,7 @@
 				<feature>ಕವನ</feature>
 				<page>0018-0018</page> 
 				<allauthors>
-					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -1666,7 +1666,7 @@
 				<feature>ಲೇಖನ</feature>
 				<page>0034-0042</page> 
 				<allauthors>
-					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ.ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2721,7 +2721,7 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0007-0016</page> 
 				<allauthors>
-					<author type="01">ಆಶೀಷ್ ನಂದಿ</author>
+					<author type="01">ಆಶೀಷ್ ಸಂದಿ</author>
 					<author type="01">(ಅನು)ಜಸವಂತ್ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
@@ -3024,7 +3024,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0029-0039</page> 
 				<allauthors>
-					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3110,7 +3110,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0013-0024</page> 
 				<allauthors>
-					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್ ಡಾ||</author>
+					<author type="01">ಅನಂತಮೂರ್ತಿ ಯು. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3412,8 +3412,16 @@
 	<volume vnum="021"> 
 		<part pnum="01" month="02" year="2007" info=""> 
 			<entry>
+				<title>ನೀನಾಸಮ್ ರಂಗ ಶಿಕ್ಷಣ ಕೇಂದ್ರ</title>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
+				<page>0001-0001</page> 
+				<allauthors>
+					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಕ್ಕೆ ದೇವಸ್ಥಾನ ಸೂಕ್ತ ಸ್ಥಳವೇ?</title>
-				<feature></feature>
+				<feature>ಲೇಖನ</feature>
 				<page>0002-0007</page> 
 				<allauthors>
 					<author type="01">ರಾಜಶೇಖರ ಜಿ</author>
@@ -3429,16 +3437,16 @@
 			</entry>
 			<entry>
 				<title>ಶಬ್ದ ಮತ್ತು ಜಗತ್ತು: ಪದಗಳಿಗೆ ಎದುರಾಗಿ ವಾಕ್ಯಗಳು</title>
-				<feature></feature>
+				<feature>ಅನುವಾದ</feature>
 				<page>0021-0039</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ನೀನಾಸಮ್ ಪ್ರತಿಷ್ಠಾನ</title>
-				<feature></feature>
+				<feature>ವರದಿ ಮತ್ತು ಪ್ರಕಟಣೆಗಳು</feature>
 				<page>0040-0040</page> 
 				<allauthors/>
 			</entry>
@@ -4352,7 +4360,7 @@
 				<feature></feature>
 				<page>0044-0055</page> 
 				<allauthors>
-					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="01">ಅಕ್ಷರ ಕೆ.ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>

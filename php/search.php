@@ -45,9 +45,9 @@
 			<ul class="menu_search">
 				<li><a href="../volumes/sakshi/php/volumes_list.html">&nbsp;&nbsp;ಸಾಕ್ಷಿ</a></li>
 				<li><a href="../volumes/samvada/php/volumes_list.html">&nbsp;&nbsp;ಸಂವಾದ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ನೀನಾಸಮ್ ಮಾತುಕತೆ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ಕರ್ಣಾಟಕ ಗತವೈಭವ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+				<li><a href="../volumes/maatukate/php/volumes.php">&nbsp;&nbsp;ನೀನಾಸಮ್ ಮಾತುಕತೆ</a></li>
+				<li><a href="../volumes/kgv/akgv.html">&nbsp;&nbsp;ಕರ್ಣಾಟಕ ಗತವೈಭವ</a></li>
+				<li><a href="../volumes/pustakaprapancha/pp.html">&nbsp;&nbsp;ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
 			</ul>
 		</div>
 		<div id="about_sakshi">
@@ -91,8 +91,10 @@ if($db->connect_errno > 0)
 					<table>
 						<tr>
 							<td class="right" colspan="2">
-								<input type="checkbox" name="check[]" value="sak" id="check_sak"/>&nbsp;<label for="check_rec">ಸಾಕ್ಷಿ</label><br />
-								<input type="checkbox" name="check[]" value="sam" id="check_sam"/>&nbsp;<label for="check_mem">ಸಂವಾದ</label><br />
+								<input type="checkbox" name="check[]" value="sak" id="check_sak"/>&nbsp;<label for="check_sak">ಸಾಕ್ಷಿ</label><br />
+								<input type="checkbox" name="check[]" value="sam" id="check_sam"/>&nbsp;<label for="check_sam">ಸಂವಾದ</label><br />
+								<input type="checkbox" name="check[]" value="maa" id="check_maa"/>&nbsp;<label for="check_maa">ನೀನಾಸಮ್ ಮಾತುಕತೆ</label><br />
+								<input type="checkbox" name="check[]" value="pp" id="check_pp"/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
 							</td>
 						</tr>
 				<?php
@@ -171,10 +173,10 @@ $db->close();
 		</div>	
 	</footer>
 
-	<script src="../../js/jquery.js"></script>
-    <script src="../../js/bootstrap.min.js"></script>
-	<script src="../../js/jquery.smooth-scroll.min.js"></script>
-	<script src="../../js/jquery.dlmenu.js"></script>
-	<script src="../../js/wow.min.js"></script>
-	<script src="../../js/custom.js"></script>
+	<script src="../js/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+	<script src="../js/jquery.smooth-scroll.min.js"></script>
+	<script src="../js/jquery.dlmenu.js"></script>
+	<script src="../js/wow.min.js"></script>
+	<script src="../js/custom.js"></script>
 </html>

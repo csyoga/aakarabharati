@@ -1,5 +1,5 @@
-<?php include('header.php'); ?>
-<?php include('nav.php'); ?>
+<?php include("header.php"); ?>
+<?php include("nav.php"); ?>
 		<div id="about_sakshi">
 			<div class="archive_holder">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</div>

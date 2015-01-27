@@ -29,6 +29,7 @@
 							<li><a href="../index.html#services">ಸೇವೆಗಳು</a></li>
 							<li><a href="../index.html#works">ಸಂಗ್ರಹ</a></li>
 							<li><a href="../index.html#contact">ಸಂಪರ್ಕ</a></li>
+<!--
 							<li>
 								<a href="#">ಹುಡುಕು</a>
 								<ul class="dl-submenu">
@@ -38,6 +39,7 @@
 									<li><a href="php/authors.php"><i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;ಲೇಖಕರು</a></li>
 								</ul>
 							</li>
+-->
 						</ul>
 					</div><!-- /dl-menuwrapper -->
 	</div>	
@@ -52,9 +54,9 @@
 			<ul class="menu_search">
 				<li><a href="../volumes/sakshi/php/volumes_list.html">&nbsp;&nbsp;ಸಾಕ್ಷಿ</a></li>
 				<li><a href="../volumes/samvada/php/volumes_list.html">&nbsp;&nbsp;ಸಂವಾದ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ನೀನಾಸಮ್ ಮಾತುಕತೆ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ಕರ್ಣಾಟಕ ಗತವೈಭವ</a></li>
-				<li><a href="#">&nbsp;&nbsp;ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+				<li><a href="../volumes/maatukate/php/volumes.php">&nbsp;&nbsp;ನೀನಾಸಮ್ ಮಾತುಕತೆ</a></li>
+				<li><a href="../volumes/kgv/akgv.html">&nbsp;&nbsp;ಕರ್ಣಾಟಕ ಗತವೈಭವ</a></li>
+				<li><a href="../volumes/pustakaprapancha/pp.html">&nbsp;&nbsp;ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
 			</ul>
 		</div>
 		<div id="about_sakshi">
@@ -155,6 +157,8 @@ if(isset($_GET['check']))
 	{
 		$iquery{"sak"}="(SELECT titleid, title, authid, authorname, page_start, type, featid from article_sakshi WHERE authorname REGEXP '$author' and title REGEXP '$title')";
 		$iquery{"sam"}="(SELECT titleid, title, authid, authorname, page_start, type, featid from article_samvada WHERE authorname REGEXP '$author' and title REGEXP '$title')";
+		$iquery{"maa"}="(SELECT titleid, title, authid, authorname, page_start, type, featid from article_maatukate WHERE authorname REGEXP '$author' and title REGEXP '$title')";
+		$iquery{"pp"}="(SELECT titleid, title, authid, authorname, page_start, type, featid from article_pp WHERE authorname REGEXP '$author' and title REGEXP '$title')";
 		$query = '';
 		
 		$mtf = '';
@@ -205,6 +209,22 @@ if(isset($_GET['check']))
 						AS tb30 WHERE page_start NOT REGEXP '.*')";
 						
 		$iquery{"sam"}="(SELECT * FROM
+							(SELECT * FROM
+								(SELECT * FROM
+									(SELECT titleid, title, authid, authorname, page_start, type, featid)
+								AS tb10 WHERE authorname REGEXP '$author')
+							AS tb20 WHERE title REGEXP '$title')
+						AS tb30 WHERE page_start NOT REGEXP '.*')";
+		
+		
+		$iquery{"maa"}="(SELECT * FROM
+							(SELECT * FROM
+								(SELECT * FROM
+									(SELECT titleid, title, authid, authorname, page_start, type, featid)
+								AS tb10 WHERE authorname REGEXP '$author')
+							AS tb20 WHERE title REGEXP '$title')
+						AS tb30 WHERE page_start NOT REGEXP '.*')";
+		$iquery{"pp"}="(SELECT * FROM
 							(SELECT * FROM
 								(SELECT * FROM
 									(SELECT titleid, title, authid, authorname, page_start, type, featid)
@@ -295,6 +315,14 @@ if(isset($_GET['check']))
 				elseif($type == 02)
 				{
 					$type = "samvada";
+				}
+				elseif($type == 03)
+				{
+					$type = "maatukate";
+				}
+				elseif($type == 04)
+				{
+					$type = "pp";
 				}
 			
 			$title = preg_replace('/!!(.*)!!/', "<i>$1</i>", $title);
@@ -507,7 +535,7 @@ if(isset($_GET['check']))
 						//~ $id = $slno;
 					//~ }
 				//~ }
-				if(($type == "sakshi") || ($type == "samvada"))
+				if(($type == "sakshi") || ($type == "samvada") || ($type == "maatukate")|| ($type == "pp") )
 				{
 					$titleid = $book_id;
 					$query_aux = "select * from article_".$type." where titleid='$titleid'";
@@ -550,7 +578,7 @@ if(isset($_GET['check']))
 					
 					if($result3){$result3->free();}
 					
-					if(($type == "sakshi") || ($type == "samvada"))
+					if(($type == "sakshi") || ($type == "samvada") || ($type == "maatukate")|| ($type == "pp"))
 					{
 					
 						//~ echo "<li>";
@@ -635,7 +663,7 @@ if(isset($_GET['check']))
 			{
 				if($text != '')
 				{
-					if(($type == "sakshi") || ($type == "samvada") )
+					if(($type == "sakshi") || ($type == "samvada") || ($type == "maatukate")|| ($type == "pustakaprapancha") )
 					{
 						echo "<span class=\"titlespan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$cur_page.djvu&amp;zoom=page&amp;find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a> &nbsp;</span>";
 						$id = $titleid;
@@ -673,6 +701,7 @@ $db->close();
 </div>
 		</div>
 	</div>
+</div>
 <footer>
 		<div class="container">
 			<div class="row">
@@ -682,11 +711,11 @@ $db->close();
 			</div>		
 		</div>	
 	</footer>
-	<script src="../../js/jquery.js"></script>
-    <script src="../../js/bootstrap.min.js"></script>
-	<script src="../../js/jquery.smooth-scroll.min.js"></script>
-	<script src="../../js/jquery.dlmenu.js"></script>
-	<script src="../../js/wow.min.js"></script>
-	<script src="../../js/custom.js"></script>
+	<script src="../js/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+	<script src="../js/jquery.smooth-scroll.min.js"></script>
+	<script src="../js/jquery.dlmenu.js"></script>
+	<script src="../js/wow.min.js"></script>
+	<script src="../js/custom.js"></script>
 </html>
 

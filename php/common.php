@@ -17,7 +17,7 @@ function isValidCheck($check)
 	for($i=0;$i<sizeof($check);$i++)
 	{
 		if(is_array($check[$i])){return false;}
-		if(!(preg_match("/^(sak|sam)$/", $check[$i])))
+		if(!(preg_match("/^(sak|sam|maa|pp)$/", $check[$i])))
 		{
 			return false;
 		}
