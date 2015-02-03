@@ -1920,4 +1920,76 @@
 			</entry>
 		</part>
 	</volume>
+	<volume vnum="002">
+		<part pnum="012" year="1948" month="07" info="">
+			<entry>
+				<title>ನಾಝೋಕ ಸಿಪಾಯಿ</title>
+				<page>0001-0002</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ಕ. ರಂ. ಲಿಂಗಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಜಾಪ್ರಭುತ್ವ ರಾಜ್ಯಾಡಳಿತದಲ್ಲಿ ಸ್ಥಳೀಯ ಸ್ವರಾಜ್ಯಸಂಸ್ಥೆಗಳ ಪಾತ್ರ</title>
+				<page>0003-0014</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ಗ. ಸ. ಹಾಲಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವತಂತ್ರಭಾರತದ ಗಾಂಧೀರಾಜ್ಯಾಂಗ ರಚನೆ</title>
+				<page>0015-0028</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ದೇ. ಜವರೇಗೌಡ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಯಸ್ಕರಿಗೆ ಸಂಜ್ಣಾನ ಶಿಕ್ಷಣ</title>
+				<page>0029-0040</page>
+				<feature>ವಸ್ತುಕೋಶ</feature>
+				<allauthors>
+					<author type="01">ವಿಜ್ಣಾನಭಿಕ್ಷು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೊಬ್ಬರ</title>
+				<page>0041-0045</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ಜಿ. ಶ್ರೀನಿವಾಸಯ್ಯಂಗಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೃತಿಯ ಪ್ರತಿಯೊಂದು ಪದಕ್ಕೂ ಸುಮಾರು ನೂರೈವತ್ತು ರೂಪಾಯಿ ಸಂಭಾವನೆ-ಆದರೆ, ಆ ಪುಸ್ತಕ ಎಕೆ ಬರೆದೆನೊ ಎಂದು ವ್ಯಥೆಪಟ್ಟ!</title>
+				<page>0046-0049</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ರಾ. ವೆಂ. ಶ್ರೀನಿವಾಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹೊಸ ಪುಸ್ತಕಗಳು</title>
+				<page>0050-0062</page>
+				<feature></feature>
+				<allauthors>
+					<author type="01">ಎಸ್. ವಿ. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲೇಖಕರು ಮತ್ತು ಲೇಖನಗಳು *</title>
+				<page>0063-0072</page>
+				<feature></feature>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಾದರ ಸ್ವೀಕಾರ</title>
+				<page>0073-0073</page>
+				<feature></feature>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
 </pp>

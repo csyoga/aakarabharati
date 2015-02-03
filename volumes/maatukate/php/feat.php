@@ -94,7 +94,7 @@ if($num_rows1 > 0)
 		echo "
 		<span class=\"titlespan\"> &nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"featurespan\">
-			<a href=\"toc.php?part=$part\">ಸಂಪುಟ &nbsp;".intval($volume)."&nbsp;ಸಂಚಿಕೆ&nbsp;(".intval($part).")</a>
+			<a href=\"toc.php?vol=$volume&amp;part=$part\">ಸಂಪುಟ &nbsp;".intval($volume)."&nbsp;ಸಂಚಿಕೆ&nbsp;(".intval($part).")</a>
 		</span>";
 		
 		if($authid != 0)

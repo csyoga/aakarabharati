@@ -7,13 +7,11 @@
 				<span class="letter"><a href="authors.php?letter=ಅ">ಅ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಆ">ಆ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಉ">ಉ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಊ">ಊ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಎ">ಎ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಕ">ಕ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಗ">ಗ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಚ">ಚ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಜ">ಜ</a></span>
-				<span class="letter"><a href="authors.php?letter=ತ">ತ</a></span>
 				<span class="letter"><a href="authors.php?letter=ದ">ದ</a></span>
 				<span class="letter"><a href="authors.php?letter=ನ">ನ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಪ">ಪ</a></span>

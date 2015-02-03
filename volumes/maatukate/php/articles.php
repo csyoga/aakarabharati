@@ -137,7 +137,7 @@ if($num_rows > 0)
 		echo "
 		<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"titlespan\">
-			<a href=\"toc.php?vol=$volume&part=$part\">ಸಂಪುಟ &nbsp;".intval($volume)."&nbsp;ಸಂಚಿಕೆ (".intval($part).")</a>
+			<a href=\"toc.php?vol=$volume&amp;part=$part\">ಸಂಪುಟ &nbsp;".intval($volume)."&nbsp;ಸಂಚಿಕೆ (".intval($part).")</a>
 		</span>";
 		if($feature != "")
 		{
