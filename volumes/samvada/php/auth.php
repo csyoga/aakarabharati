@@ -40,7 +40,7 @@
 -->
 
 			<div class="image_heading">
-				<img src="images/samvada.png">
+				<img src="images/samvada.png" alt="samvada_image">
 			</div>
 			<span><br>ಸಾಹಿತ್ಯಿಕ - ಸಾಂಸ್ಕೃತಿಕ ದ್ವೈಮಾಸಿಕ ಸಂಕಲನ</span>	
 		</div>
