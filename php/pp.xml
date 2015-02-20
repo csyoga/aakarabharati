@@ -2,7 +2,7 @@
 <!DOCTYPE pp SYSTEM "pp.dtd">
 <pp>
 	<volume vnum="001">
-		<part pnum="001a" year="1946" month="05" info="ವಿಶೇಷ ಸಂಚಿಕೆ">
+		<part pnum="01a" year="1946" month="05" info="ವಿಶೇಷ ಸಂಚಿಕೆ">
 			<entry>
 				<title>ಸ್ವವಿಷಯ</title>
 				<page>0001-0006</page>
@@ -106,7 +106,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="001" year="1946" month="08" info="">
+		<part pnum="01" year="1946" month="08" info="">
 			<entry>
 				<title>ಚೀಣದ ಮಹಿಳೆಯರ ಜೀವನ</title>
 				<page>0001-0013</page>
@@ -222,7 +222,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="002" year="1946" month="09" info="">
+		<part pnum="02" year="1946" month="09" info="">
 			<entry>
 				<title>ಬ್ಲಾಂಡಿಂಗ್ಸ್ ಕಟ್ಟಿದ ಬಂಗಲೆ</title>
 				<page>0001-0016</page>
@@ -298,7 +298,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="003" year="1946" month="10" info="">
+		<part pnum="03" year="1946" month="10" info="">
 			<entry>
 				<title>ಅವಳ ಮಗ</title>
 				<page>0001-0007</page>
@@ -386,7 +386,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="004" year="1946" month="11" info="">
+		<part pnum="04" year="1946" month="11" info="">
 			<entry>
 				<title>'ಶ್ರೀ'ಯವರ ಕೃತಿಗಳು</title>
 				<page>0001-0006</page>
@@ -442,7 +442,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="005" year="1946" month="12" info="">
+		<part pnum="05" year="1946" month="12" info="">
 			<entry>
 				<title>ಜೇನ್ ಆಸ್ಟೆನ್ನಿನ 'ಪ್ರೈಡ್ ಅಂಡ್ ಪ್ರೆಜುಡಿಸ್' ನಿಂದ ಎರಡು ದೃಶ್ಯಗಳು</title>
 				<page>0001-0018</page>
@@ -514,7 +514,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="006" year="1947" month="01" info="">
+		<part pnum="06" year="1947" month="01" info="">
 			<entry>
 				<title>ಶಿಲಪ್ಪದಿಗಾರಂ</title>
 				<page>0001-0002</page>
@@ -600,7 +600,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="007" year="1947" month="02" info="">
+		<part pnum="07" year="1947" month="02" info="">
 			<entry>
 				<title>ಭಾರತ ದರ್ಶನ</title>
 				<page>0001-0018</page>
@@ -666,7 +666,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="008" year="1947" month="03" info="">
+		<part pnum="08" year="1947" month="03" info="">
 			<entry>
 				<title>ಅಮೆರಿಕದ ನೀಗ್ರೋಗಳು</title>
 				<page>0001-0019</page>
@@ -714,7 +714,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="009" year="1947" month="04" info="">
+		<part pnum="09" year="1947" month="04" info="">
 			<entry>
 				<title>ಪ್ರಪಂಚದ ಪ್ರಜೆಗಳು ನಾವು</title>
 				<page>0001-0010</page>
@@ -780,7 +780,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="010" year="1947" month="05" info="">
+		<part pnum="10" year="1947" month="05" info="">
 			<entry>
 				<title>ಮಲೇಷಿಯಾ ಜನಾಂಗಗಳು</title>
 				<page>0001-0021</page>
@@ -822,7 +822,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="011" year="1947" month="06" info="">
+		<part pnum="11" year="1947" month="06" info="">
 			<entry>
 				<title>ಜಪಾನೀಯರು</title>
 				<page>0001-0015</page>
@@ -880,7 +880,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="012" year="1947" month="07" info="">
+		<part pnum="12" year="1947" month="07" info="">
 			<entry>
 				<title>ಶ್ರೀ ಜಯಚಾಮರಾಜೇಂದ್ರ ಗ್ರಂಥರತ್ನಮಾಲಾ</title>
 				<page>0001-0006</page>
@@ -938,7 +938,7 @@
 		</part>
 	</volume>
 	<volume vnum="002">
-		<part pnum="001" year="1947" month="08" info="">
+		<part pnum="01" year="1947" month="08" info="">
 			<entry>
 				<title>ಭಾರತದ ರಾಷ್ಟ್ರಧ್ವಜ</title>
 				<page>0001-0004</page>
@@ -996,7 +996,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="002" year="1947" month="09" info="">
+		<part pnum="02" year="1947" month="09" info="">
 			<entry>
 				<title>ನಮ್ಮ ಸವರನ್ ಸಿಲ್ಕು</title>
 				<page>0001-0007</page>
@@ -1068,7 +1068,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="003" year="1947" month="10" info="">
+		<part pnum="03" year="1947" month="10" info="">
 			<entry>
 				<title>ಧರ್ಮ ಮತ್ತು ಸಮಾಜ</title>
 				<page>0001-0007</page>
@@ -1156,7 +1156,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="004" year="1947" month="11" info="">
+		<part pnum="04" year="1947" month="11" info="">
 			<entry>
 				<title>ಆನಂದ ಕುಮಾರಸ್ವಾಮಿ</title>
 				<page>0001-0005</page>
@@ -1230,7 +1230,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="005" year="1947" month="12" info="">
+		<part pnum="05" year="1947" month="12" info="">
 			<entry>
 				<title>ಸಂದೇಶ</title>
 				<page>0001-0001</page>
@@ -1302,7 +1302,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="006" year="1948" month="01" info="">
+		<part pnum="06" year="1948" month="01" info="">
 			<entry>
 				<title>ಸಾಮೂಹಿಕ ಬೇಸಾಯ</title>
 				<page>0001-0017</page>
@@ -1386,7 +1386,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="007" year="1948" month="02" info="">
+		<part pnum="07" year="1948" month="02" info="">
 			<entry>
 				<title>ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಅಮರರಾದರು</title>
 				<page>0001-0001</page>
@@ -1465,7 +1465,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="008" year="1948" month="03" info="">
+		<part pnum="08" year="1948" month="03" info="">
 			<entry>
 				<title>ಗಾಂಧೀಜಿಯ ಪಾದಕ್ಕೆ</title>
 				<page>0001-0001</page>
@@ -1577,7 +1577,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="009" year="1948" month="04" info="">
+		<part pnum="09" year="1948" month="04" info="">
 			<entry>
 				<title>ಬ್ರಿಟಿಷ್ ಮ್ಯೂಸಿಯಂ ಪುಸ್ತಕ ಭಂಡಾರ</title>
 				<page>0001-0005</page>
@@ -1673,7 +1673,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="010" year="1948" month="05" info="">
+		<part pnum="10" year="1948" month="05" info="">
 			<entry>
 				<title>ಭಾರತೀಯ ಶಿಲ್ಪದಲ್ಲಿ ಮುಖಭಾವ</title>
 				<page>0001-0004</page>
@@ -1777,7 +1777,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="011" year="1948" month="06" info="">
+		<part pnum="11" year="1948" month="06" info="">
 			<entry>
 				<title>ಜೋಗದ ಝೋಕ್</title>
 				<page>0001-0003</page>
@@ -1849,79 +1849,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="012" year="1948" month="07" info="">
-			<entry>
-				<title>ನಾಝೋಕ ಸಿಪಾಯಿ</title>
-				<page>0001-0002</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ಕ. ರಂ. ಲಿಂಗಪ್ಪ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಪ್ರಜಾಪ್ರಭುತ್ವ ರಾಜ್ಯಾಡಳಿತದಲ್ಲಿ ಸ್ಥಳೀಯ ಸ್ವರಾಜ್ಯಸಂಸ್ಥೆಗಳ ಪಾತ್ರ</title>
-				<page>0003-0014</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ಗ. ಸ. ಹಾಲಪ್ಪ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಸ್ವತಂತ್ರಭಾರತದ ಗಾಂಧೀರಾಜ್ಯಾಂಗ ರಚನೆ</title>
-				<page>0015-0028</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ದೇ. ಜವರೇಗೌಡ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ವಯಸ್ಕರಿಗೆ ಸಂಜ್ಣಾನ ಶಿಕ್ಷಣ</title>
-				<page>0029-0040</page>
-				<feature>ವಸ್ತುಕೋಶ</feature>
-				<allauthors>
-					<author type="01">ವಿಜ್ಣಾನಭಿಕ್ಷು</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಗೊಬ್ಬರ</title>
-				<page>0041-0045</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ಜಿ. ಶ್ರೀನಿವಾಸಯ್ಯಂಗಾರ್</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಕೃತಿಯ ಪ್ರತಿಯೊಂದು ಪದಕ್ಕೂ ಸುಮಾರು ನೂರೈವತ್ತು ರೂಪಾಯಿ ಸಂಭಾವನೆ-ಆದರೆ, ಆ ಪುಸ್ತಕ ಎಕೆ ಬರೆದೆನೊ ಎಂದು ವ್ಯಥೆಪಟ್ಟ!</title>
-				<page>0046-0049</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ರಾ. ವೆಂ. ಶ್ರೀನಿವಾಸ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಹೊಸ ಪುಸ್ತಕಗಳು</title>
-				<page>0050-0062</page>
-				<feature></feature>
-				<allauthors>
-					<author type="01">ಎಸ್. ವಿ. ಶ್ರೀ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಲೇಖಕರು ಮತ್ತು ಲೇಖನಗಳು *</title>
-				<page>0063-0072</page>
-				<feature></feature>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>ಸಾದರ ಸ್ವೀಕಾರ</title>
-				<page>0073-0073</page>
-				<feature></feature>
-				<allauthors />
-			</entry>
-		</part>
-	</volume>
-	<volume vnum="002">
-		<part pnum="012" year="1948" month="07" info="">
+		<part pnum="12" year="1948" month="07" info="">
 			<entry>
 				<title>ನಾಝೋಕ ಸಿಪಾಯಿ</title>
 				<page>0001-0002</page>

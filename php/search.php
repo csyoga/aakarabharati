@@ -158,10 +158,6 @@ $db->close();
 			</div>
 		</div>
 	</div>
-			</div>
-		
-		</div>
-		</div>
 	</div>
 	<footer>
 		<div class="container">
