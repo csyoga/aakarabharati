@@ -1032,11 +1032,62 @@ more media queries
 
 @media (max-width:768px) {
 	#intro{
-/*
-		background-image: url(../img/bg-mac.png);
-*/
+		height:90vh;
 		background-size:100%;
 	}
+	.home-section {
+	width: 100%;
+	padding: 30px 0px 100px 0px;
+}
+
+	/* --- heading --- */
+	.section-heading {
+		margin-bottom: 50px;
+	}
+		
+	.section-heading h2 {
+		font-size: 20px;
+		font-weight:300;
+		font-family:'Nudi 05 k';
+	}
+	
+.section-heading .heading-line {
+	
+	margin:0 auto;
+	display: block;
+	height: 1px;
+	width: 80px;
+	background: #333;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	.intro-text h1 a {
+	color:#fff;
+	text-align:center;
+	font-weight: 200;
+	font-size: 30px; 
+	font-family:'Nudi 05 k';
+	line-height:1.1em;
+	letter-spacing:2px;
+	padding-top:10px;
+	text-transform: uppercase;	
+}
+	#intro .brand {
+	margin-top: 0px;
+}
+.intro-text h1 a:hover {
+	text-decoration: none;
+}
+	.intro-text p span {
+	
+	color:#fff;
+	font-size: 18px;
+	font-family:'Nudi 05 k';
+	letter-spacing:1.5px;
+	text-align:center;
+	font-weight: 200;
+}
+
 	.box-team, .box-team img {
 		text-align: center;
 	}
@@ -1047,7 +1098,13 @@ more media queries
 	.box-team {
 		margin-bottom: 30px;
 	}
-
+	#about p {
+	font-family:'Nudi 05 k';
+	width: 100%;
+	font-size: 1.11em;
+	padding:0 2em;
+	text-align: justify;
+	}
 	
 }
 
@@ -1062,8 +1119,10 @@ more media queries
 
 @media (max-width:480px){
 	#intro{
+		
 		background-image: none;
 	}
+	
 }
 .cover_page p{
 	text-align: justify;

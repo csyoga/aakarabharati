@@ -1041,3 +1041,33 @@ All this is done for any sub-level being entered.
 .demo-5 .dl-menuwrapper ul {
 	background: #643771;
 }
+@media (max-width:768px) {
+
+	.dl-menuwrapper {
+	width: 100%;
+	max-width: 90px;
+	float: left;
+	position: relative;
+	-webkit-perspective: 1000px;
+	-moz-perspective: 1000px;
+	perspective: 1000px;
+	-webkit-perspective-origin: 50% 200%;
+	-moz-perspective-origin: 50% 200%;
+	perspective-origin: 50% 200%;
+}
+
+	.dl-menuwrapper li a {
+	text-align: left;
+	display: block;
+	position: relative;
+	padding: 10px 15px;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 300;
+	color: #fff;
+	outline: none;
+}
+
+
+
+}
