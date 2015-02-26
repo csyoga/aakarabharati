@@ -122,7 +122,7 @@ if($num_rows > 0)
 			if($result3){$result3->free();}
 					
 				echo "<li>";
-				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 				
 				if($feature != "")
 				{

@@ -169,8 +169,10 @@ Home sections
 .color-light h1,.color-light h2,.color-light h3,.color-light h4,.color-light h5,.color-light h6 {
 	color: #fff;
 }
+.color-dark h1,.color-dark h2,.color-dark h3,.color-dark h4,.color-dark h5,.color-dark h6 {
+	color:black;
 
-
+}
 .color-light p {
 	color: #eee;
 }
@@ -180,10 +182,21 @@ Home sections
 Spacer
 ============================= */
 
-#spacer2{	
-	background-image: url(../img/spacer/2.jpg);
+#spacer1{	
+	background-image: url(../img/spacer/collage.png);
+	background-size:contain;
 }
-
+#spacer2{	
+	background-image: url(../img/combined_logo.png);
+	background-repeat:no-repeat;
+	background-position: top center;
+	font-family:'Nudi 05 k';
+}
+#spacer2 h2 {
+	font-family:'Nudi 05 k';
+	font-weight:400;
+	font-size:34px;
+}
 
 /* ================================
 image_header
@@ -278,7 +291,10 @@ About
 	width: 100%;
 	font-size: 1.22em;
 	text-align: left;
+	opacity:1;
+	color:black;
 }
+
 .sponcer_text {
 	width:90%;
 	padding:2em 0 0 0;
