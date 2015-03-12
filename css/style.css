@@ -48,8 +48,8 @@ h6 {
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	color: #3a3a3a;
-	font-weight: 700;
-	margin-bottom: 20px;
+	font-weight: 300;
+	margin-bottom: 10px;
 	font-family: sans-serif;
 }
 
@@ -657,15 +657,20 @@ Sakshi related styles
 	padding-bottom:3em;
 }
 #nav_sakshi{
-	float: left;
-	width: 12%;
+/*
+	background-image:url('../volumes/sakshi/php/images/bg.png');
+*/
+	background-repeat:no-repeat;
+	background-size:90%;
+	float: right;
+	width: 14%;
+	position:fixed;
 	font-family:'sans-serif';
-	min-height: 12em;
+	min-height: 100vh;
 	margin: 0 0 0 0;
-	padding-right:1em;
 }
 #nav_sakshi ul li {
-	float:right;
+	text-align:left;
 	list-style:none;
 }
 .mainpage_sakshi .menu_sakshi{
@@ -673,9 +678,11 @@ Sakshi related styles
 	list-style:none;
 }
 .mainpage_sakshi .menu_sakshi li{
-	text-align: left;
+	text-align: center;
+/*
 	border-bottom: 1px solid #DDDDDD;
-	padding: 0.5em 0 0.5em 1em;
+*/
+	padding: 0.5em 0 0.5em 0;
 	color: #3D3D3D;
 	font-variant: small-caps;
 }
@@ -691,11 +698,12 @@ Sakshi related styles
 }
 #about_sakshi  {
 	display: inline-block;
+/*
 	border-left:1px solid #3D3D3D;
-	width: 84%;
+*/
+	width: 50%;
 	padding-top: 1em;
 	padding-bottom:5em;
-	padding-left:2em;
 	font-size: 1.22em;
 	text-align: left;
 }
@@ -703,11 +711,10 @@ Sakshi related styles
 	color:#8b0000;
 }
 #header{
-	width: 85%;
-	margin-left: 6em;
+	width: 100%;
 	padding:0 0 1em 0;
 	color:#083967;
-	border-bottom:2px solid #083967;
+	border-bottom:1px solid #083967;
 }
 #header span {
 	font-size:1.2em;
@@ -787,11 +794,11 @@ Sakshi related styles
 	text-decoration: underline;
 }
  .page_title{
-	margin: 0.1em 0em 1em 0em;
-	padding-bottom: 0.5em;
+	margin: 0.1em 0em 0em 0em;
+	padding-bottom: 0.1em;
 	font-size: 1.5em;
 	color: #8B0000;
-	width: 85%;
+	width: 75%;
 /*
 	border-bottom: 1px solid #483D8B;	
 */
