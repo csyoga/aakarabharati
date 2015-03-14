@@ -658,19 +658,21 @@ Sakshi related styles
 }
 #nav_sakshi{
 /*
-	background-image:url('../volumes/sakshi/php/images/bg.png');
+	background-image:url('../volumes/sakshi/php/images/temp.png');
 */
 	background-repeat:no-repeat;
-	background-size:90%;
+	background-size:100%;
 	float: right;
 	width: 14%;
 	position:fixed;
 	font-family:'sans-serif';
-	min-height: 100vh;
-	margin: 0 0 0 0;
+	min-height: 12vh;
+	margin: 1.5em 0 0 7em;
+	border-right:1px dotted #3D3D3D;
+	padding-right:2.5em;
 }
 #nav_sakshi ul li {
-	text-align:left;
+	text-align:right;
 	list-style:none;
 }
 .mainpage_sakshi .menu_sakshi{
@@ -680,7 +682,7 @@ Sakshi related styles
 .mainpage_sakshi .menu_sakshi li{
 	text-align: center;
 /*
-	border-bottom: 1px solid #DDDDDD;
+	border-bottom: 1px dotted #DDDDDD;
 */
 	padding: 0.5em 0 0.5em 0;
 	color: #3D3D3D;
@@ -701,9 +703,10 @@ Sakshi related styles
 /*
 	border-left:1px solid #3D3D3D;
 */
-	width: 50%;
+	width: 55%;
 	padding-top: 1em;
 	padding-bottom:5em;
+	padding-left:2em;
 	font-size: 1.22em;
 	text-align: left;
 }
@@ -714,7 +717,9 @@ Sakshi related styles
 	width: 100%;
 	padding:0 0 1em 0;
 	color:#083967;
-	border-bottom:1px solid #083967;
+/*
+	border-bottom:1px dotted #083967;
+*/
 }
 #header span {
 	font-size:1.2em;
@@ -723,8 +728,11 @@ Sakshi related styles
 	width: 100%;
 	min-height: 20em;
 }
+ul {
+	padding-left:0;
+}
 #volumes li  {
-	padding: 1em 1.5em 0.5em 1.5em;
+	padding: 1em 0em 0.5em  0;
 	display: inline-block;
 	text-align: center;
 }
@@ -776,6 +784,7 @@ Sakshi related styles
 	width: 100%;
 	clear: both;
 	text-align: center;
+	padding-top:1.5em;
 	padding-bottom: 2em;
 }
 .alphabet .letter {
@@ -796,7 +805,7 @@ Sakshi related styles
  .page_title{
 	margin: 0.1em 0em 0em 0em;
 	padding-bottom: 0.1em;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	color: #8B0000;
 	width: 75%;
 /*
@@ -1151,5 +1160,27 @@ more media queries
 	width: 80%;
 	max-width: 800px;
 	margin: 0 auto 20px auto;
+}
+
+
+
+
+.cd-section {
+  padding: 2em;
+  text-align: center;
+}
+.cd-bouncy-nav-trigger {
+  /* button style */
+  background: #FFFFFF;
+  color: #083967;
+  padding: 1.2em 2em;
+  font-family:'Sans serif';
+  font-weight:500;
+  border-radius: 10em;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 0 10px #171718;
+}
+.no-touch .cd-bouncy-nav-trigger:hover {
+  background: #FFFFFF;
+  text-decoration:none;
 }
 
