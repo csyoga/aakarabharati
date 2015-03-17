@@ -4,7 +4,7 @@
   src: url('Kedage-n.ttf');
  }
  @font-face {
- font-family:"Nudi 05 k";
+ font-family:'Nudi 05 k';
  src:url("Nudi_05_k.eot?") format("eot"),url("Nudi_05_k.woff") format("woff"),url("Nudi_05_k.ttf") format("truetype"),url("Nudi_05_k.svg#Nudi05k") format("svg");
  font-weight:normal;
  font-style:normal;}
@@ -447,7 +447,7 @@ Main components
 }
 .cd-primary-nav .see-all a {
   /* different style for the See all button on mobile and tablet */
-  color: #69aa6f;
+  color: #8b0000;
 }
 .cd-primary-nav .cd-nav-gallery .cd-nav-item, .cd-primary-nav .cd-nav-icons .cd-nav-item {
   /* items with picture (or icon) and title */
@@ -588,6 +588,7 @@ Main components
   }
   .cd-primary-nav > li > a {
     /* main navigation buttons style */
+    font-family:'Nudi 05 k';
     position: relative;
     display: inline-block;
     height: 80px;
@@ -601,7 +602,7 @@ Main components
     transition: color 0.3s, box-shadow 0.3s;
   }
   .cd-primary-nav > li > a:hover {
-    color: #083967;
+    color: #8b0000;
   }
   .cd-primary-nav > li > a.selected {
     color: #083967;
@@ -659,7 +660,7 @@ Main components
     top: 0;
     left: 0;
     font-size: 2.2rem;
-    font-weight: bold;
+    font-weight: 100;
     text-align: center;
     line-height: 80px;
     border-top: 1px solid #e2e3df;
@@ -697,9 +698,10 @@ Main components
   .cd-primary-nav .cd-secondary-nav > li > a {
     /* secondary nav title */
     color: #083967;
-    font-weight: bold;
-    font-size: 1.6rem;
+    font-weight: 100;
+    font-size: 1.4em;
     margin-bottom: .6em;
+    font-family:'Nudi 05 k';
   }
   .cd-primary-nav .cd-secondary-nav a {
     height: 30px;
@@ -710,7 +712,7 @@ Main components
     font-size: 1.4rem;
   }
   .cd-primary-nav .cd-secondary-nav a:hover {
-    color: #69aa6f;
+    color: #8b0000;
   }
   .cd-primary-nav .cd-secondary-nav ul {
     /* Force Hardware Acceleration in WebKit */
@@ -772,12 +774,12 @@ Main components
     position: static;
     margin-top: 0;
     height: auto;
-    width: 100%;
+    width: 70%;
     margin-bottom: .6em;
   }
   .cd-primary-nav .cd-nav-gallery .cd-nav-item h3 {
-    color: #69aa6f;
-    font-weight: bold;
+    color: #083967;
+    font-weight: 100;
     padding: 0 .4em;
   }
   .cd-primary-nav .cd-nav-icons li {
@@ -797,11 +799,12 @@ Main components
     padding: 24px 0 0 85px;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item:hover {
-    background: #f6f6f5;
+    background: transparent;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item h3 {
-    color: #69aa6f;
-    font-weight: bold;
+    color: #083967;
+    font-weight: 100;
+    font-size:1.22em;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item p {
     display: block;
@@ -1022,7 +1025,7 @@ Main components
 }
 .cd-overlay.is-visible {
   opacity: 1;
-  visibility: visible;
+  visibility: invisible;
   -webkit-transition: opacity 0.3s 0s, visibility 0s 0s, -webkit-transform 0.3s 0s;
   -moz-transition: opacity 0.3s 0s, visibility 0s 0s, -moz-transform 0.3s 0s;
   transition: opacity 0.3s 0s, visibility 0s 0s, transform 0.3s 0s;
@@ -1127,7 +1130,7 @@ Intro
 	font-size: 40px; 
 	font-family:'Nudi 05 k';
 	line-height:1.1em;
-	letter-spacing:2px;
+	letter-spacing:1.5px;
 	padding-top:30px;
 	text-transform: uppercase;	
 }
@@ -1149,7 +1152,7 @@ Intro
 	color:#fff;
 	font-size: 24px;
 	font-family:'Nudi 05 k';
-	letter-spacing:1.5px;
+	letter-spacing:1px;
 	text-align:center;
 	font-weight: 200;
 }
