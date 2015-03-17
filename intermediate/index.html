@@ -4,7 +4,9 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<link rel="stylesheet" href="css/font-awesome.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="../css/style.css"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
   	
@@ -12,8 +14,12 @@
 </head>
 <body>
 	<header class="cd-main-header">
-		<a class="cd-logo" href="#0"><img src="img/new.png" alt="Logo"></a>
-
+		
+<!--
+		<a class="cd-logo" href="#0"><img src="img/new.png" alt="Logo"></a>		
+-->
+		<a class="cd-logo" href="../index.html"><i class="fa fa-home fa-2x"></i></a>		
+		
 		<ul class="cd-header-buttons">
 			<li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li>
 			<li><a class="cd-nav-trigger" href="#cd-primary-nav">Menu<span></span></a></li>
@@ -21,30 +27,46 @@
 	</header>
 
 	<main class="cd-main-content">
-		
+		<div id="intro">
+			<div class="intro-text">
+				<div class="container">
+					<div class="row">
+					
+						
+					<div class="col-md-12">
+						<div class="brand">
+							<h1><a href="index.html"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
+							<div class="line-spacer"></div>
+							<p><span>ಭಾರತದ ಬೌದ್ಧಿಕ ಸಂಸ್ಕೃತಿಗೊಂದು ದರ್ಪಣ</span></p><br />
+						</div>
+						
+					</div>
+					</div>
+				</div>
+		 	</div>
+		</div>
 	</main>
 
 	<div class="cd-overlay"></div>
 	<nav class="cd-nav">
 		<ul id="cd-primary-nav" class="cd-primary-nav is-fixed">
 			<li class="has-children">
-				<a href="http://codyhouse.co/?p=409">ಸಂಗ್ರಹ</a>
+				<a href="#">ಸಂಗ್ರಹ</a>
 
 				<ul class="cd-secondary-nav is-hidden">
 					<li class="go-back"><a href="#0">Menu</a></li>
 					<li class="see-all"><a href="#">ಸಮಗ್ರ ಪಟ್ಟಿ</a></li>
 					<li class="has-children">
 						<a href="#">ಪತ್ರಿಕೆಗಳು</a>
-
 						<ul class="is-hidden">
 							<li class="see-all"><a href="#">ಪತ್ರಿಕೆಗಳು</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಸಾಕ್ಷಿ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಸಂವಾದ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಮಾತುಕತೆ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಅರಿವು ಬರಹ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ರಂಗಭೂಮಿ</a></li>
-							<li><a href="http://codyhouse.co/?p=409">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
+							<li><a href="../volumes/sakshi/sakshi.html">ಸಾಕ್ಷಿ</a></li>
+							<li><a href="../volumes/samvada/samvada.html">ಸಂವಾದ</a></li>
+							<li><a href="../volumes/maatukate/maatukate.html">ಮಾತುಕತೆ</a></li>
+							<li><a href="../volumes/pustakaprapancha/pp.html">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+							<li><a href="#">ಅರಿವು ಬರಹ</a></li>
+							<li><a href="#">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
 						</ul>
 					</li>
 
@@ -134,7 +156,7 @@
 			</li>
 
 			<li class="has-children">
-				<a href="http://codyhouse.co/?p=409">ಸೇವೆಗಳು</a>
+				<a href="http://codyhouse.co/?p=409">ಸಂಪೂರ್ಣ ಸಂಗ್ರಹ</a>
 				<ul class="cd-nav-icons is-hidden">
 					<li class="go-back"><a href="#0">Menu</a></li>
 					<li class="see-all"><a href="http://codyhouse.co/?p=409">Browse Services</a></li>
@@ -196,7 +218,7 @@
 				</ul>
 			</li>
 
-			<li><a href="#">Articles</a></li>
+			<li><a href="#">ಲೇಖನಗಳು</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
 
@@ -205,6 +227,14 @@
 			<input type="search" placeholder="Search...">
 		</form>
 	</div>
+<!-- js -->
+    <script src="../js/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+	<script src="../js/jquery.smooth-scroll.min.js"></script>
+	<script src="../js/jquery.dlmenu.js"></script>
+	<script src="../js/wow.min.js"></script>
+	<script src="../js/custom.js"></script>
+	<script src="../js/jquery-2.1.1.js"></script>	
 <script src="js/jquery-2.1.1.js"></script>
 <script src="js/jquery.mobile.custom.min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->

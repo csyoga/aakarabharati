@@ -1,3 +1,14 @@
+@import url('font-awesome.min.css');
+@font-face {
+  font-family: 'Kedage';
+  src: url('Kedage-n.ttf');
+ }
+ @font-face {
+ font-family:"Nudi 05 k";
+ src:url("Nudi_05_k.eot?") format("eot"),url("Nudi_05_k.woff") format("woff"),url("Nudi_05_k.ttf") format("truetype"),url("Nudi_05_k.svg#Nudi05k") format("svg");
+ font-weight:normal;
+ font-style:normal;}
+
 /* -------------------------------- 
 
 Primary style
@@ -18,6 +29,8 @@ body {
   font-family: sans-serif;
   color: #2e3233;
   background-color: #ffffff;
+  margin:0;
+	padding:0;
 }
 @media only screen and (max-width: 1169px) {
   body.nav-on-left.overflow-hidden {
@@ -91,9 +104,12 @@ Main components
 }
 
 .cd-main-content {
+  height:90vh;
+  width:100%vw;
   background: #083967;
-  min-height: 100vh;
   z-index: 2;
+  min-height:60vh;
+  color:white
 }
 
 .cd-main-header {
@@ -121,7 +137,8 @@ Main components
 
 .cd-logo {
   position: absolute;
-  left: -1%;
+  left: 2%;
+  top:1.3em;
 }
 .cd-logo img {
   display: block;
@@ -1069,4 +1086,70 @@ support for no js
   .no-js .nav-is-fixed .cd-primary-nav {
     position: fixed;
   }
+}
+/* ================================
+Intro
+================================= */
+
+#intro{
+    height:90vh;
+    width:100%vw;
+    background-color: #083967;
+/*
+    background-color: #428bca;
+*/
+/*
+    background-image: url(../img/bg-mac.png);
+*/
+    background-position:center;
+    background-repeat:no-repeat;
+    overflow-y:hidden;
+    text-align:center;
+    position:relative;
+}
+
+
+
+.intro-text {
+	position:relative;
+	width:100%;
+	font-family:'Nudi 05 k';
+	margin-top:30vh;
+	z-index:1000;
+}
+#intro .brand {
+	margin-top: 40px;
+}
+.intro-text h1 a {
+	color:#fff;
+	text-align:center;
+	font-weight: 200;
+	font-size: 40px; 
+	font-family:'Nudi 05 k';
+	line-height:1.1em;
+	letter-spacing:2px;
+	padding-top:30px;
+	text-transform: uppercase;	
+}
+.intro-text h1 a:hover {
+	text-decoration: none;
+}
+
+.line-spacer {
+	width: 30%;
+	margin:0 auto;
+
+	margin-top: 10px;
+	margin-bottom: 30px;
+
+	border-bottom:1px solid #fff;
+}
+
+.intro-text p span {
+	color:#fff;
+	font-size: 24px;
+	font-family:'Nudi 05 k';
+	letter-spacing:1.5px;
+	text-align:center;
+	font-weight: 200;
 }
