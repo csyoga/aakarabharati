@@ -1,0 +1,103 @@
+#footer {
+	color: #CCCCCC;
+	background-color: #333333;
+}
+
+/*********************
+	 Marketing Area
+**********************/
+.marketing {
+  color:#5A5A5A;
+}
+
+.marketing h1 {
+  font-size:50px;
+  font-weight:200;
+  letter-spacing:-1px;
+  line-height:1;
+  margin:10px 0 10px;
+}
+
+.marketing h2 {
+  font-weight:200;
+  margin-bottom:5px;
+}
+
+.marketing .marketing-byline {
+  color:#999999;
+  font-size:20px;
+  font-weight:300;
+  line-height:1.25;
+  margin-bottom:40px;
+}
+
+.marketing p {
+  font-size:16px;
+  line-height:1.5;
+}
+
+.marketing img {
+	margin: 5px auto;
+}
+
+/***********************
+	 Cloud Tags 
+************************/
+ul.tagcloud {
+	line-height:1.8;
+	list-style:none;
+	margin:0;
+	padding:0.5em;
+	text-align:justify;
+}
+
+ul.tagcloud li {
+	display:inline;
+}
+
+ul.tagcloud a {
+  color:#787870;
+  margin-right:0.2em;
+  text-decoration:none;
+  line-height: 1.3em;
+}
+
+.tag1 {
+	font-size: 80%;
+}
+
+.tag2 {
+	font-size: 100%;	
+}
+
+.tag3 {
+	font-size: 125%;
+}
+
+.tag4 {
+	font-size: 150%;
+}
+
+.tag5 {
+	font-size: 175%;
+}
+
+.tag6 {
+	font-size: 200%;
+}
+
+.tag7 {
+	font-size: 225%;
+}
+
+.tag8 {
+	font-size: 250%;
+}
+
+.tag9 {
+	font-size: 275%;
+}
+
+.tag10 {
+	font-size: 200%;
+}

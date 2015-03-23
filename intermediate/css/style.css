@@ -111,10 +111,18 @@ Main components
   min-height:60vh;
   color:white
 }
+.cd-main-content_blog {
+  height:90vh;
+  width:100%vw;
+  background: #FFFFFF;
+  z-index: 2;
+  min-height:60vh;
+  color:white
+}
 
 .cd-main-header {
   height: 50px;
-  background: #ffffff;
+  background: #083967;
   z-index: 3;
 }
 .nav-is-fixed .cd-main-header {
@@ -214,13 +222,13 @@ Main components
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 3px solid #2e3233;
+  border: 3px solid #FFFFFF;
 }
 .cd-search-trigger::after {
   /* handle */
   height: 3px;
   width: 8px;
-  background: #2e3233;
+  background: #FFFFFF;
   bottom: 14px;
   right: 11px;
   -webkit-transform: rotate(45deg);
@@ -248,7 +256,7 @@ Main components
   margin-top: -2px;
   left: 50%;
   margin-left: -11px;
-  background: #2e3233;
+  background: #FFFFFF;
   opacity: 0;
   /* Force Hardware Acceleration in WebKit */
   -webkit-transform: translateZ(0);
@@ -594,7 +602,7 @@ Main components
     height: 80px;
     line-height: 80px;
     padding: 0 10px;
-    color: #2e3233;
+    color: #FFFFFF;
     overflow: visible;
     border-bottom: none;
     -webkit-transition: color 0.3s, box-shadow 0.3s;
@@ -1094,13 +1102,13 @@ support for no js
 Intro
 ================================= */
 
-#intro{
+#intro_intermediate{
     height:90vh;
     width:100%vw;
-    background-color: #083967;
 /*
-    background-color: #428bca;
+    background-color: #FFFFFF;
 */
+    background-color: #f3f3f5;
 /*
     background-image: url(../img/bg-mac.png);
 */
@@ -1124,7 +1132,7 @@ Intro
 	margin-top: 40px;
 }
 .intro-text h1 a {
-	color:#fff;
+	color:#083967;
 	text-align:center;
 	font-weight: 200;
 	font-size: 40px; 
@@ -1145,11 +1153,11 @@ Intro
 	margin-top: 10px;
 	margin-bottom: 30px;
 
-	border-bottom:1px solid #fff;
+	border-bottom:1px solid #083967;
 }
 
 .intro-text p span {
-	color:#fff;
+	color:#083967;
 	font-size: 24px;
 	font-family:'Nudi 05 k';
 	letter-spacing:1px;
