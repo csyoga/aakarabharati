@@ -6,6 +6,9 @@
 /*********************
 	 Marketing Area
 **********************/
+li {
+	list-style:none;
+}
 .marketing {
   color:#5A5A5A;
 }
