@@ -67,6 +67,25 @@ input[type="search"]::-webkit-search-results-decoration {
 
 /* -------------------------------- 
 
+Image related styles 
+
+-------------------------------- */
+#cf6_image {
+  margin:0 auto;
+  width:450px;
+  height:281px;
+  transition: background-image 1s ease-in-out;
+  background-image:url("img/old.jpg");
+}
+
+#cf6_image:hover {
+  background-image:url("img/kannada.jpg");
+}
+
+
+
+/* -------------------------------- 
+
 Main components 
 
 -------------------------------- */
@@ -104,11 +123,13 @@ Main components
 }
 
 .cd-main-content {
-  height:90vh;
-  width:100%vw;
+  height:100%;
+  width:100%;
   background: #083967;
+  margin:0;
+  padding:0;
   z-index: 2;
-  min-height:60vh;
+  overflow-y:hidden;
   color:white
 }
 .cd-main-content_blog {
@@ -463,6 +484,7 @@ Main components
   line-height: 80px;
 }
 .cd-primary-nav .cd-nav-gallery .cd-nav-item h3, .cd-primary-nav .cd-nav-icons .cd-nav-item h3 {
+	color:white;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -720,6 +742,13 @@ Main components
     font-size: 1.4rem;
     text-align:left;
   }
+  ul li p {
+	text-align: left;
+	font-family:'Nudi 05 k';
+}
+  ul li img {
+
+}
   .cd-primary-nav .cd-secondary-nav a:hover {
     color: #8b0000;
   }
@@ -793,9 +822,10 @@ Main components
   }
   .cd-primary-nav .cd-nav-icons li {
     /* set here number of columns - use width percentage */
-    width: 32%;
+    width: 20%;
     float: left;
-    margin: 0 2% 20px 0;
+    margin: 5% 2% 20px 2%;
+    text-align:right;
   }
   .cd-primary-nav .cd-nav-icons li:nth-child(3n+2) {
     /* +2 because we have two additional list items with display:none */
@@ -806,6 +836,7 @@ Main components
     height: 80px;
     line-height: 1.2;
     padding: 24px 0 0 85px;
+    color:white;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item:hover {
     background: transparent;
@@ -813,7 +844,6 @@ Main components
   .cd-primary-nav .cd-nav-icons .cd-nav-item h3 {
     color: #083967;
     font-weight: 100;
-    font-size:1.22em;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item p {
     display: block;
@@ -1104,19 +1134,23 @@ Intro
 ================================= */
 
 #intro_intermediate{
-    height:90vh;
+    height:auto;
     width:100%vw;
-/*
-    background-color: #FFFFFF;
-*/
     background-color: #f3f3f5;
+    color: #fff;
+	text-align: center;
 /*
-    background-image: url(../img/bg-mac.png);
+		padding: 2.5em 0 2em 0;
 */
+		cursor: default;
+		overflow-y:hidden;
+/*
     background-position:center;
     background-repeat:no-repeat;
-    overflow-y:hidden;
+*/
+    overflow:hidden;
     text-align:center;
+    min-height:86.99999999vh;
     position:relative;
 }
 
@@ -1136,7 +1170,7 @@ Intro
 	color:#083967;
 	text-align:center;
 	font-weight: 200;
-	font-size: 40px; 
+	font-size: 50px; 
 	font-family:'Nudi 05 k';
 	line-height:1.1em;
 	letter-spacing:1.5px;
@@ -1159,7 +1193,7 @@ Intro
 
 .intro-text p span {
 	color:#083967;
-	font-size: 24px;
+	font-size: 30px;
 	font-family:'Nudi 05 k';
 	letter-spacing:1px;
 	text-align:center;
