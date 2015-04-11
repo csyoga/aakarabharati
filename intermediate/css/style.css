@@ -1155,6 +1155,7 @@ Intro
 	font-weight: 200;
 }
 .right {
+	float:right;
 	width:50%;
 	padding-bottom:0.5em;
 	color:#8b0000 !important;
