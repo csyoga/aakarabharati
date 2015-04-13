@@ -448,7 +448,7 @@ header p {
 /*
   background: rgba(144, 176, 186, 0.7);
 */
-  background: rgba(68, 91, 124, 0.8);
+  background: rgba(68, 91, 124, 0.3);
   cursor: pointer;
   display: none;
 }
