@@ -1124,7 +1124,10 @@ Credits page
   background: #f6f6f6;
 }
 
-
+#about_p #googleMap {
+	width:100%;
+	margin: 1em auto;
+}
 
 
 

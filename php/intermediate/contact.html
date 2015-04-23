@@ -8,7 +8,18 @@
 	<link rel="stylesheet" href="../css/style.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-  	
+  	<script src="http://maps.googleapis.com/maps/api/js"></script>
+  	<script>
+function initialize() {
+  var mapProp = {
+    center:new google.maps.LatLng(12.423745,76.6898442),
+    zoom:17,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 	<title>ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
 </head>
 <body>
@@ -23,28 +34,14 @@
 	
 	<main class="cd-main-content">
 		<section id="about">
-			<h2>ಕೃತಜ್ಞತೆಗಳು</h2>
+			<h2>ಸಂಪರ್ಕಿಸಿ</h2>
 			<div id="about_p">
-				<ul>
-					<li>ಡಾ. ಸಿ. ಎಸ್. ಯೋಗಾನಂದ, ಗಣಿತ ಪ್ರಾಧ್ಯಾಪಕರು, ಎಸ್.ಜೆ.ಸಿ.ಇ, ಮೈಸೂರು. </li>	
-					<li>ಡಾ. ಎ. ಪಿ.  ಅಶ್ವಿನ್ ಕುಮಾರ್, ಪ್ರಿನ್ಸಿಪಲ್ ಇನ್ವೆಸ್ಟಿಗೇಟರ್, ಡಿ.ಎ.ಐ.ಲ್</li>	
-					<li>ಪೃಥ್ವಿ ದತ್ತ ಚಂದ್ರ ಶೋಭಿ, ಇತಿಹಾಸ ಪ್ರಾಧ್ಯಾಪಕರು, ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ</li>
-					<li>ಅರ್ಜುನ್ ಕಶ್ಯಪ್, ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್</li>
-					<li>ಬಾಲಚಂದ್ರನ್, ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್</li>
-					<li>ಅನಂತ್. ಜೆ,&nbsp;ಟೆಕ್ನಿಕಲ್ ಅಸ್ಸೊಸಿಯೇಟ್, ಡಿ.ಎ.ಐ.ಲ್</li>
-					<li>ಸಿ. ವಿಶ್ವಾಸ್,&nbsp; ಪ್ರಾಜೆಕ್ಟ್ ಅಸೋಸಿಯೇಟ್, ಡಿ.ಎ.ಐ.ಲ್</li>
-					<li>ಶಿವಶಂಕರ್, ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್</li>
-					<li>ಶ್ರೀ ಮೋಹನ ಮೂರ್ತಿ, ಶಕ್ತಿ ಪ್ರೆಸ್, ಮೈಸೂರು</li>
-					<li>ಶ್ರೀ ಅಕ್ಷರ ಕೆ. ವಿ. , ನೀನಾಸಮ್, ಹೆಗ್ಗೋಡು</li>
-					<li>ವೆಂಕಟರಮಣ ಐತಾಳ್, ನೀನಾಸಮ್, ಹೆಗ್ಗೋಡು</li>
-					<li>ಶ್ರೀ ರವಿಕುಮಾರ್,ಅಭಿನವ ಪ್ರಕಾಶನ</li>
-					<li>ಡಾ. ಸಿರಾಜ್ ಅಹಮದ್,ಅಸಿಸ್ಟಂಟ್ ಪ್ರೊಫೆಸರ್, ಕುವೆಂಪು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ,ಶಿವಮೊಗ್ಗ</li>
-					<li>ಸುದರ್ಶನ್ ಪಾಟೀಲ್ ಕುಲಕರ್ಣಿ, ಪ್ರೊ. ಎಸ್.ಜೆ.ಸಿ.ಇ, ಮೈಸೂರು</li>
-					<li>ಡಾ. ರಮೇಶ್, ಅಸಿಸ್ಟೆಂಟ್ ಪ್ರೊಫೆಸರ್, ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು</li>
-					<li>ಡಾ. ಸುಂದರ ಕೆನಾಜೆ, ಪ್ರಿನ್ಸಿಪಾಲ್, ಆಲೆಟ್ಟಿ ಹೈಸ್ಕೂಲ್, ಸುಳ್ಯ, ದಕ್ಷಿಣ ಕನ್ನಡ </li>
-					<li>ಜಯಪಾಲ್ ಎಚ್. ಆರ್,  ಅಸಿಸ್ಟೆಂಟ್ ಪ್ರೊಫೆಸರ್, ಮಾನಸಗಂಗೋತ್ರಿ, ಮೈಸೂರು </li>
-				</ul>
+					<h5>ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಟೆಕ್ನೋಲಜೀಸ್</h5>
+					<h6>೧ನೇ ಅಡ್ಡ ರಸ್ತೆ,<br /> ರಂಗನಾಥನಗರ, ಶ್ರೀರಂಗಪಟ್ಟಣ<br>
+					   ದೂರವಾಣಿ&nbsp;:&nbsp;+೯೧ ೮೨೩೬ ೨೯೨೪೩೨<br />ಇ-ಮೇಲ್&nbsp;:&nbsp;info@aakarabharati.org</h6>
+					   <div id="googleMap" style="width:60%vw;height:380px;"></div>
 			</div>
+			
 	  </section>
 	</main>
 
