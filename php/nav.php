@@ -1,46 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="css/font-awesome.min.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-  	
-	<title>ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
-</head>
-<body>
-	<header class="cd-main-header">
-		<a class="cd-logo" href="../index.html"><i class="fa fa-home fa-2x"></i></a>
-
-		<ul class="cd-header-buttons">
-			<li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li>
-			<li><a class="cd-nav-trigger" href="#cd-primary-nav">Menu<span></span></a></li>
-		</ul> <!-- cd-header-buttons -->
-	</header>
-	
-	<main class="cd-main-content">
-		<div id="intro_intermediate">
-			<div class="intro-text">
-				<div class="container">
-					<div class="row">
-					
-						
-					<div class="col-md-12">
-						<div class="brand">
-							<h1><a href="index.html"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
-							<div class="line-spacer"></div>
-							<p><span>ಭಾರತದ ಬೌದ್ಧಿಕ ಸಂಸ್ಕೃತಿಗೊಂದು ದರ್ಪಣ</span></p><br />
-						</div>
-						
-					</div>
-					</div>
-				</div>
-		 	</div>
-		</div>
-	</main>
-
 	<div class="cd-overlay"></div>
 
 	<nav class="cd-nav">
@@ -51,28 +8,28 @@
 					<li class="go-back"><a href="#0">Menu</a></li>
 					<li class="see-all"><a href="#"><i class="fa fa-sitemap"></i></a></li>
 					<li>
-						<a class="cd-nav-item item-2" href="../about.html">
+						<a class="cd-nav-item item-2" href="about.php">
 							<h3>ಪಕ್ಷಿನೋಟ</h3>
 							<p>ಈ ಯೋಜನೆಯನ್ನು ಕುರಿತು</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-4" href="../credits.html">
+						<a class="cd-nav-item item-4" href="credits.php">
 							<h3>ಕೃತಜ್ಞತೆಗಳು</h3>
 							<p>ಸಹಾಯ ಮಾಡಿದವರನ್ನು ನೆನೆಯುತ್ತಾ</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-5" href="../contact.html">
+						<a class="cd-nav-item item-5" href="contact.php">
 							<h3>ತಂತ್ರಜ್ಞಾನ ಸಂಪರ್ಕ</h3>
 							<p>ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಟೆಕ್ನೋಲೊಜೀಸ್</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-1" href="../contact.html">
+						<a class="cd-nav-item item-1" href="contact.php">
 							<h3>ಸಾಹಿತ್ಯಿಕ ಸಂಪರ್ಕ</h3>
 							<p>ಡಿ.ಎ.ಐ.ಎಲ್</p>
 						</a>
@@ -91,22 +48,6 @@
 							<p>ಸಮಗ್ರ ಶೋಧನೆ</p>
 						</a>
 					</li>
-
-<!--
-					<li>
-						<a class="cd-nav-item item-7" href="#">
-							<h3>Service #7</h3>
-							<p>This is the item description</p>
-						</a>
-					</li>
-
-					<li>
-						<a class="cd-nav-item item-8" href="http://codyhouse.co/?p=409">
-							<h3>Service #8</h3>
-							<p>This is the item description</p>
-						</a>
-					</li>
--->
 				</ul>
 			</li>
 			<li class="has-children">
@@ -188,14 +129,3 @@
 			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
-
-	<div id="cd-search" class="cd-search">
-		<form>
-			<input type="search" placeholder="Search...">
-		</form>
-	</div>
-<script src="js/jquery-2.1.1.js"></script>
-<script src="js/jquery.mobile.custom.min.js"></script>
-<script src="js/main.js"></script> <!-- Resource jQuery -->
-</body>
-</html>

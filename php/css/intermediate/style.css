@@ -22,6 +22,8 @@ Primary style
 
 html {
   font-size: 62.5%;
+position: relative;
+    min-height: 100%;
 }
 
 body {
@@ -29,6 +31,7 @@ body {
   font-family: sans-serif;
   color: #2e3233;
   background-color: #ffffff;
+  margin: 0 0 100px;
 }
 @media only screen and (max-width: 1169px) {
   body.nav-on-left.overflow-hidden {
@@ -491,28 +494,28 @@ Main components
   background-size: 40px 40px;
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
-  background-image: url("../img/line-icon-1.svg");
+  background-image: url("../../img/intermediate/line-icon-1.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
-  background-image: url("../img/line-icon-2.svg");
+  background-image: url("../../img/intermediate/line-icon-2.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-3::before {
-  background-image: url("../img/line-icon-3.svg");
+  background-image: url("../../img/intermediate/line-icon-3.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-4::before {
-  background-image: url("../img/line-icon-4.svg");
+  background-image: url("../../img/intermediate/line-icon-4.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-5::before {
-  background-image: url("../img/line-icon-5.svg");
+  background-image: url("../../img/intermediate/line-icon-5.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-6::before {
-  background-image: url("../img/line-icon-6.svg");
+  background-image: url("../../img/intermediate/line-icon-6.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-7::before {
-  background-image: url("../img/line-icon-7.svg");
+  background-image: url("../../img/intermediate/line-icon-7.svg");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-8::before {
-  background-image: url("../img/line-icon-8.svg");
+  background-image: url("../../img/intermediate/line-icon-8.svg");
 }
 @media only screen and (max-width: 1169px) {
   .cd-primary-nav {
@@ -1092,6 +1095,7 @@ support for no js
 Credits page 		
 ================================= */
 
+/*
 #about_p ul {
   list-style-type: none;
   margin: 0;
@@ -1123,6 +1127,21 @@ Credits page
   font-size: 30px;
   background: #f6f6f6;
 }
+*/
+
+
+    footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background: #2b2b2b;
+    color:#ddd;
+    display:table;
+    text-align:center;
+    font-family:'Sans-Serif';
+}
 
 #about_p #googleMap {
 	width:100%;
@@ -1130,7 +1149,10 @@ Credits page
 }
 
 
-
+footer span {
+  display: table-cell;
+  vertical-align: middle;
+}
 
 
 /* ================================
@@ -1144,10 +1166,12 @@ About
 	margin-left:auto;
 	margin-right:auto;
 	padding-top:3em;
+	text-align:center;
 }
 	
 #about h2 {
-	color:#3d3d3d;
+
+	color:#8B0000;
 	font-size:1.9em;
 	font-family:'Nudi 05 k';
 	text-align:center;
@@ -1155,7 +1179,7 @@ About
 
 }
 #about p {
-	padding-top:1em;
+	padding-top:0.5em;
 	font-family:'Nudi 05 k';
 	font-size: 1.12em;
 	line-height:1.5em;
