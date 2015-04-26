@@ -1,8 +1,11 @@
-<?php include("header.php"); ?>
+<?php include("header.php");	?>
 <?php include("nav.php"); ?>
-		<div id="about_sakshi">
-			<div class="archive_holder">
-				
+	<main class="cd-main-content">
+<?php include("sec_nav.php"); ?>
+		<section id="about">
+			<h2>ಮಾತುಕತೆ</h2>
+			<h4><br>ಶ್ರೀ ನೀಲಕಂಠೇಶ್ವರ ನಾಟ್ಯ ಸೇವಾ ಸಂಘ</h4>
+			<div id="about_p">
 <?php
 
 include("connect.php");
@@ -15,7 +18,7 @@ $dpart = preg_replace("/\-0/", "-", $dpart);
 
 //~ $yearMonth = getYearMonth($volume, $part);
 
-echo '<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಸಂಚಿಕೆ.&nbsp;'.$dpart .'</div> ';
+echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಚಿಕೆ&nbsp;'.intval($dpart) .'</div> ';
 
 //~ if(!(isValidVolume($volume) && isValidPart($part)))
 //~ {
@@ -28,7 +31,7 @@ echo '<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಸಂಚ�
     //~ exit(1);
 //~ }
 
-$query = 'select * from article_sakshi where part=\'' . $part . '\'';
+$query = 'select * from article_maatukate where part=\'' . $part . '\'';
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -37,7 +40,7 @@ if($num_rows > 0)
 {
 	while($row = $result->fetch_assoc())
 	{
-		$query3 = 'select feat_name from feature_sakshi where featid=\'' . $row['featid'] . '\'';
+		$query3 = 'select feat_name from feature_maatukate where featid=\'' . $row['featid'] . '\'';
 		$result3 = $db->query($query3); 
 		$row3 = $result3->fetch_assoc();		
 		
@@ -70,9 +73,18 @@ if($num_rows > 0)
 if($result){$result->free();}
 $db->close();
 
-?>
-			</ul>
+?>	
 		</div>
 	</div>
 </div>
-	<?php include("footer.php"); ?>
+			</div>
+	  </section>
+	</main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Search...">
+		</form>
+	</div>
+<?php include("footer.php"); ?>
+	
+

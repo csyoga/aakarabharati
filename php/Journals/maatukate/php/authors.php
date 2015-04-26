@@ -1,17 +1,23 @@
-<?php include('header.php'); ?>
-<?php include('nav.php'); ?>
-		<div id="about_sakshi">
-			<div class="archive_holder">
-				<div class="page_title"><i class="fa fa-user"></i>&nbsp;&nbsp;ಲೇಖಕರು</div>
+<?php include("header.php");	?>
+<?php include("nav.php"); ?>
+	<main class="cd-main-content">
+<?php include("sec_nav.php"); ?>
+		<section id="about">
+			<h2>ಮಾತುಕತೆ</h2>
+			<h4><br>ಶ್ರೀ ನೀಲಕಂಠೇಶ್ವರ ನಾಟ್ಯ ಸೇವಾ ಸಂಘ</h4>
+			<div id="about_p">
+				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</div>
 			<div class="alphabet">
 				<span class="letter"><a href="authors.php?letter=ಅ">ಅ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಆ">ಆ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಉ">ಉ</a></span>
+				<span class="letter"><a href="authors.php?letter=ಊ">ಊ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಎ">ಎ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಕ">ಕ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಗ">ಗ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಚ">ಚ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಜ">ಜ</a></span>
+				<span class="letter"><a href="authors.php?letter=ತ">ತ</a></span>
 				<span class="letter"><a href="authors.php?letter=ದ">ದ</a></span>
 				<span class="letter"><a href="authors.php?letter=ನ">ನ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಪ">ಪ</a></span>
@@ -26,91 +32,68 @@
 				<span class="letter"><a href="authors.php?letter=ಸ">ಸ</a></span>
 				<span class="letter"><a href="authors.php?letter=ಹ">ಹ</a></span>
 			</div>
-				<ul class="dot">
 <?php
 
 include("connect.php");
-//~ require_once("../common.php");
+require_once("common.php");
 
 if(isset($_GET['letter']))
 {
 	$letter=$_GET['letter'];
-
+	
 	//~ if(!(isValidLetter($letter)))
 	//~ {
-		//~ echo "<li>Invalid URL</li>";
-		//~ 
-		//~ echo "</ul></div></div>";
-		//~ echo "<div class=\"clearfix\"></div></div>";
-		//~ echo "</body></html>";
-		//~ exit(1);
+		//~ echo '<span class="aFeature clr2">Invalid URL</span>';
+		//~ echo '</div> <!-- cd-container -->';
+		//~ echo '</div> <!-- cd-scrolling-bg -->';
+		//~ echo '</main> <!-- cd-main-content -->';
+		//~ include("include_footer.php");
+//~ 
+        //~ exit(1);
 	//~ }
-
-	if($letter == '')
-	{
-		$letter = 'ಅ';
-	}
+	
+	($letter == '') ? $letter = 'ಅ' : $letter = $letter;
 }
 else
 {
 	$letter = 'ಅ';
 }
 
-//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-//~ $rs = mysql_select_db($database,$db) or die("No Database");
-
-$db = @new mysqli('localhost', "$user", "$password", "$database");
-$db->set_charset('utf8');
-if($db->connect_errno > 0)
-{
-	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';
-	echo "</ul></div></div>";
-	include("include_footer.php");
-	echo "<div class=\"clearfix\"></div></div>";
-	include("include_footer_out.php");
-	echo "</body></html>";
-	exit(1);
-}
-
-//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-//~ $rs = mysql_select_db($database,$db) or die("No Database");
-
-$query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
-/*
-$query = "select * from author where authorname like '$letter%' order by authorname";
-*/
-
-//~ $result = mysql_query($query);
-//~ $num_rows = mysql_num_rows($result);
+$query = 'select * from author where authorname like \'' . $letter . '%\' and type=03 order by authorname';
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 
 if($num_rows > 0)
 {
-	for($i=1;$i<=$num_rows;$i++)
+	while($row = $result->fetch_assoc())
 	{
-		//~ $row=mysql_fetch_assoc($result);
-		$row = $result->fetch_assoc();
-
-		$authid=$row['authid'];
-		$authorname=$row['authorname'];
-
-		echo "<li>";
-		echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
-		echo "</li>\n";
+		echo '<div class="author">';
+		echo '	<span class="aAuthor"><a href="auth.php?authid=' . $row['authid'] . '&amp;author=' . urlencode($row['authorname']) . '">' . $row['authorname'] . '</a> ';
+		echo '</div>';
 	}
 }
 else
 {
-	echo "<li>Sorry! No author names were found to begin with the letter '$letter' </li>";
+	echo '<span class="sml">Sorry! No author names were found to begin with the letter \'' . $letter . '\' in maatukate</span>';
 }
 
 if($result){$result->free();}
 $db->close();
+
 ?>
-				</ul>
+			
 		</div>
 	</div>
 </div>
-	<?php include("footer.php"); ?>
+			</div>
+	  </section>
+	</main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Search...">
+		</form>
+	</div>
+<?php include("footer.php"); ?>
+	
+

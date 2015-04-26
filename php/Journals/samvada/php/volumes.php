@@ -3,8 +3,8 @@
 	<main class="cd-main-content">
 <?php include("sec_nav.php"); ?>
 		<section id="about">
-			<h2>ಮಾತುಕತೆ</h2>
-			<h4><br>ಶ್ರೀ ನೀಲಕಂಠೇಶ್ವರ ನಾಟ್ಯ ಸೇವಾ ಸಂಘ</h4>
+			<h2>ಸಂವಾದ</h2>
+			<h4><br>ಸಾಹಿತ್ಯಿಕ - ಸಾಂಸ್ಕೃತಿಕ ದ್ವೈಮಾಸಿಕ ಸಂಕಲನ</h4>
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</div>
 					<div class="volumes">
@@ -13,14 +13,14 @@
 
 							include("connect.php");
 							require_once("common.php");
-							$query = 'select distinct volume from article_maatukate order by volume';
+							$query = 'select distinct part from article_samvada order by part';
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							if($num_rows > 0)
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="toc.php?part='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="toc.php?part='. $row['part'] .'"><img src="images/cover/'. $row['part'] .'.jpg" alt="Cover image"><p>'. intval($row['part']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}
