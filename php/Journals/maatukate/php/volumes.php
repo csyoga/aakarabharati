@@ -20,7 +20,7 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="toc.php?part='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}

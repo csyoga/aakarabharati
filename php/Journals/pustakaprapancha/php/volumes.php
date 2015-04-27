@@ -1,9 +1,13 @@
-<?php include('header.php'); ?>
-<?php include('nav.php'); ?>
-		<div id="about_sakshi">
-			<div class="archive_holder">
+<?php include("header.php");	?>
+<?php include("nav.php"); ?>
+	<main class="cd-main-content">
+<?php include("sec_nav.php"); ?>
+		<section id="about">
+			<h2>ಪುಸ್ತಕ ಪ್ರಪಂಚ</h2>
+			<h4><br>ವಯಸ್ಕರ ಶಿಕ್ಷಣ ಸಮಿತಿ, ಮೈಸೂರು</h4>
+			<div id="about_p">
 				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</div>
-					<div id="volumes">
+					<div class="volumes">
 						<ul>
 							<?php
 
@@ -16,8 +20,7 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									
-									echo '<li><a  class="button hollow"  href="part.php?vol='. $row['volume'] .'"><img src="images/cover/'.$row['volume'].'.png" alt=""><p>'. intval($row['volume']) .'</p></a></li>';
+									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'/'. $row['volume'] .'.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}
@@ -25,8 +28,14 @@
 							?>
 						</ul>
 					</div>
-				</div>
 			</div>
-		</div>
+	  </section>
+	</main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Search...">
+		</form>
+	</div>
 <?php include("footer.php"); ?>
+	
 

@@ -10,7 +10,7 @@
 
 include("connect.php");
 require_once("common.php");
-
+if(isset($_GET['volume'])){$volume = $_GET['volume'];}else{$volume = '';}
 if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 
 $dpart = preg_replace("/^0/", "", $part);
@@ -18,7 +18,7 @@ $dpart = preg_replace("/\-0/", "-", $dpart);
 
 //~ $yearMonth = getYearMonth($volume, $part);
 
-echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಚಿಕೆ&nbsp;'.intval($dpart) .'</div> ';
+echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . intval($volume) . '&nbsp;;&nbsp;ಸಂಚಿಕೆ&nbsp;'.intval($dpart) .'</div> ';
 
 //~ if(!(isValidVolume($volume) && isValidPart($part)))
 //~ {
@@ -31,7 +31,7 @@ echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಚಿ
     //~ exit(1);
 //~ }
 
-$query = 'select * from article_maatukate where part=\'' . $part . '\'';
+$query = 'select * from article_maatukate where volume=\'' . $volume . ' and part=\'' . $part . '\'';
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;

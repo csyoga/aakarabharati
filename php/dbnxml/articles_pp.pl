@@ -8,7 +8,7 @@ $type_code = '04';
 use DBI();
 @ids=();
 
-open(IN,"pp.xml") or die "can't open pp.xml\n";
+open(IN,"Pustaka_Prapancha.xml") or die "can't open Pustaka_Prapancha.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $dbh->{'mysql_enable_utf8'} = 1;
@@ -39,26 +39,26 @@ while($line)
 		$volume = $1;
 		print $volume . "\n";
 	}	
-	elsif($line =~ /<part pnum="(.*)" year="(.*)" month="(.*)" info="(.*)">/)
+	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)" info="(.*)">/)
 	{
 		$pnum = $1;
-		$year= $2;
-		$month = $3;
+		$year= $3;
+		$month = $2;
 		$info = $4;
 	}	
 	elsif($line =~ /<title>(.*)<\/title>/)
 	{
 		$title = $1;
 	}
-	elsif($line =~ /<feature>(.*)<\/feature>/)
-	{
-		$feature = $1;
-		$featid = get_featid($feature);
-	}	
 	elsif($line =~ /<page>(.*)-(.*)<\/page>/)
 	{
 		$page_start=$1;
 		$page_end=$2;
+	}	
+	elsif($line =~ /<feature>(.*)<\/feature>/)
+	{
+		$feature = $1;
+		$featid = get_featid($feature);
 	}	
 	elsif($line =~ /<author type="(.*)">(.*)<\/author>/)
 	{

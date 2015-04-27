@@ -34,7 +34,7 @@
 	<main class="cd-main-content">
 		<section id="about">
 			<h2>ಸಂಪರ್ಕಿಸಿ</h2>
-			<div id="about_p">
+			<div id="about_p" class="center">
 				<p>ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಟೆಕ್ನೋಲಜೀಸ್</p><br />
 					<p>೧ನೇ ಅಡ್ಡ ರಸ್ತೆ,<br />ರಂಗನಾಥನಗರ, ಶ್ರೀರಂಗಪಟ್ಟಣ<br />
 					   ದೂರವಾಣಿ&nbsp;:&nbsp;+೯೧ ೮೨೩೬ ೨೯೨೪೩೨<br />ಇ-ಮೇಲ್<blockquote>info@aakarabharati.in</blockquote></p><br />

@@ -11,16 +11,22 @@ perl author_sakshi.pl $host $db $usr $pwd
 perl author_samvada.pl $host $db $usr $pwd
 perl author_maatukate.pl $host $db $usr $pwd
 perl author_pp.pl $host $db $usr $pwd
+perl author_ab.pl $host $db $usr $pwd
+perl author_rb.pl $host $db $usr $pwd
 
 perl feat_sakshi.pl $host $db $usr $pwd
 perl feat_samvada.pl $host $db $usr $pwd
 perl feat_maatukate.pl $host $db $usr $pwd
 perl feat_pp.pl $host $db $usr $pwd
+perl feat_ab.pl $host $db $usr $pwd
+perl feat_rb.pl $host $db $usr $pwd
 
 perl articles_sakshi.pl $host $db $usr $pwd
 perl articles_samvada.pl $host $db $usr $pwd
 perl articles_maatukate.pl $host $db $usr $pwd
 perl articles_pp.pl $host $db $usr $pwd
+perl articles_ab.pl $host $db $usr $pwd
+perl articles_rb.pl $host $db $usr $pwd
 
 #~ perl ocr.pl $host $db $usr $pwd
 #~ perl searchtable.pl $host $db $usr $pwd

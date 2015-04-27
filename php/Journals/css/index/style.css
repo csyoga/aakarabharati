@@ -420,7 +420,7 @@ header p {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: url("../img/cd-icon-close.svg") no-repeat center center;
+  background: url("../../img/cd-icon-close.svg") no-repeat center center;
   text-indent: 100%;
   white-space: nowrap;
   z-index: 3;
@@ -521,3 +521,119 @@ xkeyframes
   }
 }
 
+
+ul.actions {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.actions li {
+				display: inline-block;
+				padding: 0 0 0 0;
+				vertical-align: middle;
+			}
+
+				ul.actions li:last-child {
+					padding-right: 0;
+				}
+
+			ul.actions.small li {
+				padding: 0 0 0 0;
+			}
+
+			ul.actions.vertical li {
+				display: block;
+				padding: 1em 0 0 1em;
+			}
+
+				ul.actions.vertical li:first-child {
+					padding-top: 0;
+				}
+
+				ul.actions.vertical li > * {
+					margin-bottom: 0;
+				}
+
+			ul.actions.vertical.small li {
+				padding: 0.5em 0 0 0;
+			}
+
+				ul.actions.vertical.small li:first-child {
+					padding-top: 0;
+				}
+
+			ul.actions.fit {
+				display: table;
+				margin-left: -1em;
+				padding: 0;
+				table-layout: fixed;
+				width: calc(100% + 1em);
+			}
+
+				ul.actions.fit li {
+					display: table-cell;
+					padding: 0 0 0 1em;
+				}
+
+					ul.actions.fit li > * {
+						margin-bottom: 0;
+					}
+
+				ul.actions.fit.small {
+					margin-left: -0.5em;
+					width: calc(100% + 0.5em);
+				}
+
+					ul.actions.fit.small li {
+						padding: 0 0 0 0.5em;
+					}
+
+.button {
+  border: none;
+  box-shadow: none;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  padding: .6em 2.2em;
+  cursor: pointer;
+  background: #5f8ee4;
+  cursor: pointer;
+		display: inline-block;
+		font-weight: 400;
+		height: 3em;
+		line-height: 3em;
+		padding: 0 2em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+}
+
+.button:focus {
+  outline: none;
+}
+.button.button-outline {
+  color: #FFFFFF;
+  background: transparent;
+  box-shadow: inset 0 0 0 1px #FFFFFF;
+}
+.button.button-outline:hover {
+  color: #ffffff;
+  background: #3D3D3D;
+}
+.container {
+		margin-left: auto;
+		margin-right: auto;
+			padding-top:1em;
+		/* width: (containers) */
+		width: 40em;
+	}
+	
+	#sec_nav {
+		width: 100%;
+		text-align: center;
+		font-family:'kedage';
+		height: 10vh;
+		baseline:center !important;
+}

@@ -7,7 +7,7 @@ $pwd = $ARGV[3];
 $type_code = '04';
 use DBI();
 
-open(IN,"pp.xml") or die "can't open pp.xml\n";
+open(IN,"Pustaka_Prapancha.xml") or die "can't open Pustaka_Prapancha.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 

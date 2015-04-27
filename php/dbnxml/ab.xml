@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE arivu_baraha SYSTEM  "ab.dtd">
+<ab>
+	<volume vnum="001">
+		<part pnum="01" month="" year="1991">
+	 		<entry>
+	 			<title>ಭಾರತೀಯ ಸ್ವಯಂತಂತ್ರವಾದೀ ರಾಜಕೀಯದ ವರಸೆ: ಮಂದಿರ - ಮಸೀದಿ ವಿವಾದ</title>
+	 			<feature></feature>
+	 			<page>0001-0041</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ಹೆಗ್ಡೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>"ಇದು ನ್ಯಾಯವಲ್ಲ" - ಕೊಲ್ಲಿ ಯುದ್ದ ಕುರಿತು ನೋಮ್ ಚೋಮ್ ಸ್ಕಿ</title>
+	 			<feature></feature>
+	 			<page>0042-0062</page>
+				<allauthors>
+					<author>ರಾಜಶೇಖರ್ ಜಿ. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಅಂತಾರಾಷ್ಟ್ರೀಯ ಹಣಕಾಸು ವ್ಯವಸ್ಥೆ ಮತ್ತು ಬಡದೇಶಗಳು</title>
+	 			<feature></feature>
+	 			<page>0063-0080</page>
+				<allauthors>
+					<author>ಯಶವಂತ ಡೋಂಗ್ರೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>'ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ' - ಹಲವು ಅಪಕಲ್ಪನೆಗಳ ಒಂದು ಕಥೆ</title>
+	 			<feature></feature>
+	 			<page>0081-0107</page>
+				<allauthors>
+					<author>ಶಶಿಧರ್ ಆರ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಲೋಹಿಯಾವಾದದ ಶವಪರೀಕ್ಷೆ</title>
+	 			<feature></feature>
+	 			<page>0108-0123</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ತೋಳ್ಪಾಡಿ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="" year="1992">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0001-0007</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>"ವಾಸ್ತವದಲ್ಲಿ ಇರುವ ಸಮಾಜವಾದ"ದ ಬಿಕ್ಕಟ್ಟು</title>
+	 			<feature></feature>
+	 			<page>0009-0016</page>
+				<allauthors>
+					<author type="1">ಮಿಷೆೇಲ್ ಲೋವಿ</author>
+					<author type="2">ರಾಜಶೇಖರ್ ಜಿ.</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>"ಅಂತಾರಾಷ್ಟ್ರೀಯ ಹಣಕಾಸು ವ್ಯವಸ್ಥೆ ಮತ್ತು ಬಡದೇಶಗಳು" ಭಾಗ 2-- ಅಭಿವೃದ್ದಿಯ ಕಲ್ಪನೆಗಳು</title>
+	 			<feature></feature>
+	 			<page>0017-0035</page>
+				<allauthors>
+					<author>ಯಶವಂತ ಡೋಂಗ್ರೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಮೀಸಲಾತಿ : ಒಂದು ಸಮೀಕ್ಷೆ</title>
+	 			<feature></feature>
+	 			<page>0036-0055</page>
+				<allauthors>
+					<author>ಸದಾನಂದ ಜೆ. ಎಸ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಭಾರತದಲ್ಲಿ ರೈತ ಚಳುವಳಿಗಳು --1920-1950</title>
+	 			<feature></feature>
+	 			<page>0056-0106</page>
+				<allauthors>
+					<author type="1">ಧನಗರೆ ಡಿ. ಏನ್.</author>
+					<author type="2">ರಾಮಚಂದ್ರ ಉಡುಪ</author>
+					<author type="2">ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಲೋಹಿಯಾವಾದದ ಶವಪರೀಕ್ಷೆ -- ಭಾಗ 2</title>
+	 			<feature></feature>
+	 			<page>0107-0123</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ತೋಳ್ಪಾಡಿ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>'ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ' : ಹಲವು ಅಪಕಲ್ಪನೆಗಳ ಒಂದು ಕಥೆ-- ಭಾಗ 2</title>
+	 			<feature></feature>
+	 			<page>0124-0138</page>
+				<allauthors>
+					<author>ಶಶಿಧರ್ ಆರ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="" year="1992">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>000I-0III</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಮಾರ್ಕ್ಸ್ ವಾದ ಮತ್ತು ಕ್ರಾಂತಿ -- ಮಾರ್ಕ್ಸ್ ನ ನೂರು ವರ್ಷಗಳ ಬಳಿಕ</title>
+	 			<feature></feature>
+	 			<page>0001-0014</page>
+				<allauthors>
+					<author type="1">ಪೌಲ್ ಸ್ವೀಝಿ ಎಂ.</author>
+					<author type="2">ವಸಂತ ಬನ್ನಾಡಿ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಭಾರತೀಯ ಮೂರ್ತಿಶಾಸ್ತ್ರ -- ಧರ್ಮ, ದೇವತಾರಾಧನೆ ಹಾಗೂ ಸಾಂಸ್ಕೃತಿಕ ರಾಜಕೀಯದ ಐತಿಹಾಸಿಕ ವಿಶ್ಲೇಷಣೆ</title>
+	 			<feature></feature>
+	 			<page>0015-0059</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ಹೆಗ್ಡೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ವ್ಯವಸಾಯೀ ಸಂಘರ್ಷ, ಧರ್ಮ ಮತ್ತು ರಾಜಕೀಯ ಹತ್ತೊಂಬತ್ತು ಮತ್ತು ಇಪ್ಪತ್ತನೆಯ ಶತಮಾನದ ಮೊದಲಿಗೆ ಮಲಬಾರ್ ಪ್ರಾಂತ್ಯದಲ್ಲಿ ನಡೆದ ಮಾಪಿಳ್ಳೆ ದಂಗೆಗಳು</title>
+	 			<feature></feature>
+	 			<page>0060-0092</page>
+				<allauthors>
+					<author type="1">ಧನಾಗರೆ ಏನ್. ಡಿ.</author>
+					<author type="2">ರಾಮಚಂದ್ರ ಉಡುಪ</author>
+					<author type="2">ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಕೊಡಗಿನ ಚರಿತ್ರೆಯ ಮೇಲೆ ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+	 			<feature></feature>
+	 			<page>0093-0149</page>
+				<allauthors>
+					<author>ತಂಬಂಡ ಪೂಣಚ್ಚ ವಿಜಯ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಸರ್ಕಾರಿ ರಂಗದ ಕಾರ್ಯಕ್ಷಮತೆ -- ಸುಳ್ಳು ಮತ್ತು ಸತ್ಯಗಳು</title>
+	 			<feature></feature>
+	 			<page>0150-0168</page>
+				<allauthors>
+					<author>ಶ್ರೀಧರ ತೀ. ನಂ. ಡಾ|</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="" year="1993">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0001-0001</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಧರ್ಮ ಮತ್ತುಎಡಪಂಥ : ಕೆಲವು ಪ್ರಾಸ್ತಾವಿಕ ವಿಚಾರಗಳು</title>
+	 			<feature></feature>
+	 			<page>0003-0016</page>
+				<allauthors>
+					<author type="1">ಕೊನೆಲ್ ವೆಸ್ಟ್</author>
+					<author type="2">ವಸಂತ ಬನ್ನಾಡಿ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಧರ್ಮ ಮತ್ತು ರಾಜಕೀಯ - ಪಾಕಿಸ್ಥಾನದ ಉದಾಹರಣೆ</title>
+	 			<feature></feature>
+	 			<page>0017-0024</page>
+				<allauthors>
+					<author type="1">ನೂರಾನಿ ಎ. ಜಿ.</author>
+					<author type="2">ಶ್ರೀಧರ ಟಿ. ಏನ್. ಡಾ||</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>"ಬ್ರಾಹ್ಮಣೇತರರ ಚಳುವಳಿ ಮತ್ತು ಮಿಲ್ಲರ್ ವರದಿ"</title>
+	 			<feature></feature>
+	 			<page>0025-0054</page>
+				<allauthors>
+					<author>ಸದಾನಂದ ಜೆ. ಎಸ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಮುಕ್ತ ವಿಮರ್ಶೆ ಮತ್ತು ಚೌಕಟ್ಟು</title>
+	 			<feature></feature>
+	 			<page>0055-0074</page>
+				<allauthors>
+					<author>ಶಶಿಧರ್ ಆರ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಭಾರತೀಯ ಮೂರ್ತಿಶಾಸ್ತ್ರ - ಧರ್ಮ, ದೇವತಾರಾಧನೆ ಹಾಗೂ ಸಾಂಸ್ಕೃತಿಕ ರಾಜಕೀಯದ ಐತಿಹಾಸಿಕ ವಿಶ್ಲೇಷಣೆ - ಭಾಗ ೨</title>
+	 			<feature></feature>
+	 			<page>0075-0135</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ಹೆಗ್ಡೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="" year="1994">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0001-0003</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಮಾರ್ಕ್ಸ್ ವಾದ ಇಂದು : ಇಸ್ತ್ ವಾನ್ ಮೆಸೋರಾಸ್ ಜೊತೆ ಒಂದು ಸಂದರ್ಶನ</title>
+	 			<feature></feature>
+	 			<page>0004-0020</page>
+				<allauthors>
+					<author>ವಸಂತ ಬನ್ನಾಡಿ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಹಿಂದೂ ಕೋಮುವಾದದ ಸಮರಯುಕ್ತಿ, ಭಾಗ - 2</title>
+	 			<feature></feature>
+	 			<page>0021-0037</page>
+				<allauthors>
+					<author type="1">ಮುರಳೀಧರನ್ ಎಂ.</author>
+					<author type="2">ರಾಜಾರಾಮ ಹೆಗ್ಡೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಶ್ರೀ ದೇವರಾಜು ಅರಸು : ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಸಂಘಟನೆ ಮತ್ತು ಹಾವನೂರು ವರದಿ</title>
+	 			<feature></feature>
+	 			<page>0038-0060</page>
+				<allauthors>
+					<author>ಸದಾನಂದ ಜೆ. ಎಸ್. ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ರೈತ ಸಂಘಟನೆ ಮತ್ತು ಭಾರತದ ಎಡಪಂಥೀಯ ರಾಜಕೀಯ</title>
+	 			<feature></feature>
+	 			<page>0061-0083</page>
+				<allauthors>
+					<author type="1">ಧನಾಗರೆ ಡಿ. ಏನ್.</author>
+					<author type="2">ರಾಮಚಂದ್ರ ಉಡುಪ</author>
+					<author type="2">ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="" year="1995">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0001-0005</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಪುರಾಣ ಮತ್ತು ವಾಸ್ತವ ಭಾರತದ ಸಾಂಸ್ಕೃತಿಕ ನಿರ್ಮಾಣದ ಕುರಿತ ಅಧ್ಯಯನಗಳು</title>
+	 			<feature></feature>
+	 			<page>0006-0045</page>
+				<allauthors>
+					<author type="1">ಕೊಸಾಂಬಿ ಡಿ. ಡಿ.</author>
+					<author type="2">ವೇಣುಗೋಪಾಲ ; ಶ್ಯೆಲಜಾ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಕೋಮುವಾದ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಅಧ್ಯಯನದ ದುರುಪಯೋಗ (ವಿಶ್ವಪ್ರಾಕ್ತನಶಾಸ್ತ್ರ ಸಮ್ಮೇಳನದ ವಿವಾದಗಳ ಹಿನ್ನೆಲೆಯಲ್ಲಿ)</title>
+	 			<feature></feature>
+	 			<page>0046-0055</page>
+				<allauthors>
+					<author>ರಾಜಾರಾಮ ಹೆಗ್ಡೆ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಬಂಗಾಳದ ತೆಭಾಗ ಚಳವಳಿ 1946-47 ಅಧ್ಯಾಯ VII</title>
+	 			<feature></feature>
+	 			<page>0056-0077</page>
+				<allauthors>
+					<author type="1">ಧನಾಗರೆ ಡಿ. ಏನ್.</author>
+					<author type="2">ರಾಮಚಂದ್ರ ಉಡುಪ</author>
+					<author type="2">ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ವಸಾಹತು ಕಾಲದ ಕೊಡಗಿನ ಸಾಂಸ್ಕೃತಿಕ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ ಪಟ್ಟೋಲೆ ಪಳಮೆ : ಒಂದು ನೋಟ</title>
+	 			<feature></feature>
+	 			<page>0078-0098</page>
+				<allauthors>
+					<author>ತಂಬಂಡ ಪೂಣಚ್ಚ ವಿಜಯ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="" year="1996">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0005-0006</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಓದುವ ಆಟ : ಪಠ ಮತ್ತು ವಿವಾದದ ಪುನರವಲೋಕನ</title>
+	 			<feature></feature>
+	 			<page>0007-0022</page>
+				<allauthors>
+					<author>ನಿತ್ಯಾನಂದ ಶೆಟ್ಟಿ ಬಿ.</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಸಾಮ್ರಾಜ್ಯವಾದದ ಪರಿಕಲ್ಪನೆ ಎಷ್ಟು ಪ್ರಸ್ತುತ ?</title>
+	 			<feature></feature>
+	 			<page>0023-0033</page>
+				<allauthors>
+					<author type="1">ಹೆನ್ರಿ ಮ್ಯಾಗ್ ಡೋಫ್</author>
+					<author type="2">ವಸಂತ ಬನ್ನಾಡಿ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಕರ್ನಾಟಕ ಕೃಷಿಯಲ್ಲಿ ಬಂಡವಾಳಶಾಹಿ ಮತ್ತು ಬೂರ್ಜ್ವಾ ರೈತವರ್ಗದ ಬೆಳೆವಣಿಗೆ : ಒಂದು ವಿಶ್ಲೇಷಣೆ</title>
+	 			<feature></feature>
+	 			<page>0034-0057</page>
+				<allauthors>
+					<author>ಮುಜಾಫರ್ ಅಸ್ಸಾದಿ ಡಾ|</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ತೆಲಂಗಾಣ ರೈತ ದಂಗೆಯ ಸಾಮಾಜಿಕ ಲಕ್ಷಣಗಳು : 1946-1951</title>
+	 			<feature></feature>
+	 			<page>0058-0086</page>
+				<allauthors>
+					<author type="1">ಧನಾಗರೆ ಡಿ. ಏನ್.</author>
+					<author type="2">ರಾಮಚಂದ್ರ ಉಡುಪ</author>
+					<author type="2">ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ</author>
+				</allauthors>
+			</entry>
+		</part>
+	 	<part pnum="13" month="" year="1997">
+	 		<entry>
+	 			<title>ಪ್ರಸ್ತಾವನೆ</title>
+	 			<feature></feature>
+	 			<page>0000-0000</page>
+				<allauthors>
+					<author />
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಸಂಪ್ರದಾಯ ಮತ್ತು ಆಧುನಿಕತೆ ಭಾಗ : ೧</title>
+	 			<feature></feature>
+	 			<page>0001-0050</page>
+				<allauthors>
+					<author>ಶಶಿಧರ ಆರ್. ಡಾ</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಔದ್ಯಮೀಕರಣ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಜನಾಂದೋಳನ-ಒಂದು ಅಧ್ಯಯನ</title>
+	 			<feature></feature>
+	 			<page>0051-0083</page>
+				<allauthors>
+					<author>ಶೇಷಾದ್ರಿ ಬಿ. ಡಾ.</author>
+					<author>ಚಂದ್ರಶೇಖರ್ ಟಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+	 		<entry>
+	 			<title>ಭಾರತೀಯ ಅರ್ಥಿಕ ವ್ಯವಸ್ಥೆಯ ಅಭಿವೃದ್ದಿ ಮತ್ತು ಹೊಸ ಆರ್ಥಿಕ ನೀತಿ ಭಾಗ-೨</title>
+	 			<feature></feature>
+	 			<page>0084-0114</page>
+				<allauthors>
+					<author>ಉದಯಕುಮಾರ್ ಇರ್ವತ್ತೂರು</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+</ab>	

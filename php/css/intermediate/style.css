@@ -1145,6 +1145,7 @@ About
 	font-family:'kedage';
 	font-size:1.9em;
 	text-align:center;
+	margin-top:2em;
 }
 #about h4 {
 	font-family:'kedage';
@@ -1154,12 +1155,17 @@ About
 }
 #about p {
 	font-family:kedage;
-	text-align:justify;
 	padding-top:0.5em;
 	font-size: 1.12em;
 	line-height:1.5em;
 	opacity:1;
 	color:#2e3233;
+}
+.center {
+	text-align:center ;
+}
+.just {
+	text-align:justify;
 }
 #about .page_title {
 	text-align:left;
@@ -1293,8 +1299,8 @@ ul.actions {
 		width: 60em;
 	}
 	    .volumes {
-			width:90%;
-			text-align:center;
+			width:100%;
+			text-align:left;
 			margin: 0 auto;
 		}
 		.volumes a {
