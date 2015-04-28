@@ -64,11 +64,39 @@ header {
   background-color: #083967;
 }
 header h1 {
-  color: #ffffff;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-size: 20px;
-  font-size: 1.25rem;
+  font-size: 30px;
+  font-size: 1.875rem;
+  font-family: "Droid Sans", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: .4em;
+  color: #f3f3f5;
+}
+header p {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  color: #93861d;
+}
+.cd-logo {
+  position: absolute;
+  color:white;
+  top: 12px;
+  left: 5%;
+}
+.cd-logo img {
+  display: block;
+}
+@media only screen and (max-width: 1169px) {
+  .nav-on-left .cd-logo {
+    left: auto;
+    right: 5%;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  .cd-logo {
+    top: 6px;
+    left: 4em;
+  }
 }
 @media only screen and (min-width: 1024px) {
   header {

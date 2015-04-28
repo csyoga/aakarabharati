@@ -1,11 +1,3 @@
-/*
- * CSS Styles that are needed by jScrollPane for it to operate correctly.
- *
- * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
- * may not operate correctly without them.
- */
-
-
 /* Custom Style */
 
 .jspContainer {
@@ -35,7 +27,7 @@
 
 .jspCap {
 	display: block;
-	background: #fff;
+	background: #eee;
 }
 
 .jspVerticalBar .jspCap {
@@ -50,7 +42,7 @@
 }
 
 .jspDrag {
-	background: #fff;
+	background: black;
 	position: relative;
 	box-shadow: inset -1px 0 8px rgba(0,0,0,0.05);
 	top: 0;
@@ -61,7 +53,7 @@
 }
 
 .jspCorner {
-	background: #fff;
+	background: #eee;
 	float: left;
 	height: 100%;
 }

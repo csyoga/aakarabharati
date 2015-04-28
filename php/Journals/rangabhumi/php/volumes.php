@@ -13,14 +13,14 @@
 
 							include("connect.php");
 							require_once("common.php");
-							$query = 'select distinct volume from article_maatukate order by volume';
+							$query = 'select distinct volume from article_rb order by volume';
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							if($num_rows > 0)
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="images/cover/'. $row['volume'] .'/001.jpg" alt="Cover image"><p>'. intval($row['volume']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}

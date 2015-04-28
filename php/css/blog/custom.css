@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Kedage';
+  src: url('../../css/index/Kedage-n.ttf');
+ }
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 html { height: 100%; }
@@ -13,7 +17,7 @@ html { height: 100%; }
 }
 
 body {
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-family: 'Kedage', sans-serif;
 	background: #fff;
 	font-weight: 400;
 	font-size: 100%;
@@ -220,7 +224,14 @@ a:hover {
 	background: -o-linear-gradient(bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
 	background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
 }
-
+ul {
+	width:80%;
+	padding: 5px 8%;
+}
+ul li {
+	text-align:justify;
+	
+	}
 .content h2 {
 	font-weight: 300;
 	font-size: 3.2em;
@@ -265,16 +276,14 @@ header {
   background: rgba(8, 57, 103, 0.9);
 */
   background:#f3f3f5;
-  height:40px;
+  height:80px;
 }
 
 header h1 {
   font-size: 30px;
   font-size: 1.875rem;
-  font-family: "Droid Sans", sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: .2em;
+  font-family: "Kedage";
+  margin-bottom: .4em;
   color: #3e380c;
 }
 header p {
@@ -284,7 +293,7 @@ header p {
 }
 .cd-logo {
   position: absolute;
-  top: 6px;
+  top: 12px;
   left: 5%;
 }
 .cd-logo img {
@@ -298,7 +307,7 @@ header p {
 }
 @media only screen and (min-width: 1170px) {
   .cd-logo {
-    top: 6px;
+    top: 26px;
     left: 4em;
   }
 }

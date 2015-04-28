@@ -20,43 +20,43 @@
 	</header>
 	<div class="cd-overlay"></div>
 
-	<nav class="cd-nav">
+<nav class="cd-nav">
 		<ul id="cd-primary-nav" class="cd-primary-nav is-fixed">
 			<li class="has-children">
 				<a href="#">ಆಕರಭಾರತಿ</a>
 				<ul class="cd-nav-icons is-hidden">
 					<li class="go-back"><a href="#0">Menu</a></li>
-					<li class="see-all"><a href="#"><i class="fa fa-sitemap"></i></a></li>
+					<li class="see-all"><a href="../../sitemap.php"><i class="fa fa-sitemap"></i></a></li>
 					<li>
-						<a class="cd-nav-item item-2" href="../../about.php">
+						<a class="cd-nav-item item-1" href="../../about.php">
 							<h3>ಪಕ್ಷಿನೋಟ</h3>
 							<p>ಈ ಯೋಜನೆಯನ್ನು ಕುರಿತು</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-4" href="../../credits.php">
+						<a class="cd-nav-item item-3" href="../../credits.php">
 							<h3>ಕೃತಜ್ಞತೆಗಳು</h3>
 							<p>ಸಹಾಯ ಮಾಡಿದವರನ್ನು ನೆನೆಯುತ್ತಾ</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-5" href="../../contact.php">
-							<h3>ತಂತ್ರಜ್ಞಾನ ಸಂಪರ್ಕ</h3>
+						<a class="cd-nav-item item-2" href="../../contact.php">
+							<h3>ಸಂಪರ್ಕ</h3>
 							<p>ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಟೆಕ್ನೋಲೊಜೀಸ್</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-1" href="../../contact.php">
-							<h3>ಸಾಹಿತ್ಯಿಕ ಸಂಪರ್ಕ</h3>
+						<a class="cd-nav-item item-5" href="#">
+							<h3>ವಿಡಿಯೋ</h3>
 							<p>ಡಿ.ಎ.ಐ.ಎಲ್</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-3" href="#">
+						<a class="cd-nav-item item-4" href="#">
 							<h3>ಗ್ಯಾಲರಿ</h3>
 							<p>ಚಿತ್ರ ಮತ್ತು ವಿಡಿಯೋ</p>
 						</a>
@@ -75,38 +75,38 @@
 
 				<ul class="cd-secondary-nav is-hidden">
 					<li class="go-back"><a href="#0">Menu</a></li>
-					<li class="see-all"><a href="#"><i class="fa fa-sitemap"></i></a></li>
+					<li class="see-all"><a href="../../sitemap.php"><i class="fa fa-sitemap"></i></a></li>
 					<li class="has-children">
-						<a href="#">ನಿಯತಕಾಲಿಕೆ</a>
+						<a href="../index.html">ನಿಯತಕಾಲಿಕೆ</a>
 						<ul class="is-hidden">
-							<li class="see-all"><a href="#">ನಿಯತಕಾಲಿಕೆ</a></li>
-							<li><a href="index.php">ಸಾಕ್ಷಿ</a></li>
-							<li><a href="">ಸಂವಾದ</a></li>
-							<li><a href="">ಮಾತುಕತೆ</a></li>
-							<li><a href="">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
-							<li><a href="">ಅರಿವು ಬರಹ</a></li>
-							<li><a href="">ರಂಗಭೂಮಿ</a></li>
-							<li><a href="">ಗ್ರಂಥಲೋಕ</a></li>
-							<li><a href="">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
-							<a class="right" href="list/index.html">...ಮುಂದೆ</a>
+							<li class="see-all"><a href="../index.html">ನಿಯತಕಾಲಿಕೆ</a></li>
+							<li><a href="../sakshi/index.php">ಸಾಕ್ಷಿ</a></li>
+							<li><a href="../samvada/index.php">ಸಂವಾದ</a></li>
+							<li><a href="index.php">ಮಾತುಕತೆ</a></li>
+							<li><a href="../pustakaprapancha/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+							<li><a href="../arivubaraha/index.php">ಅರಿವು ಬರಹ</a></li>
+							<li><a href="../rangabhumi/index.php">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
+							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
+							<a class="right" href="Journals/index.html">...ಮುಂದೆ</a>
 						</ul>
 					</li>
 
 					<li class="has-children">
-						<a href="">ಸಮಗ್ರ ಸಾಹಿತ್ಯ</a>
+						<a href="../index.html">ಸಮಗ್ರ ಸಾಹಿತ್ಯ</a>
 
 						<ul class="is-hidden">
 							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
 							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
 							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><a class="right" href="list/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="Journals/index.html">...ಮುಂದೆ</a></li>
 						</ul>
 						<br />
-						<a href="">ಬಿಡಿ ಬರಹ</a>
+						<a href="article_list/index.html">ಬಿಡಿ ಬರಹ</a>
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-							<li><a class="right" href="">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="article_list/index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 
@@ -115,18 +115,18 @@
 
 						<ul class="is-hidden">
 							<li class="go-back"><a href="article_list/index.html">ಲೇಖನ</a></li>
-							<li><a href="">ಆಲೂರು ವೆಂಕಟರಾವ್ </a></li>
+							<li><a href="blog/kgv.html">ಆಲೂರು ವೆಂಕಟರಾವ್ </a></li>
 						</ul>
 						<br />
-						<a href="">ಸಂಶೋಧನಾ ಪ್ರಬಂಧ</a>
+						<a href="article_list/index.html">ಸಂಶೋಧನಾ ಪ್ರಬಂಧ</a>
 						<ul class="is-hidden">
-							<li><a href="#0">ನಿರಂಜನ ವಾನಳ್ಳಿ</a></li>
+							<li><a href="blog/niranjanavanalli.html">ನಿರಂಜನ ವಾನಳ್ಳಿ</a></li>
 							<li><a href="#0">ನಂಜುಂಡಸ್ವಾಮಿ</a></li>
 						</ul>
 						
 					</li>
 					<li class="has-children">
-						<a href="">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
+						<a href="../Journals/index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
 							<li><a href="">ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ</a></li>
@@ -136,7 +136,7 @@
 							<li><a href="">ಭಾಷಾಮಂಜರಿ</a></li>
 							<li><a href="">ಗಣಿತಾರ್ಣವ</a></li>
 							<li><a href="">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
-						<a class="right" href="">...ಮುಂದೆ</a>
+						<a class="right" href="../index.html">...ಮುಂದೆ</a>
 						</ul>
 					</li>
 				</ul>

@@ -1529,3 +1529,19 @@ Intro
 	padding-bottom:0.5em;
 	color:#8b0000 !important;
 }
+
+
+
+
+.about_ul{
+	text-align: justify;
+	font-size: 0.9em;
+	line-height: 1.8;
+	margin-left: 3em;
+}
+.about_ul ul{
+	margin-left: 2em;
+}
+.about_ul li{
+	list-style-type: disc;
+}

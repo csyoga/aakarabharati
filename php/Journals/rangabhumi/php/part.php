@@ -21,7 +21,7 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="toc.php?volume='.$volume.'\'&amp;part='. $row['part'] .'"><img src="images/cover/'. $volume .'_'. $row['part'] .'.jpg" alt="Cover image"><p>'. intval($row['part']) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="toc.php?volume='.$volume.'\'&amp;part='. $row['part'] .'"><img src="images/cover/'. $volume .'/'. $row['part'] .'.jpg" alt="Cover image"><p>'. intval($row['part']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}
