@@ -82,19 +82,19 @@
 							<li><a class="right" href="../../index.html">...ಮುಂದೆ</a></li>
 						</ul>
 						<br />
-						<a href="article_list/index.html">ಬಿಡಿ ಬರಹ</a>
+						<a href="../../../article_list/index.html">ಬಿಡಿ ಬರಹ</a>
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-							<li><a class="right" href="article_list/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="../../../article_list/index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 
 					<li class="has-children">
-						<a href="article_list/index.html">ಲೇಖನ</a>
+						<a href="../../../article_list/index.html">ಲೇಖನ</a>
 
 						<ul class="is-hidden">
-							<li class="go-back"><a href="article_list/index.html">ಲೇಖನ</a></li>
+							<li class="go-back"><a href="../../../article_list/index.html">ಲೇಖನ</a></li>
 							<li><a href="../../../blog/kgv.html">ಆಲೂರು ವೆಂಕಟರಾವ್ </a></li>
 						</ul>
 						<br />
@@ -122,7 +122,7 @@
 				</ul>
 			</li>
 
-			<li><a href="#">ಆಯಾಮ</a></li>
+			<li><a href="../../../ayama.html">ಆಯಾಮ</a></li>
 
 			
 

@@ -88,7 +88,7 @@
 							<li><a href="index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
-							<a class="right" href="Journals/index.html">...ಮುಂದೆ</a>
+							<a class="right" href="../index.html">...ಮುಂದೆ</a>
 						</ul>
 					</li>
 
@@ -99,34 +99,34 @@
 							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
 							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
 							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><a class="right" href="Journals/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="../index.html">...ಮುಂದೆ</a></li>
 						</ul>
 						<br />
-						<a href="article_list/index.html">ಬಿಡಿ ಬರಹ</a>
+						<a href="../../article_list/index.html">ಬಿಡಿ ಬರಹ</a>
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-							<li><a class="right" href="article_list/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="../../article_list/index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 
 					<li class="has-children">
-						<a href="article_list/index.html">ಲೇಖನ</a>
+						<a href="../../article_list/index.html">ಲೇಖನ</a>
 
 						<ul class="is-hidden">
-							<li class="go-back"><a href="article_list/index.html">ಲೇಖನ</a></li>
-							<li><a href="blog/kgv.html">ಆಲೂರು ವೆಂಕಟರಾವ್ </a></li>
+							<li class="go-back"><a href="../../article_list/index.html">ಲೇಖನ</a></li>
+							<li><a href="../../blog/kgv.html">ಆಲೂರು ವೆಂಕಟರಾವ್ </a></li>
 						</ul>
 						<br />
-						<a href="article_list/index.html">ಸಂಶೋಧನಾ ಪ್ರಬಂಧ</a>
+						<a href="../../article_list/index.html">ಸಂಶೋಧನಾ ಪ್ರಬಂಧ</a>
 						<ul class="is-hidden">
-							<li><a href="blog/niranjanavanalli.html">ನಿರಂಜನ ವಾನಳ್ಳಿ</a></li>
+							<li><a href="../../blog/niranjanavanalli.html">ನಿರಂಜನ ವಾನಳ್ಳಿ</a></li>
 							<li><a href="#0">ನಂಜುಂಡಸ್ವಾಮಿ</a></li>
 						</ul>
 						
 					</li>
 					<li class="has-children">
-						<a href="../Journals/index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
+						<a href="../index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
 							<li><a href="">ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ</a></li>
@@ -142,7 +142,7 @@
 				</ul>
 			</li>
 
-			<li><a href="#">ಆಯಾಮ</a></li>
+			<li><a href="../../ayama.html">ಆಯಾಮ</a></li>
 
 			
 
