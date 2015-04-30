@@ -122,7 +122,7 @@
 				</ul>
 			</li>
 
-			<li><a href="#">ಆಯಾಮ</a></li>
+			<li><a href="ayama.html">ಆಯಾಮ</a></li>
 
 			
 

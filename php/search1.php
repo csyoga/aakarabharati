@@ -5,10 +5,12 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- css -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="../css/style.css" rel="stylesheet" media="screen">
-	<link href="../color/default.css" rel="stylesheet" media="screen">
-	<script src="../js/modernizr.custom.js"></script>
+    <link href="css/index/bootstrap.min.css" rel="stylesheet" media="screen">
+    
+    <link href="css/index/style.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="css/intermediate/style.css"> <!-- Resource style -->
+	<link href="css/index/color/default.css" rel="stylesheet" media="screen">
+	<script src="js/index/modernizr.custom.js"></script>
       </head>
   <body>
 	<div class="menu-area">
@@ -52,8 +54,7 @@
 		</div>
 		<div id="about_sakshi">
 			<div class="archive_holder">
-				<?php
-
+<?php
 include("connect.php");
 //~ require_once("../common.php");
 
@@ -169,10 +170,10 @@ $db->close();
 		</div>	
 	</footer>
 
-	<script src="../js/jquery.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-	<script src="../js/jquery.smooth-scroll.min.js"></script>
-	<script src="../js/jquery.dlmenu.js"></script>
-	<script src="../js/wow.min.js"></script>
-	<script src="../js/custom.js"></script>
+	<script src="js/index/jquery.js"></script>
+    <script src="js/index/bootstrap.min.js"></script>
+	<script src="js/index/jquery.smooth-scroll.min.js"></script>
+	<script src="js/index/jquery.dlmenu.js"></script>
+	<script src="js/index/wow.min.js"></script>
+	<script src="js/index/custom.js"></script>
 </html>
