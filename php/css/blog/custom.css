@@ -192,7 +192,7 @@ a:hover {
 	left: 0;
 	width: 100%;
 	bottom: 50px;
-	overflow: hidden;
+	overflow-x: hidden;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -225,7 +225,7 @@ a:hover {
 	background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
 }
 ul {
-	width:80%;
+	width:100%;
 	padding: 5px 8%;
 }
 ul li {

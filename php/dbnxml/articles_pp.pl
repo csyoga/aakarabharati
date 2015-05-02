@@ -42,8 +42,8 @@ while($line)
 	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)" info="(.*)">/)
 	{
 		$pnum = $1;
-		$year= $3;
 		$month = $2;
+		$year= $3;
 		$info = $4;
 	}	
 	elsif($line =~ /<title>(.*)<\/title>/)
