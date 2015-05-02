@@ -311,3 +311,6 @@ header p {
     left: 4em;
   }
 }
+.center {
+	text-align:center;
+}

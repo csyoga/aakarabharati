@@ -1131,7 +1131,7 @@ About
 	font-family:'kedage';
 	margin-left:auto;
 	margin-right:auto;
-	padding-top:3em;
+	padding-top:1em;
 	padding-bottom:4em;
 }
 	
@@ -1141,7 +1141,7 @@ About
 	font-family:'kedage';
 	font-size:1.9em;
 	text-align:center;
-	margin-top:2em;
+	margin-top:0.5em;
 }
 #about h4 {
 	font-family:'kedage';
