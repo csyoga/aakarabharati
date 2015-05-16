@@ -19,7 +19,7 @@
 		}
 		google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
-	<title>ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
+	<title>ಆಕರಭಾರತಿ</title>
 </head>
 <body>
 	<header class="cd-main-header">

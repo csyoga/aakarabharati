@@ -6,8 +6,9 @@
 	<link rel="stylesheet" href="../../css/intermediate/font-awesome.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="../../css/intermediate/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="../../css/intermediate/style.css"> <!-- Resource style -->
+	<link rel="shortcut icon" href="../../img/favicon.png">	
 	<script src="../../js/intermediate/modernizr.js"></script> <!-- Modernizr -->
-	<title>ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
+	<title>ಆಕರಭಾರತಿ</title>
 </head>
 <body>
 	<header class="cd-main-header">

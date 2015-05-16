@@ -221,44 +221,20 @@ Intro
     width:100%vw;
     color: #fff;
 /*
-    background-color: #083967;
+    background: #083967;
 */
-/*
-    background-color: #428bca;
-*/
-/*
-	background-attachment: scroll,							fixed;
-	background-color: #666;
-    background-image:url("../img/banner.png");
-    background-size:cover,cover;
-    color: #fff;
-    background-position:top,center;
-    background-repeat:no-repeat,no-repeat;
-    overflow-y:hidden;
-    text-align:center;
-*/
-    
-/*
     position:relative;
-*/
-
-
-	background: 
+	background-image: 
 		linear-gradient(
-		rgba(0, 0, 0, 0.5),
-		rgba(0, 0, 0, 0.5)
-		),
-		url('../../img/old.jpg');
+		rgba(0, 0, 0, 0.75),
+		rgba(0, 0, 0, 0.75)
+		), url('../../img/front1.jpg');
 		background-size: cover;
 		background-position: top top;
 		background-attachment:fixed;
-		color: #fff;
 		text-align: center;
-/*
-		padding: 2.5em 0 2em 0;
-*/
 		cursor: default;
-		overflow-y:hidden;
+		overflow:hidden;
 
 }
 
@@ -268,7 +244,7 @@ Intro
 	position:relative;
 	width:100%;
 	font-family:'Nudi 05 k';
-	margin-top:30vh;
+	margin-top:24vh;
 	z-index:1000;
 }
 #intro .brand {
