@@ -8,7 +8,7 @@
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</div>
 					<div class="volumes">
-						<ul>
+						
 							<?php
 
 							include("connect.php");
@@ -26,7 +26,7 @@
 							if($result){$result->free();}
 							$db->close();
 							?>
-						</ul>
+						
 					</div>
 			</div>
 	  </section>

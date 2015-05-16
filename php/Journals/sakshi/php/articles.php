@@ -72,6 +72,7 @@ else
 
 $query = 'select * from article_sakshi where title like \'' . $letter . '%\' order by title, part, page_start';
 
+
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 
@@ -89,8 +90,8 @@ if($num_rows > 0)
 		if($result3){$result3->free();}
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
-		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row3['feat_name'].'&amp;featid='.$row3['featid'].' ">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="">ಸಂಚಿಕೆ ' . intval($dpart) . '</a></span>';
+		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row3['feat_name'].'&amp;featid='.$row['featid'].' ">' . $row3['feat_name'] . '</a></span> | ' : '';
+		echo '		<span class="aIssue clr5"><a href="toc.php?part='.$row['part'].'">ಸಂಚಿಕೆ ' . intval($dpart) . '</a></span>';
 		echo '	</div>';
 		echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page_start'] . '.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0) {

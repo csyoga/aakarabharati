@@ -6,7 +6,7 @@
 			<h2>ರಂಗಭೂಮಿ</h2>
 			<h4><br>ಒಂದು ಕಲಾ ಪತ್ರಿಕೆ</h4>
 			<div id="about_p">
-				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟಗಳು</div>
+				<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಚಿಕೆ</div>
 					<div class="volumes">
 						<ul>
 							<?php

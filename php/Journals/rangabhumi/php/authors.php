@@ -69,7 +69,7 @@ if($num_rows > 0)
 	while($row = $result->fetch_assoc())
 	{
 		echo '<div class="author">';
-		echo '	<span class="aAuthor"><a href="auth.php?authid=' . $row['authid'] . '&amp;author=' . urlencode($row['authorname']) . '">' . $row['authorname'] . '</a> ';
+		echo '	<span class="aAuthor"><a href="auth.php?authid=' . $row['authid'] . '&amp;author=' . urlencode($row['authorname']) . '" >' . $row['authorname'] . '</a> </span>';
 		echo '</div>';
 	}
 }
@@ -82,10 +82,7 @@ if($result){$result->free();}
 $db->close();
 
 ?>
-			
-		</div>
-	</div>
-</div>
+	
 			</div>
 	  </section>
 	</main>

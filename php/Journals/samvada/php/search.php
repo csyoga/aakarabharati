@@ -35,8 +35,8 @@
 	<main class="cd-main-content">
 <?php include("sec_nav.php"); ?>
 		<section id="about">
-			<h2>ಸಾಕ್ಷಿ</h2>
-			<h4><br>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</h4>
+			<h2>ಸಂವಾದ</h2>
+			<h4><br>ಸಾಹಿತ್ಯಿಕ - ಸಾಂಸ್ಕೃತಿಕ ದ್ವೈಮಾಸಿಕ ಸಂಕಲನ</h4>
 			<div id="about_p">
 				<div id="keyboard_holder">
 					<?php include("keyboard.php");?>

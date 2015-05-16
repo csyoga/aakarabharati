@@ -25,7 +25,7 @@
 </head>
 <body>
 	<header class="cd-main-header">
-		<a class="cd-logo" href="../../index.html"><i class="fa fa-home fa-2x"></i></a>
+		<a class="cd-logo" href="../../../index.php"><i class="fa fa-home fa-2x"></i></a>
 		<ul class="cd-header-buttons">
 			<li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li>
 			<li><a class="cd-nav-trigger" href="#cd-primary-nav">Menu<span></span></a></li>
@@ -35,8 +35,8 @@
 	<main class="cd-main-content">
 <?php include("sec_nav.php"); ?>
 		<section id="about">
-			<h2>ಸಾಕ್ಷಿ</h2>
-			<h4><br>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</h4>
+			<h2>ರಂಗಭೂಮಿ</h2>
+			<h4><br>ಒಂದು ಕಲಾ ಪತ್ರಿಕೆ</h4>
 			<div id="about_p">
 				<div id="keyboard_holder">
 					<?php include("keyboard.php");?>

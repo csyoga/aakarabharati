@@ -68,7 +68,7 @@
 							<li><a href="../index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
-							<a class="right" href="../../index.html">...ಮುಂದೆ</a>
+							<li><a class="right" href="../../index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 
@@ -116,7 +116,7 @@
 							<li><a href="">ಭಾಷಾಮಂಜರಿ</a></li>
 							<li><a href="">ಗಣಿತಾರ್ಣವ</a></li>
 							<li><a href="">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
-						<a class="right" href="../../index.html">...ಮುಂದೆ</a>
+							<li><a class="right" href="../../index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 				</ul>

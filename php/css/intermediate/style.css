@@ -1140,8 +1140,8 @@ About
 	color:#8B0000;
 	font-family:'kedage';
 	font-size:1.9em;
+	padding:1em 0 1em 0;
 	text-align:center;
-	margin-top:0.5em;
 }
 #about h4 {
 	font-family:'kedage';
@@ -1172,6 +1172,7 @@ About
 		width: 100%;
 		text-align: center;
 		font-family:'kedage';
+		padding-top:1em;
 		height: 20vh;
 		baseline:center !important;
 }

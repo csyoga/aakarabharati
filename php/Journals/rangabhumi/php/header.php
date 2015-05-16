@@ -11,7 +11,7 @@
 </head>
 <body>
 	<header class="cd-main-header">
-		<a class="cd-logo" href="../../index.html"><i class="fa fa-home fa-2x"></i></a>
+		<a class="cd-logo" href="../../../index.php"><i class="fa fa-home fa-2x"></i></a>
 
 		<ul class="cd-header-buttons">
 			<li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li>

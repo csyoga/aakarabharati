@@ -152,15 +152,17 @@ Form
   overflow: auto;
 }
 .cd-form input[type="submit"] {
+	width:100%;
+	text-align:center;
   /* button style */
   border: none;
   background: #083967;
   border-radius: .25em;
-  padding: 8px 50px;
+  padding: 10px 50px;
   color: #ffffff;
-  float: right;
   cursor: pointer;
-  -webkit-font-smoothing: antialiased;
+  float:left;
+   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-appearance: none;
   -moz-appearance: none;
