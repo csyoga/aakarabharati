@@ -47,6 +47,7 @@ body {
 a {
   color: #083967;
   text-decoration: none;
+  font-family: 'kedage';
 }
 
 img {
@@ -76,6 +77,10 @@ input[type="search"]::-webkit-search-results-decoration {
 Main components 
 
 -------------------------------- */
+.cd-main-content {
+
+  
+}
 .cd-main-content, .cd-main-header {
   /* Force Hardware Acceleration in WebKit */
   -webkit-transform: translateZ(0);
@@ -1480,7 +1485,7 @@ Intro
 .intro-text {
 	position:relative;
 	width:100%;
-	font-family:'Nudi 05 k';
+	font-family:'kedage';
 	margin-top:30vh;
 	z-index:1000;
 }
@@ -1492,7 +1497,7 @@ Intro
 	text-align:center;
 	font-weight: 200;
 	font-size: 40px; 
-	font-family:'Nudi 05 k';
+	font-family:'kedage';
 	line-height:1.1em;
 	letter-spacing:1.5px;
 	padding-top:30px;
@@ -1515,7 +1520,7 @@ Intro
 .intro-text p span {
 	color:#083967;
 	font-size: 24px;
-	font-family:'Nudi 05 k';
+	font-family:'kedage';
 	letter-spacing:1px;
 	text-align:center;
 	font-weight: 200;

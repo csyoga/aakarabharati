@@ -1,35 +1,32 @@
-﻿﻿<!DOCTYPE html5>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>ಆಕರಭಾರತಿ</title>
+    <title>ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</title>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    	
+    <link rel="shortcut icon" href="favicon.png">
     <!-- css -->
     <link rel="stylesheet" href="php/css/index/font-awesome.min.css"> <!-- CSS reset -->
-    <link rel="shortcut icon" href="php/img/favicon.png">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
     <link href="php/css/index/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="php/css/index/style.css" rel="stylesheet" media="screen">
 	<link href="php/css/index/color/default.css" rel="stylesheet" media="screen">
 	<script src="php/js/index/modernizr.custom.js"></script>
 	<script src="php/js/index/modernizr.js"></script> <!-- Modernizr -->
-<!--
-	<script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
--->
 	<link href='http://fonts.googleapis.com/css?family=Raleway:600,400' rel='stylesheet' type='text/css'>
-<!--
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
 	<script type="text/javascript">
   $(window).load(function() {          
   var i =0;
   var images = ['php/img/front1.jpg','php/img/front2.jpg','php/img/front3.jpg'];
-  var image = $('#intro');
+  var image = $('#intro-overlay');
                 //Initial Background image setup
-  image.css('background-image', 'url(php/img/front2.jpg)');
+  image.css('background-image', 'linear-gradient(rgba(0, 0, 0, 0.15),rgba(0, 0, 0, 0.75)), url(php/img/front2.jpg)');
                 //Change image at regular intervals
   setInterval(function(){  
    image.fadeOut(1000, function () {
-   image.css('background-image', 'url(' + images [i++] +')');
+   image.css('background-image', 'linear-gradient(rgba(0, 0, 0, 0.15),rgba(0, 0, 0, 0.75)), url(' + images [i++] +')');
+   // image.css('background-image', 'url(' + images [i++] +')');
    image.fadeIn(1000);
    });
    if(i == images.length)
@@ -37,36 +34,29 @@
   }, 5000);           
  });
 </script>
--->
-
       </head>
   <body>
-	  <div id="intro">
+	  <div id="intro-overlay">
+	  	&nbsp;
+	  </div>
+ 	  <div id="intro">
 			<div class="intro-text">
 				<div class="container">
-					<img src="php/img/combined_logo.png" alt="">
+					<div class="intro-logo">
+						<img src="php/img/logo_hp.png" alt="">
+						<img src="php/img/logo_sas.png" alt="">
+						<img src="php/img/logo_hp.png" alt="">
+					</div>
 					<div class="row">
-						
-					<div class="col-md-12">
-						<div class="brand">
-							<h1><a href="index.html"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
-							<div class="line-spacer"></div>
-							<p><span>ಭಾರತದ ಬೌದ್ಧಿಕ ಸಂಸ್ಕೃತಿಗೊಂದು ದರ್ಪಣ</span></p>
+						<div class="col-md-12">
+							<div class="brand">
+								<h1><a href="index.html"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
+								<p><span>ಭಾರತದ ಬೌದ್ಧಿಕ ಸಂಸ್ಕೃತಿಗೊಂದು ದರ್ಪಣ</span></p>
+							</div>
 						</div>
 					</div>
-					
 				</div>
-		 </div>
-		<h1><a href="php/index.php"><i class="fa fa-angle-double-down fa-2x"></i></i></a></h1>
+		 	<h1><a href="php/index.php"><i class="fa fa-angle-double-down fa-2x"></i></i></a></h1>
 	 </div>
 </body>
- <!-- js -->
-    <script src="php/js/index/jquery.js"></script>
-    <script src="php/js/index/bootstrap.min.js"></script>
-	<script src="php/js/index/jquery.smooth-scroll.min.js"></script>
-	<script src="php/js/index/jquery.dlmenu.js"></script>
-	<script src="php/js/index/wow.min.js"></script>
-	<script src="php/js/index/custom.js"></script>
-	<script src="php/js/index/jquery-2.1.1.js"></script>
-<script src="php/js/index/main.js"></script> <!-- Resource jQuery -->
 </html>
