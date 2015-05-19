@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE p.g.halakatti_samagrasahithya SYSTEM  "p.g.halakatti_samagrasahithya.dtd">
-<p.g.halakatti_samagrasahithya>
+<!DOCTYPE pgh SYSTEM  "pgh.dtd">
+<pgh>
 	<book code="001" btitle="ವಚನಸಾಹಿತ್ಯ -೧" editor="ಗುಂಜಾಳ ಎಸ್. ಆರ್. ಡಾ||">
 		<s1 page="0001-0132" title="೧. ಶ್ರೀ ಬಸವೇಶ್ವರನ ವಚನಗಳು" author="ಹಳಕಟ್ಟಿ ಫ. ಗು. ಡಾ||">
 			<s2 page="0013-0054" title="ಭಕ್ತಸ್ಥಲ" author="">
@@ -1085,4 +1085,4 @@
 			<s2 page="" title="ಶಿವಾನುಭವ ಪರಿವಿಡಿಗಳು" author=""></s2>
 		</s1>
 	</book>
-</p.g.halakatti_samagrasahithya>
+</pgh>

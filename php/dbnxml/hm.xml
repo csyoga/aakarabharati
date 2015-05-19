@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE samshodhana_samputa SYSTEM  "samshodhana_samputa.dtd">
-<samshodhana_samputa>
-<s1 page="Vii-Viii" title="ಪ್ರಕಾಶಕರ ನುಡಿ" author=""></s1>
-<s1 page="iX-XVi" title="ಅನಿಕೇತನ" author=""></s1>
+<!DOCTYPE samshodhana_samputa SYSTEM  "hm.dtd">
+<hm>
+<s1 page="Vii-Viii" title="ಪ್ರಕಾಶಕರ ನುಡಿ" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ"></s1>
+<s1 page="iX-XVi" title="ಅನಿಕೇತನ" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ"></s1>
 <s1 page="0001-0108" title="ಭಾಗ : ೧ ಆತ್ಮಚರಿತ್ರೆ" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ">
 	<s2 page="0003-0008" title="ಟಿಪ್ಪಣಿ" author="ಸಂಪಾದಕರು"></s2>
-	<s2 page="0009-0108" title="೧. ನನ್ನ ಕಳೆದ ಮೂವತ್ತು ವರ್ಷಗಳ ಕಾಣಿಕೆ (ಆತ್ಮಚರಿತ್ರೆಯ ಮುಂದುವರಿದ ಭಾಗ ಸಹಿತ)" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ"></s2>
+	<s2 page="0009-0108" title="ನನ್ನ ಕಳೆದ ಮೂವತ್ತು ವರ್ಷಗಳ ಕಾಣಿಕೆ (ಆತ್ಮಚರಿತ್ರೆಯ ಮುಂದುವರಿದ ಭಾಗ ಸಹಿತ)" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ"></s2>
 </s1>
 <s1 page="0109-0188" title="ಭಾಗ : ೨ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ">
 	<s2 page="0111-0114" title="ಟಿಪ್ಪಣಿ" author="ಸಂಪಾದಕರು"></s2>
@@ -53,4 +53,4 @@
 <s1 page="1069-1075" title="ಅನುಬಂಧ : ೩" author="ಹರ್ಡೇಕರ ಮಂಜಪ್ಪ">
 	<s2 page="" title="ಮಂಜಪ್ಪನವರ ಪ್ರಮುಖ ಸ್ಮಾರಕಗಳ ಛಾಯಾಚಿತ್ರಗಳು" author=""></s2>
 </s1>
-</samshodhana_samputa>
+</hm>

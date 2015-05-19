@@ -13,6 +13,8 @@ perl author_maatukate.pl $host $db $usr $pwd
 perl author_pp.pl $host $db $usr $pwd
 perl author_ab.pl $host $db $usr $pwd
 perl author_rb.pl $host $db $usr $pwd
+perl akbi_hm_author.pl $host $db $usr $pwd
+perl akbi_mgp_k_author.pl $host $db $usr $pwd
 
 perl feat_sakshi.pl $host $db $usr $pwd
 perl feat_samvada.pl $host $db $usr $pwd
@@ -27,6 +29,10 @@ perl articles_maatukate.pl $host $db $usr $pwd
 perl articles_pp.pl $host $db $usr $pwd
 perl articles_ab.pl $host $db $usr $pwd
 perl articles_rb.pl $host $db $usr $pwd
+
+
+perl akbi_hm.pl $host $db $usr $pwd
+perl akbi_mgp_k.pl $host $db $usr $pwd
 
 #~ perl ocr.pl $host $db $usr $pwd
 #~ perl searchtable.pl $host $db $usr $pwd
