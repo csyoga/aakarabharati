@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM  "book.dtd">
+<books>
+	<book id="001">
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+</books>
+
+Gundanna S. V., Dr.
