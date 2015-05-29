@@ -9,6 +9,757 @@
 		<details>
 			<year></year>
 			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="002">
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="003">
+		<title>ಗೋವಿಂದ ಪೈ ಸಂಶೋಧನ ಸಂಪುಟ</title>
+		<authors>
+			<author>ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="004">
+		<title>Indiana</title>
+		<authors>
+			<author>Manjeshwar Govind Pai</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="005">
+		<title>ವಚನಸಾಹಿತ್ಯ -೧</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಗುಂಜಾಳ ಎಸ್. ಆರ್. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="006">
+		<title>ವಚನಸಾಹಿತ್ಯ -೨</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಬಸವರಾಜ ಜಗಜಂಪಿ, ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="007">
+		<title>ವಚನಸಾಹಿತ್ಯ -೩</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಗುಂಡಣ್ಣ ಕಲಬುರ್ಗಿ, ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="008">
+		<title>ವಚನಸಾಹಿತ್ಯ -೪</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಮಾಳಿ ವಿ. ಎಸ್. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="009">
+		<title>ವಚನಸಾಹಿತ್ಯ -೫</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಕಲಬುರ್ಗಿ ಎಂ. ಎಂ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="010">
+		<title>ವಚನಸಾಹಿತ್ಯ -೬</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ವೀರಣ್ಣ ರಾಜೂರ, ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="011">
+		<title>ವಚನವಿವೇಚನೆ</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ನಾಗಯ್ಯ ಜೆ. ಎಂ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="012">
+		<title>ಕಾವ್ಯಸಾಹಿತ್ಯ-೧</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಮಲ್ಲಾಪುರ ಬಿ. ವಿ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="013">
+		<title>ಕಾವ್ಯಸಾಹಿತ್ಯ-೨</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಬಾಳಣ್ಣ ಸೀಗೀಹಳ್ಳಿ , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="014">
+		<title>ಚರಿತ್ರಸಾಹಿತ್ಯ-೧</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಕೊಪ್ಪಾ ಎಸ್. ಕೆ. , ಡಾ||. ; ಪಡಶೆಟ್ಟಿ ಎಂ. ಎಂ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="015">
+		<title>ಚರಿತ್ರಸಾಹಿತ್ಯ-೨</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಮದಭಾವಿ ಎಮ್. ಎಸ್. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="016">
+		<title>ಚರಿತ್ರಸಾಹಿತ್ಯ-೩</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಸಿದ್ಧಲಿಂಗ ದೇಸಾಯಿ, ಶ್ರೀ</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="017">
+		<title>ಲೇಖನಸಾಹಿತ್ಯ-೧</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಪಾಟೀಲ ಬಿ. ಎಂ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="018">
+		<title>ಲೇಖನಸಾಹಿತ್ಯ-೨</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ರಾಠೋಡ ಪಿ. ಕೆ. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="019">
+		<title>ಲೇಖನಸಾಹಿತ್ಯ-೩</title>
+		<authors>
+			<author>ಹಳಕಟ್ಟಿ ಫ. ಗು. , ಡಾ||</author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor>ಸರಸ್ವತಿದೇವಿ ಭಗವತಿ, ಡಾ|| ; ಮೇಲಿನಮನಿ ಎಚ್. ಎಸ್. , ಡಾ||</editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="020">
+		<title>ಜಮಾಖರ್ಚಿನ ಪದ್ಧತಿ</title>
+		<authors>
+			<author>ಗುಬ್ಬಿ. ಚಿ. ಲಕ್ಷ್ಮೀನಾರಾಯಣ</author>
+		</authors>
+		<details>
+			<year>1913</year>
+			<edition>ಒಂದನೆಯ ಮುದ್ರಣ</edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="021">
+		<title>ಮತ್ಸ್ಯಪುರಾಣಾಂತರ್ಗತ  ರಾಜಧರ್ಮದಟೀಕಾ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="022">
+		<title>ಲೇಖ್ಯಬೋಧಿನಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year>1927</year>
+			<edition>ಒಂಬತ್ತನೆಯ ಮುದ್ರಣ</edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher>ಟಿ. ಎನ್. ಶ್ರೀನಿವಾಸ ಶೆಟ್ಟಿ</publisher>
+	</book>
+	<book id="023">
+		<title>ಭಗವತೀ-ಕಾತ್ಯಾಯನೀ</title>
+		<authors>
+			<author>ವೆಂಕಟೇಶ ತಿರಕೋ ಕುಲಕರಣಿ ಗಳಗನಾಥ</author>
+		</authors>
+		<details>
+			<year>1919</year>
+			<edition>ಮೊದಲನೆಯ ಮುದ್ರಣ</edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="024">
+		<title>ಬಂಧವಿಮೋಚನ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="025">
+		<title>ಕರ್ನಾಟಕ ಕಾವ್ಯಮಾಲೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="026">
+		<title>ನಾಗವರ್ಮನ ಕನ್ನಡ ಛಂದಸ್ಸು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="027">
+		<title>ಕರ್ಣಾಟ ಭಾಷಾಕರಂ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="028">
+		<title>ಹಗಲಿನ ವಿನೋದ ಕಥೆಗಳು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="029">
+		<title>ತಮಿಳ್ ಮೊದಲನೇ ಪುಸ್ತಕ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="030">
+		<title>ಕುಣಿಗಲ ರಾಮಾಶಾಸ್ತ್ರಿಗಳ ಚರಿತ್ರೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="031">
+		<title>ಅಲರು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="032">
+		<title>Mysore</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="033">
+		<title>ಕನ್ನಡ ನಾಲ್ಕನೆಯ ಪುಸ್ತಕ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="034">
+		<title>ಅಯೋಧ್ಯಾಕಾಂಡವು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="035">
+		<title>ಕನ್ನಡ-ಹಿಂದುಸ್ಥಾನಿ ಖಾಷಾ ಮಂಜರಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="036">
+		<title>Ranna:A Biographical Study</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="037">
+		<title>ಶ್ರೀಮನ್ಮಹಾರಾಜರವರ ವಂಶಾವಳಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="038">
+		<title>ಗಣಿತಾರ್ಣವ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="039">
+		<title>ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಕನ್ನಡ ಶಾಲಾ ನಿಘಂಟು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="040">
+		<title>ವಸ್ತು ಪಾಠಗಳು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="041">
+		<title>ಕರ್ಣಾಟ ಖಾರತಾಷ್ಟಾದಶಪರ್ವ ಸಂಪೂರ್ಣ ಗ್ರಂಥವು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="042">
+		<title>Dictionary</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="043">
+		<title>ಯುಧ್ದ ಪಂಚಕವು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="044">
+		<title>2ನೇ ಖಾಗ ಶ್ರೀನಿವಾಸ ಕವಿರಚಿತ ಸ್ತ್ರೀಪರ್ವ ಮಾತ್ರವು</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="045">
+		<title>Hodson's Grammers</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="046">
+		<title>ವ್ಯಾಕರಣೋಪನ್ಯಾಸಮಂಜರಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="047">
+		<title>ಪ್ರಾಕ್ಕಾವ್ಯ ಮಾಲಿಕೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="048">
+		<title>ರಘುನಾಥಸಿಂಹ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="049">
+		<title>ಭಾರ್ಗವ ಗರ್ವಭಂಗಂ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="050">
+		<title>ಕರ್ಣಾಟಕ ಚಂದ್ರಾಲೋಕಂ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="051">
+		<title>ಸಮಗ್ರಸಾಹಿತ್ಯ</title>
+		<authors>
+			<author>ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</author>
+		</authors>
+		<details>
+			<year>2006</year>
+			<edition></edition>
+			<editor></editor>
 			<volume></volume>
 			<part></part>
 			<pages></pages>
@@ -17,4 +768,4 @@
 	</book>
 </books>
 
-Gundanna S. V., Dr.
+
