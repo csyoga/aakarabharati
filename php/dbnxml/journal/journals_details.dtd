@@ -1,5 +1,6 @@
 <!ELEMENT journals (journal+)>
-<!ELEMENT journal (#PCDATA)>
+<!ELEMENT journal (title, period, details)>
 <!ATTLIST journal id CDATA #REQUIRED>
-<!ATTLIST journal title CDATA #REQUIRED>
-<!ATTLIST journal details CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT period (#PCDATA)>
+<!ELEMENT details (#PCDATA)>
