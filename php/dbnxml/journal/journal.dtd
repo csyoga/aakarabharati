@@ -1,0 +1,16 @@
+<!ELEMENT journal (volume+)>
+<!ATTLIST journal title CDATA #REQUIRED>
+<!ELEMENT volume (part+)>
+<!ATTLIST volume vnum CDATA #REQUIRED>
+<!ELEMENT part (entry+)>
+<!ATTLIST part pnum CDATA #REQUIRED>
+<!ATTLIST part month CDATA #REQUIRED>
+<!ATTLIST part year CDATA #REQUIRED>
+<!ATTLIST part info CDATA #REQUIRED>
+<!ELEMENT entry (title,feature,page,allauthors)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT feature (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT allauthors (author*)>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author type CDATA #REQUIRED>
