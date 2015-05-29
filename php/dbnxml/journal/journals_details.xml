@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE journals SYSTEM "journals_details.dtd">
+
+<journals>
+	<journal id="001" title="ಸಾಕ್ಷಿ" details="" />
+	<journal id="002" title="ಸಂವಾದ" details="" />
+	<journal id="003" title="ಮಾತುಕತೆ" details="" />
+	<journal id="004" title="ಪುಸ್ತಕ ಪ್ರಪಂಚ" details="" />
+	<journal id="005" title="ಅರಿವು ಬರಹ" details="" />
+	<journal id="006" title="ರಂಗಭೂಮಿ" details="" />
+</journals>	
