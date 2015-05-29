@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE samvada SYSTEM "samvada.dtd">
-<samvada>
-	<volume vnum="001">
-		<part pnum="002" info="">
+<!DOCTYPE journal SYSTEM "journal.dtd">
+
+<journal title="samvada">
+	<volume vnum="000">
+		<part pnum="002" month="" year="" info="">
 			<entry>
 				<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
 				<feature></feature>
@@ -77,7 +78,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="004" info="">
+		<part pnum="004" month="" year="" info="">
 			<entry>
 				<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಶಜಕಾರಣ</title>
 				<feature></feature>
@@ -170,7 +171,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="008" info="">
+		<part pnum="008" month="" year="" info="">
 			<entry>
 				<title>ಕಾರಂತ ಸಂದರ್ಶನ</title>
 				<feature></feature>
@@ -276,7 +277,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="011" info="">
+		<part pnum="011" month="" year="" info="">
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
 				<feature></feature>
@@ -398,7 +399,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="013" info="">
+		<part pnum="013" month="" year="" info="">
 			<entry>
 				<title>ಹಿಂದು ಧರ್ಮ</title>
 				<feature></feature>
@@ -509,7 +510,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="014" info="">
+		<part pnum="014" month="" year="" info="">
 			<entry>
 				<title>ಐದು ಕವಿತೆಗಳು</title>
 				<feature></feature>
@@ -583,7 +584,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="016" info="">
+		<part pnum="016" month="" year="" info="">
 			<entry>
 				<title>ಕಥಾ ಕಮ್ಮಟ</title>
 				<feature></feature>
@@ -642,7 +643,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="017" info="">
+		<part pnum="017" month="" year="" info="">
 			<entry>
 				<title>ಎರಡು ಕವಿತೆಗಳು</title>
 				<feature></feature>
@@ -741,7 +742,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="020" info="">
+		<part pnum="020" month="" year="" info="">
 			<entry>
 				<title>ಸುಮ್ಮನಿರುವ ಸುಮ್ಮಾನ:</title>
 				<feature></feature>
@@ -857,7 +858,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="021" info="">
+		<part pnum="021" month="" year="" info="">
 			<entry>
 				<title>ಸಂಗೀತಾಸ್ವಾದನೆಯ ಮೂಲತತ್ವಗಳು</title>
 				<feature></feature>
@@ -965,7 +966,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="022" info="">
+		<part pnum="022" month="" year="" info="">
 			<entry>
 				<title>ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಲೇಖಕಿ</title>
 				<feature></feature>
@@ -1073,7 +1074,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="023-024" info="">
+		<part pnum="023-024" month="" year="" info="">
 			<entry>
 				<title>ಮಾಸ್ತಿ ಕಥಾಲೋಕ:ಒಂದು ಪ್ರವೇಶ</title>
 				<feature></feature>
@@ -1195,7 +1196,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="025" info="">
+		<part pnum="025" month="" year="" info="">
 			<entry>
 				<title>ಮೂರು ಕವನಗಳು</title>
 				<feature></feature>
@@ -1286,7 +1287,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="026-027" info="">
+		<part pnum="026-027" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1408,7 +1409,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="028" info="">
+		<part pnum="028" month="" year="" info="">
 			<entry>
 				<title>‌‌ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1524,7 +1525,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="029-030" info="">
+		<part pnum="029-030" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1702,7 +1703,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="031" info="">
+		<part pnum="031" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1784,7 +1785,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="032-033" info="">
+		<part pnum="032-033" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1917,7 +1918,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="034" info="">
+		<part pnum="034" month="" year="" info="">
 			<entry>
 				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಎಚ್ಚೆತ್ತ ಮಹಿಳೆ</title>
 				<feature></feature>
@@ -1993,7 +1994,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="035-036" info="">
+		<part pnum="035-036" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
 				<feature></feature>
@@ -2355,7 +2356,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="037" info="">
+		<part pnum="037" month="" year="" info="">
 			<entry>
 				<title>ಕರ್ನಾಟಕ ಜಾನಪದ ಮತ್ತು ಲೋಕ ದೃಷ್ಟಿ</title>
 				<feature></feature>
@@ -2413,7 +2414,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="039" info="">
+		<part pnum="039" month="" year="" info="">
 			<entry>
 				<title>ಮಾನುಷ ಕಲೆ ಮತ್ತು ನಿರ್ಮಾನುಷ ನಿಸರ್ಗ</title>
 				<feature></feature>
@@ -2504,7 +2505,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="040" info="">
+		<part pnum="040" month="" year="" info="">
 			<entry>
 				<title>ಎಮರ್ಜನ್ಸಿಯ ನೆನಪು ಮತ್ತು ನನ್ನ ಭಾರತ ದೇಶ...</title>
 				<feature>ಪ್ರಸ್ತುತ</feature>
@@ -2611,7 +2612,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="041" info="">
+		<part pnum="041" month="" year="" info="">
 			<entry>
 				<title>ಹನಿಯಿಂದ ಹರಿವ ನದಿ</title>
 				<feature>ಕಥೆ</feature>
@@ -2669,7 +2670,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="042" info="">
+		<part pnum="042" month="" year="" info="">
 			<entry>
 				<title>ಶಿಕ್ಷೆ, ಕಾಯಕ ಮತ್ತು ಆಟ...</title>
 				<feature></feature>
@@ -2751,7 +2752,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="043" info="">
+		<part pnum="043" month="" year="" info="">
 			<entry>
 				<title>ಭಾರತೀಯವೆನ್ನುವ ಒಂದು ಚಿಂತನಕ್ರಮ ಇದೆಯೇ?</title>
 				<feature></feature>
@@ -2802,7 +2803,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="044" info="">
+		<part pnum="044" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -2901,7 +2902,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="045" info="">
+		<part pnum="045" month="" year="" info="">
 			<entry>
 				<title>ಗಿರೀಶ ಕಾರ್ನಾಡರ ನಾಟಕಗಳಲ್ಲಿ ಜಾನಪದ ನಾಗಮಂಡಲದ ಅಭ್ಯಾಸ*</title>
 				<feature></feature>
@@ -3008,7 +3009,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="047" info="">
+		<part pnum="047" month="" year="" info="">
 			<entry>
 				<title>ವ್ಯಾಜ್ಯ</title>
 				<feature>ಕಥೆ</feature>
@@ -3114,7 +3115,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="049" info="">
+		<part pnum="049" month="" year="" info="">
 			<entry>
 				<title>ಕಲೆಯ ಕುರಿತು ಕಾರಂತರ ವಿಚಾರಗಳು ರಾಷ್ಟ್ರೀಯ ಕಲಾ ಇತಿಹಾಸದ ದ್ವಂದ್ವಗಳ ಮರು ಪರಿಶೀಲನೆ </title>
 				<feature></feature>
@@ -3205,7 +3206,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="050" info="">
+		<part pnum="050" month="" year="" info="">
 			<entry>
 				<title>ಆರು ಕವಿತೆಗಳು</title>
 				<feature></feature>
@@ -3353,7 +3354,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="051" info="">
+		<part pnum="051" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ</title>
 				<feature></feature>
@@ -3459,7 +3460,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="052" info="">
+		<part pnum="052" month="" year="" info="">
 			<entry>
 				<title>ಎಚ್.ಎಸ್.ವೆಂಕಟೇಶಮೂರ್ತಿಯವರ ನಾಲ್ಕು ಹೊಸ ಕವಿತೆಗಳು </title>
 				<feature>ಕಾವ್ಯ</feature>
@@ -3575,7 +3576,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="053" info="">
+		<part pnum="053" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -3698,7 +3699,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="054-055" info="">
+		<part pnum="054-055" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
 				<feature></feature>
@@ -3920,7 +3921,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="056-057" info="">
+		<part pnum="056-057" month="" year="" info="">
 			<entry>
 				<title>ಡೆಡಲಸ್ಸಿನ ಸ್ವಗತ</title>
 				<feature>ಕಾವ್ಯ</feature>
@@ -4131,7 +4132,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="058" info="">
+		<part pnum="058" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ</title>
 				<feature></feature>
@@ -4233,7 +4234,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="059" info="">
+		<part pnum="059" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ:</title>
 				<feature></feature>
@@ -4315,7 +4316,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="060-061" info="">
+		<part pnum="060-061" month="" year="" info="">
 			<entry>
 				<title>ಆರು ಕವಿತೆಗಳು</title>
 				<feature></feature>
@@ -4422,4 +4423,4 @@
 			</entry>
 		</part>
 	</volume>
-</samvada>
+</journal>

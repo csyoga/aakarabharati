@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE  maatukate SYSTEM "maatukate.dtd">
-<maatukate>
+<!DOCTYPE  journal SYSTEM "journal.dtd">
+
+<journal title="maatukate">
 	<volume vnum="001"> 
 		<part pnum="01" month="03" year="1987" info="">
 			<entry>
@@ -81,8 +82,7 @@
 			</entry>
 			<entry>
 				<title>ತಿರುಗಾಟ ೮೬ ರ 'ಆಲೀಬಾಬಾ" ಮಕ್ಕಳ ಮಾತಿನಲ್ಲಿ</title>
-				<feature>ತಿರುಗಾಟ</feature>
-				<play>ಆಲೀಬಾಬಾ</play>
+				<feature>ತಿರುಗಾಟ - ಆಲೀಬಾಬಾ</feature>
 				<page>0003-0004</page> 
 				<allauthors/>
 			</entry>
@@ -94,8 +94,7 @@
 			</entry>
 			<entry>
 				<title>ಮುಖಾಮುಖಿ -೨</title>
-				<feature></feature>
-				<play>ತ್ರೀಪೆನ್ನಿ ಅಪೇರ</play>
+				<feature>ತ್ರೀಪೆನ್ನಿ ಅಪೇರ</feature>
 				<page>0007-0008</page> 
 				<allauthors/>
 			</entry>
@@ -161,9 +160,8 @@
 		<part pnum="01" month="03" year="1988" info="">
 			<entry>
 				<title>'ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ' ಶತಮಾನೋತ್ಸವ</title>
-				<feature></feature>
+				<feature>ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ</feature>
 				<page>0001-0002</page>
-				<play>ಇಗಪ್ಪ ಹೆಗಡೆ ವಿವಾಹ ಪ್ರಹಸನ</play>
 				<allauthors/>
 			</entry>
 			<entry>
@@ -180,9 +178,8 @@
 			</entry>
 			<entry>
 				<title>ಬೆಪ್ಪು ತಕ್ಕಡಿ ಭೋಳೇಶಂಕರ</title>
-				<feature></feature>
+				<feature>ಬೆಪ್ಪು ತಕ್ಕಡಿ ಭೋಳೇಶಂಕರ</feature>
 				<page>0004-0004</page>
-				<play>ಬೆಪ್ಪು ತಕ್ಕಡಿ ಭೋಳೇಶಂಕರ</play>
 				<allauthors/>
 			</entry>
 			<entry>
@@ -243,8 +240,7 @@
 			</entry>
 			<entry>
 				<title>ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
-				<play>ಮೇಘಸಂದೇಶಮ್</play>
+				<feature>ಮೇಘಸಂದೇಶಮ್</feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ.  ವಿ</author>
@@ -761,8 +757,7 @@
 			</entry>
 			<entry>
 				<title>ಹ್ಯಾಮ್ಲೆಟ್‌ನ ಸ್ವಗತಗಳು</title>
-				<feature></feature>
-				<play>ಹ್ಯಾಮ್ಲೆಟ್‌</play>
+				<feature>ಹ್ಯಾಮ್ಲೆಟ್‌</feature>
 				<page>0013-0014</page> 
 				<allauthors>
 					<author type="01">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
@@ -854,8 +849,7 @@
 			</entry>
 			<entry>
 				<title>ವೊಯ್‌ಜೆಕ್ ಹಾಡುಗಳು</title>
-				<feature>ಕವನ</feature>
-				<play>ವೊಯ್‌ಜೆಕ್</play>
+				<feature>ಕವನ - ವೊಯ್‌ಜೆಕ್</feature>
 				<page>0015-0016</page> 
 				<allauthors>
 					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1032,8 +1026,7 @@
 			</entry>
 			<entry>
 				<title>ಗೋಕುಲ ನಿರ್ಗಮನ</title>
-				<feature>ಲೇಖನ</feature>
-				<play>ಗೋಕುಲ ನಿರ್ಗಮನ</play>
+				<feature>ಲೇಖನ - ಗೋಕುಲ ನಿರ್ಗಮನ</feature>
 				<page>0004-0016</page> 
 				<allauthors>
 					<author type="01">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -1572,8 +1565,7 @@
 			</entry>
 			<entry>
 				<title>ಪು. ತಿ. ನ. ಅವರ ಅಹಲ್ಯೆ: ಸತತ ಬಿನದದ ಜೀವನಕ್ರಮಕ್ಕೆ ಒಂದು ಸವಾಲು</title>
-				<feature></feature>
-				<play>ಅಹಲ್ಯೆ</play>
+				<feature>ಅಹಲ್ಯೆ</feature>
 				<page>0037-0050</page> 
 				<allauthors>
 					<author type="01">ಅಕ್ಷರ ಕೆ. ವಿ</author>
@@ -1779,8 +1771,7 @@
 			</entry>
 			<entry>
 				<title>ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್ : ಒಂದು ವಿಮರ್ಶೆ</title>
-				<feature>ವಿಮರ್ಶೆ</feature>
-				<play>ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್</play>
+				<feature>ವಿಮರ್ಶೆ - ದ ಕಾಮಿಡಿ ಆಫ್ ಎರರ್ಸ್</feature>
 				<page>0037-0042</page> 
 				<allauthors>
 					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -1918,8 +1909,7 @@
 			</entry>
 			<entry>
 				<title>ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ : ರೂಪಕದಾಚೆಗಿನ ರೂಪಕ</title>
-				<feature>ಲೇಖನ</feature>
-				<play>ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ</play>
+				<feature>ಲೇಖನ - ಜೇಡರ ಹುಡುಗಿಯ ಮೃತ್ಯುಚುಂಬನ</feature>
 				<page>0046-0054</page> 
 				<allauthors>
 					<author type="01">ವಿಜಯ ಪದಕಿ</author>
@@ -2133,8 +2123,7 @@
 			</entry>
 			<entry>
 				<title>ಪುಟ್ಟ ಪಟ್ಟಣದಲ್ಲೊಂದು ನಾಟಕ ಪ್ರಯೋಗ</title>
-				<feature></feature>
-				<play>ಹಯವದನ</play>
+				<feature>ಹಯವದನ</feature>
 				<page>0048-0051</page> 
 				<allauthors>
 					<author type="01">ನಾಗಭೂಷಣ ಎ. ಆರ್</author>
@@ -2358,8 +2347,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾಲಚಕ್ರ</title>
-				<feature></feature>
-				<play>ರಥಯಾತ್ರೆ</play>
+				<feature>ರಥಯಾತ್ರೆ</feature>
 				<page>0016-0032</page> 
 				<allauthors>
 					<author type="01">ರವೀಂದ್ರನಾಥ ಟಾಗೋರ</author>
@@ -2771,8 +2759,7 @@
 			</entry>
 			<entry>
 				<title>ಸಾವ ಸಮ್ಮುಖದಲ್ಲಿ ಜೀವನಾದ  ಬೇಂದ್ರೆಯವರ 'ನಾದಲೀಲೆ' ಒಂದು ಅನುಭವ</title>
-				<feature></feature>
-				<play>ನಾದಲೀಲೆ</play>
+				<feature>ನಾದಲೀಲೆ</feature>
 				<page>0055-0078</page> 
 				<allauthors>
 					<author type="01">ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
@@ -4520,5 +4507,5 @@
 			</entry>
 		</part>
 	</volume>
-</maatukate>
+</journal>
 	
