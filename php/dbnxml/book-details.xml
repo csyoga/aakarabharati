@@ -2,34 +2,36 @@
 <!DOCTYPE book SYSTEM  "book.dtd">
 <books>
 	<book id="001">
-		<title></title>
+		<title>ಸಾಮಾಜಿಕ ಸಂಶೋಧನ ವಿಧಾನಗಳು</title>
 		<authors>
-			<author></author>
+			<author>ವಿಲಿಯಮ್ ಜೆ. ಗೂಡ್</author>
+			<author>ಪಾಲ್ ಕೆ. ಹ್ಯಾಟ್</author>
 		</authors>
 		<details>
-			<year></year>
-			<edition></edition>
+			<year>1995</year>
+			<edition>First</edition>
 			<editor></editor>
 			<volume></volume>
 			<part></part>
 			<pages></pages>
 		</details>
-		<publisher></publisher>
+		<publisher>ಕುವೆಂಪು ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ</publisher>
 	</book>
 	<book id="002">
 		<title></title>
 		<authors>
-			<author></author>
+			<author>ವಿಲಿಯಂ ಎಫ್. ಆಗ್ಬರ್ನ್</author>
+			<author>ಮೆಯರ್ ಎಫ್. ನಿಮ್ಕಾಫ್</author>
 		</authors>
 		<details>
-			<year></year>
-			<edition></edition>
+			<year>1985</year>
+			<edition>First</edition>
 			<editor></editor>
 			<volume></volume>
 			<part></part>
 			<pages></pages>
 		</details>
-		<publisher></publisher>
+		<publisher>ಕುವೆಂಪು ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ, ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ</publisher>
 	</book>
 	<book id="003">
 		<title>ಗೋವಿಂದ ಪೈ ಸಂಶೋಧನ ಸಂಪುಟ</title>
