@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<book id="040">
+	<s1 page="0000e-0000f" title="ಪೀಠಿಕೆ" author=""></s1>
+	<s1 page="0000g-0000r" title="ಅವತರಣಿಕೆ" author=""></s1>
+	<s1 page="0001-0078" title="ಒಂದನೆಯ ಅಧಿಕರಣ - ಬಳಕೆಯಾದ ವಸ್ತುಗಳು" author="">
+		<s2 page="0001-0004" title="ಮಕ್ಕಳು ಓದುವ ಕೊಟ್ಟಡಿ-ಗೋಡೆ, ಬಾಗಿಲು ಕದ" author=""></s2>
+		<s2 page="0005-0009" title="ಮಕ್ಕಳು ಓದುವ ಕೊಟ್ಟಡಿ-ಕಿಟಕಿ, ನೆಲ, ಮಾಳಿಗ" author=""></s2>
+		<s2 page="0010-0013" title="ಮಕ್ಕಳು ಓದುವ ಕೊಟ್ಟಡಿ-ಕುರ್ಚಿ, ಮೇಜು" author=""></s2>
+		<s2 page="0014-0019" title="ಕಲ್ಲಹಲಗೆ-ಪುಸ್ತಕ" author=""></s2>
+		<s2 page="0020-0025" title="ಬಳಪ, ಸೀಸದಕಡ್ಡಿ" author=""></s2>
+		<s2 page="0026-0032" title="ಒತ್ತುವ ಕಾಗದ, ಬರೆಯುವ ಕಾಗದ" author=""></s2>
+		<s2 page="0033-0035" title="ಮಸಿ (ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು)" author=""></s2>
+		<s2 page="0036-0040" title="ಉಕ್ಕಿನ ಲೇಖನಿ" author=""></s2>
+		<s2 page="0041-0046" title="ಸೂಜಿ, ಗುಂಡುಸೂಜಿ" author=""></s2>
+		<s2 page="0047-0056" title="ಕತ್ತಿ, ಕತ್ತರಿ" author=""></s2>
+		<s2 page="0057-0067" title="ಕನ್ನಡಿ, ದರ್ಪಣ" author=""></s2>
+		<s2 page="0068-0074" title="ದೀಪದಕಡ್ಡಿ" author=""></s2>
+		<s2 page="0075-0078" title="ಶಾಸ್ತ್ರಪಾಠ" author=""></s2>
+	</s1>
+	<s1 page="0079-0204" title="ಎರಡನೆಯ ಅಧಿಕರಣ-ಪ್ರಾಣಿಗಳು" author="">
+		<s2 page="0079-0088" title="ಹಸು" author=""></s2>
+		<s2 page="0089-0098" title="ಕುದುರೆ" author=""></s2>
+		<s2 page="0099-0106" title="ಕತ್ತೆ" author=""></s2>
+		<s2 page="0107-0113" title="ಕುರಿ" author=""></s2>
+		<s2 page="0114-0129" title="ನಾಯಿ" author=""></s2>
+		<s2 page="0130-0141" title="ಬೆಕ್ಕು" author=""></s2>
+		<s2 page="0142-0154" title="ಆನೆ" author=""></s2>
+		<s2 page="0155-0166" title="ಕೋತಿ" author=""></s2>
+		<s2 page="0167-0178" title="ಕೋಳಿ" author=""></s2>
+		<s2 page="0179-0186" title="ಕಾಗೆ" author=""></s2>
+		<s2 page="0187-0193" title="ಗಿಳಿ" author=""></s2>
+		<s2 page="0194-0204" title="ನಾಗರಹಾವು" author=""></s2>
+	</s1>
+</book>

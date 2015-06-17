@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<book id="026">
+	<s1 page="0000ac-0000aw" title="Nagavarma's Prosody" author=""></s1>
+	<s1 page="0000ax-0000dc" title="An Essay on Canarese Literature" author=""></s1>
+	<s1 page="0001-0006" title="Introduction" author=""></s1>
+	<s1 page="0007-0072" title="The Syllable-Feet" author="">
+		<s2 page="0007-0024" title="I. Chapter : The syllables or syllabical marks of the syllable-feet" author=""></s2>
+		<s2 page="0025-0065" title="II. Chapter : The Sama Vrittas" author=""></s2>
+		<s2 page="0066-0072" title="III. Chapter : Further Sama Vrittas" author=""></s2>
+	</s1>
+	<s1 page="0073-0075" title="The Mora-Metres" author=""></s1>
+	<s1 page="0076-0094" title="The Mora-Feet" author=""></s1>
+	<s1 page="0095-0126" title="The Canarese Mora-Feet" author=""></s1>
+	<s1 page="0127-0131" title="The Six Solutions" author=""></s1>
+</book>
