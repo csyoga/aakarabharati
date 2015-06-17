@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE journal SYSTEM "journal.dtd">
+
+<journal title="ಗ್ರಂಥಲೋಕ">
+	<volume vnum="008">
+		<part pnum="01" month="ಜನವರಿ" year="1984" info="">
+			<entry>
+				<title>ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಿ.ಎಚ್.ಡಿ. ಪ್ರಬಂಧಗಳು</title>
+				<feature></feature>
+				<page>0003-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಮಾತು</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author type="01">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0032-0037</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಯುಗ ಪ್ರವರ್ತಕ ಬಿ. ಎಂ. ಶ್ರೀ.</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಹಾ. ಮಾ. ನಾಯಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕಗಳ ಮಾರಾಟ ಕುರಿತು</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author type="01">ಪ್ರಭುಶಂಕರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0045-0049</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="ಫೆಬ್ರವರಿ" year="1984" info="">
+			<entry>
+				<title>ಯಶವಂತ ಚಿತ್ತಾಲರ `ಕತೆಯಾದಳು ಹುಡುಗಿ'</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="01">ಟಿ. ಪಿ. ಅಶೋಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನನ್ನ ಮೊದಲನೆಯ ಪುಸ್ತಕ ಪ್ರಕಟವಾದಾಗ</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author type="01">ವಾಣಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇನ್ನಿಲ್ಲವಾದ ರಾಶಿ</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಡಿ. ಎಸ್. ಕರ್ಕಿಯವರ ನಿಧನ</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0010-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0015-0017</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="ಮಾರ್ಚ್" year="1984" info="">
+			<entry>
+				<title>56ನೆಯ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷ ಪ್ರೊ. ಅಕ್ಕಿಹೆಬ್ಬಾಳು ನರಸಿಂಹ ಮೂರ್ತಿರಾವ್</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಮಾತು</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನನ್ನ ಮೊದಲನೆ ಪುಸ್ತಕ ಪ್ರಕಟವಾದಾಗ</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author type="01">ಎಂ. ಕೆ. ಇಂದಿರಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಗಲಿದ ಬಿ. ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರು</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0008-0013;0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0014-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0015-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸ್ವವಿಷಯ</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors>
+					<author type="01">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="ಏಪ್ರಿಲ್‍" year="1984" info="">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0079-0079</page>
+				<allauthors>
+					<author type="01"></author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+</journal>
