@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<book id="036">
+	<s1 page="0001-0013" title="Introduction" author=""></s1>
+	<s1 page="0015-0020" title="ಭೂಮಿಕೆ" author=""></s1>
+	<s1 page="0021-0024" title="ಅನುಬಂಧ ೧" author=""></s1>
+	<s1 page="0025-0026" title="ಅನುಬಂಧ ೨" author=""></s1>
+	<s1 page="0026-0030" title="ಅನುಬಂಧ ೩" author=""></s1>
+	<s1 page="0030-0034" title="ಅನುಬಂಧ ೪" author=""></s1>
+	<s1 page="0035-0076" title="ಕವಿಚಕ್ರವರ್ತಿ ಕವಿರನ್ನನ ಜೀವನಚರಿತ್ರೆ" author=""></s1>
+	<s1 page="0077-0094" title="ರನ್ನನ ಗದಾಯುದ್ಧದ ಕಥಾಪ್ರಸ್ತಾರ" author=""></s1>
+	<s1 page="0095-0218" title="ಮಹಾಕವಿ ರನ್ನ ಪ್ರಣೀತಂ ಗದಾಯುದ್ಧಂ" author="">
+		<s2 page="0095-0107" title="ಪ್ರಥಮಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0107-0118" title="ದ್ವಿತೀಯಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0119-0134" title="ತೃತೀಯಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0135-0148" title="ಚತುರ್ಥಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0149-0161" title="ಪಂಚಮಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0162-0174" title="ಷಷ್ಠಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0174-0187" title="ಸಪ್ತಮಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0188-0201" title="ಅಷ್ಟಮಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0202-0211" title="ನವಮಾಶ್ವಾಸಂ" author=""></s2>
+		<s2 page="0212-0218" title="ದಶಮಾಶ್ವಾಸಂ" author=""></s2>
+	</s1>
+</book>

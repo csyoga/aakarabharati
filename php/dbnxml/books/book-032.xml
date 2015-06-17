@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<book id="032">
+	<s1 page="0009-0013" title="I. Physical Features" author=""></s1>
+	<s1 page="0014-0021" title="II. Flora &amp Fauna" author=""></s1>
+	<s1 page="0021-0029" title="III. Geology &amp Mining" author=""></s1>
+	<s1 page="0029-0036" title="IV. Language" author=""></s1>
+	<s1 page="0036-0043" title="V. History" author=""></s1>
+	<s1 page="0043-0055" title="VI. The Government" author=""></s1>
+	<s1 page="0056-0073" title="VII. Education" author="">
+		<s2 page="0056-0061" title="Department of Public Instruction" author=""></s2>
+		<s2 page="0062-0068" title="University of Mysore" author=""></s2>
+		<s2 page="0069-0073" title="Indian Institute of Science" author=""></s2>
+	</s1>
+	<s1 page="0073-0083" title="VIII. Industries &amp Commerce" author="">
+		<s2 page="0075-0077" title="Industrial Concerns" author=""></s2>
+		<s2 page="0078-0079" title="Hydro-Electric Works" author=""></s2>
+		<s2 page="0080-0080" title="Railways" author=""></s2>
+		<s2 page="0081-0083" title="Trade, Co-operation etc." author=""></s2>
+	</s1>
+	<s1 page="0084-0086" title="IX. Art &amp Architecture" author=""></s1>
+	<s1 page="0086-0093" title="X. Agriculture &amp Sericulture" author="">
+		<s2 page="0087-0090" title="Department of Agriculture" author=""></s2>
+		<s2 page="0091-0093" title="Irrigational Works etc." author=""></s2>
+	</s1>
+	<s1 page="0093-0098" title="XI. Medical &amp Sanitary" author=""></s1>
+	<s1 page="0099-0106" title="XII. State's Finanaces" author=""></s1>
+	<s1 page="0107-0112" title="XIII. Census &amp Miscellaneous" author="">
+		<s2 page="0110-0112" title="Wealth, Income, Taxation etc." author=""></s2>
+	</s1>
+	<s1 page="0112-0120" title="XIV. Bangalore" author=""></s1>
+	<s1 page="0120-0122" title="XV. Seringapatam" author=""></s1>
+	<s1 page="0123-0126" title="XVI. Mysore" author=""></s1>
+	<s1 page="0126-0132" title="XVII. Gazetteer" author=""></s1>
+	<s1 page="0133-0139" title="XVIII. Associations &amp Institutions" author=""></s1>
+	<s1 page="0140-0140" title="XIX. Successive Dewans" author=""></s1>
+	<s1 page="0140-0141" title="XX. Some Principal Officers of State" author=""></s1>
+</book>
