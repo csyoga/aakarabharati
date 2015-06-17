@@ -2463,69 +2463,792 @@
 			</entry>
 		</part>
 	</volume>
-	<volume vnum="004">%raghu
-		<part pnum="01" month="00" year="0000" info="19">
+	<volume vnum="004">
+		<part pnum="01" month="11-12" year="1996" info="19">
 			<entry>
-				<title></title>
+				<title>ಬಿನ್ನಹ</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0002-0003</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೌರವ ಸಂಪಾದಕರ ನುಡಿ</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಸೆಟ್ಟಿ ಚಿ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಈಚಿನ ಸಮಕಾಲೀನ ಕಲೆಯಲ್ಲಿನ ಪ್ರವೃತ್ತಿಗಳು</title>
+				<feature></feature>
+				<page>0005-0016</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಸೆಟ್ಟಿ ಚಿ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪ್ರದಾಯ ಚಿತ್ರಕಲೆ</title>
+				<feature></feature>
+				<page>0017-0025</page>
+				<allauthors>
+					<author  type="01">ನರಸಿಂಹನ್ ಅ. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಇಂದಿನ ಕಲಾಪ್ರಜ್ಞೆ</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors>
+					<author  type="01">ಶ್ರೀನಿವಾಸ ಮೂರ್ತಿ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವ್ಯ ಹಾಗೂ ನವ್ಯೋತ್ತರದ ನಡುವಿನ ಯುವ ಕಲಾವಿದರು</title>
+				<feature></feature>
+				<page>0033-0039</page>
+				<allauthors>
+					<author  type="01">ಶಾಂತರಾಜ್ ಆರ್. ಎ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಮಕಾಲೀನ ಸಂದರ್ಭದ ಪ್ರಶ್ನೆಗಳು</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors>
+					<author  type="01">ರವಿಕುಮಾರ ಕಾಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೈಶವಾವಸ್ಥೆಯಲ್ಲಿಯೇ ಬದುಕುತ್ತಿರುವ ಗ್ರಾಫಿಕ್ ಕಲೆ</title>
+				<feature></feature>
+				<page>0043-0048</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಸೆಟ್ಟಿ ಚಿ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾನವೀಯ ಕಾಳಜಿಗಳು</title>
+				<feature></feature>
+				<page>00049-0054</page>
+				<allauthors>
+					<author  type="01">ಸುರೇಶ್ ಜಯರಾಂ</author>
+					<author  type="01">ದೀಪ್ತಿ ಶಂಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ನಾಟಕದಲ್ಲಿ ದೃಶ್ಯಕಲೆಯ ಸಾಹಿತ್ಯ</title>
+				<feature></feature>
+				<page>0055-0069</page>
+				<allauthors>
+					<author  type="01">ಎಚ್. ಎ. ಅನಿಲ್ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಏಕತೆಯನ್ನು ಸಾಧಿಸುವ ಮಹಾಸಾಧನ ಕರ್ನಾಟಕ ಸಂಗೀತ</title>
+				<feature></feature>
+				<page>0070-0075</page>
+				<allauthors>
+					<author  type="01">ರಾಮಾನುಜಂ ಪಿ. ಎಸ್. ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಗಾನದ ಆಹಾರ್ಯ</title>
+				<feature></feature>
+				<page>0076-0083</page>
+				<allauthors>
+					<author  type="01">ರಾಘವ ನಂಬಿಯಾರ್ ಕೆ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="01-02" year="1997" info="20">
+			<entry>
+				<title>ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೌರವ ಸಂಪಾದಕರ ನುಡಿ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author  type="01">ಗಿರೀಶ್ ಕಾಸರವಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>`ಅಭಿನಯ' ಒಂದು ಸಂವಾದ</title>
+				<feature></feature>
+				<page>0005-0027</page>
 				<allauthors>
 					<author  type="01"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="02" month="00" year="0000" info="20">
 			<entry>
-				<title></title>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಪ್ರಶ್ನೆಗಳು</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0028-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0030-0034</page>
+				<allauthors>
+					<author  type="01">ಶ್ರೀಧರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0034-0037</page>
+				<allauthors>
+					<author  type="01">ಶಿವರಾಂ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0037-0044</page>
+				<allauthors>
+					<author  type="01">ವೈಶಾಲಿ ಕಾಸರವಳ್ಳಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0044-0046</page>
+				<allauthors>
+					<author  type="01">ಶ್ರೀನಿವಾಸಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0046-0049</page>
+				<allauthors>
+					<author  type="01">ಲೋಕೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0050-0054</page>
+				<allauthors>
+					<author  type="01">ಸಿಂಹ ಸಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0055-0058</page>
+				<allauthors>
+					<author  type="01">ನಾಗಾಭರಣ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors>
+					<author  type="01">ಸಿಹಿ-ಕಹಿ ಚಂದ್ರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಅಭಿನಯ ಕುರಿತು ಕೆಲವು ಉತ್ತರಗಳು</title>
+				<feature></feature>
+				<page>0059-0059</page>
+				<allauthors>
+					<author  type="01">ಸೀತಾರಾಂ ಸಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ಜಗತ್ತಿನ `ಹ್ಯಾಮ್ಲೆಟ್' ಆಂದ್ರೆ ಟಾರ್ಕೋವ್ಸ್ಕಿ</title>
+				<feature></feature>
+				<page>0060-0074</page>
+				<allauthors>
+					<author  type="01">ಶ್ರೀಕಾಂತ ವಿ. ಪ್ರಭು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾದಂಬರಿ ಮತ್ತು ಸಿನಿಮಾ; ಜನುಮದ ಜೋಡಿ</title>
+				<feature></feature>
+				<page>0075-0082</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಯ್ಯ ಎಂ. ಎಚ್. ಪ್ರೊ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಕಥೆ ಎಂಬ ಹಳವಂಡ</title>
+				<feature></feature>
+				<page>0083-0088</page>
+				<allauthors>
+					<author  type="01">ವಿಮ್ವ್ಯಾಂಡರ್ಸ್</author>
+					<author  type="02">ಸುರೇಶ್ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಗಾನದ ವಾಚಿಕಾಭಿನಯ ನಡೆದು ಬಂದ ದಾರಿ......</title>
+				<feature></feature>
+				<page>0089-0094</page>
+				<allauthors>
+					<author  type="01">ರಾಘವ ನಂಬಿಯಾರ್ ಕೆ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪ್ರೀತಿ</title>
+				<feature></feature>
+				<page>0095-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರತಿಕಿರ್ಯೆ</title>
+				<feature></feature>
+				<page>0101-0103</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="03-04" year="1997" info="21">
+			<entry>
+				<title>ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರಿಗೊಂದು ಪತ್ರ</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author  type="01">ಅಹಮದ್ ಅಬ್ಬಾಸ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜನಪ್ರಿಯ ಚಿತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0009-0024</page>
 				<allauthors>
 					<author  type="01"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="03" month="00" year="0000" info="21">
 			<entry>
-				<title></title>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಅಘಟಿತ ಘಟನೆಗಳ ಮಾಲೆ</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0025-0026</page>
+				<allauthors>
+					<author  type="01">ಅಯ್ಯರ್ ಜಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಕಾಲ್ ಅಳತೆಗೆ ಶೂ ಹೊಲೆಯುವುದು</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors>
+					<author  type="01">ರಾಜು ಕೆ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಸಾಮಾಜಿಕ ಹೊಣೆಗಾರಿಕೆಯೇ ಇಲ್ಲ</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author  type="01">ಸದಾನಂದ ಸುವರ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಚಲಾವಣೇಲಿರೋ ಮೌಲ್ಯಗಳನ್ನೇ ಎತ್ತಿಕೊಳ್ಳುತ್ತೆ</title>
+				<feature></feature>
+				<page>0028-0030</page>
+				<allauthors>
+					<author  type="01">ರಾಜೇಂದ್ರಬಾಬು ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಎತ್ತ ಸಾಗಿದೆ....?</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author  type="01">ಕೂಡ್ಲು ರಾಮಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಫಾರ್ಮುಲಾ ಇದ್ದೇ ಇದೆ</title>
+				<feature></feature>
+				<page>0032-0033</page>
+				<allauthors>
+					<author  type="01">ಟೈಗರ್ ಪ್ರಭಾಕರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಈಗ ನಟರೇ ಡಬ್ ಆಗುತ್ತಿದ್ದಾರೆ!</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors>
+					<author  type="01">ಬೂದಾಳ್ ಕೃಷ್ಣಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಮರ್ಷಿಯಲ್ ಸಿನಿಮಾ - ಅಭಿಪ್ರಾಯಗಳು : ಈ ವಿಭಜನೆಯೇ ಅಸಹಜ</title>
+				<feature></feature>
+				<page>0035-0037</page>
+				<allauthors>
+					<author  type="01">ರಾಜೇಂದ್ರಸಿಂಗ್ (ಬಾಬು) ಎಸ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುನಿಲ್ ಕುಮಾರ್ ದೇಸಾಯಿ (ಮಾತುಕತೆ)</title>
+				<feature></feature>
+				<page>0038-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಸ್ತ್ರೀವಾದ</title>
+				<feature></feature>
+				<page>0046-0049</page>
+				<allauthors>
+					<author  type="01">ಸೇತುಮಾಧವ ಜೋಡಿದಾರ್</author>
+					<author  type="01">ಮಾನಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಿರಿಯ ನಿರ್ದೇಶಕನ ದೋಷಗಳು</title>
+				<feature></feature>
+				<page>0050-0056</page>
+				<allauthors>
+					<author  type="01">ರಾಘವೇಂದ್ರ ಎಂ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಗಾನ ರಂಗದ ಸಾತ್ತ್ವಿಕಾಭಿನಯ</title>
+				<feature></feature>
+				<page>0057-0060</page>
+				<allauthors>
+					<author  type="01">ರಾಘವ ನಂಬಿಯಾರ್ ಕೆ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</title>
+				<feature>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</feature>
+				<page>0061-0066</page>
+				<allauthors>
+					<author  type="02">ಸುರೇಶ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪ್ರೀತಿ</title>
+				<feature></feature>
+				<page>0067-0071</page>
 				<allauthors>
 					<author  type="01"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="04" month="00" year="0000" info="22">
 			<entry>
-				<title></title>
+				<title>ಪ್ರತಿಕ್ರಿಯೆಗಳು</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="05-06" year="1997" info="22">
+			<entry>
+				<title>ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಗೀತದಲ್ಲಿ ಸಂವಹನ - ಸಮಷ್ಟಿ ಸಂಸ್ಕಾರದ ವ್ಯಷ್ಟಿಪ್ರವೇಶ</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors>
+					<author  type="01">ರಾಮಾನುಜಂ ಪಿ. ಎಸ್. ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೀತ ಸಂಗೀತ ಗಾರುಡಿಗ ಕೈವಲ್ಯ ಕುಮಾರ ಗುರವ</title>
+				<feature></feature>
+				<page>0011-0015</page>
+				<allauthors>
+					<author  type="01">ಎನ್ಕೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವೀನ ಬಾಸುರಿ ಶೋಧಕ ವೆಂಕಟೇಶ ಗೋಡಖಿಂಡಿ</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<allauthors>
+					<author  type="01">ಎನ್ಕೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ನಾಟಕದಲ್ಲಿ ನೃತ್ಯ ಪರಂಪರೆ ಮತ್ತು ಆಧುನಿಕತೆ</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors>
+					<author  type="01">ಲಲಿತ ಶ್ರೀನಿವಾಸನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೃತ್ಯ ಕ್ಷೇತ್ರದ ಹೊಸ ಆಯಾಮಗಳು</title>
+				<feature></feature>
+				<page>0027-0036</page>
+				<allauthors>
+					<author  type="01">ಸುಗ್ಗನಹಳ್ಳಿ ಷಡಕ್ಷರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಾರ್ತಿಸುಬ್ಬನ ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗಳಲ್ಲಿ ಸಂಸ್ಕೃತದ ಪ್ರತಿಫಲನ</title>
+				<feature></feature>
+				<page>0037-0042</page>
+				<allauthors>
+					<author  type="01">ಹೆಗ್ಡೆ ಜಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಗಾನ ವಾಚಿಕಾಭಿನಯ</title>
+				<feature></feature>
+				<page>0043-0052</page>
+				<allauthors>
+					<author  type="01">ಪ್ರಭಾಕರ ಜೋಷಿ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ನಾಟಕದ ಕಲಾವಿದರ ಸಂವೇದನೆಯ ನೆಲೆಗಳು</title>
+				<feature></feature>
+				<page>0053-0064</page>
+				<allauthors>
+					<author  type="01">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಕೆ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</title>
+				<feature>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</feature>
+				<page>0065-0075</page>
+				<allauthors>
+					<author  type="02">ಸುರೇಶ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಶ್ಚಾತ್ತಾಪಕ್ಕಿಂತ ಬೇರೆ ಪ್ರಾಯಶ್ಚಿತ್ತವಿಲ್ಲ</title>
+				<feature></feature>
+				<page>0077-0078</page>
+				<allauthors>
+					<author  type="01">ಸ್ವಾಮಿ (ರವೀ) ಕೆ. ಎಸ್. ಎಲ್. </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವ್ಯಾಪಾರಿ ಹಾಗೂ ಕಲಾತ್ಮಕ ಚಿತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0079-0080</page>
+				<allauthors>
+					<author  type="01">ಲಕ್ಷ್ಮಣ್ ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅವರೊಂದು ಬೆಟ್ಟ, ಸಮುದ್ರ, ಎಲ್ಲರ ಬದುಕಿನ ಬೆಳಕು</title>
+				<feature></feature>
+				<page>0081-0083</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಯ್ಯ ಎಂ. ಎಚ್. ಪ್ರೊ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪ್ರೀತಿ</title>
+				<feature></feature>
+				<page>0084-0086</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="07-08" year="1997" info="23">
+			<entry>
+				<title>ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವ್ಯಕ್ತದಿಂದ ಅವ್ಯಕ್ತದ ಕಡೆ</title>
+				<feature></feature>
+				<page>0003-0010</page>
+				<allauthors>
+					<author  type="01">ರಾಮಾನುಜಂ ಪಿ. ಎಸ್. ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೋರೆ ಅವಗುಣ್ ಚಿತ್ ನ ಧರೋ</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author  type="01">ಸುರೇಶ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಟಾಸಿಸ್ ಐಡ್ರಿಗೆವಿಷಿಯಸ್</title>
+				<feature></feature>
+				<page>0017-0022</page>
+				<allauthors>
+					<author  type="01">ರಾಘವೇಂದ್ರ ಎಂ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರಳ ಸ್ಟಾಸಿಸ್</title>
+				<feature></feature>
+				<page>0023-0025</page>
+				<allauthors>
+					<author  type="01">ಸಿಂಹ ಸಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಮಕಾಲೀನ ಕಲಾ ವಿಮರ್ಶೆಯ ಸಂಕ್ಷಿಪ್ತ ನೋಟ</title>
+				<feature></feature>
+				<page>0026-0031</page>
+				<allauthors>
+					<author  type="01">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಕೆ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವ್ಯ ಕಲೆಯಲ್ಲಿನ ವಿಶಿಷ್ಟ ಪ್ರಯೋಗಗಳು</title>
+				<feature></feature>
+				<page>0032-0039</page>
+				<allauthors>
+					<author  type="01">ಕೃಷ್ಣಸೆಟ್ಟಿ ಚಿ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಶೋಧಕನ ಸೃಜನಶೀಲ ನೆಲೆಗಳು</title>
+				<feature></feature>
+				<page>0040-0043</page>
+				<allauthors>
+					<author  type="01">ರಾಮಕೃಷ್ಣ ಮರಾಠೆ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೂಪಕ ಶಾಸ್ತ್ರ ಸಂಹಿತೆ; ಒಂದು ಟಿಪ್ಪಣಿ</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors>
+					<author  type="01">ರಾಜಗೋಪಾಲ ಕ. ವೆಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಿ ಸ್ವೀಟ್ ಹಿಯರ್ ಆಫ್ಟರ್</title>
+				<feature></feature>
+				<page>0046-0048</page>
+				<allauthors>
+					<author  type="01">ರಾಘವೇಂದ್ರ ಎಂ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಿಂಸಾತ್ಮಕ ಚಿತ್ರಗಳು; ಆತಂಕಕಾರಿ ಮನಸ್ಸುಗಳು</title>
+				<feature></feature>
+				<page>0049-0051</page>
+				<allauthors>
+					<author  type="01">ಪ್ರಹ್ಲಾದ್ ಜೆ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉತ್ಸವದಲ್ಲಿ ಉಳಿದದ್ದು......</title>
+				<feature></feature>
+				<page>0052-0054</page>
+				<allauthors>
+					<author  type="01">ನರಹರಿರಾವ್ ಹೆಚ್. ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಲೋಕನ ಅನಾವರಣ</title>
+				<feature></feature>
+				<page>0055-0058</page>
 				<allauthors>
 					<author  type="01"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="05" month="00" year="0000" info="23">
 			<entry>
-				<title></title>
+				<title>ಬಯಲಾಟದ ಪುನರಾಚನೆ : ಅವಕಾಶ ಮತ್ತು ಸಾಧ್ಯತೆ</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0059-0065</page>
 				<allauthors>
-					<author  type="01"></author>
+					<author  type="01">ಮಂಜುನಾಥ ಭಟ್</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="06" month="00" year="0000" info="24">
 			<entry>
-				<title></title>
+				<title>ಯಕ್ಷಗಾನದ ಅರ್ಥಗಾರಿಕೆ ಮತ್ತು ಐತಿಹಾಸಿಕ ಪ್ರಸಂಗಗಳು</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0066-0068</page>
 				<allauthors>
-					<author  type="01"></author>
+					<author  type="01">ಮೋಹನ ಕುಂಟಾರ್ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಗೀತ ಲೋಕದ ಸಾಮ್ರಾಜ್ಞಿ ಎಂ. ಎಸ್. ಸುಬ್ಬುಲಕ್ಷ್ಮಿ</title>
+				<feature></feature>
+				<page>0069-0070</page>
+				<allauthors>
+					<author  type="01">ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಪಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</title>
+				<feature>ಆಂದ್ರೆ ವಾಜ್ದ ಅವರ `ನೆರೆ' ನೆನಪುಗಳು</feature>
+				<page>0071-0077</page>
+				<allauthors>
+					<author  type="02">ಸುರೇಶ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪ್ರೀತಿ</title>
+				<feature></feature>
+				<page>0078-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="09-10" year="1997" info="24">
+			<entry>
+				<title>ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author  type="01">ವಿಜಯಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೌರವ ಸಂಪಾದಕರ ನುಡಿಗಳು</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author  type="01">ಮೋಹನ ಕುಂಟಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇತ್ತೀಚಿನ ಒಲವುಗಳು</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<allauthors>
+					<author  type="01">ಮೋಹನ ಕುಂಟಾರ್ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಸಂಗಗಳು</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author  type="01">ಕೇಶವ ಉಚ್ಚಿಲ ಪ್ರೊ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಷೆ</title>
+				<feature></feature>
+				<page>0015-0019</page>
+				<allauthors>
+					<author  type="01">ಮೋಹನ ಕುಂಟಾರ್ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲೈಟ್ ಮ್ಯೂಸಿಕ್ ಆಗಲು ಹಾತೊರೆಯುತ್ತಿದೆಯೆ?</title>
+				<feature></feature>
+				<page>0020-0025</page>
+				<allauthors>
+					<author  type="01">ರಾಘವ ನಂಬಿಯಾರ್ ಕೆ. ಎಮ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತೆಂಕು-ಬಡಗು ತಿಟ್ಟುಗಳ ಕೊಡು-ಕೊಳುಗೆ</title>
+				<feature></feature>
+				<page>0025-0030</page>
+				<allauthors>
+					<author  type="01">ಹೆಗಡೆ ಡಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಕ್ಷಗಾನದಲ್ಲಿ ಧಾರ್ಮಿಕತೆ</title>
+				<feature></feature>
+				<page>0030-0034</page>
+				<allauthors>
+					<author  type="01">ರಾಮಚಂದ್ರ ಉಚ್ಚಿಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬದಲಾಗುತ್ತಿರುವ ಮೌಲ್ಯ</title>
+				<feature></feature>
+				<page>0035-0038</page>
+				<allauthors>
+					<author  type="01">ಚಂದ್ರಶೇಖರ ದಾಮ್ಲೆ ಡಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರ್ಥಿಕ ಸ್ಥಿತಿಗತಿ</title>
+				<feature></feature>
+				<page>0038-0043</page>
+				<allauthors>
+					<author  type="01">ಪ್ರಭಾಕರ ಜೋಶಿ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಾಲಮದ್ದಳೆ : ವರ್ತಮಾನ ಸ್ಥಿತಿಗತಿ</title>
+				<feature></feature>
+				<page>0043-0046</page>
+				<allauthors>
+					<author  type="01">ಪೆರ್ಲ ಕೃಷ್ಣಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಾಳಮದ್ದಳೆ ಮತ್ತು ಪ್ರೇಕ್ಷಕ</title>
+				<feature></feature>
+				<page>0047-0049</page>
+				<allauthors>
+					<author  type="01">ರಾಧಾಕೃಷ್ಣ ಕಲ್ಚಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈಚಿನ ಸೈದ್ಧಾಂತಿಕ ನೆಲೆಗಳು</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author  type="01">ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರತಿಕ್ರಿಯೆ</title>
+				<feature></feature>
+				<page>0052-0053</page>
+				<allauthors>
+					<author  type="01">ಕೇಶವ ಉಚ್ಚಿಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಧಕರ ಅನುಭವದಲ್ಲಿ (ಪ್ರಶ್ನೋತ್ತರಗಳು)</title>
+				<feature></feature>
+				<page>0054-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>`ತಾಯಿ ಸಾಹೇಬ' ಚಲನಚಿತ್ರ ಕುರಿತು</title>
+				<feature></feature>
+				<page>0069-0070</page>
+				<allauthors>
+					<author  type="01">ವಿಶಾಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಲನಚಿತ್ರ ವ್ಯಾಕರಣ; ತಾಂತ್ರಿಕ ಕೌಶಲ ಪ್ರತಿಕ್ರಿಯೆ</title>
+				<feature></feature>
+				<page>0071-0080</page>
+				<allauthors>
+					<author  type="01">ಸುರೇಶ ಬಿ.</author>
 				</allauthors>
 			</entry>
 		</part>
 	</volume>
-	<volume vnum="005">
+	<volume vnum="005">%raghu, volume 5
 		<part pnum="01" month="00" year="0000" info="25">
 			<entry>
 				<title></title>
