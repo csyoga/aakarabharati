@@ -1,0 +1,14 @@
+<!ELEMENT books (book+)>
+<!ELEMENT book (title,authors,details,publisher)>
+<!ATTLIST book id CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT authors (author*)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT details (year,edition,editor,volume,part,pages)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT edition (#PCDATA)>
+<!ELEMENT editor (#PCDATA)>
+<!ELEMENT volume (#PCDATA)>
+<!ELEMENT part (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
