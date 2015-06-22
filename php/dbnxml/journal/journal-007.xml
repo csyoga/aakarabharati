@@ -3,9 +3,9 @@
 
 <journal title="ಗ್ರಂಥಲೋಕ">
 	<volume vnum="008">
-		<part pnum="01" month="ಜನವರಿ" year="1984" info="">
+		<part pnum="01" month="01" year="1984" info="">
 			<entry>
-				<title>ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಿ.ಎಚ್.ಡಿ. ಪ್ರಬಂಧಗಳು</title>
+				<title>ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಿ. ಎಚ್. ಡಿ. ಪ್ರಬಂಧಗಳು</title>
 				<feature></feature>
 				<page>0003-0030</page>
 				<allauthors />
@@ -47,7 +47,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="ಫೆಬ್ರವರಿ" year="1984" info="">
+		<part pnum="02" month="02" year="1984" info="">
 			<entry>
 				<title>ಯಶವಂತ ಚಿತ್ತಾಲರ `ಕತೆಯಾದಳು ಹುಡುಗಿ'</title>
 				<feature></feature>
@@ -95,7 +95,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="ಮಾರ್ಚ್" year="1984" info="">
+		<part pnum="03" month="03" year="1984" info="">
 			<entry>
 				<title>56ನೆಯ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷ ಪ್ರೊ. ಅಕ್ಕಿಹೆಬ್ಬಾಳು ನರಸಿಂಹ ಮೂರ್ತಿರಾವ್</title>
 				<feature></feature>
@@ -146,23 +146,529 @@
 				<page>0015-0017</page>
 				<allauthors />
 			</entry>
+		</part>
+		<part pnum="04" month="04" year="1984" info="">
 			<entry>
-				<title>ಸ್ವವಿಷಯ</title>
+				<title>ಕರ್ನಾಟಕ ರಾಜ್ಯ ವಿಜ್ಞಾನ ಪರಿಷತ್ತಿನ ಪ್ರಕಟಣೆಗಳು</title>
 				<feature></feature>
-				<page>0076-0076</page>
+				<page>0001-0003</page>
 				<allauthors>
-					<author type="01">ಸಂಪಾದಕರು</author>
+					<author type="01">ಅ.ಕೃ.ಭ.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="04" month="ಏಪ್ರಿಲ್‍" year="1984" info="">
 			<entry>
-				<title></title>
+				<title>ವೈಯಕ್ತಿಕ ಪುಸ್ತಕ ಭಂಡಾರ ಬೆಳೆಸಲು ಸಹಾಯಧನ</title>
 				<feature></feature>
-				<page>0079-0079</page>
+				<page>0003-0003</page>
 				<allauthors>
-					<author type="01"></author>
+					<author type="01">ಎಸ್. ಎನ್. ಶಿವರುದ್ರಸ್ವಾಮಿ</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಿರಾಶ ಪ್ರಕಾಶಕ</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author type="01">ಜೀನ ಹಳ್ಳಿ ಸಿದ್ಧಲಿಂಗಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪೋಷಕರ ಬಳಗ</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0015-0019</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1984" info="">
+			<entry>
+				<title>ತರಾಸು</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="01">ಹಾ. ಮಾ. ನಾಯಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತರಾಸು ಕೃತಿಗಳು</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರಕಾಶಕರು ಬೇಕೇ ಬೇಡವೇ?</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author type="01">ಎನ್. ಎಸ್. ಶಾರದಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ನಾಟಕದ ಸಾರ್ವಜನಿಕ ಗ್ರಂಥಾಲಯಗಳು - ಕೆಲವು ಅಂಕಿ-ಅಂಶಗಳ ವಿಶ್ಲೇಷಣೆ</title>
+				<feature></feature>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="01">ಬಿ. ನಾಗಪ್ಪ</author>
+					<author type="01">ಬಿ. ಎಸ್. ಮಹೇಶ್ವರಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0009-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಾನೊಬ್ಬ ಸಣ್ಣ ಲೇಖಕ - ಪ್ರಕಾಶಕ</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="01">ಅರ್ಜುನಪುರಿ ಅಪ್ಪಾಜಿಗೌಡ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0018-0019</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1984" info="">
+			<entry>
+				<title>ನಮ್ಮ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="01">ಸಂಪಾದಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>೧೯೮೩ ರ ಕನ್ನಡ ಪ್ರಕಟಣೆಗಳು</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author type="01">ಹಾ. ಮಾ. ನಾಯಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರ, ವಿಮರ್ಶೆ-೧೯೮೩</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors>
+					<author type="01">ಟಿ. ಪಿ. ಅಶೋಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾದಂಬರಿ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಎಚ್. ಎಸ್. ಸುಜಾತಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೀವನಚರಿತ್ರೆ, ಆತ್ಮಕತೆ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="01">ಶಂಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮ - ತತ್ವ : ೧೯೮೩</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors>
+					<author type="01">ಕೆ. ಅನಂತರಾಮು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾನವಿಕಗಳು - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors>
+					<author type="01">ಡಿ. ಎಸ್. ಜಯಪ್ಪಗೌಡ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಾನಪದ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0020-0022</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಪಿ. ಕೆ. ರಾಜಶೇಖರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಬಂಧ - ಪ್ರವಾಸ ಇತ್ಯಾದಿ-೧೯೮೩</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="01">ಎನ್. ಎಸ್. ಶಾರದಾ ಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾವ್ಯ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0024-0027</page>
+				<allauthors>
+					<author type="01">ಸಿ. ಪಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಜ್ಞಾನಗಳು - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="01">ಜೆ. ಆರ್. ಲಕ್ಷ್ಮಣರಾವ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೌರವ ಗ್ರಂಥಗಳು - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0028-0031</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಡಿ. ಕ. ರಾಜೇಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಲ ಸಾಹಿತ್ಯ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors>
+					<author type="01">ಎಸ್. ಚನ್ನಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಷಾಂತರ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0032-0035</page>
+				<allauthors>
+					<author type="01">ಪ್ರಧಾನ್ ಗುರುದತ್ತ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಾಮರ್ಶನ ಕೃತಿಗಳು</title>
+				<feature></feature>
+				<page>0036-0038</page>
+				<allauthors>
+					<author type="01">ಎನ್. ಎಸ್. ತಾರಾನಾಥ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಶೋಧನೆ - ೧೯೮೩</title>
+				<feature></feature>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಟಿ. ವಿ. ವೆಂಕಟಾಚಲ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಶಸ್ವೀ ಪುಸ್ತಕ ಮಾರಾಟ ಸಂಸ್ಥೆ - ೧</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="01">ಎಂ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0049-0051</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1984" info="">
+			<entry>
+				<title>ಅಭಿಮಾನದ ಕ್ಷಣ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="01">ಹಾ. ಮಾ. ನಾಯಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ್ತಿಯವರ ಸಾಹಿತ್ಯ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮರೆತುಹೋದ ಮಹನೀಯರು - ಗಳಗನಾಥರು ಮತ್ತು ಕೆರೂರು ವಾಸುದೇವಾಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="01">ಡಾ. ಎಂ. ರಾಮಕೃಷ್ಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಬಿನೋದ ಕನುಂಗೋ</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author type="01">ಎನ್. ಎಸ್. ಶಾರದಾಪ್ರಸಾದ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0009-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0020-0023</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1984" info="">
+			<entry>
+				<title>ಮಾಸ್ತಿ ಮಾತು</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="03">ಎನ್. ಎಸ್. ತಾರಾನಾಥ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾನೇ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಹಾಗೆ</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author type="01">ಹೇಮಾ ಆನಂದತೀರ್ಥನ್</author>
+					<author type="02">ಎ. ಅನೂರಾಧಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಶಸ್ವೀ ಪುಸ್ತಕ ಮಾರಾಟ ಸಂಸ್ಥೆ - ೨</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author type="01">ಎಂ. ಗಣೇಶ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0004-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0013-0017</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1984" info="">
+			<entry>
+				<title>ಮಗ್ರಸ : ಪುಸ್ತಕಪ್ರೇಮಿಗಳ ಸಾಮೂಹಿಕ ಯೋಜನೆ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="01">ಎನ್. ಎಸ್. ತಾರಾನಾಥ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನ್ನಡ ಪುಸ್ತಕಗಳ ಮಾರಾಟ - ಆನುಭವ ಹೇಳಿತು</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="01">ವೆಂ. ವೆಂಕಟಸುಬ್ಬಯ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0006-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1984" info="">
+			<entry>
+				<title>ಓ. ಎಲ್. ನಾಗಭೂಷಣಸ್ವಾಮಿ ಅವರ ``ವಿಮರ್ಶೆಯ ಪರಿಭಾಷೆ"</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="01">ಟಿ. ಪಿ. ಅಶೋಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬನ್ನಿ ಸಾರ್, ಲೈಬ್ರೆರಿ ಕಡೆ ಹೋಗಿ ಬರೋಣ</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author type="01">ಸಿ. ಎಸ್. ಸುನಂದನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0004-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0008-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1984" info="">
+			<entry>
+				<title>ನಮ್ಮ ಸಾರ್ವಜನಿಕ ಗ್ರಂಥಾಲಯಗಳಲ್ಲಿ ಪುಸ್ತಕಸಂಗ್ರಹಣೆ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="01">ಎಚ್. ಎ. ಖಾನ್</author>
+					<author type="01">ಬಿ. ನಾಗಪ್ಪ</author>
+					<author type="01">ಬಿ. ಎಸ್. ಮಹೇಶ್ವರಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮದೇ ನಾಡೆಲ್ಲಾ... ನಮ್ಮವರೇ ಜನರೆಲ್ಲಾ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author type="01">ಮುಕುಂದ ಪುರೋಹಿತ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕನ್ನಡ ರಂಗಭೂಮಿಗೆ ಹೊಸ ಚೇತನ ಕೊಟ್ಟ - ಶ್ರೀರಂಗರ ನಿಧನ</title>
+				<feature></feature>
+				<page>0013-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0015-0017</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1984" info="">
+			<entry>
+				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಸಾರ ನಿಗಮ</title>
+				<feature></feature>
+				<page>0001-0002;0016-0016</page>
+				<allauthors>
+					<author type="01">ಬಿ. ನಾರಾಯಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಿಸರ ಕುರಿತು ಮೂರು ಪುಸ್ತಕಗಳು</title>
+				<feature></feature>
+				<page>00003-0004</page>
+				<allauthors>
+					<author type="01">ಟಿ. ಪಿ. ಅಶೋಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಮಾತು</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಲೋಕದ ಮೂಸೆಯಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0006-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಸುದ್ದಿ</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕಗಳ ಆಯ್ಕೆ: ಕ್ರಮ ಮತ್ತು ಸಮಸ್ಯೆ</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಈ ವರ್ಷ ಜನವರಿಯಿಂದ ಡಿಸೆಂಬರ್ ವರಗೆ 12 ಸಂಚಿಕೆಗಳಲ್ಲಿ ಗ್ರಂಥಲೋಕದಲ್ಲಿ ವಿಮರ್ಶೆಗೊಂಡ ಪುಸ್ತಕಗಳ ಪಟ್ಟಿ</title>
+				<feature></feature>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸೂಚಿ</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
