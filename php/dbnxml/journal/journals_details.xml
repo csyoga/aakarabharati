@@ -5,30 +5,50 @@
 	<journal id="001">
 		<title>ಸಾಕ್ಷಿ</title>
 		<period></period>
-		<details></details>
+		<details>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</details>
 	</journal>
 	<journal id="002">
 		<title>ಸಂವಾದ</title>
 		<period></period>
-		<details></details>
+		<details>ಸಾಹಿತ್ಯಿಕ - ಸಾಂಸ್ಕೃತಿಕ ದ್ವೈಮಾಸಿಕ ಸಂಕಲನ</details>
 	</journal>
 	<journal id="003">
 		<title>ಮಾತುಕತೆ</title>
 		<period></period>
-		<details></details>
+		<details>ಶ್ರೀ ನೀಲಕಂಠೇಶ್ವರ ನಾಟ್ಯ ಸೇವಾ ಸಂಘ</details>
 	</journal>
 	<journal id="004">
 		<title>ಪುಸ್ತಕ ಪ್ರಪಂಚ</title>
 		<period></period>
-		<details></details>
+		<details>ವಯಸ್ಕರ ಶಿಕ್ಷಣ ಸಮಿತಿ, ಮೈಸೂರು</details>
 	</journal>
 	<journal id="005">
 		<title>ಅರಿವು ಬರಹ</title>
 		<period></period>
-		<details></details>
+		<details>ಸಾಹಿತ್ಯಿಕ ಪತ್ರಿಕೆ</details>
 	</journal>
 	<journal id="006">
 		<title>ರಂಗಭೂಮಿ</title>
+		<period></period>
+		<details>ಒಂದು ಕಲಾ ಪತ್ರಿಕೆ</details>
+	</journal>
+	<journal id="007">
+		<title>ಗ್ರಂಥಲೋಕ</title>
+		<period></period>
+		<details></details>
+	</journal>
+	<journal id="008">
+		<title>ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</title>
+		<period></period>
+		<details></details>
+	</journal>
+	<journal id="010">
+		<title>ಸಂಕುಲ</title>
+		<period></period>
+		<details></details>
+	</journal>
+	<journal id="011">
+		<title>gipa</title>
 		<period></period>
 		<details></details>
 	</journal>
