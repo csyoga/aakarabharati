@@ -29,7 +29,7 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="toc.php?part='. $row['part'] .'"><img src="images/cover/'. $row['part'] .'.jpg" alt="Cover image"><p>'. intval($row['part']) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="Journals/' . $journalID . '/php/images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>ಸಂಪುಟ '. intval($row['volume']) .'</p></a>';
 								}
 							}
 							if($result){$result->free();}

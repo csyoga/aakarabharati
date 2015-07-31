@@ -3,8 +3,8 @@
 	<main class="cd-main-content">
 <?php include("sec_nav.php"); ?>
 		<section id="about">
-			<h2>ಪುಸ್ತಕ ಪ್ರಪಂಚ</h2>
-			<h4><br>ವಯಸ್ಕರ ಶಿಕ್ಷಣ ಸಮಿತಿ, ಮೈಸೂರು</h4>
+			<h2>ಸಾಕ್ಷಿ</h2>
+			<h4><br>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</h4>
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</div>
 			<div class="alphabet">
@@ -45,32 +45,13 @@
 			</div>
 <?php
 
-include("connect.php");
-require_once("common.php");
-
-if(isset($_GET['letter']))
-{
+	include("connect.php");
+	require_once("common.php");
 	$letter=$_GET['letter'];
-	
-	//~ if(!(isValidLetter($letter)))
-	//~ {
-		//~ echo '<span class="aFeature clr2">Invalid URL</span>';
-		//~ echo '</div> <!-- cd-container -->';
-		//~ echo '</div> <!-- cd-scrolling-bg -->';
-		//~ echo '</main> <!-- cd-main-content -->';
-		//~ include("include_footer.php");
-//~ 
-        //~ exit(1);
-	//~ }
-	
 	($letter == '') ? $letter = 'ಅ' : $letter = $letter;
-}
-else
-{
-	$letter = 'ಅ';
-}
 
-$query = 'select * from article_pp where title like \'' . $letter . '%\' order by volume, part, title, page_start';
+	$query = 'select * from article_sakshi where title like \'' . $letter . '%\' order by title, part, page_start';
+
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -79,7 +60,7 @@ if($num_rows > 0)
 {
 	while($row = $result->fetch_assoc())
 	{
-		$query3 = 'select feat_name from feature_pp where featid=\'' . $row['featid'] . '\'';
+		$query3 = 'select feat_name from feature_sakshi where featid=\'' . $row['featid'] . '\'';
 		$result3 = $db->query($query3); 
 		$row3 = $result3->fetch_assoc();		
 		
@@ -89,10 +70,10 @@ if($num_rows > 0)
 		if($result3){$result3->free();}
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
-		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row3['feat_name'].'&amp;featid='.$row3['featid'].' ">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="toc.php?volume='.$row['volume'].'\'&amp;part='. $row['part'] .'">ಸಂಪುಟ '.intval($row['volume']).'&nbsp;;&nbsp;ಸಂಚಿಕೆ ' . intval($dpart) . '</a></span>';
+		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row3['feat_name'].'&amp;featid='.$row['featid'].' ">' . $row3['feat_name'] . '</a></span> | ' : '';
+		echo '		<span class="aIssue clr5"><a href="toc.php?part='.$row['part'].'">ಸಂಚಿಕೆ ' . intval($dpart) . '</a></span>';
 		echo '	</div>';
-		echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'maatukate'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page_start'] . '.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
+		echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page_start'] . '.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0) {
 
 			echo '	<span class="aAuthor itl">by ';
@@ -112,7 +93,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in pustaka prapancha</span>';
+	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in saakshi</span>';
 }
 
 if($result){$result->free();}

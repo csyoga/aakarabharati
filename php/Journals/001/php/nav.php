@@ -61,11 +61,11 @@
 						<ul class="is-hidden">
 							<li class="see-all"><a href="../../index.html">ನಿಯತಕಾಲಿಕೆ</a></li>
 							<li><a href="../index.php">ಸಾಕ್ಷಿ</a></li>
-							<li><a href="../../samvada/index.php">ಸಂವಾದ</a></li>
-							<li><a href="../../maatukate/index.php">ಮಾತುಕತೆ</a></li>
-							<li><a href="../../pustakaprapancha/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
-							<li><a href="../../arivubaraha/index.php">ಅರಿವು ಬರಹ</a></li>
-							<li><a href="../../rangabhumi/index.php">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="../../002/index.php">ಸಂವಾದ</a></li>
+							<li><a href="../../003/index.php">ಮಾತುಕತೆ</a></li>
+							<li><a href="../../004/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+							<li><a href="../../005/index.php">ಅರಿವು ಬರಹ</a></li>
+							<li><a href="../../006/index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
 							<a class="right" href="../../index.html">...ಮುಂದೆ</a>
