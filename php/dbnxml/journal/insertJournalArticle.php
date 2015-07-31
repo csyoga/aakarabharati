@@ -30,7 +30,6 @@
 					$title = addslashes($entry->title);
 					$feature = addslashes($entry->feature);
 					$page = $entry->page;
-					$array = array();
 					$authors = array();
 					$authorJson = '';
 					
@@ -41,7 +40,6 @@
 						array_push($authors, $array);
 					}
 					$authorJson = json_encode($authors, JSON_UNESCAPED_UNICODE);
-					//~ echo $authorJson; exit();
 					(strcmp($page, $prevPage) == 0 ) ? ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_' . ++$count) : ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_0' AND $count = 0);
 					$prevPage =  $page;
 					$query = "INSERT INTO article VALUES('$journalID', '$vnum', '$pnum', '$year', '$month', '$title', '$feature', '$page', '$authorJson', '$info', '$titleid')";

@@ -16,7 +16,6 @@
 	foreach($xmlObj->journal as $journal)
 	{
 		$id = $journal['id'];
-		echo $id."\n";
 		$title = addslashes($journal->title);
 		$period = $journal->period;
 		$details = addslashes($journal->details);
