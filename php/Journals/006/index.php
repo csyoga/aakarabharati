@@ -80,11 +80,11 @@
 						<a href="../index.html">ನಿಯತಕಾಲಿಕೆ</a>
 						<ul class="is-hidden">
 							<li class="see-all"><a href="../index.html">ನಿಯತಕಾಲಿಕೆ</a></li>
-							<li><a href="../sakshi/index.php">ಸಾಕ್ಷಿ</a></li>
-							<li><a href="../samvada/index.php">ಸಂವಾದ</a></li>
-							<li><a href="../maatukate/index.php">ಮಾತುಕತೆ</a></li>
-							<li><a href="../pustakaprapancha/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
-							<li><a href="../arivubaraha/index.php">ಅರಿವು ಬರಹ</a></li>
+							<li><a href="../001/index.php">ಸಾಕ್ಷಿ</a></li>
+							<li><a href="../002/index.php">ಸಂವಾದ</a></li>
+							<li><a href="../003/index.php">ಮಾತುಕತೆ</a></li>
+							<li><a href="../004/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+							<li><a href="../005/index.php">ಅರಿವು ಬರಹ</a></li>
 							<li><a href="index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
@@ -155,10 +155,10 @@
 		<div id="sec_nav">
 					<ul class="actions">
 						<li><a href="index.php" class="button button-outline">ಮುಖಪುಟ</a></li>
-						<li><a href="php/volumes.php" class="button button-outline">ಸಂಪುಟ</a></li>
-						<li><a href="php/articles.php" class="button button-outline">ಲೇಖನ</a></li>
-						<li><a href="php/authors.php" class="button button-outline">ಲೇಖಕ</a></li>
-						<li><a href="php/search.php" class="button button-outline">ಲೇಖಕ</a></li>
+						<li><a href="../../volumes.php?journalid=006" class="button button-outline">ಸಂಪುಟ</a></li>
+						<li><a href="../../articles.php?journalid=006" class="button button-outline">ಲೇಖನ</a></li>
+						<li><a href="../../authors.php?journalid=006" class="button button-outline">ಲೇಖಕ</a></li>
+						<li><a href="../../search.php?journalid=006" class="button button-outline">ಲೇಖಕ</a></li>
 					</ul>
 		</div>
 	</div>
