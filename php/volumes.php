@@ -1,9 +1,11 @@
-<?php include("header.php");	?>
-<?php include("nav.php"); ?>
+<?php
+	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '';
+	include("header.php");
+	include("nav.php");
+?>
 <main class="cd-main-content">
 <?php include("sec_nav.php"); ?>
 <?php
-	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '003';
 	include("connect.php");
 	require_once("common.php");
 	$query = "SELECT * FROM journaldetails WHERE id = '$journalID'";
@@ -12,6 +14,13 @@
 	if($num_rows > 0)
 	{
 		$row = $result->fetch_assoc();
+	}
+	else
+	{
+		echo "<div class=\"center\">No Journals found. Please try again.</div>";
+		echo "</main>";
+		include("footer.php");
+		exit();
 	}
 ?>
 		<section id="about">
@@ -25,12 +34,25 @@
 							$query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
+							$isVolumePart = true;
+							$row = $result->fetch_assoc();
+							($num_rows == 1 && strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM article WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
+							
+							$result = $db->query($query); 
+							$num_rows = $result ? $result->num_rows : 0;
+							
 							if($num_rows > 0)
 							{
 								while($row = $result->fetch_assoc())
 								{
-									echo '<a class="box-shadow-outset" href="part.php?volume='. $row['volume'] .'"><img src="Journals/' . $journalID . '/php/images/cover/'. $row['volume'] .'.jpg" alt="Cover image"><p>ಸಂಪುಟ '. intval($row['volume']) .'</p></a>';
+									($isVolumePart) ? ( $volume = $row['volume'] AND $path = 'part.php?volume=' . $volume) : ( $volume = $row['part'] AND $path = 'toc.php?volume=' . $volume);
+									file_exists("Journals/" . $journalID . "/php/images/cover/" . $volume. ".jpg") ? $imageUrl = "Journals/" . $journalID . "/php/images/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
+									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. intval($volume) .'</p></a>';
 								}
+							}
+							else
+							{
+								echo "No result Found<br />";
 							}
 							if($result){$result->free();}
 							$db->close();
