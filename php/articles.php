@@ -1,10 +1,30 @@
-<?php include("header.php");	?>
-<?php include("nav.php"); ?>
+<?php
+	include("header.php");
+	include("nav.php");
+	include("connect.php");
+	require_once("common.php");
+	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '';
+	
+	$query = "SELECT * FROM journaldetails WHERE id = '$journalID'";
+	$result = $db->query($query);
+	$num_rows = $result ? $result->num_rows : 0;
+	if($num_rows > 0)
+	{
+		$row = $result->fetch_assoc();
+	}
+	else
+	{
+		echo "<div class=\"center\">No Articles found. Please try again.</div>";
+		echo "</main>";
+		include("footer.php");
+		exit();
+	}
+?>
 	<main class="cd-main-content">
-<?php include("sec_nav.php"); ?>
+		<?php include("sec_nav.php"); ?>
 		<section id="about">
-			<h2>ಸಾಕ್ಷಿ</h2>
-			<h4><br>ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಗಳ ವಿಚಾರ ವಿಮರ್ಶೆಯ ವೇದಿಕೆ</h4>
+			<h2><?php echo $row['title']; ?></h2>
+			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</div>
 			<div class="alphabet">
@@ -44,60 +64,45 @@
 				<span class="letter"><a href="articles.php?letter=Special">#</a></span>
 			</div>
 <?php
+	(isset($_GET['letter']) && $_GET['letter'] != '') ? $letter = $_GET['letter'] : $letter = 'ಅ' ;
+	$query = 'select * from article where title like \'' . $letter . '%\' order by title, part, page';
+	$result = $db->query($query); 
+	$num_rows = $result ? $result->num_rows : 0;
 
-	include("connect.php");
-	require_once("common.php");
-	$letter=$_GET['letter'];
-	($letter == '') ? $letter = 'ಅ' : $letter = $letter;
-
-	$query = 'select * from article_sakshi where title like \'' . $letter . '%\' order by title, part, page_start';
-
-
-$result = $db->query($query); 
-$num_rows = $result ? $result->num_rows : 0;
-
-if($num_rows > 0)
-{
-	while($row = $result->fetch_assoc())
+	if($num_rows > 0)
 	{
-		$query3 = 'select feat_name from feature_sakshi where featid=\'' . $row['featid'] . '\'';
-		$result3 = $db->query($query3); 
-		$row3 = $result3->fetch_assoc();		
-		
-		$dpart = preg_replace("/^0/", "", $row['part']);
-		$dpart = preg_replace("/\-0/", "-", $dpart);
-		
-		if($result3){$result3->free();}
-		echo '<div class="article">';
-		echo '	<div class="gapBelowSmall">';
-		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row3['feat_name'].'&amp;featid='.$row['featid'].' ">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="toc.php?part='.$row['part'].'">ಸಂಚಿಕೆ ' . intval($dpart) . '</a></span>';
-		echo '	</div>';
-		echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page_start'] . '.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
-		if($row['authid'] != 0) {
-
-			echo '	<span class="aAuthor itl">by ';
-			$authids = preg_split('/;/',$row['authid']);
-			$authornames = preg_split('/;/',$row['authorname']);
-			$a=0;
-			foreach ($authids as $aid) {
-
-				echo '<a href="auth.php?authid='.$aid.'&amp;author='. urlencode($authornames[$a]) .' ">' . $authornames[$a] . '</a> ';
-				$a++;
-			}
-			
-			echo '	</span>';
+		while($row = $result->fetch_assoc())
+		{
+			echo '<div class="article">';
+			echo '	<div class="gapBelowSmall">';
+			echo ($row['feature'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span> | ' : '';
+			echo '		<span class="aIssue clr5"><a href="toc.php?part='.$row['part'].'">ಸಂಚಿಕೆ ' . intval($row['part']) . '</a></span>';
+			echo '	</div>';
+			echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
+			//~ if($row['authid'] != 0) {
+//~ 
+				//~ echo '	<span class="aAuthor itl">by ';
+				//~ $authids = preg_split('/;/',$row['authid']);
+				//~ $authornames = preg_split('/;/',$row['authorname']);
+				//~ $a=0;
+				//~ foreach ($authids as $aid) {
+//~ 
+					//~ echo '<a href="auth.php?authid='.$aid.'&amp;author='. urlencode($authornames[$a]) .' ">' . $authornames[$a] . '</a> ';
+					//~ $a++;
+				//~ }
+				//~ 
+				//~ echo '	</span>';
+			//~ }
+			echo '</div>';
 		}
-		echo '</div>';
 	}
-}
-else
-{
-	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in saakshi</span>';
-}
+	else
+	{
+		echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in saakshi</span>';
+	}
 
-if($result){$result->free();}
-$db->close();
+	if($result){$result->free();}
+	$db->close();
 
 ?>
 			
