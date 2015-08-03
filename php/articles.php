@@ -28,44 +28,44 @@
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖನಗಳು</div>
 			<div class="alphabet">
-				<span class="letter"><a href="articles.php?letter=ಅ">ಅ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಆ">ಆ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಇ">ಇ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಈ">ಈ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಉ">ಉ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಋ">ಋ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಎ">ಎ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಏ">ಏ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಐ">ಐ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಒ">ಒ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಔ">ಔ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಕ">ಕ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಖ">ಖ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಗ">ಗ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಘ">ಘ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಚ">ಚ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಛ">ಛ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಜ">ಜ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಟ">ಟ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಡ">ಡ</a></span>
-				<span class="letter"><a href="articles.php?letter=ತ">ತ</a></span>
-				<span class="letter"><a href="articles.php?letter=ದ">ದ</a></span>
-				<span class="letter"><a href="articles.php?letter=ನ">ನ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಪ">ಪ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಬ">ಬ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಮ">ಮ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಯ">ಯ</a></span>
-				<span class="letter"><a href="articles.php?letter=ರ">ರ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಲ">ಲ</a></span>
-				<span class="letter"><a href="articles.php?letter=ವ">ವ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಶ">ಶ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಸ">ಸ</a></span>
-				<span class="letter"><a href="articles.php?letter=ಹ">ಹ</a></span>
-				<span class="letter"><a href="articles.php?letter=Special">#</a></span>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಅ&amp;journalid=$journalID\">ಅ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಆ&amp;journalid=$journalID\">ಆ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಇ&amp;journalid=$journalID\">ಇ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಈ&amp;journalid=$journalID\">ಈ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಉ&amp;journalid=$journalID\">ಉ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಋ&amp;journalid=$journalID\">ಋ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಎ&amp;journalid=$journalID\">ಎ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಏ&amp;journalid=$journalID\">ಏ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಐ&amp;journalid=$journalID\">ಐ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಒ&amp;journalid=$journalID\">ಒ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಔ&amp;journalid=$journalID\">ಔ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಕ&amp;journalid=$journalID\">ಕ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಖ&amp;journalid=$journalID\">ಖ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಗ&amp;journalid=$journalID\">ಗ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಘ&amp;journalid=$journalID\">ಘ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಚ&amp;journalid=$journalID\">ಚ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಛ&amp;journalid=$journalID\">ಛ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಜ&amp;journalid=$journalID\">ಜ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಟ&amp;journalid=$journalID\">ಟ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಡ&amp;journalid=$journalID\">ಡ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ತ&amp;journalid=$journalID\">ತ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ದ&amp;journalid=$journalID\">ದ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ನ&amp;journalid=$journalID\">ನ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಪ&amp;journalid=$journalID\">ಪ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಬ&amp;journalid=$journalID\">ಬ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಮ&amp;journalid=$journalID\">ಮ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಯ&amp;journalid=$journalID\">ಯ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ರ&amp;journalid=$journalID\">ರ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಲ&amp;journalid=$journalID\">ಲ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ವ&amp;journalid=$journalID\">ವ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಶ&amp;journalid=$journalID\">ಶ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಸ&amp;journalid=$journalID\">ಸ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಹ&amp;journalid=$journalID\">ಹ</a></span>"; ?>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=Special\">#</a></span"; ?>>
 			</div>
 <?php
 	(isset($_GET['letter']) && $_GET['letter'] != '') ? $letter = $_GET['letter'] : $letter = 'ಅ' ;
-	$query = 'select * from article where title like \'' . $letter . '%\' order by title, part, page';
+	$query = 'select * from article where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 
@@ -75,25 +75,39 @@
 		{
 			echo '<div class="article">';
 			echo '	<div class="gapBelowSmall">';
-			echo ($row['feature'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span> | ' : '';
-			echo '		<span class="aIssue clr5"><a href="toc.php?part='.$row['part'].'">ಸಂಚಿಕೆ ' . intval($row['part']) . '</a></span>';
+			$part = '';
+
+			$split = preg_split('/-/', $row['part']);
+			foreach($split as $pnum) $part .= intval($pnum) . '-'; 
+			$part = preg_replace('/-$/', '', $part);
+			if(strcmp($row['volume'] , '000') == 0)
+			{
+				$isVolumePart = 'false';
+				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a></span>';
+			}
+			else
+			{
+				$isVolumePart = 'true';
+				echo '		<span class="aIssue clr5"><a href="part.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . intval($row['volume']) . '</a> |</span>';
+				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a> |</span>';
+			}
+			
+			echo ($row['month'] != '') ? '		<span class="aFeature clr2">' . getMonth($row['month']) . '</a></span>' : '';
+			echo ($row['year'] != '') ? '		<span class="aFeature clr2">(' . $row['year'] . ')</a></span>' : '';
+			echo ($row['feature'] != '') ? '		<span class="aFeature clr2"> | <a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span>' : '';
 			echo '	</div>';
 			echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
-			//~ if($row['authid'] != 0) {
-//~ 
-				//~ echo '	<span class="aAuthor itl">by ';
-				//~ $authids = preg_split('/;/',$row['authid']);
-				//~ $authornames = preg_split('/;/',$row['authorname']);
-				//~ $a=0;
-				//~ foreach ($authids as $aid) {
-//~ 
-					//~ echo '<a href="auth.php?authid='.$aid.'&amp;author='. urlencode($authornames[$a]) .' ">' . $authornames[$a] . '</a> ';
-					//~ $a++;
-				//~ }
-				//~ 
-				//~ echo '	</span>';
-			//~ }
-			echo '</div>';
+			echo '	<span class="aAuthor itl">';
+			$authors = json_decode($row['authorname']);
+			foreach ($authors as $author)
+			{
+				if($author->name != '')
+				{
+					echo '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> ';
+				}
+			}				
+			echo '	</span>';
+			echo '</div>';	
 		}
 	}
 	else
