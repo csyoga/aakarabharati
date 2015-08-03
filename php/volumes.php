@@ -45,8 +45,8 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									($isVolumePart) ? ( $volume = $row['volume'] AND $path = 'part.php?volume=' . $volume) : ( $volume = $row['part'] AND $path = 'toc.php?volume=' . $volume);
-									file_exists("Journals/" . $journalID . "/php/images/cover/" . $volume. ".jpg") ? $imageUrl = "Journals/" . $journalID . "/php/images/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
+									($isVolumePart) ? ( $volume = $row['volume'] AND $path = 'part.php?journalid=' . $journalID . '&amp;volume=' . $volume) : ( $volume = $row['part'] AND $path = 'toc.php?journalid=' . $journalID . '&amp;part=' . $volume . '&amp;isVolumePart=false&amp;volume=000');
+									file_exists("img/Journals/" . $journalID . "/cover/" . $volume. ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
 									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. intval($volume) .'</p></a>';
 								}
 							}
