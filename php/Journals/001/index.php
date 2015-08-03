@@ -156,10 +156,10 @@
 		<div id="sec_nav">
 					<ul class="actions">
 						<li><a href="index.php" class="button button-outline">ಮುಖಪುಟ</a></li>
-						<li><a href="php/volumes.php" class="button button-outline">ಸಂಪುಟ</a></li>
-						<li><a href="php/articles.php" class="button button-outline">ಲೇಖನ</a></li>
-						<li><a href="php/authors.php" class="button button-outline">ಲೇಖಕ</a></li>
-						<li><a href="php/search.php" class="button button-outline">ಹುಡುಕು</a></li>
+						<li><a href="../../volumes.php?journalid=001" class="button button-outline">ಸಂಪುಟ</a></li>
+						<li><a href="../../articles.php?journalid=001" class="button button-outline">ಲೇಖನ</a></li>
+						<li><a href="../../authors.php?journalid=001" class="button button-outline">ಲೇಖಕ</a></li>
+						<li><a href="../../search.php?journalid=001" class="button button-outline">ಹುಡುಕು</a></li>
 					</ul>
 		</div>
 	</div>
