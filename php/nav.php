@@ -60,12 +60,12 @@
 						<a href="Journals/index.html">ನಿಯತಕಾಲಿಕೆ</a>
 						<ul class="is-hidden">
 							<li class="see-all"><a href="Journals/index.html">ನಿಯತಕಾಲಿಕೆ</a></li>
-							<li><a href="Journals/sakshi/index.php">ಸಾಕ್ಷಿ</a></li>
-							<li><a href="Journals/samvada/index.php">ಸಂವಾದ</a></li>
-							<li><a href="Journals/maatukate/index.php">ಮಾತುಕತೆ</a></li>
-							<li><a href="Journals/pustakaprapancha/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
-							<li><a href="Journals/arivubaraha/index.php">ಅರಿವು ಬರಹ</a></li>
-							<li><a href="Journals/rangabhumi/index.php">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="Journals/001/index.php">ಸಾಕ್ಷಿ</a></li>
+							<li><a href="Journals/002/index.php">ಸಂವಾದ</a></li>
+							<li><a href="Journals/003/index.php">ಮಾತುಕತೆ</a></li>
+							<li><a href="Journals/004/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+							<li><a href="Journals/005/index.php">ಅರಿವು ಬರಹ</a></li>
+							<li><a href="Journals/006/index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
 							<li><a class="right" href="Journals/index.html">...ಮುಂದೆ</a></li>
