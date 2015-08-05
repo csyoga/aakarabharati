@@ -44,6 +44,7 @@ Form
 .cd-form {
   width: 50%;
   max-width: 600px;
+  min-height: 500px;
   float: right;
   display:inline-block;
   margin: 2em auto;
