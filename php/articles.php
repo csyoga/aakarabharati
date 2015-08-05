@@ -92,12 +92,12 @@
 				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a> |</span>';
 			}
 			
-			echo ($row['month'] != '') ? '		<span class="aFeature clr2">' . getMonth($row['month']) . '</a></span>' : '';
-			echo ($row['year'] != '') ? '		<span class="aFeature clr2">(' . $row['year'] . ')</a></span>' : '';
-			echo ($row['feature'] != '') ? '		<span class="aFeature clr2"> | <a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span>' : '';
-			echo '	</div>';
-			echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
-			echo '	<span class="aAuthor itl">';
+			echo ($row['month'] != '') ? '<span class="aFeature clr2">' . getMonth($row['month']) . '</a></span>' : '';
+			echo ($row['year'] != '') ? '<span class="aFeature clr2">(' . $row['year'] . ')</a></span>' : '';
+			echo ($row['feature'] != '') ? '<span class="aFeature clr2"> | <a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span>' : '';
+			echo '</div>';
+			echo '<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
+			echo '<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
 			foreach ($authors as $author)
 			{

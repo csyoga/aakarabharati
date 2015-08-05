@@ -37,7 +37,6 @@
 							$isVolumePart = true;
 							$row = $result->fetch_assoc();
 							($num_rows == 1 && strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM article WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
-							
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							
@@ -52,12 +51,12 @@
 							}
 							else
 							{
-								echo "No result Found<br />";
+								echo "No volume found in this journal<br />";
 							}
+							
 							if($result){$result->free();}
 							$db->close();
 							?>
-						
 					</div>
 			</div>
 	  </section>

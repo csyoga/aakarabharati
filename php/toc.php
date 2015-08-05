@@ -4,8 +4,8 @@
 	include("connect.php");
 	require_once("common.php");
 	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '';
-	(isset($_GET['part']) && $_GET['part'] != '') ? $part = $_GET['part'] : $part = '';	
 	(isset($_GET['volume']) && $_GET['volume'] != '') ? $volume = $_GET['volume'] : $volume = '';
+	(isset($_GET['part']) && $_GET['part'] != '') ? $part = $_GET['part'] : $part = '';	
 	(isset($_GET['isVolumePart']) && $_GET['isVolumePart'] != '') ? $isVolumePart = $_GET['isVolumePart'] : $isVolumePart = '';
 	
 	$query = "SELECT * FROM journaldetails WHERE id = '$journalID'";
@@ -30,9 +30,8 @@
 			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
 <?php
-	(strcmp($volume , '000') == 0 ) ? $subheading = 'ಸಂಪುಟ' : $subheading =  'ಸಂಪುಟ ' . intval($volume) . ' ಸಂಚಿಕೆ' ;
-	echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;' . $subheading . '&nbsp;'.intval($part) .'</div> ';
-	(strcmp($isVolumePart , 'false') != 0) ? $query = "SELECT * FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part' ORDER BY titleid" : $query = "SELECT * FROM article WHERE journalid = '$journalID' AND part = '$part' ORDER BY titleid";
+	($isVolumePart === 'true') ?($heading = '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . intval($volume) . ' ಸಂಚಿಕೆ ' . intval($part) . '</div> ' AND $query = "SELECT * FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part' ORDER BY titleid"): ($heading =  '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . intval($part) . '</div> ' AND $query = "SELECT * FROM article WHERE journalid = '$journalID' AND part = '$part' ORDER BY titleid");
+	echo $heading;
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 
