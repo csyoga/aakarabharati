@@ -84,6 +84,7 @@
 		$query = preg_replace('/ OR journalid = $/', '', $query);
 		$query .=' ORDER BY title';
 	}
+	
 	elseif($text!='')
 	{
 		$text = trim($text);
@@ -116,10 +117,11 @@
 		{
 			if($check[$ic] != '')
 			{
-				$query .= $check[$ic] . ' OR ';
+				$query .= $check[$ic] . ' OR journalid = ';
 			}
 		}
-		$query = preg_replace('/ OR $/', '', $query);
+		$query = preg_replace('/ OR journalid = $/', '', $query);
+		$query .=' ORDER BY title';
 		
 	}
 	
