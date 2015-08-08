@@ -170,7 +170,7 @@
 				<div class="page_title">&ldquo;ಮಾತುಕತೆ &rdquo; ...</div><br>
 			<p>ಮಾತುಕತೆ 1987ರಲ್ಲಿ ಪ್ರಾರಂಭವಾದ ನೀನಾಸಂನ ಒಂದು ವಾರ್ತಾ-ಪತ್ರಿಕೆ. ಇದು ನೀನಾಸಂನ ಚಟುವಟಿಕೆಗಳ ವರದಿಯೊಡನೆ ಪ್ರಮುಖ ಮತ್ತು ಉಪಯುಕ್ತ ಸಾಂಸ್ಕೃತಿಕ ತಂಡಗಳ ಬಗೆಗಿನ ವರದಿಗಳನ್ನೊಳಗೊಂಡ ಈ ತ್ರೈಮಾಸಿಕ ಪತ್ರಿಕೆಯನ್ನು ನೀನಾಸಂನ ಹಿತೈಷಿಗಳಿಗೆ ಹಾಗೂ ಕರ್ನಾಟಕ ಎಲ್ಲಾ ಭಾಗಗಳ ಚಂದಾದಾರರಿಗೆ ವಿತರಿಸಲಾಗುತ್ತದೆ. ಕಳೆದ ಐದು ವರ್ಷಗಳಲ್ಲಿ ಇದರ ಕಾರ್ಯವ್ಯಾಪ್ತಿಯು ವಿಸ್ತರಿಸಿದ್ದು, ಪ್ರಸ್ತುತ ಈ ಪತ್ರಿಕೆ ನೀನಾಸಂನ ವರದಿಯೊಡನೆ ಕೆಲ ವಿಶೇಷ ಸಂದರ್ಭಗಳಲ್ಲಿ ಅನೇಕ ಚಿಂತಕರು ನೀಡಿದ ಉಪನ್ಯಾಸಗಳ ಕನ್ನಡ ಅವತರಣಿಕೆಯನ್ನು, ಹಾಗೂ ವಿಶೇಷ ಬರಹಗಳನ್ನು ಪ್ರಕಟಿಸುತ್ತಿದೆ.</p>
 			<p>ಲೇಖನಗಳನ್ನು<a href="http://en.wikipedia.org/wiki/DjVu" target="_blank">ಡೆಜವೂ (DjVu) </a>ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ: <br>
-<a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank"><br /><img src="php/images/djvu_dl_pic.gif"  alt="djvu_image"></a></p>
+<a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank"><br /><img src="../../img/djvu_dl_pic.gif"  alt="djvu_image"></a></p>
 			</div>
 	  </section>
 	</main>

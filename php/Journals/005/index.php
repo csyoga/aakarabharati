@@ -158,7 +158,7 @@
 						<li><a href="../../volumes.php?journalid=005" class="button button-outline">ಸಂಪುಟ</a></li>
 						<li><a href="../../articles.php?journalid=005" class="button button-outline">ಲೇಖನ</a></li>
 						<li><a href="../../authors.php?journalid=005" class="button button-outline">ಲೇಖಕ</a></li>
-						<li><a href="../../search.php?journalid=005" class="button button-outline">ಲೇಖಕ</a></li>
+						<li><a href="../../search.php?journalid=005" class="button button-outline">ಹುಡುಕು</a></li>
 					</ul>
 		</div>
 	</div>
