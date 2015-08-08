@@ -28,7 +28,7 @@
 			<h2><?php echo $row['title']; ?></h2>
 			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
-				<div class="page_title"><i class="fa fa-book"></i> ಸಂಪುಟ <?php echo intval($volume)."ರ";?>&nbsp;ಸಂಚಿಕೆಗಳು</div>
+				<div class="page_title"><i class="fa fa-book"></i> ಸಂಪುಟ <?php echo getKannadaNumbers(intval($volume))."ರ";?>&nbsp;ಸಂಚಿಕೆಗಳು</div>
 					<div class="volumes">
 						<ul>
 			<div class="col1">
@@ -50,7 +50,7 @@ if($num_rows > 0)
 		$part = $row['part'];
 		$path = 'toc.php?journalid=' . $journalID . '&amp;volume=' . $volume . '&amp;part=' . $part . '&amp;isVolumePart=true';
 		file_exists("img/Journals/" . $journalID . "/cover/" . $volume. ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
-		echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಚಿಕೆ '. intval($part) .'</p></a>';
+		echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಚಿಕೆ '. getKannadaNumbers(intval($part)) .'</p></a>';
 	}
 }
 else

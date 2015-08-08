@@ -4,6 +4,7 @@
 	include("connect.php");
 	require_once("common.php");
 	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '';
+	(isset($_GET['letter']) && $_GET['letter'] != '') ? $letter = $_GET['letter'] : $letter = 'ಅ' ;
 	
 	$query = "SELECT * FROM journaldetails WHERE id = '$journalID'";
 	$result = $db->query($query);
@@ -64,7 +65,6 @@
 				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=Special\">#</a></span"; ?>>
 			</div>
 <?php
-	(isset($_GET['letter']) && $_GET['letter'] != '') ? $letter = $_GET['letter'] : $letter = 'ಅ' ;
 	$query = 'select * from article where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
@@ -78,23 +78,23 @@
 			$part = '';
 
 			$split = preg_split('/-/', $row['part']);
-			foreach($split as $pnum) $part .= intval($pnum) . '-'; 
+			foreach($split as $pnum) $part .= getKannadaNumbers(intval($pnum)) . '-'; 
 			$part = preg_replace('/-$/', '', $part);
 			if(strcmp($row['volume'] , '000') == 0)
 			{
 				$isVolumePart = 'false';
-				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a></span>';
+				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . $part . '</a></span>';
 			}
 			else
 			{
 				$isVolumePart = 'true';
-				echo '		<span class="aIssue clr5"><a href="part.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . intval($row['volume']) . '</a> |</span>';
-				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a> |</span>';
+				echo '		<span class="aIssue clr5"><a href="part.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . getKannadaNumbers(intval($row['volume'])) . '</a> |</span>';
+				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಚಿಕೆ ' . $part . '</a></span>';
 			}
+			echo ($row['feature'] != '') ? ' | <span class="aFeature clr2"><a href="feat.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'&amp;feature=' . $row['feature'] .'">' . $row['feature'] . '</a></span>' : '';
+			echo ($row['month'] != '') ? ' | <span class="aFeature clr2"> <a href="javascript:void()">' . getMonth($row['month']) . '</a></span>' : '';
+			echo ($row['year'] != '') ? ' <span class="aFeature clr2"><a href="javascript:void()">(' . getKannadaNumbers($row['year']) . ')</a></span>' : '';
 			
-			echo ($row['month'] != '') ? '<span class="aFeature clr2">' . getMonth($row['month']) . '</a></span>' : '';
-			echo ($row['year'] != '') ? '<span class="aFeature clr2">(' . $row['year'] . ')</a></span>' : '';
-			echo ($row['feature'] != '') ? '<span class="aFeature clr2"> | <a href="feat.php?feature='.$row['feature'].' ">' . $row['feature'] . '</a></span>' : '';
 			echo '</div>';
 			echo '<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
 			echo '<span class="aAuthor itl">';

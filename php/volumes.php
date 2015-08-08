@@ -46,7 +46,7 @@
 								{
 									($isVolumePart) ? ( $volume = $row['volume'] AND $path = 'part.php?journalid=' . $journalID . '&amp;volume=' . $volume) : ( $volume = $row['part'] AND $path = 'toc.php?journalid=' . $journalID . '&amp;part=' . $volume . '&amp;isVolumePart=false&amp;volume=000');
 									file_exists("img/Journals/" . $journalID . "/cover/" . $volume. ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
-									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. intval($volume) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. getKannadaNumbers(intval($volume)) .'</p></a>';
 								}
 							}
 							else

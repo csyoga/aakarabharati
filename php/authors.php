@@ -56,7 +56,7 @@
 			</div>
 -->
 <?php
-	$query = 'select distinct authorname from article where journalid = ' . $journalID . ' order by authorname ';
+	$query = 'select distinct authorname from article where journalid = ' . $journalID . ' order by authorname';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 
@@ -65,7 +65,7 @@
 		while($row = $result->fetch_assoc())
 		{
 			$author = json_decode($row['authorname']);
-			if($author[0]->name != '')
+			if($author[0]->name != NULL)
 			{
 				echo '<div class="author">';
 				echo '	<span class="aAuthor"><a href="auth.php?authorname=' . urlencode($author[0]->name) . '&amp;journalid=' . $journalID . '">' . $author[0]->name . '</a> ';

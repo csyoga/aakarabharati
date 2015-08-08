@@ -30,8 +30,40 @@
 			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
 <?php
-	($isVolumePart === 'true') ?($heading = '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . intval($volume) . ' ಸಂಚಿಕೆ ' . intval($part) . '</div> ' AND $query = "SELECT * FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part' ORDER BY titleid"): ($heading =  '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . intval($part) . '</div> ' AND $query = "SELECT * FROM article WHERE journalid = '$journalID' AND part = '$part' ORDER BY titleid");
-	echo $heading;
+	$part1 = $part;
+	$split = preg_split('/-/', $part);
+	foreach($split as $pnum) $part .= getKannadaNumbers(intval($pnum)) . '-'; 
+	$part = preg_replace('/-$/', '', $part);
+	
+	if($isVolumePart === 'true')
+	{
+		$query1 = "SELECT DISTINCT year, month FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY year";
+		$result = $db->query($query1);
+		$row = $result->fetch_assoc();
+		$year = $row['year'];
+		$month = $row['month'];
+		
+		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . getKannadaNumbers(intval($volume)) . ' ಸಂಚಿಕೆ ' . getKannadaNumbers(intval($part));
+		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
+		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
+		echo  '</div> ';
+		$query = "SELECT * FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY titleid";
+	}
+	else
+	{
+		$query1 = "SELECT DISTINCT year, month FROM article WHERE journalid = '$journalID' AND part = '$part1' ORDER BY year";
+		$result = $db->query($query1);
+		$row = $result->fetch_assoc();
+		$year = $row['year'];
+		$month = $row['month'];
+		
+		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . getKannadaNumbers(intval($part));
+		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
+		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
+		echo  '</div> ';
+		$query = "SELECT * FROM article WHERE journalid = '$journalID' AND part = '$part1' ORDER BY titleid";
+	}
+	
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 
@@ -40,7 +72,7 @@
 		while($row = $result->fetch_assoc())
 		{
 			echo '<div class="article">';
-			echo ($row['feature'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row['feature']) . '">' . $row['feature'] . '</a></span></div>' : '';
+			echo ($row['feature'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'&amp;feature=' . $row['feature'] .'">' . $row['feature'] . '</a></span></div>' : '';
 			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 			echo '	<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
@@ -55,10 +87,8 @@
 			echo '</div>';
 		}
 	}
-
 	if($result){$result->free();}
 	$db->close();
-
 ?>	
 		</div>
 	</div>
