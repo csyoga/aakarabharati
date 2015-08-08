@@ -25,41 +25,42 @@
 		<section id="about">
 			<h2>ಹುಡುಕು</h2>
 			<div id="about_p">
+				<form class="cd-form floating-labels" method="post" action="search-result.php">
 				<div id="check_box">
 					<table class="check_box">
 						<tr>
 							<td>
-								<input type="checkbox" name="check[]" value="sak" id="check_sak" checked/>&nbsp;<label for="check_sak">ಸಾಕ್ಷಿ</label><br />
-								<input type="checkbox" name="check[]" value="sam" id="check_sam" checked/>&nbsp;<label for="check_sam">ಸಂವಾದ</label><br />
-								<input type="checkbox" name="check[]" value="maa" id="check_maa" checked/>&nbsp;<label for="check_maa">ನೀನಾಸಮ್ ಮಾತುಕತೆ</label><br />
-								<input type="checkbox" name="check[]" value="pp" id="check_pp" checked/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
-								<input type="checkbox" name="check[]" value="ab" id="check_ab" checked/>&nbsp;<label for="check_ab">ಅರಿವು ಬರಹ</label><br />
-								<input type="checkbox" name="check[]" value="rb" id="check_rb" checked/>&nbsp;<label for="check_rb">ರಂಗಭೂಮಿ</label><br />
+								<input type="checkbox" name="check[]" value="001" id="check_sak" checked/>&nbsp;<label for="check_sak">ಸಾಕ್ಷಿ</label><br />
+								<input type="checkbox" name="check[]" value="002" id="check_sam" checked/>&nbsp;<label for="check_sam">ಸಂವಾದ</label><br />
+								<input type="checkbox" name="check[]" value="003" id="check_maa" checked/>&nbsp;<label for="check_maa">ನೀನಾಸಮ್ ಮಾತುಕತೆ</label><br />
+								<input type="checkbox" name="check[]" value="004" id="check_pp" checked/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
+								<input type="checkbox" name="check[]" value="005" id="check_ab" checked/>&nbsp;<label for="check_ab">ಅರಿವು ಬರಹ</label><br />
+								<input type="checkbox" name="check[]" value="006" id="check_rb" checked/>&nbsp;<label for="check_rb">ರಂಗಭೂಮಿ</label>
 							</td>
 						</tr>
 					</table>
 				</div>
-				<form class="cd-form floating-labels" method="get" action="search-result.php">
 		<fieldset>
-			
-			<legend>ಲೇಖಕರ ಹೆಸರು, ಪದ, ನಿಯತಕಾಲಿಕೆಯನ್ನು ತಿಳಿಸಿರಿ</legend>
-			<div class="icon">
-				<label class="cd-label" for="cd-name">ಲೇಖಕರ ಹೆಸರು</label>
-				<input class="user" type="text" name="author" id="cd-name">
-		    </div> 
+			<div class="fields">
+				<p class="issue">ಲೇಖಕರ ಹೆಸರು, ಪದ, ನಿಯತಕಾಲಿಕೆಯನ್ನು ತಿಳಿಸಿರಿ</p>
+				<div class="icon">
+					<label class="cd-label" for="cd-name">ಲೇಖಕರ ಹೆಸರು</label>
+					<input class="user" type="text" name="authorname" id="cd-name">
+				</div> 
 
-		    <div class="icon">
-		    	<label class="cd-label" for="cd-company">ಲೇಖನ</label>
-				<input class="company" type="text" name="title" id="cd-company">
-		    </div> 
+				<div class="icon">
+					<label class="cd-label" for="cd-company">ಲೇಖನ</label>
+					<input class="company" type="text" name="title" id="cd-company">
+				</div> 
 
-		    <div class="icon">
-		    	<label class="cd-label" for="cd-email">ಪದ</label>
-				<input class="email error" type="text" name="text" id="cd-email">
-		    </div>
-			<div>
-		      	<input class="company" type="submit" value="ಹುಡುಕು">
-		    </div>
+				<div class="icon">
+					<label class="cd-label" for="cd-email">ಪದ</label>
+					<input class="email error" type="text" name="text" id="cd-email">
+				</div>
+				<div>
+					<input class="company" type="submit" value="ಹುಡುಕು">
+				</div>
+			</div>
 		</fieldset>
 		</form>
 
