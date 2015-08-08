@@ -163,6 +163,17 @@ function getMonth($month)
 	
 	return $month;
 }
+function getKannadaNumbers($number)
+{
+	$digitKan = array('0' => '೦', '1' => '೧', '2' => '೨', '3' => '೩', '4' => '೪', '5' => '೫', '6' => '೬', '7' => '೭', '8' => '೮', '9' => '೯');
+	$digitEng = preg_split('//', $number, -1, PREG_SPLIT_NO_EMPTY);
+	$returnStr = '';
+	foreach ($digitEng as $dig)
+	{
+		$returnStr .= $digitKan[$dig];
+	}
+	return $returnStr;
+}
 function getMonth_part($month)
 {
 	$month = preg_replace('/01/', 'Jan', $month);
