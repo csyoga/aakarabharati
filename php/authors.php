@@ -28,33 +28,6 @@
 			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</div>
-<!--
-			<div class="alphabet">
-				<span class="letter"><a href="authors.php?letter=ಅ">ಅ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಆ">ಆ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಉ">ಉ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಊ">ಊ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಎ">ಎ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಕ">ಕ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಗ">ಗ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಚ">ಚ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಜ">ಜ</a></span>
-				<span class="letter"><a href="authors.php?letter=ತ">ತ</a></span>
-				<span class="letter"><a href="authors.php?letter=ದ">ದ</a></span>
-				<span class="letter"><a href="authors.php?letter=ನ">ನ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಪ">ಪ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಬ">ಬ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಭ">ಭ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಮ">ಮ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಯ">ಯ</a></span>
-				<span class="letter"><a href="authors.php?letter=ರ">ರ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಲ">ಲ</a></span>
-				<span class="letter"><a href="authors.php?letter=ವ">ವ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಶ">ಶ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಸ">ಸ</a></span>
-				<span class="letter"><a href="authors.php?letter=ಹ">ಹ</a></span>
-			</div>
--->
 <?php
 	$query = 'select distinct authorname from article where journalid = ' . $journalID . ' order by authorname';
 	$result = $db->query($query); 

@@ -43,7 +43,9 @@ if($num_rows > 0)
 			echo '<div class="article">';
 			echo '	<div class="gapBelowSmall">';
 			$part = '';
-
+			$page = preg_split('/-/', $row['page']);
+			$page_start = $page[0];
+			
 			$split = preg_split('/-/', $row['part']);
 			foreach($split as $pnum) $part .= intval($pnum) . '-'; 
 			$part = preg_replace('/-$/', '', $part);
@@ -64,7 +66,14 @@ if($num_rows > 0)
 			echo ($row['month'] != '') ? ' | <span class="aFeature clr2"> <a href="javascript:void()">' . getMonth($row['month']) . '</a></span>' : '';
 			echo ($row['year'] != '') ? ' <span class="aFeature clr2"><a href="javascript:void()">(' . getKannadaNumbers($row['year']) . ')</a></span>' : '';
 			echo '	</div>';
-			echo '	<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
+			if($isVolumePart === 'true')
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
+			else
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
 			echo '	<span class="aAuthor itl">';
 			echo '	</span>';
 			echo '</div>';

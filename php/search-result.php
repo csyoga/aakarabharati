@@ -144,7 +144,10 @@
 			$result2 = $db->query($query2) or die ("Query Failed "); 
 			$row2 = $result2->fetch_assoc();
 			$journalTitle = $row2['title'];
-					
+			
+			$page = preg_split('/-/', $row['page']);
+			$page_start = $page[0];
+			
 			echo '<div class="article">';
 			echo '<div class = "journalTitleSpan" ><a href="javascript:void()"><img src="img/'.$journalID.'.jpg"/></a></div>';
 			echo '	<div class="gapBelowSmall">';
@@ -171,7 +174,15 @@
 			echo ($row['year'] != '') ? ' <span class="aFeature clr2"><a href="javascript:void()">(' . getKannadaNumbers($row['year']) . ')</a></span>' : '';
 			
 			echo '</div>';
-			echo '<span class="aTitle"><a target="_blank" href="../../../../Volumes/'. 'sakshi'.'/'. $row['part'] . '/index.djvu?djvuopts&amp;page=.djvu&amp;zoom=page_start">' . $row['title'] . '</a></span><br />';
+			
+			if($isVolumePart === 'true')
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
+			else
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
 			echo '<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
 			foreach ($authors as $author)

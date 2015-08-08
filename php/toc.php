@@ -71,9 +71,19 @@
 	{
 		while($row = $result->fetch_assoc())
 		{
+			$page = preg_split('/-/', $row['page']);
+			$page_start = $page[0];
 			echo '<div class="article">';
 			echo ($row['feature'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'&amp;feature=' . $row['feature'] .'">' . $row['feature'] . '</a></span></div>' : '';
-			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			if($isVolumePart === 'true')
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
+			else
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/journals/' . $journalID . '/djvu/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
+			
 			echo '	<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
 			foreach ($authors as $author)
