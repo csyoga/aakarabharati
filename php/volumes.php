@@ -36,7 +36,7 @@
 							$num_rows = $result ? $result->num_rows : 0;
 							$isVolumePart = true;
 							$row = $result->fetch_assoc();
-							($num_rows == 1 && strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM article WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
+							(strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM article WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							
@@ -44,9 +44,25 @@
 							{
 								while($row = $result->fetch_assoc())
 								{
-									($isVolumePart) ? ( $volume = $row['volume'] AND $path = 'part.php?journalid=' . $journalID . '&amp;volume=' . $volume) : ( $volume = $row['part'] AND $path = 'toc.php?journalid=' . $journalID . '&amp;part=' . $volume . '&amp;isVolumePart=false&amp;volume=000');
+									$dvnum = '';
+									if($isVolumePart)
+									{
+										$volume = $row['volume'];
+										$path = 'part.php?journalid=' . $journalID . '&amp;volume=' . $volume;
+										$split = preg_split('/-/', $row['volume']);
+										foreach($split as $vnum) $dvnum .= getKannadaNumbers(intval($vnum)) . '-'; 
+										$dvnum = preg_replace('/-$/', '', $dvnum);
+									}
+									else
+									{
+										$volume = $row['part'];
+										$path = 'toc.php?journalid=' . $journalID . '&amp;part=' . $volume . '&amp;isVolumePart=false&amp;volume=000';
+										$split = preg_split('/-/', $row['part']);
+										foreach($split as $vnum) $dvnum .= getKannadaNumbers(intval($vnum)) . '-'; 
+										$dvnum = preg_replace('/-$/', '', $dvnum);
+									}
 									file_exists("img/Journals/" . $journalID . "/cover/" . $volume. ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
-									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. getKannadaNumbers(intval($volume)) .'</p></a>';
+									echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಪುಟ '. $dvnum .'</p></a>';
 								}
 							}
 							else

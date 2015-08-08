@@ -15,7 +15,7 @@
 	}
 	else
 	{
-		echo "<div class=\"center\">No Articles found. Please try again.</div>";
+		echo "<div class=\"center\">No Journals found. Please try again.</div>";
 		echo "</main>";
 		include("footer.php");
 		exit();
@@ -136,11 +136,6 @@
 			</div>
 	  </section>
 	</main>
-	<div id="cd-search" class="cd-search">
-		<form>
-			<input type="search" placeholder="Search...">
-		</form>
-	</div>
 <?php include("footer.php"); ?>
 	
 

@@ -31,7 +31,8 @@
 			<div id="about_p">
 <?php
 	$part1 = $part;
-	$split = preg_split('/-/', $part);
+	$part = '';
+	$split = preg_split('/-/', $part1);
 	foreach($split as $pnum) $part .= getKannadaNumbers(intval($pnum)) . '-'; 
 	$part = preg_replace('/-$/', '', $part);
 	
@@ -43,7 +44,7 @@
 		$year = $row['year'];
 		$month = $row['month'];
 		
-		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . getKannadaNumbers(intval($volume)) . ' ಸಂಚಿಕೆ ' . getKannadaNumbers(intval($part));
+		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . getKannadaNumbers(intval($volume)) . ' ಸಂಚಿಕೆ ' . $part;
 		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
 		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
 		echo  '</div> ';
@@ -57,7 +58,7 @@
 		$year = $row['year'];
 		$month = $row['month'];
 		
-		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . getKannadaNumbers(intval($part));
+		echo '<div class="page_title"><i class="fa fa-book"></i>&nbsp;&nbsp;ಸಂಪುಟ ' . $part;
 		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
 		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
 		echo  '</div> ';
@@ -106,11 +107,6 @@
 			</div>
 	  </section>
 	</main>
-	<div id="cd-search" class="cd-search">
-		<form>
-			<input type="search" placeholder="Search...">
-		</form>
-	</div>
 <?php include("footer.php"); ?>
 	
 

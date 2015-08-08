@@ -5,7 +5,8 @@
 	require_once("common.php");
 	
 	(isset($_GET['journalid']) && $_GET['journalid'] != '') ? $journalID = $_GET['journalid'] : $journalID = '';
-	if(isset($_GET['authorname'])){$authorname = $_GET['authorname'];}else{$authorname = '';}
+	(isset($_GET['authorname'])&& $_GET['authorname'] != '') ? $authorname = $_GET['authorname'] : $authorname = '';
+	
 	$query = "SELECT * FROM journaldetails WHERE id = '$journalID'";
 	$result = $db->query($query);
 	$num_rows = $result ? $result->num_rows : 0;
@@ -27,8 +28,6 @@
 			<h2><?php echo $row['title']; ?></h2>
 			<h4><br><?php echo $row['details']; ?></h4>
 			<div id="about_p">
-				
-			
 <?php
 $authorname = entityReferenceReplace($authorname);
 $query = "select * from article where authorname like '%" . $authorname. "%' and journalid = '" . $journalID . "'";
@@ -95,11 +94,4 @@ $db->close();
 			</div>
 	  </section>
 	</main>
-	<div id="cd-search" class="cd-search">
-		<form>
-			<input type="search" placeholder="Search...">
-		</form>
-	</div>
 <?php include("footer.php"); ?>
-	
-
