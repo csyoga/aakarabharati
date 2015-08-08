@@ -999,6 +999,9 @@ Main components
 .nav-is-fixed .cd-search {
   position: fixed;
 }
+.yearspan {
+	font-size: 0.75em;
+}
 @media only screen and (min-width: 1170px) {
   .cd-search {
     height: 120px;
@@ -1407,7 +1410,10 @@ ul.actions {
 .author .aAuthor{
   font-size: 16px;
 }
-
+.journalTitleSpan{
+	float: right;
+	margin : -10px -10px;
+}
 .year{
   margin: 30px 0 0 0;
   box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);

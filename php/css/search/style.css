@@ -41,13 +41,20 @@ a {
 Form
 
 -------------------------------- */
+#check_box {
+	width: 60%;
+	margin: 0px 0px 0px 200px;
+	text-align:left;
+}
+.fields {
+	float : right;
+	width: 60%;
+}
 .cd-form {
-  width: 50%;
-  max-width: 600px;
-  min-height: 500px;
-  float: right;
-  display:inline-block;
-  margin: 2em auto;
+	width: 80%;
+	min-height: 500px;
+	display:inline-block;
+	margin: 1em 2em 0em 0em;
 }
 .cd-form::after {
   clear: both;
@@ -326,13 +333,6 @@ FLoating labels
     top: 20px;
   }
 }
-
-#check_box {
-	width:60%;
-	margin: auto auto;
-	text-align:left;
-}
-
 
 #keyboard_holder {
 	font-family: 'kedage' !important;
