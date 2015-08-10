@@ -30,14 +30,17 @@
 					$title = addslashes($entry->title);
 					$feature = addslashes($entry->feature);
 					$page = $entry->page;
-					$authors = array();
+					$array = $authors = array();
 					$authorJson = '';
 					
 					foreach($entry->allauthors as $author)
 					{
-						$array['name'] = (string)$author->author;
-						$array['type'] = (string)$author->author['type'];
-						array_push($authors, $array);
+						if((string)$author->author != '')
+						{
+							$array['name'] = (string)$author->author;
+							$array['type'] = (string)$author->author['type'];
+							array_push($authors, $array);
+						}
 					}
 					$authorJson = json_encode($authors, JSON_UNESCAPED_UNICODE);
 					(strcmp($page, $prevPage) == 0 ) ? ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_' . ++$count) : ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_0' AND $count = 0);

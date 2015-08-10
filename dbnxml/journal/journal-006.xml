@@ -4364,9 +4364,7 @@
 				<title>ಸ್ವವಿಷಯ</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಸಂಗೀತ</title>
@@ -4412,9 +4410,7 @@
 				<title>ಅವರಿವರು ಏನೆನ್ನುವರು?</title>
 				<feature></feature>
 				<page>0016-0016</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಚಲನಚಿತ್ರಗಳ ವಿಮರ್ಶೆ</title>
@@ -4428,9 +4424,7 @@
 				<title>ಬಿಡಿನುಡಿಗಳು</title>
 				<feature></feature>
 				<page>0022-0022</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಭಾಸ ಮಹಾಕವಿ</title>
@@ -4526,9 +4520,7 @@
 				<title>ಬಿಡಿನುಡಿಗಳು</title>
 				<feature></feature>
 				<page>0031-0031</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ವಿಮರ್ಶೆ</title>
@@ -4896,9 +4888,7 @@
 				<title>ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ</title>
 				<feature>ಒಂದು ದೃಶ್ಯ</feature>
 				<page>0023-0023</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>ಭಾಸಮಹಾಕವಿ</title>
@@ -4954,9 +4944,7 @@
 				<title>ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ</title>
 				<feature></feature>
 				<page>0025-0025</page>
-				<allauthors>
-					<author type="01"></author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 		</part>
 		<part pnum="09" month="ಮೇ" year="1933" info="">
