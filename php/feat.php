@@ -67,14 +67,14 @@ if($num_rows > 0)
 		echo '</div>';
 		
 		if($isVolumePart === 'true')
-		{
-			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '&amp;zoom=page">' . $row['title'] . '</a></span><br />';
-		}
-		else
-		{
-			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '&amp;zoom=page">' . $row['title'] . '</a></span><br />';
-		}
-		
+if($isVolumePart === 'true')
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}
+			else
+			{
+				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			}		
 		echo '<span class="aAuthor itl">';
 		$authors = json_decode($row['authorname']);
 		foreach ($authors as $author)
