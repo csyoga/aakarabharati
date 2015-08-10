@@ -46,12 +46,12 @@ if($num_rows > 0)
 			$page_start = $page[0];
 			
 			$split = preg_split('/-/', $row['part']);
-			foreach($split as $pnum) $part .= intval($pnum) . '-'; 
+			foreach($split as $pnum) $part .= getKannadaNumbers(intval($pnum)) . '-'; 
 			$part = preg_replace('/-$/', '', $part);
 			if(strcmp($row['volume'] , '000') == 0)
 			{
 				$isVolumePart = 'false';
-				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . getKannadaNumbers($part) . '</a></span>';
+				echo '		<span class="aIssue clr5"><a href="toc.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'">ಸಂಪುಟ ' . $part . '</a></span>';
 			}
 			else
 			{
