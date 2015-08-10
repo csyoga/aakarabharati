@@ -72,7 +72,7 @@ if($num_rows > 0)
 		}
 		else
 		{
-			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 		}
 		
 		echo '<span class="aAuthor itl">';
