@@ -99,14 +99,21 @@
 			echo ($row['year'] != '') ? ' <span class="aFeature clr2"><a href="javascript:void()">(' . getKannadaNumbers($row['year']) . ')</a></span>' : '';
 			
 			echo '</div>';
-			if($isVolumePart === 'true')
-			{
-				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
-			}
-			else
-			{
-				echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
-			}
+			//~ Djvu Link
+			//~ echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			
+			//~ Bookreader Link
+			echo '	<span class="aTitle"><a target="_blank" href="bookReader.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part=' . $row['part'] . '&amp;page=' . $page_start . '">' . $row['title'] . '</a></span><br />';
+			
+			
+			//~ if($isVolumePart === 'true')
+			//~ {
+				//~ echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			//~ }
+			//~ else
+			//~ {
+				//~ echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+			//~ }
 			echo '<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
 			foreach ($authors as $author)
