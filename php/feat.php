@@ -33,7 +33,7 @@
 <?php
 
 echo '<div class="page_title"><i class="fa fa-tag"></i>&nbsp;&nbsp;ಪ್ರಭೇದ&nbsp;'. $feature .'</div>   ';
-($isVolumePart === 'true') ? $query = 'SELECT * FROM article WHERE journalid = \'' . $journalID . '\'  AND feature regexp \'' . $feature . '\' order by  titleid' : $query = 'SELECT * FROM article WHERE journalid = \'' . $journalID . '\' AND feature regexp \'' . $feature . '\' order by  titleid' ;
+($isVolumePart === 'true') ? $query = 'SELECT * FROM article WHERE journalid = \'' . $journalID . '\'  AND feature regexp \'' . addslashes($feature) . '\' order by  titleid' : $query = 'SELECT * FROM article WHERE journalid = \'' . $journalID . '\' AND feature regexp \'' . $feature . '\' order by  titleid' ;
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 

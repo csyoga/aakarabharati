@@ -49,7 +49,7 @@ if($num_rows > 0)
 	{
 		$part = $row['part'];
 		$path = 'toc.php?journalid=' . $journalID . '&amp;volume=' . $volume . '&amp;part=' . $part . '&amp;isVolumePart=true';
-		file_exists("img/Journals/" . $journalID . "/cover/" . $volume. ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. ".jpg" : $imageUrl = "img/noimageavailable.jpg";
+		file_exists("img/Journals/" . $journalID . "/cover/" . $volume. "_" . $part . ".jpg") ? $imageUrl = "img/Journals/" . $journalID . "/cover/" . $volume. "_" . $part . ".jpg" : $imageUrl = "img/noimageavailable.jpg";
 		echo '<a class="box-shadow-outset" href="' . $path . '"><img src="' . $imageUrl . '" alt="Cover image"><p>ಸಂಚಿಕೆ '. getKannadaNumbers(intval($part)) .'</p></a>';
 	}
 }

@@ -62,7 +62,7 @@
 				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಶ&amp;journalid=$journalID\">ಶ</a></span>"; ?>
 				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಸ&amp;journalid=$journalID\">ಸ</a></span>"; ?>
 				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=ಹ&amp;journalid=$journalID\">ಹ</a></span>"; ?>
-				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=Special\">#</a></span"; ?>>
+				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=Special&amp;journalid=$journalID\">#</a></span"; ?>>
 			</div>
 <?php
 	$query = 'select * from article where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
