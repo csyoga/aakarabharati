@@ -1,17 +1,7 @@
 @import url('font-awesome.min.css');
 @font-face {
-  font-family: 'kedage';
-  font-style: normal;
-  font-weight: normal;
-  src: url('kedage.ttf') format('ttf');
-  unicode-range: U+3200 – U+3327;
-}
-@font-face {
-  font-family: 'gubbi';
-  font-style: normal;
-  font-weight: normal;
-  src: url('gubbi.ttf') format('ttf');
-  unicode-range: U+3200 – U+3327;
+  font-family: 'Kedage';
+  src: url('kedage.ttf');
 }
 
 /* -------------------------------- 
@@ -33,7 +23,7 @@ position: relative;
 
 body {
   font-size: 1.6rem;
-  font-family: sans-serif;
+  font-family: Kedage, sans-serif;
   color: #2e3233;
   background-color: #ffffff;
   margin: 0 0 100px;
@@ -47,7 +37,7 @@ body {
 a {
   color: #083967;
   text-decoration: none;
-  font-family: 'kedage';
+  font-family: Kedage;
 }
 
 img {
@@ -598,7 +588,7 @@ Main components
     display: inline-block;
     height: 80px;
     line-height: 80px;
-    font-family:'Nudi 05 k';
+    font-family: Kedage;
     padding: 0 10px;
     color: #FFFFFF;
     overflow: visible;
@@ -613,7 +603,7 @@ Main components
   }
   .cd-primary-nav > li > a.selected {
     color: #FFFFFF;
-    font-family:'Nudi 05 k';
+    font-family: Kedage;
     box-shadow: inset 0 -2px 0 #FFFFFF;
   }
   .cd-primary-nav .go-back, .cd-primary-nav .see-all {
@@ -1136,7 +1126,7 @@ About
 }
 #about_p {
 	width:80%;
-	font-family:'kedage';
+	font-family: Kedage;
 	margin-left:auto;
 	margin-right:auto;
 	padding-top:1em;
@@ -1146,19 +1136,19 @@ About
 #about h2 {
 
 	color:#8B0000;
-	font-family:'kedage';
+	font-family: Kedage;
 	font-size:1.9em;
 	padding:1em 0 1em 0;
 	text-align:center;
 }
 #about h4 {
-	font-family:'kedage';
+	font-family: Kedage;
 	color:#083967;
 	font-size:1.3em;
 	text-align:center;
 }
 #about p {
-	font-family:kedage;
+	font-family: Kedage;
 	padding-top:0.5em;
 	font-size: 1.12em;
 	line-height:1.5em;
@@ -1179,7 +1169,7 @@ About
 	#sec_nav {
 		width: 100%;
 		text-align: center;
-		font-family:'kedage';
+		font-family: Kedage;
 		padding-top:1em;
 		height: 20vh;
 		baseline:center !important;
@@ -1341,7 +1331,7 @@ ul.actions {
 				
 			}
 .alphabet {
-	font-family:'kedage';
+	font-family: Kedage;
 	width: 100%;
 	clear: both;
 	font-size:1.22em;
@@ -1491,7 +1481,7 @@ Intro
 .intro-text {
 	position:relative;
 	width:100%;
-	font-family:'kedage';
+	font-family: Kedage;
 	margin-top:30vh;
 	z-index:1000;
 }
@@ -1503,7 +1493,7 @@ Intro
 	text-align:center;
 	font-weight: 200;
 	font-size: 40px; 
-	font-family:'kedage';
+	font-family: Kedage;
 	line-height:1.1em;
 	letter-spacing:1.5px;
 	padding-top:30px;
@@ -1526,7 +1516,7 @@ Intro
 .intro-text p span {
 	color:#083967;
 	font-size: 24px;
-	font-family:'kedage';
+	font-family: Kedage;
 	letter-spacing:1px;
 	text-align:center;
 	font-weight: 200;

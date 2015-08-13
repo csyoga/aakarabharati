@@ -121,11 +121,7 @@
 					</li>
 				</ul>
 			</li>
-
 			<li><a href="ayama.html">ಆಯಾಮ</a></li>
-
-			
-
 			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
