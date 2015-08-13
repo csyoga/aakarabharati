@@ -86,6 +86,7 @@
 							<li><a href="index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
 							<li><a href="../005/index.php">ಅರಿವು ಬರಹ</a></li>
 							<li><a href="../006/index.php">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="../010/index.php">ಸಂಕುಲ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
 							<a class="right" href="../index.html">...ಮುಂದೆ</a>
@@ -208,7 +209,7 @@
 			<div class="left"><br /><p>ಮೋಹನ ಮೂರ್ತಿ<br />ಪ್ರೊಪರೈಟರ್, ಶಕ್ತಿ ಪ್ರೆಸ್, ಮೈಸೂರು.</p></div>
 			
 			<p>ಲೇಖನಗಳನ್ನು<a href="http://en.wikipedia.org/wiki/DjVu" target="_blank">ಡೆಜವೂ (DjVu) </a>ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ: <br>
-			<a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank"><br /><img src="php/images/djvu_dl_pic.gif"  alt="djvu_image"></a></p>
+			<a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank"><br /><img src="../../../php/img/djvu_dl_pic.gif"  alt="djvu_image"></a></p>
 			</div>
 	  </section>
 	</main>

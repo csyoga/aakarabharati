@@ -166,7 +166,7 @@
 
 		<section id="about">
 			<h2>ಸಂಕುಲ</h2>
-			<h4><br></h4>
+			<h4><br>ಸೃಜನಶೀಲ ಕಲೆಗಳ ದ್ವೈಮಾಸಿಕ</h4>
 	  </section>
 	</main>
 	<div id="cd-search" class="cd-search">
