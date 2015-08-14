@@ -116,13 +116,15 @@
 			//~ }
 			echo '<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
+			$displayAuthor = '';
 			foreach ($authors as $author)
 			{
 				if($author->name != '')
 				{
-					echo '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> ';
+					$displayAuthor .=  '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
 				}
 			}				
+			echo preg_replace('/\ \|\ $/', '', $displayAuthor);
 			echo '	</span>';
 			echo '</div>';	
 		}

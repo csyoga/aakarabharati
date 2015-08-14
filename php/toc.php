@@ -93,17 +93,19 @@
 				//~ echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/journals/' . $journalID . '/000/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $page_start . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 			//~ }
 			
-			echo '	<span class="aAuthor itl">';
+			echo '<span class="aAuthor itl">';
 			$authors = json_decode($row['authorname']);
+			$displayAuthor = '';
 			foreach ($authors as $author)
 			{
 				if($author->name != '')
 				{
-					echo '<a href="auth.php?journalid=' . $journalID . '&amp;authorname=' . $author->name . '&amp;volume=' . $row['volume'] . '">' . $author->name . '</a> ';
+					$displayAuthor .=  '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
 				}
 			}				
+			echo preg_replace('/\ \|\ $/', '', $displayAuthor);
 			echo '	</span>';
-			echo '</div>';
+			echo '</div>';	
 		}
 	}
 	if($result){$result->free();}

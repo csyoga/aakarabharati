@@ -33,12 +33,12 @@
 					$array = $authors = array();
 					$authorJson = '';
 					
-					foreach($entry->allauthors as $author)
+					foreach($entry->allauthors->author as $author)
 					{
-						if((string)$author->author != '')
+						if((string)$author != '')
 						{
-							$array['name'] = (string)$author->author;
-							$array['type'] = (string)$author->author['type'];
+							$array['name'] = (string)$author;
+							$array['type'] = (string)$author['type'];
 							array_push($authors, $array);
 						}
 					}
