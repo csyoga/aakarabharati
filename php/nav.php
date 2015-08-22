@@ -80,17 +80,16 @@
 							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
 							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
 							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><a class="right" href="Journals/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
 						</ul>
 						<br />
 						<a href="article_list/index.html">ಬಿಡಿ ಬರಹ</a>
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-							<li><a class="right" href="article_list/index.html">...ಮುಂದೆ</a></li>
+							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- article_list/index.html -->
 						</ul>
 					</li>
-
 					<li class="has-children">
 						<a href="article_list/index.html">ಲೇಖನ</a>
 
@@ -110,14 +109,14 @@
 						<a href="Journals/index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
-							<li><a href="">ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ</a></li>
-							<li><a href="">ಸುವ್ರತ</a></li>
-							<li><a href="">ಮಕ್ಕಳ ಕಲಿಕೆಯ ವಸ್ತುಪಾಠಗಳು</a></li>
-							<li><a href="">ತಮಿಳ ಮೊದಲ ಪುಸ್ತಕ</a></li>
-							<li><a href="">ಭಾಷಾಮಂಜರಿ</a></li>
-							<li><a href="">ಗಣಿತಾರ್ಣವ</a></li>
-							<li><a href="Journals/index.html">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
-							<li><a class="right" href="Journals/index.html">...ಮುಂದೆ</a></li>
+							<li><a href="#">ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ</a></li>
+							<li><a href="#">ಸುವ್ರತ</a></li>
+							<li><a href="#">ಮಕ್ಕಳ ಕಲಿಕೆಯ ವಸ್ತುಪಾಠಗಳು</a></li>
+							<li><a href="#">ತಮಿಳ ಮೊದಲ ಪುಸ್ತಕ</a></li>
+							<li><a href="#">ಭಾಷಾಮಂಜರಿ</a></li>
+							<li><a href="#">ಗಣಿತಾರ್ಣವ</a></li>
+							<li><a href="">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li> <!-- Journals/index.html -->
+							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
 						</ul>
 					</li>
 				</ul>
