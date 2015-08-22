@@ -7,18 +7,10 @@ Imports
 @import url('dlmenu.css');
 @import url('animate.css');
 @font-face {
-  font-family: 'Kedage-wf';
-  src: url('Kedage-n.ttf');
+  font-family: 'Kedage';
+  src: url('../fonts/kedage.ttf');
  }
-@font-face {
-  font-family: 'gubbi';
-  src: url('gubbi.ttf');
- }
- @font-face {
- font-family:"Nudi 05 k";
- src:url("Nudi_05_k.eot?") format("eot"),url("Nudi_05_k.woff") format("woff"),url("Nudi_05_k.ttf") format("truetype"),url("Nudi_05_k.svg#Nudi05k") format("svg");
- font-weight:normal;
- font-style:normal;}
+
 /* ================================
 General
 ================================ */

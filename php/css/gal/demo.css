@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 @font-face {
   font-family: 'Kedage';
-  src: url("../intermediate/kedage.ttf");
+  src: url("../fonts/kedage.ttf");
   unicode-range: U+3200 – U+3327;
 }
 html { height: 100%; }

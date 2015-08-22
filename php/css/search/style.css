@@ -2,8 +2,7 @@
   font-family: 'kedage';
   font-style: normal;
   font-weight: normal;
-  src: url('../intermediate/kedage.ttf') format('ttf');
-  unicode-range: U+3200 – U+3327;
+  src: url('../fonts/kedage.ttf');
 }
 
 

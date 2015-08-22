@@ -15,7 +15,7 @@ Primary style
 
 body {
   font-size: 100%;
-  font-family: "Open Sans", sans-serif;
+  font-family: Kedage, sans-serif;
   color: #4e5359;
   background-color: #f3f3f5;
 }
@@ -367,10 +367,9 @@ header p {
 }
 .cd-faq-group .cd-faq-title h2 {
   text-transform: uppercase;
-  font-size: 12px;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   font-weight: 700;
-  color: #bbbbc7;
+  color: #8B0000;
 }
 .no-js .cd-faq-group {
   display: block;

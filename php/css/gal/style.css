@@ -3,12 +3,12 @@
 /* Entypo Icon Font */
 @font-face {
   font-family: 'entypo-selected';
-  src: url("font/entypo-selected.eot");
+  src: url("../font/entypo-selected.eot");
   src: 
-	  url("font/entypo-selected.eot?#iefix") format('embedded-opentype'), 
-	  url("font/entypo-selected.woff") format('woff'), 
-	  url("font/entypo-selected.ttf") format('truetype'), 
-	  url("font/entypo-selected.svg#entypo-selected") format('svg');
+	  url("../font/entypo-selected.eot?#iefix") format('embedded-opentype'), 
+	  url("../font/entypo-selected.woff") format('woff'), 
+	  url("../font/entypo-selected.ttf") format('truetype'), 
+	  url("../font/entypo-selected.svg#entypo-selected") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -320,7 +320,7 @@ button.gamma-btn-sspause:before {
 .main_audio, .main_gallery{
 	font-weight: bold;
 	text-align: center;
-	color: #083967;
+	color: #8B0000;
 }
 
 .main_gallery{
