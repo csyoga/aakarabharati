@@ -3,8 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="css/intermediate/font-awesome.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/intermediate/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/intermediate/font-awesome.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/intermediate/style.css"> <!-- Resource style -->
 	<link rel="shortcut icon" href="img/favicon.ico">	
 	<script src="js/intermediate/modernizr.js"></script> <!-- Modernizr -->

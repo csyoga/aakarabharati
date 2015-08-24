@@ -96,13 +96,14 @@ a:hover {
 .menu-toc li a {
 	display: block;
 	color: #fff;
-	font-size: 1.1em;
-	line-height: 3.5;
+	font-size: 1em;
+	line-height: 1.8;
 	padding: 0 20px;
 	cursor: pointer;
 	background: #083967;
 	border-bottom: 1px solid #083967;
 	font-family:'Kedage';
+	margin-bottom: 0.75em;
 }
 
 .menu-toc li a:hover,

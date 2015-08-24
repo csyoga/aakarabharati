@@ -12,3 +12,11 @@ echo "Journal Details Insertion.......";
 php insertJournalDetails.php $host $db $usr $pwd
 echo "Journals Article Insertion.......";
 php insertJournalArticle.php $host $db $usr $pwd
+
+#~ Removing Journal entries having id's 006 - 009 and 011 
+echo "DELETE FROM article WHERE journalid REGEXP '00[6-9]' OR journalid = '011'" | /usr/bin/mysql -u$usr -p$pwd $db
+
+#~Below permissions are used by bookreader
+sudo chown -R www-data:www-data Volumes
+sudo chmod 777 php/bookreader/temples/apache.manifest
+sudo chown -R www-data:www-data php/bookreader
