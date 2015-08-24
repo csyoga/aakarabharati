@@ -65,10 +65,11 @@
 				<?php echo "<span class=\"letter\"><a href=\"articles.php?letter=Special&amp;journalid=$journalID\">#</a></span"; ?>>
 			</div>
 <?php
+	
 	$query = 'select * from article where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
-
+	
 	if($num_rows > 0)
 	{
 		while($row = $result->fetch_assoc())

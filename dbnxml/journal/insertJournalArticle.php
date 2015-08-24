@@ -31,18 +31,27 @@
 					$feature = addslashes($entry->feature);
 					$page = $entry->page;
 					$array = $authors = array();
-					$authorJson = '';
+					$authorJson = '[';
+	
+					
 					
 					foreach($entry->allauthors->author as $author)
 					{
+						
 						if((string)$author != '')
 						{
-							$array['name'] = (string)$author;
-							$array['type'] = (string)$author['type'];
-							array_push($authors, $array);
+							//~ $array['name'] = (string)$author;
+							//~ $array['type'] = (string)$author['type'];
+							//~ array_push($authors, $array);
+							$authorJson .= '{"name":' . '"' . (string)$author . '" ,' . '"type":' . '"' . (string)$author['type'] . '"} , ';
 						}
+						
 					}
-					$authorJson = json_encode($authors, JSON_UNESCAPED_UNICODE);
+					
+					$authorJson = preg_replace('/ , $/', '', $authorJson);
+					$authorJson = $authorJson . ']';
+					
+					//~ $authorJson = json_encode($authors);
 					(strcmp($page, $prevPage) == 0 ) ? ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_' . ++$count) : ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_0' AND $count = 0);
 					$prevPage =  $page;
 					$query = "INSERT INTO article VALUES('$journalID', '$vnum', '$pnum', '$year', '$month', '$title', '$feature', '$page', '$authorJson', '$info', '$titleid')";
