@@ -151,7 +151,7 @@
 			$page_start = $page[0];
 			
 			echo '<div class="article">';
-			echo '<div class = "journalTitleSpan" ><a href="javascript:void()"><img src="img/Journals/' . $journalID . '/' . $journalID . '.jpg"/></a></div>';
+			echo '<div class = "journalTitleSpan" ><a href="Journals/' . $journalID . '/index.php"><img src="img/Journals/' . $journalID . '/' . $journalID . '.jpg"/></a></div>';
 			echo '	<div class="gapBelowSmall">';
 			$part = '';
 
