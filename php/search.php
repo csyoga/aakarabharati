@@ -7,6 +7,8 @@
 	<link rel="stylesheet" href="css/intermediate/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/intermediate/style.css"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/search/style.css">
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script src="js/input_method.js"></script>
 	<script src="js/index/modernizr.js"></script> <!-- Modernizr -->
 	<title>ಆಕರಭಾರತಿ</title>
 </head>
@@ -43,7 +45,10 @@
 				</div>
 		<fieldset>
 			<div class="fields">
+<!--
 				<p class="issue">ಲೇಖಕರ ಹೆಸರು, ಪದ, ನಿಯತಕಾಲಿಕೆಯನ್ನು ತಿಳಿಸಿರಿ</p>
+-->
+				<p class="issue">ಲೇಖಕರ ಹೆಸರು, ನಿಯತಕಾಲಿಕೆಯನ್ನು ತಿಳಿಸಿರಿ</p>
 				<div class="icon">
 					<label class="cd-label" for="cd-name">ಲೇಖಕರ ಹೆಸರು</label>
 					<input class="user" type="text" name="authorname" id="cd-name">
@@ -54,10 +59,12 @@
 					<input class="company" type="text" name="title" id="cd-company">
 				</div> 
 
+<!--
 				<div class="icon">
 					<label class="cd-label" for="cd-email">ಪದ</label>
 					<input class="email error" type="text" name="text" id="cd-email">
 				</div>
+-->
 				<div>
 					<input class="company" type="submit" value="ಹುಡುಕು">
 				</div>
