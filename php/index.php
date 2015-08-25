@@ -31,7 +31,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="brand">
-								<h1><a href="index.html"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
+								<h1><a href="index.php"> ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಬೌದ್ಧಿಕ ಇತಿಹಾಸ</a></h1>
 								<div class="line-spacer"></div>
 								<p><span>ಭಾರತದ ಬೌದ್ಧಿಕ ಸಂಸ್ಕೃತಿಗೊಂದು ದರ್ಪಣ</span></p><br />
 							</div>
