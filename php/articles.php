@@ -66,7 +66,7 @@
 			</div>
 <?php
 	
-	$query = 'select * from article where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
+	$query = 'select * from journals where journalid = ' . $journalID . ' and title like \'' . $letter . '%\' order by title, part, page';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 	

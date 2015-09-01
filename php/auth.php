@@ -30,7 +30,7 @@
 			<div id="about_p">
 <?php
 $authorname = entityReferenceReplace($authorname);
-$query = "select * from article where authorname like '%" . addslashes($authorname). "%' and journalid = '" . $journalID . "'";
+$query = "select * from journals where authorname like '%" . addslashes($authorname). "%' and journalid = '" . $journalID . "'";
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 

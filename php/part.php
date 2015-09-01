@@ -37,7 +37,7 @@
 <?php
 
 $row_count = 4;
-$query = "select distinct part from article where journalid = '$journalID' and volume ='$volume' order by volume";
+$query = "select distinct part from journals where journalid = '$journalID' and volume ='$volume' order by volume";
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 $count = 0;

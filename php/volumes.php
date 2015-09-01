@@ -31,12 +31,12 @@
 					<div class="volumes">
 						
 							<?php
-							$query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
+							$query = "SELECT DISTINCT volume FROM journals WHERE journalid = '$journalID'";
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							$isVolumePart = true;
 							$row = $result->fetch_assoc();
-							(strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM article WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM article WHERE journalid = '$journalID'";
+							(strcmp($row['volume'], '000') == 0) ? ($query = "SELECT DISTINCT part FROM journals WHERE journalid = '$journalID'" AND $isVolumePart = false) : $query = "SELECT DISTINCT volume FROM journals WHERE journalid = '$journalID'";
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
 							

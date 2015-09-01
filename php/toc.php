@@ -38,7 +38,7 @@
 	
 	if($isVolumePart === 'true')
 	{
-		$query1 = "SELECT DISTINCT year, month FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY year";
+		$query1 = "SELECT DISTINCT year, month FROM journals WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY year";
 		$result = $db->query($query1);
 		$row = $result->fetch_assoc();
 		$year = $row['year'];
@@ -48,11 +48,11 @@
 		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
 		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
 		echo  '</div> ';
-		$query = "SELECT * FROM article WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY titleid";
+		$query = "SELECT * FROM journals WHERE journalid = '$journalID' AND volume = '$volume' AND part = '$part1' ORDER BY titleid";
 	}
 	else
 	{
-		$query1 = "SELECT DISTINCT year, month FROM article WHERE journalid = '$journalID' AND part = '$part1' ORDER BY year";
+		$query1 = "SELECT DISTINCT year, month FROM journals WHERE journalid = '$journalID' AND part = '$part1' ORDER BY year";
 		$result = $db->query($query1);
 		$row = $result->fetch_assoc();
 		$year = $row['year'];
@@ -62,7 +62,7 @@
 		if($month != '') echo ' <span class="yearspan">' . getMonth($month) . ', </span>';
 		if($year != '') echo ' <span class="yearspan">' . getKannadaNumbers(intval($year)) . '</span>';
 		echo  '</div> ';
-		$query = "SELECT * FROM article WHERE journalid = '$journalID' AND part = '$part1' ORDER BY titleid";
+		$query = "SELECT * FROM journals WHERE journalid = '$journalID' AND part = '$part1' ORDER BY titleid";
 	}
 	
 	$result = $db->query($query); 

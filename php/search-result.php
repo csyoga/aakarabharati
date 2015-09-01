@@ -69,7 +69,7 @@
 	
 	$query = "SELECT * FROM 
 				(SELECT * FROM
-					(SELECT * FROM article $authorFilter) AS tb1
+					(SELECT * FROM journals $authorFilter) AS tb1
 				$titleFilter) AS tb2 WHERE journalid = ";
 	
 	if($text=='')
