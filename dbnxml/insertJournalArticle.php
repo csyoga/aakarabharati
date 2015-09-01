@@ -1,4 +1,5 @@
 <?php
+	echo "Journals Article Insertion.......\n";
 	$host = $argv[1];
 	$database = $argv[2];
 	$user = $argv[3];
@@ -12,7 +13,7 @@
 	while($row = mysql_fetch_array($result))
 	{
 		$journalID = $row['id'];
-		file_exists('journal-' . $journalID . '.xml') ? $xmlObj = simplexml_load_file('journal-' . $journalID . '.xml') : exit("Failed to open journal-" . $journalID . ".xml. \n");
+		file_exists('journal/journal-' . $journalID . '.xml') ? $xmlObj = simplexml_load_file('journal/journal-' . $journalID . '.xml') : exit("Failed to open journal/journal-" . $journalID . ".xml. \n");
 	
 		foreach($xmlObj->volume as $volume)
 		{
@@ -32,9 +33,7 @@
 					$page = $entry->page;
 					$array = $authors = array();
 					$authorJson = '[';
-	
-					
-					
+				
 					foreach($entry->allauthors->author as $author)
 					{
 						
@@ -54,7 +53,7 @@
 					//~ $authorJson = json_encode($authors);
 					(strcmp($page, $prevPage) == 0 ) ? ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_' . ++$count) : ($titleid = 'id_' . $journalID . '_' . $vnum . '_' .$pnum . '_' . $page . '_0' AND $count = 0);
 					$prevPage =  $page;
-					$query = "INSERT INTO article VALUES('$journalID', '$vnum', '$pnum', '$year', '$month', '$title', '$feature', '$page', '$authorJson', '$info', '$titleid')";
+					$query = "INSERT INTO journals VALUES('$journalID', '$vnum', '$pnum', '$year', '$month', '$title', '$feature', '$page', '$authorJson', '$info', '$titleid')";
 					mysql_query($query) or die("Query Problem" . mysql_error());
 				}
 			}
