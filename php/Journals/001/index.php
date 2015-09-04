@@ -131,12 +131,12 @@
 						<a href="../index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
-							<li><a href="">ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ</a></li>
-							<li><a href="">ಸುವ್ರತ</a></li>
-							<li><a href="">ಮಕ್ಕಳ ಕಲಿಕೆಯ ವಸ್ತುಪಾಠಗಳು</a></li>
-							<li><a href="">ತಮಿಳ ಮೊದಲ ಪುಸ್ತಕ</a></li>
-							<li><a href="">ಭಾಷಾಮಂಜರಿ</a></li>
-							<li><a href="">ಗಣಿತಾರ್ಣವ</a></li>
+							<li><a href="../../booktoc.php?bookid=001">ಸಾಮಾಜಿಕ ಸಂಶೋಧನ ವಿಧಾನಗಳು</a></li>
+							<li><a href="../../booktoc.php?bookid=020">ಜಮಾಖರ್ಚಿನ ಪದ್ಧತಿ</a></li>
+							<li><a href="../../booktoc.php?bookid=022">ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
+							<li><a href="../../booktoc.php?bookid=037">ಶ್ರೀಮನ್ಮಹಾರಾಜರವರ ವಂಶಾವಳಿ</a></li>
+							<li><a href="../../booktoc.php?bookid=048">ರಘುನಾಥಸಿಂಹ</a></li>
+							<li><a href="../../booktoc.php?bookid=038">ಗಣಿತಾರ್ಣವ</a></li>
 							<li><a href="">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
 						<a class="right" href="../index.html">...ಮುಂದೆ</a>
 						</ul>
