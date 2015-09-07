@@ -123,7 +123,7 @@
 							<li><a href="booktoc.php?bookid=048">ರಘುನಾಥಸಿಂಹ</a></li>
 							<li><a href="booktoc.php?bookid=038">ಗಣಿತಾರ್ಣವ</a></li>
 							<li><a href="javascript:void()">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li> <!-- Journals/index.html -->
-							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
+							<li><a class="right" href="bookslist.php">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
 						</ul>
 					</li>
 				</ul>
