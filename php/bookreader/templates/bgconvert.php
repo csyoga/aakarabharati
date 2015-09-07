@@ -1,35 +1,66 @@
 <?php
-	
-	$index = $_GET['index'];
-	$journalid = $_GET['journalid'];
-	$volume = $_GET['volume'];
-	$part = $_GET['part'];
-	$imgurl = $_GET['imgurl'];
-	$reduce = round($_GET['level']);
-	$book = $_POST['book'];
-	$img = preg_split("/\./",$book[$index]);
-	$mode = $_GET['mode'];
-	//~ header('Content-type: application/json');
-	
-	if($reduce == 1)
+	if(isset($_GET['journalid']) && $_GET['journalid'] != '')
 	{
-		$imgurl = "../../../Volumes/jpg/journals/1/".$journalid."/".$volume."/".$part;
-		$scale = 2100;
-		$djvurl = "../../../Volumes/djvu/journals/".$journalid."/".$volume."/".$part;
-		$tifurl = "../../../Volumes/tif/journals/".$journalid."/".$volume."/".$part;
-		//~ if(!file_exists($imgurl."/".$img[0].".jpg") && round((time() - filemtime($imgurl))/60) > 8)
+		$index = $_GET['index'];
+		$journalid = $_GET['journalid'];
+		$volume = $_GET['volume'];
+		$part = $_GET['part'];
+		$imgurl = $_GET['imgurl'];
+		$reduce = round($_GET['level']);
+		$book = $_POST['book'];
+		$img = preg_split("/\./",$book[$index]);
+		$mode = $_GET['mode'];
 		
-		if(!file_exists($tifurl."/".$img[0].".tif"))
+		if($reduce == 1)
 		{
-			$cmd = "ddjvu -format=tif ".$djvurl."/".$img[0].".djvu ".$tifurl."/".$img[0].".tif";
-			exec($cmd);
-		}
-		if(!file_exists($imgurl."/".$img[0].".jpg"))
-		{
-			$cmd="convert $tifurl/".$img[0].".tif -resize x".$scale." $imgurl/".$img[0].".jpg";
-			exec($cmd);
+			$imgurl = "../../../Volumes/jpg/journals/1/".$journalid."/".$volume."/".$part;
+			$scale = 2100;
+			$djvurl = "../../../Volumes/djvu/journals/".$journalid."/".$volume."/".$part;
+			$tifurl = "../../../Volumes/tif/journals/".$journalid."/".$volume."/".$part;
+			//~ if(!file_exists($imgurl."/".$img[0].".jpg") && round((time() - filemtime($imgurl))/60) > 8)
+			
+			if(!file_exists($tifurl."/".$img[0].".tif"))
+			{
+				$cmd = "ddjvu -format=tif ".$djvurl."/".$img[0].".djvu ".$tifurl."/".$img[0].".tif";
+				exec($cmd);
+			}
+			if(!file_exists($imgurl."/".$img[0].".jpg"))
+			{
+				$cmd="convert $tifurl/".$img[0].".tif -resize x".$scale." $imgurl/".$img[0].".jpg";
+				exec($cmd);
+			}
 		}
 	}
+	elseif(isset($_GET['bookid']) && $_GET['bookid'] != '')
+	{
+		$index = $_GET['index'];
+		$bookid = $_GET['bookid'];
+		$imgurl = $_GET['imgurl'];
+		$reduce = round($_GET['level']);
+		$book = $_POST['book'];
+		$img = preg_split("/\./",$book[$index]);
+		$mode = $_GET['mode'];
+		
+		if($reduce == 1)
+		{
+			$imgurl = "../../../Volumes/jpg/books/1/" . $bookid;
+			$scale = 2100;
+			$djvurl = "../../../Volumes/djvu/books/" . $bookid;
+			$tifurl = "../../../Volumes/tif/books/" . $bookid;
+			
+			if(!file_exists($tifurl."/".$img[0].".tif"))
+			{
+				$cmd = "ddjvu -format=tif ".$djvurl."/".$img[0].".djvu ".$tifurl."/".$img[0].".tif";
+				exec($cmd);
+			}
+			if(!file_exists($imgurl."/".$img[0].".jpg"))
+			{
+				$cmd="convert $tifurl/".$img[0].".tif -resize x".$scale." $imgurl/".$img[0].".jpg";
+				exec($cmd);
+			}
+		}
+	}
+	
 	$array['id'] = "#pagediv".$index;
 	$array['mode'] = $mode;
 	$array['img'] = $imgurl."/".$img[0].".jpg";
