@@ -149,7 +149,16 @@ Main components
     left: 4em;
   }
 }
-
+.archive_holder{
+	line-height: 2em;
+}
+#about_p ul{
+	list-style-type: none;
+	margin-left: 2em;
+}
+.bpointer{
+	margin-right: .5em;
+}
 .cd-header-buttons {
   position: absolute;
   display: inline-block;
@@ -174,7 +183,9 @@ Main components
     right: 4em;
   }
 }
-
+.dnone{
+	display: none;
+}
 .cd-search-trigger, .cd-nav-trigger {
   position: relative;
   display: block;
@@ -294,7 +305,30 @@ Main components
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
-
+.cd-member-info {
+  height: 80px;
+  background: #FFF;
+  text-align: center;
+  font-family: "Droid Sans", sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+  border-radius: 0 0 .25em .25em;
+}
+.cd-member-info span {
+  display: block;
+  font-family: "Droid Serif", serif;
+  font-weight: normal;
+  line-height:1.5em;
+  color: #8B0000;
+  font-size: 16px;
+  margin-top: 0.5em;
+  
+}
+.books a {
+	display:inline-block;
+	height:210px !important;
+	padding: 0em !important;
+}
 .cd-nav-trigger span, .cd-nav-trigger span::before, .cd-nav-trigger span::after {
   /* hamburger icon in CSS */
   position: absolute;
@@ -1134,11 +1168,10 @@ About
 }
 	
 #about h2 {
-
 	color:#8B0000;
 	font-family: Kedage;
 	font-size:1.9em;
-	padding:1em 0 1em 0;
+	padding:1em 0 0em 0;
 	text-align:center;
 }
 #about h4 {
@@ -1310,9 +1343,36 @@ ul.actions {
 		.volumes p {
 			text-align:center !important;
 		}
+.books {
+	width:100%;
+/*
+	border: 1px solid red;
+*/
+	min-height:400px;
+	overflow: hidden;
+}
+.books .overlay{
+	width : 190px;
+	float : left;
+	margin : 20px 10px 10px 65px;
+	border-radius: 10px 10px 5px 5px;
+	text-align: center;
+	border: 6px solid #f3f3f5;
+}
+.books .overlay:hover{
+box-shadow: 1px 2px 3px rgba(34, 25, 25, 0.3);	
+}
+.books .overlay img{
+	height : 215px;
+	padding : 20px 0px 0px 0px;
+	border : 1px solid #FFF;
+}
 	.box-shadow-outset {
 		  display: inline-block;
 		}
+	.box-shadow-outset p{
+		width : 100px;
+	}
 		.box-shadow-outset img{
 			
 		  border: 6px solid #f3f3f5;
@@ -1391,6 +1451,10 @@ ul.actions {
   line-height: 1.5;
   min-height: 30px;
   border-left: 1px solid #be0709;
+}
+.bookauthorspan{
+  font-size: 17px;
+  font-weight: 8px;
 }
 
 .author:hover{

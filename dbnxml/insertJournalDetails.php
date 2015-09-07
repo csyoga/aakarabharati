@@ -1,4 +1,5 @@
 <?php
+	echo "Journal Details Insertion.......\n";
 	$host = $argv[1];
 	$database = $argv[2];
 	$user = $argv[3];
@@ -11,7 +12,7 @@
 	mysql_query("DROP TABLE IF EXISTS journaldetails");
 	mysql_query("CREATE TABLE journaldetails (id varchar(5), title varchar(100), period varchar(20), details varchar(300), primary key(id)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 	
-	file_exists('journals_details.xml') ? $xmlObj = simplexml_load_file('journals_details.xml') : exit("Failed to open journals_details.xml");
+	file_exists('journal/journals_details.xml') ? $xmlObj = simplexml_load_file('journal/journals_details.xml') : exit("Failed to open journals_details.xml");
 	
 	foreach($xmlObj->journal as $journal)
 	{

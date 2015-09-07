@@ -29,7 +29,7 @@
 			<div id="about_p">
 				<div class="page_title"><i class="fa fa-pencil"></i>&nbsp;&nbsp;ಲೇಖಕರು</div>
 <?php
-	$query = 'select distinct authorname from article where journalid = ' . $journalID . ' order by authorname';
+	$query = 'select distinct authorname from journals where journalid = ' . $journalID . ' order by authorname';
 	$result = $db->query($query); 
 	$num_rows = $result ? $result->num_rows : 0;
 

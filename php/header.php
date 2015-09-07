@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="css/intermediate/font-awesome.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/intermediate/style.css"> <!-- Resource style -->
 	<link rel="shortcut icon" href="img/favicon.ico">	
+	<script type="text/javascript" src="js/treeview.js"></script>
 	<script src="js/intermediate/modernizr.js"></script> <!-- Modernizr -->
 	<title>ಆಕರಭಾರತಿ</title>
 </head>
