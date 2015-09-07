@@ -80,8 +80,8 @@
 					{
 						$level = $row['level'];
 						$title = $row['title'];
-						$page = $row['page'];
-						$title = '<span class="aTitle"><a target="_blank" href="">' . $row['title'] . '</a></span>';
+						$page = preg_split('/-/',$row['page']);
+						$title = '<span class="aTitle"><a target="_blank" href="bookReader.php?bookid=' . $bookid . '&page=' . $page[0] . '">' . $row['title'] . '</a></span>';
 						if($row['authorname'] != '')
 						{
 							$title .= '<br/>';

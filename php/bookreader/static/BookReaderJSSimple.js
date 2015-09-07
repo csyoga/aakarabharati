@@ -32,20 +32,36 @@ br.getPageURI = function(index, reduce, rotate) {
 		level = 2;
 	}
 	
-	
-	if(level == 1)
+	if(this.book.bookid != undefined)
 	{
-		//~  to display loading popup
-		br.showProgressPopup('<img id="searchmarker" src="'+this.imagesBaseURL + 'marker_srch-on.png'+'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...');
-		$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalid="+book.journalid+"&volume="+book.volume+"&imgurl="+book.imgurl+"&mode="+this.mode+"&part="+book.part, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
-		return br.imagesBaseURL + "transparent.png";
+		if(level == 1)
+		{
+			//~  to display loading popup
+			br.showProgressPopup('<img id="searchmarker" src="'+this.imagesBaseURL + 'marker_srch-on.png'+'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...');
+			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookid="+book.bookid+"&imgurl="+book.imgurl+"&mode="+this.mode, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
+			return br.imagesBaseURL + "transparent.png";
+		}
+		else
+		{
+			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&bookid="+book.bookid+"&imgurl="+book.imgurl+"&mode="+this.mode, async: true , data : {book:this.book.imglist}});
+			return book.imgurl+"/"+book.imglist[index]
+		}
 	}
-	else
+	else if(this.book.journalid != undefined)
 	{
-		$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalid="+book.journalid+"&volume="+book.volume+"&imgurl="+book.imgurl+"&mode="+this.mode+"&part="+book.part, async: true , data : {book:this.book.imglist}});
-		return book.imgurl+"/"+book.imglist[index]
+		if(level == 1)
+		{
+			//~  to display loading popup
+			br.showProgressPopup('<img id="searchmarker" src="'+this.imagesBaseURL + 'marker_srch-on.png'+'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...');
+			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalid="+book.journalid+"&volume="+book.volume+"&imgurl="+book.imgurl+"&mode="+this.mode+"&part="+book.part, async: true , success :function(data){br.updater(data);} , data : {book:this.book.imglist}});
+			return br.imagesBaseURL + "transparent.png";
+		}
+		else
+		{
+			$.ajax({type: "POST", url: "../templates/bgconvert.php?level="+level+"&index="+index+"&journalid="+book.journalid+"&volume="+book.volume+"&imgurl="+book.imgurl+"&mode="+this.mode+"&part="+book.part, async: true , data : {book:this.book.imglist}});
+			return book.imgurl+"/"+book.imglist[index]
+		}	
 	}
-	
 }
 br.updater = function(result) {
 	//~  to remove popup of image loading

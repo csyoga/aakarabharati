@@ -16,41 +16,79 @@
     <script type="text/javascript" src="../static/BookReader/BookReader.js"></script>
     
     <?php
-		$journalid = $_GET['journalid'];
-		$volume = $_GET['volume'];
-		$part = $_GET['part'];
-		$page = $_GET['pagenum'].".jpg";
-		$book = array();
-		if(isset($_GET['searchText']) && $_GET['searchText'] != "")
+		if(isset($_GET['bookid']) && $_GET['bookid'] != '')
 		{
-			$search = $_GET['searchText'];
-			$book["searchText"] = $search;
-		}
-		$djvurl = "../../../Volumes/djvu/journals/".$journalid."/".$volume."/".$part;
-		$imgurl = "../../../Volumes/jpg/journals/2/".$journalid."/".$volume."/".$part;
-		
-		$djvulist=scandir($djvurl);
-		
-		$cmd='';
-		for($i=0;$i<count($djvulist);$i++)
-		{
-			if($djvulist[$i] != '.' && $djvulist[$i] != '..' && preg_match('/(\.djvu)/' , $djvulist[$i]) && !preg_match('/(index\.djvu)/' , $djvulist[$i]))
+			$bookid = $_GET['bookid'];
+			$page = $_GET['pagenum'].".jpg";
+			$book = array();
+			if(isset($_GET['searchText']) && $_GET['searchText'] != "")
 			{
-				$img = preg_split("/\./",$djvulist[$i]);
-				$book["imglist"][$i]= $img[0].".jpg";
+				$search = $_GET['searchText'];
+				$book["searchText"] = $search;
 			}
+			$djvurl = "../../../Volumes/djvu/books/".$bookid;
+			$imgurl = "../../../Volumes/jpg/books/2/".$bookid;
+			
+			$djvulist=scandir($djvurl);
+			
+			$cmd='';
+			for($i=0;$i<count($djvulist);$i++)
+			{
+				if($djvulist[$i] != '.' && $djvulist[$i] != '..' && preg_match('/(\.djvu)/' , $djvulist[$i]) && !preg_match('/(index\.djvu)/' , $djvulist[$i]))
+				{
+					$img = preg_split("/\./",$djvulist[$i]);
+					$book["imglist"][$i]= $img[0].".jpg";
+				}
+			}
+		
+			$book["imglist"]=array_values($book["imglist"]);
+			$book["Title"] = "ಆಕರಭಾರತಿ";
+			$book["TotalPages"] = count($book["imglist"]);
+			$book["SourceURL"] = "";
+			$result = array_keys($book["imglist"], $page);
+			$book["pagenum"] = $result[0];
+			$book["bookid"] = $bookid;
+			$book["imgurl"] = $imgurl;
 		}
-	
-		$book["imglist"]=array_values($book["imglist"]);
-		$book["Title"] = "ಆಕರಭಾರತಿ";
-		$book["TotalPages"] = count($book["imglist"]);
-		$book["SourceURL"] = "";
-		$result = array_keys($book["imglist"], $page);
-		$book["pagenum"] = $result[0];
-		$book["journalid"] = $journalid;
-		$book["volume"] = $volume;
-		$book["part"] = $part;
-		$book["imgurl"] = $imgurl;
+		elseif(isset($_GET['journalid']) && $_GET['journalid'] != '')
+		{
+			$journalid = $_GET['journalid'];
+			$volume = $_GET['volume'];
+			$part = $_GET['part'];
+			$page = $_GET['pagenum'].".jpg";
+			$book = array();
+			if(isset($_GET['searchText']) && $_GET['searchText'] != "")
+			{
+				$search = $_GET['searchText'];
+				$book["searchText"] = $search;
+			}
+			$djvurl = "../../../Volumes/djvu/journals/".$journalid."/".$volume."/".$part;
+			$imgurl = "../../../Volumes/jpg/journals/2/".$journalid."/".$volume."/".$part;
+			
+			$djvulist=scandir($djvurl);
+			
+			$cmd='';
+			for($i=0;$i<count($djvulist);$i++)
+			{
+				if($djvulist[$i] != '.' && $djvulist[$i] != '..' && preg_match('/(\.djvu)/' , $djvulist[$i]) && !preg_match('/(index\.djvu)/' , $djvulist[$i]))
+				{
+					$img = preg_split("/\./",$djvulist[$i]);
+					$book["imglist"][$i]= $img[0].".jpg";
+				}
+			}
+		
+			$book["imglist"]=array_values($book["imglist"]);
+			$book["Title"] = "ಆಕರಭಾರತಿ";
+			$book["TotalPages"] = count($book["imglist"]);
+			$book["SourceURL"] = "";
+			$result = array_keys($book["imglist"], $page);
+			$book["pagenum"] = $result[0];
+			$book["journalid"] = $journalid;
+			$book["volume"] = $volume;
+			$book["part"] = $part;
+			$book["imgurl"] = $imgurl;
+		}
+		
     ?>
 <script type="text/javascript">
 	var book = <?php echo json_encode($book); ?>;
