@@ -10,12 +10,13 @@
 	mysql_query("set names utf8");
 	
 	mysql_query("DROP TABLE IF EXISTS bookdetails");
-	mysql_query("CREATE TABLE bookdetails (id varchar(5), title varchar(100), author varchar(200), details varchar(300), publisher varchar(300), primary key(id)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
+	mysql_query("CREATE TABLE bookdetails (id varchar(5), title varchar(100),sstitle varchar(500), author varchar(200), details varchar(300), publisher varchar(300), primary key(id)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 	file_exists('books/book-details.xml') ? $xmlObj = simplexml_load_file('books/book-details.xml') : exit("Failed to open books/book-details.xml");
 	
 	foreach($xmlObj->book as $book)
 	{
 		$bookid = $book['id'];
+		$sstitle = $book['sstitle'];
 		$title = addslashes($book->title);
 		$i = 0 ;
 		$array = $authors = array();
@@ -40,7 +41,7 @@
 		$detailsJson .= '"page":"' . (string)$book->details->pages . '"}]';
 		
 		$publisher = (string)$book->publisher;
-		$query = "INSERT INTO bookdetails VALUES('$bookid', '$title', '$authorJson', '$detailsJson' , '$publisher')";
+		$query = "INSERT INTO bookdetails VALUES('$bookid', '$title', '$sstitle', '$authorJson', '$detailsJson' , '$publisher')";
 		mysql_query($query) or die("Query Problem \n" . mysql_error());
 	}
 ?>

@@ -19,10 +19,9 @@
 		for($i = 0; $i < sizeof($lines); $i++)
 		{
 			$line = $lines[$i];
-			if(preg_match("/\<book id=\"(.*)\" sstitle=\"(.*)\">/", $line, $matches))
+			if(preg_match("/\<book id=\"(.*)\">/", $line, $matches))
 			{
 				$bookID = $matches[1];
-				$sstitle = addslashes($matches[2]);
 			}
 			elseif(preg_match("/\<s(.*) page=\"(.*)\" title=\"(.*)\" author=\"(.*)\">/", $line, $matches))
 			{
@@ -30,7 +29,7 @@
 				$page = $matches[2];
 				$title = addslashes($matches[3]);
 				$author = addslashes($matches[4]);
-				$query = "INSERT INTO books VALUES('$bookID', '$sstitle', '$level', '$page', '$title', '$author')";
+				$query = "INSERT INTO books VALUES('$bookID', '$level', '$page', '$title', '$author')";
 				mysql_query($query) or die("Query Problem" . mysql_error());
 			}
 			
