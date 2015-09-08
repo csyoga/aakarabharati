@@ -74,12 +74,12 @@
 					</li>
 
 					<li class="has-children">
-						<a href="Journals/index.html">ಸಮಗ್ರ ಸಾಹಿತ್ಯ</a>
+						<a href="javascript:void()">ಸಮಗ್ರ ಸಾಹಿತ್ಯ</a>
 
 						<ul class="is-hidden">
-							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
-							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
-							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
+							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ")?>">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
+							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಫ. ಗು. ಹಳಕಟ್ಟಿ ")?>">ಫ. ಗು. ಹಳಕಟ್ಟಿ</a></li>
+							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ")?>">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
 							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
 						</ul>
 						<br />
@@ -106,7 +106,7 @@
 						
 					</li>
 					<li class="has-children">
-						<a href="Journals/index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
+						<a href="bookslist.php">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
 <!--
