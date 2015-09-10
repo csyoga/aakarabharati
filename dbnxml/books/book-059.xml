@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+
+<book id="059">
+	<s1 page="0003-0003" title="ಹೊಸ ಮುನ್ನುಡಿ" author="ಡಿ. ವಿ. ಗುಂಡಪ್ಪ"></s1>
+	<s1 page="0004-0004" title="ಮುನ್ನುಡಿ" author="ಬೆಳ್ಳಾವೆ ವೆಂಕಟನಾರಾಯಣಪ್ಪ"></s1>
+	<s1 page="0005-0005" title="ವಿಜ್ಞಾಪನೆ" author="ಡಿ. ವಿ. ಗುಂಡಪ್ಪ"></s1>
+	<s1 page="0007-0022" title="ಮೊದಲನೆಯ ಭಾಗ" author="ಡಿ. ವಿ. ಗುಂಡಪ್ಪ">
+		<s2 page="0007-0008" title="ಸರಳರಿಗೆ" author=""></s2>
+		<s2 page="0009-0010" title="`ಜೀವಗೀತೆ'ಯ ಪ್ರಸ್ತಾವನೆ" author=""></s2>
+		<s2 page="0011-0017" title="ಜೀವಗೀತೆ" author=""></s2>
+		<s2 page="0017-0017" title="ಸರ್ವಮತ ಸಿದ್ಧಾಂತ" author=""></s2>
+		<s2 page="0018-0018" title="`ಆತ್ಮಗೀತೆ'ಯ ಪ್ರಸ್ತಾವನೆ" author=""></s2>
+		<s2 page="0019-0020" title="ಆತ್ಮಗೀತೆ" author=""></s2>
+		<s2 page="0021-0021" title="ದೇವರೆಲ್ಲಿ ?" author=""></s2>
+		<s2 page="0022-0022" title="ಬೇಡಿಕೆ" author=""></s2>
+	</s1>
+	<s1 page="0023-0048" title="ಎರಡನೆಯ ಭಾಗ" author="ಡಿ. ವಿ. ಗುಂಡಪ್ಪ">
+		<s2 page="0023-0023" title="ವಂದೇ ಮಾತರಂ" author=""></s2>
+		<s2 page="0025-0025" title="ರಾಮಕೃಷ್ಣ ಪರಮಹಂಸ" author=""></s2>
+		<s2 page="0027-0027" title="ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್" author=""></s2>
+		<s2 page="0029-0031" title="ದಾದಾಭಾಯಿ ನವರೋಜಿ" author=""></s2>
+		<s2 page="0033-0033" title="ಗೋಪಾಲ ಕೃಷ್ಣ ಗೋಖಲೆ" author=""></s2>
+		<s2 page="0035-0035" title="ವಿವೇಕಾನಂದ ಸ್ವಾಮಿ" author=""></s2>
+		<s2 page="0037-0037" title="ಬಾಲಗಂಗಾಧರ ತಿಲಕರು" author=""></s2>
+		<s2 page="0039-0039" title="ರವೀಂದ್ರನಾಥ್ ಠಾಕೂರ್" author=""></s2>
+		<s2 page="0041-0041" title="ಜಗದೀಶ ಚಂದ್ರ ಬೋಸ್" author=""></s2>
+		<s2 page="0043-0043" title="ಮೋಕ್ಷಗುಂಡಂ ವಿಶ್ವೇಶ್ವರಯ್ಯ" author=""></s2>
+		<s2 page="0045-0045" title="ಮೋಹನದಾಸ್ ಕರಮಚಂದ್ ಗಾಂಧಿ" author=""></s2>
+		<s2 page="0047-0047" title="ಶ್ರೀ ಕೃಷ್ಣರಾಜೇಂದ್ರ ಒಡೆಯರವರು" author=""></s2>
+		<s2 page="0048-0048" title="ದೇಶಭಕ್ತ ಪ್ರತಿಜ್ಞೆ" author=""></s2>
+	</s1>
+</book>
