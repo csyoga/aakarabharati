@@ -17,7 +17,7 @@ php insertBookArticle.php $host $db $usr $pwd
 
 
 #~ Removing Journal entries having id's 006 - 009 and 011 
-echo "DELETE FROM journals WHERE journalid REGEXP '00[6-9]' OR journalid = '011'" | /usr/bin/mysql -u$usr -p$pwd $db
+echo "DELETE FROM journals WHERE journalid REGEXP '00[7-9]' OR journalid = '011'" | /usr/bin/mysql -u$usr -p$pwd $db
 
 #~ sudo chown -R www-data:www-data Volumes
 #~ sudo chmod 777 php/bookreader/temples/apache.manifest

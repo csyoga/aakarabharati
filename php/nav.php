@@ -65,7 +65,7 @@
 							<li><a href="Journals/003/index.php">ಮಾತುಕತೆ</a></li>
 							<li><a href="Journals/004/index.php">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
 							<li><a href="Journals/005/index.php">ಅರಿವು ಬರಹ</a></li>
-							<li><a href="#">ರಂಗಭೂಮಿ</a></li>
+							<li><a href="Journals/006/index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="Journals/010/index.php">ಸಂಕುಲ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
