@@ -128,7 +128,43 @@
 					</li>
 				</ul>
 			</li>
+<!--
 			<li><a href="ayama.html">ಆಯಾಮ</a></li>
+-->			<li class="has-children">
+				<a href="#">ಬಹುಮಾದ್ಯಾಮ</a>
+
+				<ul class="cd-nav-gallery is-hidden">
+					<li class="go-back"><a href="#0">Menu</a></li>
+					<li class="see-all"><a href="">ಗ್ಯಾಲರಿ</a></li>
+					<li>
+						<a class="cd-nav-item" href="">
+							<img src="img/gal/collage.png" alt="Product Image"><br/>
+							<h3>ಚಿತ್ರ #1</h3>
+						</a>
+					</li>
+
+					<li>
+						<a class="cd-nav-item" href="">
+							<img src="img/gal/collage.png" alt="Product Image"><br/>
+							<h3>ಚಿತ್ರ #2</h3>
+						</a>
+					</li>
+
+					<li>
+						<a class="cd-nav-item" href="">
+							<img src="img/gal/collage.png" alt="Product Image"><br/>
+							<h3>ಚಿತ್ರ #3</h3>
+						</a>
+					</li>
+
+					<li>
+						<a class="cd-nav-item" href="">
+							<img src="img/gal/collage.png" alt="Product Image"><br/>
+							<h3>ಚಿತ್ರ #4</h3>
+						</a>
+					</li>
+				</ul>
+			</li>
 			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
