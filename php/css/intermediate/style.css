@@ -35,7 +35,9 @@ body {
 }
 
 a {
+/*
   color: #083967;
+*/
   text-decoration: none;
   font-family: Kedage;
 }
@@ -1593,9 +1595,6 @@ Intro
 	color:#8b0000 !important;
 }
 
-
-
-
 .about_ul{
 	text-align: justify;
 	font-size: 0.9em;
@@ -1608,3 +1607,30 @@ Intro
 .about_ul li{
 	list-style-type: disc;
 }
+
+.itl{
+	font-style: italic;
+}
+
+.article .aTitle a, .article .aTitle a:visited{
+	color: #8B0000;
+}	
+
+.article .aAuthor a, .article .aAuthor a:visited{
+	color: #2C5773;
+	font-weight: bold;
+}	
+
+.author .aAuthor a, .article .aAuthor a:visited{
+	color: #2C5773;
+	font-weight: bold;
+}	
+
+.article .aFeature a, .article .aFeature a:visited{
+	color: #248AAF;
+}	
+
+.article .aIssue a, .article .aIssue a:visited{
+	color: #665555;
+}	
+
