@@ -1626,6 +1626,11 @@ Intro
 	font-weight: bold;
 }	
 
+.bookauthorspan a, .bookauthorspan a:visited{
+	color: #2C5773;
+	font-weight: bold;
+}	
+
 .article .aFeature a, .article .aFeature a:visited{
 	color: #248AAF;
 }	
