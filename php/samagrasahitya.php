@@ -24,7 +24,7 @@
 								{
 									file_exists("img/books/" . $row['id'] . ".jpg") ? $imageUrl = "img/books/" . $row['id'] . ".jpg" : $imageUrl = "img/noimageavailable.jpg";
 									echo '<div class="overlay"> ';
-									echo '<img src="' . $imageUrl . '" alt="Books Cover image"/><br/>';
+									echo '<a href="booktoc.php?bookid=' . $row['id'] . '"><img src="' . $imageUrl . '" alt="Books Cover image"/></a><br/>';
 									echo '<div class="cd-member-info"><a style="display:block;" href="booktoc.php?bookid=' . $row['id'] . '"><span>' . $row['title'] . '</span></a></div>';
 									echo '</div>';
 								}
