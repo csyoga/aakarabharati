@@ -88,7 +88,7 @@
 							$authors = preg_split('/;/',$row['authorname']);
 							for($i = 0; $i < count($authors); $i++)
 							{
-								$title .= '&nbsp;-&nbsp;<a href="auth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a> | ';
+								$title .= '&nbsp;-&nbsp;<span class="aAuthor itl"><a href="auth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a></span> | ';
 							}
 							$title = preg_replace('/\ \|\ $/', '', $title);
 						}
