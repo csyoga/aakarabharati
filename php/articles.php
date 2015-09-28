@@ -132,7 +132,7 @@
 	}
 	else
 	{
-		echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in saakshi</span>';
+		echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\'</span>';
 	}
 
 	if($result){$result->free();}

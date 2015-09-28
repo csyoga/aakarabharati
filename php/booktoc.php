@@ -45,7 +45,7 @@
 	$info .= 'ಭಾಗ  '. intval($infoarray[0]['part']) . ' | ';
 	
 	if($infoarray[0]['year'] != '')
-	$info .= intval($infoarray[0]['year']) . ' | ';
+	$info .= getKannadaNumbers($infoarray[0]['year']) . ' | ';
 	
 	if($infoarray[0]['page'] != '')
 	$info .= intval($infoarray[0]['page']) . ' | ';
