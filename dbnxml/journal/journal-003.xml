@@ -454,7 +454,7 @@
 				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0008-00013</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ವೆಂಕಟಗಿರಿ ಬೇದೂರು</author>
+					<author type="02">ವೆಂಕಟಗಿರಿ ಬೇದೂರು</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -649,7 +649,7 @@
 				<page>0003-0006</page> 
 				<allauthors>
 					<author type="01">ಪ್ರಸನ್ನ</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -728,7 +728,7 @@
 				<page>0002-0004</page> 
 				<allauthors>
 					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -737,7 +737,7 @@
 				<page>0004-0007</page> 
 				<allauthors>
 					<author type="01">ಪ್ರಸನ್ನ</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -746,7 +746,7 @@
 				<page>0007-0007</page> 
 				<allauthors>
 					<author type="01">ಬರ್ಟೋಲ್ಟ್ ಬ್ರೆಕ್ಟ್</author>
-					<author type="01">(ಅನು)ಮಾಲತಿ ಎಸ್</author>
+					<author type="02">ಮಾಲತಿ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -852,7 +852,7 @@
 				<feature>ಕವನ - ವೊಯ್‌ಜೆಕ್</feature>
 				<page>0015-0016</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -969,7 +969,7 @@
 				<page>0002-0006</page> 
 				<allauthors>
 					<author type="01">ಪ್ರಸನ್ನ</author>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -977,7 +977,7 @@
 				<feature></feature>
 				<page>0007-0007</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1069,7 +1069,7 @@
 				<feature></feature>
 				<page>0002-0016</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1118,7 +1118,7 @@
 				<page>0022-0022</page> 
 				<allauthors>
 					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1141,7 +1141,7 @@
 				<page>0029-0031</page> 
 				<allauthors>
 					<author type="01">ಇಯಾನ್‌ಕಾಟ್</author>
-					<author type="01">(ಅನು)ಜೆ.ಜೆ</author>
+					<author type="02">ಜೆ.ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1180,7 +1180,7 @@
 				<page>0021-0027</page> 
 				<allauthors>
 					<author type="01">ಕುರಿಯನ್ ವಿ</author>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1284,7 +1284,7 @@
 				<feature></feature>
 				<page>0020-0036</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1383,7 +1383,7 @@
 				<page>0003-0013</page> 
 				<allauthors>
 					<author type="01">ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
-					<author type="01">(ಅನು)ಜೆ. ಜೆ</author>
+					<author type="02">ಜೆ. ಜೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1400,7 +1400,7 @@
 				<page>0021-0031</page> 
 				<allauthors>
 					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1430,7 +1430,7 @@
 				<feature></feature>
 				<page>0001-0040</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1512,7 +1512,7 @@
 				<page>0002-0017</page> 
 				<allauthors>
 					<author type="01">ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
-					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1560,7 +1560,7 @@
 				<page>0005-0036</page> 
 				<allauthors>
 					<author type="01">ರಾಮಾನುಜನ್ ಎ. ಕೆ, ಡಾ||</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1619,7 +1619,7 @@
 				<page>0020-0024</page> 
 				<allauthors>
 					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1650,7 +1650,7 @@
 				<page>0018-0033</page> 
 				<allauthors>
 					<author type="01">ಕೊಠಾರಿ ಡಿ. ಎಸ್, ಪ್ರೊ.</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1721,7 +1721,7 @@
 				<page>0033-0050</page> 
 				<allauthors>
 					<author type="01">ಅನುರಾಧಾ ಕಪೂರ ಡಾ||</author>
-					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1821,7 +1821,7 @@
 				<feature>ಉಪನ್ಯಾಸ/ಭಾಷಣ</feature>
 				<page>0003-0014</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1839,7 +1839,7 @@
 				<page>0019-0027</page> 
 				<allauthors>
 					<author type="01">ಶಂಭುಮಿತ್ರ, ದಿ.</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1949,7 +1949,7 @@
 				<page>0006-0044</page> 
 				<allauthors>
 					<author type="01">ಮಾರ್ಕ್ ಲಿಂಡ್‌ಲೆ</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1958,7 +1958,7 @@
 				<page>0045-0059</page> 
 				<allauthors>
 					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2006,7 +2006,7 @@
 				<page>0011-0013</page> 
 				<allauthors>
 					<author type="01">ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ</author>
-					<author type="01">(ಅನು)ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
+					<author type="02">ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2072,7 +2072,7 @@
 				<page>0003-0014</page> 
 				<allauthors>
 					<author type="01">ರುಸ್ತುಂ ಭರೂಚ</author>
-					<author type="01">(ಅನು)ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ., ಡಾ||</author>
+					<author type="02">ಮುರಾರಿ ಬಲ್ಲಾಳ ನಿ., ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2081,7 +2081,7 @@
 				<page>0015-0032</page> 
 				<allauthors>
 					<author type="01">ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾದವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾದವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2101,7 +2101,7 @@
 				<page>0001-0009</page> 
 				<allauthors>
 					<author type="01">ರಾಮಚಂದ್ರ ಗುಹಾ</author>
-					<author type="01">(ಅನು)ಮಾಧವ ಐತಾಳ</author>
+					<author type="02">ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2110,7 +2110,7 @@
 				<page>0010-0038</page> 
 				<allauthors>
 					<author type="01">ಕ್ಲಾಡ್ ಆಲ್ವಾರೆಸ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2256,7 +2256,7 @@
 				<page>0018-0045</page> 
 				<allauthors>
 					<author type="01">ಸುನಿಲ್ ಸಹಸ್ರಬುದ್ಧೆ</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2265,7 +2265,7 @@
 				<page>0046-0051</page> 
 				<allauthors>
 					<author type="01">ಸದಾನಂದ ಮೆನೋನ್</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2298,7 +2298,7 @@
 				<page>0003-0071</page> 
 				<allauthors>
 					<author type="01">ಷೆಲ್ಡನ್ ಪೊಲಾಕ್</author>
-					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2351,8 +2351,8 @@
 				<page>0016-0032</page> 
 				<allauthors>
 					<author type="01">ರವೀಂದ್ರನಾಥ ಟಾಗೋರ</author>
-					<author type="01">(ಅನು)ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
-					<author type="01">(ಅನು)ಚನ್ನಕೇಶವ</author>
+					<author type="02">ಮೀರಾ ಚಕ್ರವರ್ತಿ</author>
+					<author type="02">ಚನ್ನಕೇಶವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2361,7 +2361,7 @@
 				<page>0033-0038</page> 
 				<allauthors>
 					<author type="01">ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2400,7 +2400,7 @@
 				<page>0021-0033</page> 
 				<allauthors>
 					<author type="01">ಅಮೂಲ್ಯ ಕೆ. ಎನ್, ಡಾ||</author>
-					<author type="01">(ಅನು)ಮಾಧವ ಐತಾಳ</author>
+					<author type="02">ಮಾಧವ ಐತಾಳ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2409,7 +2409,7 @@
 				<page>0034-0038</page> 
 				<allauthors>
 					<author type="01">ದೇಶಪಾಂಡೆ ಜಿ. ಪಿ</author>
-					<author type="01">(ಅನು)ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
+					<author type="02">ನಟರಾಜ ಹೋನ್ನವಳ್ಳಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2530,7 +2530,7 @@
 				<page>0003-0045</page> 
 				<allauthors>
 					<author type="01">ಮಾರಿಸಿಯೋ ಶೊಯ್ಜೆಟ್</author>
-					<author type="01">(ಅನು)ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
+					<author type="02">ಪುಟ್ಟು ಕುಲಕರ್ಣಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2549,7 +2549,7 @@
 				<page>0001-0008</page> 
 				<allauthors>
 					<author type="01">ನೋಮ್ ಚೋಮ್‌ಸ್ಕಿ</author>
-					<author type="01">(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="02">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2558,7 +2558,7 @@
 				<page>0009-0016</page> 
 				<allauthors>
 					<author type="01">ಎಡ್ವರ್ಡ್ ಸಯೀದ್</author>
-					<author type="01">(ಅನು)ರಾಜಶೇಖರ ಜಿ</author>
+					<author type="02">ರಾಜಶೇಖರ ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2643,7 +2643,7 @@
 				<page>0002-0015</page> 
 				<allauthors>
 					<author type="01">ಮಧು ಕೀಶ್ವರ್</author>
-					<author type="01">(ಅನು)ಮೀರಾ ಎಲ್. ಜಿ</author>
+					<author type="02">ಮೀರಾ ಎಲ್. ಜಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2710,7 +2710,7 @@
 				<page>0007-0016</page> 
 				<allauthors>
 					<author type="01">ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2719,7 +2719,7 @@
 				<page>0017-0039</page> 
 				<allauthors>
 					<author type="01">ಗಣೇಶ ದೇವಿ</author>
-					<author type="01">(ಅನು)ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್, ಡಾ||</author>
+					<author type="02">ರಾಘವೇಂದ್ರ ಟಿ. ಎಸ್, ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2728,7 +2728,7 @@
 				<page>0040-0052</page> 
 				<allauthors>
 					<author type="01">ಸೈರಸ್ ಗಝದರ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -2795,7 +2795,7 @@
 				<page>0015-0020</page> 
 				<allauthors>
 					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="02">ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2804,7 +2804,7 @@
 				<page>0021-0054</page> 
 				<allauthors>
 					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2829,7 +2829,7 @@
 				<page>0001-0011</page> 
 				<allauthors>
 					<author type="01">ಅಶೋಕ ವಾಜಪೇಯಿ</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2838,8 +2838,8 @@
 				<page>0012-0032</page> 
 				<allauthors>
 					<author type="01">ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
-					<author type="01">(ಅನು)ವಾಸುದೇವ ವಿ ಗಂಗೇರ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವಾಸುದೇವ ವಿ ಗಂಗೇರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2908,7 +2908,7 @@
 				<page>0034-0049</page> 
 				<allauthors>
 					<author type="01">ಭಾಸ್ಕರ ಚಂದಾವರ್ಕರ್</author>
-					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="02">ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3003,7 +3003,7 @@
 				<page>0002-0028</page> 
 				<allauthors>
 					<author type="01">ಶಿವ ವಿಶ್ವನಾಥನ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3035,7 +3035,7 @@
 				<feature>ಅನುವಾದ</feature>
 				<page>0012-0034</page> 
 				<allauthors>
-					<author type="01">(ಅನು)ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
+					<author type="02">ವೆಂಕಟರಮಣ ಐತಾಳ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3044,7 +3044,7 @@
 				<page>0035-0048</page> 
 				<allauthors>
 					<author type="01">ಜಾರ್ಜ್ ಬುಶ್ನರ್ </author>
-					<author type="01">(ಅನು)ಶ್ರೀಧರ ಹೆಗ್ಗೋಡು</author>
+					<author type="02">ಶ್ರೀಧರ ಹೆಗ್ಗೋಡು</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -3063,7 +3063,7 @@
 				<page>0023-0036</page> 
 				<allauthors>
 					<author type="01">ರೊದ್ದಂ ನರಸಿಂಹ</author>
-					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3106,7 +3106,7 @@
 				<page>0025-0046</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3145,7 +3145,7 @@
 				<page>0025-0054</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಬಿ. ಕೆ</author>
+					<author type="02">ಹೆಗಡೆ ಬಿ. ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3170,7 +3170,7 @@
 				<page>0011-0016</page> 
 				<allauthors>
 					<author type="01">ಸದಾನಂದ ಮೆನೊನ್</author>
-					<author type="01">(ಅನು)ವೈದೇಹಿ</author>
+					<author type="02">ವೈದೇಹಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3203,7 +3203,7 @@
 				<page>0030-0036</page> 
 				<allauthors>
 					<author type="01">ಸುಧನ್ವ ದೇಶಪಾಂಡೆ</author>
-					<author type="01">(ಅನು)ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
+					<author type="02">ಪೂರ್ಣಿಮ ಕೆ. ಎಸ್</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -3230,7 +3230,7 @@
 				<page>0033-0045</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3257,7 +3257,7 @@
 				<page>0012-0029</page> 
 				<allauthors>
 					<author type="01">ರೂಬಿ ರಾಜನ್</author>
-					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3266,7 +3266,7 @@
 				<page>0030-0047</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3305,7 +3305,7 @@
 				<page>0024-0048</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -3316,7 +3316,7 @@
 				<page>0003-0021</page> 
 				<allauthors>
 					<author type="01">ಝಿಯಾವುದ್ದೀನ್ ಸರ್ದಾರ್</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3333,7 +3333,7 @@
 				<page>0024-0048</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3350,7 +3350,7 @@
 				<page>0002-0012</page> 
 				<allauthors>
 					<author type="01">ಶಂಕರನ್ ಕೃಷ್ಣ</author>
-					<author type="01">(ಅನು)ಜಶವಂತ ಜಾಧವ್</author>
+					<author type="02">ಜಶವಂತ ಜಾಧವ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3359,7 +3359,7 @@
 				<page>0013-0021</page> 
 				<allauthors>
 					<author type="01">ಆಶೀಶ್ ನಂದಿ, ಡಾ||</author>
-					<author type="01">(ಅನು)ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3368,7 +3368,7 @@
 				<page>0022-0031</page> 
 				<allauthors>
 					<author type="01">ವಿನಯಲಾಲ್</author>
-					<author type="01">(ಅನು)‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
+					<author type="02">‌ಅಕ್ಷರ ಕೆ. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3385,7 +3385,7 @@
 				<page>0037-0045</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3428,7 +3428,7 @@
 				<page>0021-0039</page> 
 				<allauthors>
 					<author type="01">ಮತಿಲಾಲ್ ಬಿ. ಕೆ</author>
-					<author type="01">(ಅನು)ಹೆಗಡೆ ಎಂ. ಎ</author>
+					<author type="02">ಹೆಗಡೆ ಎಂ. ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>

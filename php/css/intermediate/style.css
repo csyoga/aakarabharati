@@ -1615,7 +1615,10 @@ Intro
 .article .aTitle a, .article .aTitle a:visited{
 	color: #8B0000;
 }	
-
+.page_title .aAuthor{
+	color: #2C5773;
+	font-weight: bold;
+}
 .article .aAuthor a, .article .aAuthor a:visited{
 	color: #2C5773;
 	font-weight: bold;

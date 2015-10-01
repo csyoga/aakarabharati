@@ -45,7 +45,7 @@
 	$info .= 'ಭಾಗ  '. intval($infoarray[0]['part']) . ' | ';
 	
 	if($infoarray[0]['year'] != '')
-	$info .= intval($infoarray[0]['year']) . ' | ';
+	$info .= getKannadaNumbers($infoarray[0]['year']) . ' | ';
 	
 	if($infoarray[0]['page'] != '')
 	$info .= intval($infoarray[0]['page']) . ' | ';
@@ -88,7 +88,7 @@
 							$authors = preg_split('/;/',$row['authorname']);
 							for($i = 0; $i < count($authors); $i++)
 							{
-								$title .= '&nbsp;-&nbsp;<a href="auth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a> | ';
+								$title .= '&nbsp;-&nbsp;<span class="aAuthor itl"><a href="auth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a></span> | ';
 							}
 							$title = preg_replace('/\ \|\ $/', '', $title);
 						}
