@@ -36,7 +36,7 @@ $num_rows = $result ? $result->num_rows : 0;
 
 if($num_rows > 0)
 {
-	echo '<div class="page_title"><span class="aAuthor"><i class="fa fa-user"></i>&nbsp;&nbsp;'. $authorname .'&nbsp;ರವರು ಬರೆದಿರುವ ಲೇಖನಗಳು </span></div>';
+	echo '<div class="page_title"><span class="aAuthor"><i class="fa fa-user"></i>&nbsp;&nbsp;'. $authorname .' </span>&nbsp;ರವರು ಬರೆದಿರುವ ಲೇಖನಗಳು</div>';
 	while($row = $result->fetch_assoc())
 	{
 			echo '<div class="article">';

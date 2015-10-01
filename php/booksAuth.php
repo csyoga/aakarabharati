@@ -7,9 +7,24 @@
 	(isset($_GET['bookid']) && $_GET['bookid'] != '') ? $bookID = $_GET['bookid'] : $bookID = '';
 	(isset($_GET['authorname'])&& $_GET['authorname'] != '') ? $authorname = $_GET['authorname'] : $authorname = '';
 	
+	$query = "SELECT * FROM bookdetails WHERE id = '$bookID'";
+	$result = $db->query($query);
+	$num_rows = $result ? $result->num_rows : 0;
+	if($num_rows > 0)
+	{
+		$row = $result->fetch_assoc();
+	}
+	else
+	{
+		echo "<div class=\"center\">No Result found. Please try again.</div>";
+		echo "</main>";
+		include("footer.php");
+		exit();
+	}
 ?>
 	<main class="cd-main-content">
 		<section id="about">
+			<h2><br/><?php echo $row['title']; ?></h2>
 			<div id="about_p">
 <?php
 $authorname = entityReferenceReplace($authorname);
