@@ -12,7 +12,7 @@
 </head>
 <body>
 	<header class="cd-main-header">
-		<a class="cd-logo" href="../../index.php"><i class="fa fa-home fa-2x"></i></a>
+		<a class="cd-logo" href="../../../index.html"><i class="fa fa-home fa-2x"></i></a>
 
 		<ul class="cd-header-buttons">
 			<li><a class="cd-search-trigger" href="#cd-search">Search<span></span></a></li>
@@ -50,21 +50,21 @@
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-5" href="#">
+						<a class="cd-nav-item item-5" href="javascript:void()">
 							<h3>ವಿಡಿಯೋ</h3>
 							<p>ಡಿ.ಎ.ಐ.ಎಲ್</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-4" href="#">
+						<a class="cd-nav-item item-4" href="javascript:void()">
 							<h3>ಗ್ಯಾಲರಿ</h3>
 							<p>ಚಿತ್ರ ಮತ್ತು ವಿಡಿಯೋ</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-6" href="#">
+						<a class="cd-nav-item item-6" href="../../search.php">
 							<h3>ಹುಡುಕು</h3>
 							<p>ಸಮಗ್ರ ಶೋಧನೆ</p>
 						</a>
@@ -90,7 +90,7 @@
 							<li><a href="../010/index.php">ಸಂಕುಲ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
-							<a class="right" href="../index.html">...ಮುಂದೆ</a>
+							<li><a class="right" href="../index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 
@@ -101,7 +101,7 @@
 							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
 							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
 							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><a class="right" href="../index.html">...ಮುಂದೆ</a></li>
+							<li><li><a class="right" href="../../bookslist.php">...ಮುಂದೆ</a></li></li>
 						</ul>
 						<br />
 						<a href="../../article_list/index.html">ಬಿಡಿ ಬರಹ</a>
@@ -138,17 +138,17 @@
 							<li><a href="../../booktoc.php?bookid=048">ರಘುನಾಥಸಿಂಹ</a></li>
 							<li><a href="../../booktoc.php?bookid=038">ಗಣಿತಾರ್ಣವ</a></li>
 							<li><a href="">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li>
-						<a class="right" href="../index.html">...ಮುಂದೆ</a>
+						<li><a class="right" href="../../bookslist.php">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 				</ul>
 			</li>
 
-			<li><a href="../../ayama.html">ಆಯಾಮ</a></li>
+			<li><a href="javascript:void()">ಬಹುಮಾದ್ಯಾಮ</a></li>
 
 			
 
-			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
+			<li><a href="javascript:void()">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
 
@@ -184,7 +184,7 @@
 	</main>
 	<div id="cd-search" class="cd-search">
 		<form>
-			<input type="search" placeholder="Search...">
+			<input type="search" placeholder="Comming Soon...">
 		</form>
 	</div>
 <footer>

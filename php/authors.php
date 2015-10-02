@@ -41,7 +41,7 @@
 			if($author != NULL)
 			{
 				echo '<div class="author">';
-				echo '	<span class="aAuthor"><a href="auth.php?authorname=' . urlencode($author[0]->name) . '&amp;journalid=' . $journalID . '">' . $author[0]->name . '</a> ';
+				echo '	<span class="aAuthor"><a href="journalAuth.php?authorname=' . urlencode($author[0]->name) . '&amp;journalid=' . $journalID . '">' . $author[0]->name . '</a> ';
 				echo '</div>';
 			}
 		}
@@ -64,7 +64,7 @@
 	</main>
 	<div id="cd-search" class="cd-search">
 		<form>
-			<input type="search" placeholder="Search...">
+			<input type="search" placeholder="Comming Soon...">
 		</form>
 	</div>
 <?php include("footer.php"); ?>
