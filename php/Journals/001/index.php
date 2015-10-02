@@ -128,7 +128,7 @@
 						
 					</li>
 					<li class="has-children">
-						<a href="../index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
+						<a href="../../bookslist.php">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
 							<li><a href="../../booktoc.php?bookid=001">ಸಾಮಾಜಿಕ ಸಂಶೋಧನ ವಿಧಾನಗಳು</a></li>
