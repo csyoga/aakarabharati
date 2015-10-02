@@ -88,8 +88,7 @@ if($num_rows > 0)
 		{
 			if($author->name != '')
 			{
-				$displayAuthor .=  '<a href="javascript:void();">' . $author->name . '</a> | ';
-				//~ $displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
+				$displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
 			}
 		}				
 		echo preg_replace('/\ \|\ $/', '', $displayAuthor);

@@ -41,8 +41,7 @@
 			if($author != NULL)
 			{
 				echo '<div class="author">';
-				//~ echo '	<span class="aAuthor"><a href="journalAuth.php?authorname=' . urlencode($author[0]->name) . '&amp;journalid=' . $journalID . '">' . $author[0]->name . '</a> ';
-				echo '	<span class="aAuthor"><a href="javascript:void();">' . $author[0]->name . '</a> ';
+				echo '	<span class="aAuthor"><a href="journalAuth.php?authorname=' . urlencode($author[0]->name) . '&amp;journalid=' . $journalID . '">' . $author[0]->name . '</a> ';
 				echo '</div>';
 			}
 		}

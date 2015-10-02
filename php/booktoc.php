@@ -28,7 +28,8 @@
 	{
 		if($author->name != '')
 		{
-			$displayAuthor .=  '<a href="booksAuth.php?authorname=' . urlencode($author->name) . '&amp;bookid=' . $bookid . '">' . $author->name . '</a> | ';
+			$displayAuthor .=  '<a href="javascript:void();">' . $author->name . '</a> | ';
+			//~ $displayAuthor .=  '<a href="booksAuth.php?authorname=' . urlencode($author->name) . '&amp;bookid=' . $bookid . '">' . $author->name . '</a> | ';
 		}
 	}
 	$info = '';
@@ -88,7 +89,8 @@
 							$authors = preg_split('/;/',$row['authorname']);
 							for($i = 0; $i < count($authors); $i++)
 							{
-								$title .= '&nbsp;-&nbsp;<span class="aAuthor itl"><a href="booksAuth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a></span> | ';
+								//~ $title .= '&nbsp;-&nbsp;<span class="aAuthor itl"><a href="booksAuth.php?authorname=' . urlencode($authors[$i]) . '&amp;bookid=' . $bookid . '">' . $authors[$i] . '</a></span> | ';
+								$title .= '&nbsp;-&nbsp;<span class="aAuthor itl"><a href="javascript:void();">' . $authors[$i] . '</a></span> | ';
 							}
 							$title = preg_replace('/\ \|\ $/', '', $title);
 						}
