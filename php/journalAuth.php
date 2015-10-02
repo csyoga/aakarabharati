@@ -99,6 +99,10 @@ $db->close();
 	</div>
 </div>
 			</div>
-	  </section>
-	</main>
+	  </main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Coming soon...">
+		</form>
+	</div>
 <?php include("footer.php"); ?>
