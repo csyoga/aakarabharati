@@ -514,21 +514,6 @@
 		</details>
 		<publisher></publisher>
 	</book>
-	<book id="035" sstitle="ಹಳತು ಹೊನ್ನು">
-		<title>ಕನ್ನಡ-ಹಿಂದುಸ್ಥಾನಿ ಖಾಷಾ ಮಂಜರಿ</title>
-		<authors>
-			<author></author>
-		</authors>
-		<details>
-			<year>1904</year>
-			<edition></edition>
-			<editor></editor>
-			<volume></volume>
-			<part></part>
-			<pages></pages>
-		</details>
-		<publisher></publisher>
-	</book>
 	<book id="036" sstitle="ಹಳತು ಹೊನ್ನು">
 		<title>Ranna:A Biographical Study</title>
 		<authors>
@@ -761,6 +746,246 @@
 		</authors>
 		<details>
 			<year>2006</year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="052" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಶ್ರೀಗಣೇಶದ್ವಾದಶನಾಮಾವಳಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="053" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಶಮುಕುಂದಮಾಲಾ ಸ್ತೋತ್ರರತ್ನ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="054" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಕೃಷ್ಣ ಮಹೀಶ್ವರೀ:</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="056" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಕಿರಿಯ ಕಾಣಿಕೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="057" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಪ್ರಿಂರೋಜವಿಜಯಂ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="058" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಬಾಲಕರ ವನಸ್ಪತಿಶಾಸ್ತ್ರ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="059" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ವಸಂತ ಕುಸುಮಾಂಜಲಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="060" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಹಕ್ಕಿಹಾರುತಿದೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="061" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಹಳೇಬೀಡು ಪುರಾತನಚರಿತ್ರೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="062" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಶ್ರೀರಂಗಪಟ್ಟಣ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="063" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ವಿಸರ್ಜನ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="064" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಊರ್ಮಿಳೆ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="065" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಈಶ್ವರೀಸೂತ್ರ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="066" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>A History of Kanarese Literature</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="067" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಕನ್ನಡ-ಹಿಂದುಸ್ಥಾನಿ ಖಾಷಾ ಮಂಜರಿ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
+			<edition></edition>
+			<editor></editor>
+			<volume></volume>
+			<part></part>
+			<pages></pages>
+		</details>
+		<publisher></publisher>
+	</book>
+	<book id="068" sstitle="ಹಳತು ಹೊನ್ನು">
+		<title>ಪ್ರೇಮಚಂದ್ರರಾಜವಿಲಾಸ</title>
+		<authors>
+			<author></author>
+		</authors>
+		<details>
+			<year></year>
 			<edition></edition>
 			<editor></editor>
 			<volume></volume>
