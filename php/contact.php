@@ -37,7 +37,10 @@
 			<div id="about_p" class="center">
 				<p>ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಟೆಕ್ನೋಲಜೀಸ್</p><br />
 					<p>೧ನೇ ಅಡ್ಡ ರಸ್ತೆ,<br />ರಂಗನಾಥನಗರ, ಶ್ರೀರಂಗಪಟ್ಟಣ<br />
-					   ದೂರವಾಣಿ&nbsp;:&nbsp;+೯೧ ೮೨೩೬ ೨೯೨೪೩೨<br />ಇ-ಮೇಲ್<blockquote>info@aakarabharati.in</blockquote></p><br />
+					   ದೂರವಾಣಿ&nbsp;:&nbsp;+೯೧ ೮೨೩೬ ೨೯೨೪೩೨<br />
+<!--
+					   ಇ-ಮೇಲ್<blockquote>info@aakarabharati.in</blockquote></p><br />
+-->
 					   <div id="googleMap" style="width:900px;height:380px;"></div><br /><br /><br />
 			</div>
 	  </section>
@@ -45,7 +48,7 @@
    <?php include("nav.php"); ?>
 	<div id="cd-search" class="cd-search">
 		<form>
-			<input type="search" placeholder="Comming Soon...">
+			<input type="search" placeholder="Coming soon...">
 		</form>
 	</div>
 		 <?php include("footer.php"); ?>

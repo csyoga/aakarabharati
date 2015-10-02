@@ -91,10 +91,7 @@
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-<!--
-							<li><a class="right" href="#">...ಮುಂದೆ</a></li>
--->
-							<!-- article_list/index.html -->
+							<li><a class="right" href="article_list/index.html">...ಮುಂದೆ</a></li>
 						</ul>
 					</li>
 					<li class="has-children">

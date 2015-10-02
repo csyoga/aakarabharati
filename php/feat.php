@@ -32,7 +32,7 @@
 			<div id="about_p">
 <?php
 
-echo '<div class="page_title"><i class="fa fa-tag"></i>&nbsp;&nbsp;ಪ್ರಭೇದ&nbsp;'. $feature .'</div>   ';
+echo '<div class="page_title"><i class="fa fa-tag"></i>&nbsp;&nbsp;ಪ್ರಭೇದ: &nbsp;<span class="aAuthor">'. $feature .'</span></div>   ';
 ($isVolumePart === 'true') ? $query = 'SELECT * FROM journals WHERE journalid = \'' . $journalID . '\'  AND feature regexp \'' . addslashes($feature) . '\' order by  titleid' : $query = 'SELECT * FROM journals WHERE journalid = \'' . $journalID . '\' AND feature regexp \'' . $feature . '\' order by  titleid' ;
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -88,7 +88,8 @@ if($num_rows > 0)
 		{
 			if($author->name != '')
 			{
-				$displayAuthor .=  '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
+				$displayAuthor .=  '<a href="javascript:void();">' . $author->name . '</a> | ';
+				//~ $displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
 			}
 		}				
 		echo preg_replace('/\ \|\ $/', '', $displayAuthor);
@@ -106,8 +107,12 @@ $db->close();
 	</div>
 </div>
 			</div>
-	  </section>
-	</main>
+	  </main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Coming soon...">
+		</form>
+	</div>
 <?php include("footer.php"); ?>
 	
 

@@ -97,10 +97,10 @@
 						<a href="../index.html">ಸಮಗ್ರ ಸಾಹಿತ್ಯ</a>
 
 						<ul class="is-hidden">
-							<li><a href="#0">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
-							<li><a href="#0">ಫು. ಗು. ಹಳಕಟ್ಟಿ</a></li>
-							<li><a href="#0">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><li><a class="right" href="../../bookslist.php">...ಮುಂದೆ</a></li></li>
+							<li><a href="../../samagrasahitya.php?sstitle=<?php echo urlencode("ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ")?>">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
+							<li><a href="../../samagrasahitya.php?sstitle=<?php echo urlencode("ಫ. ಗು. ಹಳಕಟ್ಟಿ ")?>">ಫ. ಗು. ಹಳಕಟ್ಟಿ</a></li>
+							<li><a href="../../samagrasahitya.php?sstitle=<?php echo urlencode("ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ")?>">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
+							<li><a href="../../samagrasahitya.php?sstitle=<?php echo urlencode("ಹಳತು ಹೊನ್ನು")?>">ಹಳತು ಹೊನ್ನು</a></li>
 						</ul>
 						<br />
 						<a href="../../article_list/index.html">ಬಿಡಿ ಬರಹ</a>
@@ -127,7 +127,7 @@
 						
 					</li>
 					<li class="has-children">
-						<a href="../index.html">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
+						<a href="../../bookslist.php">ಪುಸ್ತಕ ಸಂಗ್ರಹ</a>
 
 						<ul class="is-hidden">
 							<li><a href="../../booktoc.php?bookid=001">ಸಾಮಾಜಿಕ ಸಂಶೋಧನ ವಿಧಾನಗಳು</a></li>
@@ -212,7 +212,7 @@
 	</main>
 	<div id="cd-search" class="cd-search">
 		<form>
-			<input type="search" placeholder="Comming Soon...">
+			<input type="search" placeholder="Coming soon...">
 		</form>
 	</div>
 <footer>

@@ -136,7 +136,7 @@
 	$titleid[0]=0;
 	$count = 1;
 	$id = "0";
-		
+	
 	if($num_results > 0)
 	{
 		while($row = $result->fetch_assoc())
@@ -199,7 +199,8 @@
 			{
 				if($author->name != '')
 				{
-					$displayAuthor .=  '<a href="auth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
+					//~ $displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
+					$displayAuthor .=  '<a href="javascript:void();">' . $author->name . '</a> | ';
 				}
 			}				
 			echo preg_replace('/\ \|\ $/', '', $displayAuthor);
@@ -209,12 +210,16 @@
 	}
 	else
 	{
-		echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in saakshi</span>';
+		echo '<span class="sml">Sorry! No results were found. Go Back and search again</span>';
 	}
 
 ?>
 	</div>
 </div>
-	  </section>
-	</main>
+	  </main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Coming soon...">
+		</form>
+	</div>
 <?php include("footer.php"); ?>

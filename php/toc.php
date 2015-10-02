@@ -100,7 +100,8 @@
 			{
 				if($author->name != '')
 				{
-					$displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
+					$displayAuthor .=  '<a href="javascript:void();">' . $author->name . '</a> | ';
+					//~ $displayAuthor .=  '<a href="journalAuth.php?authorname=' . urlencode($author->name) . '&amp;journalid=' . $journalID . '">' . $author->name . '</a> | ';
 				}
 			}				
 			echo preg_replace('/\ \|\ $/', '', $displayAuthor);
@@ -115,8 +116,12 @@
 	</div>
 </div>
 			</div>
-	  </section>
-	</main>
+	  </main>
+	<div id="cd-search" class="cd-search">
+		<form>
+			<input type="search" placeholder="Coming soon...">
+		</form>
+	</div>
 <?php include("footer.php"); ?>
 	
 
