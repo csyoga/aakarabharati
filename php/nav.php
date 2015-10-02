@@ -29,21 +29,21 @@
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-5" href="#">
+						<a class="cd-nav-item item-5" href="javascript:void()">
 							<h3>ವಿಡಿಯೋ</h3>
 							<p>ಡಿ.ಎ.ಐ.ಎಲ್</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-4" href="#">
+						<a class="cd-nav-item item-4" href="javascript:void()">
 							<h3>ಗ್ಯಾಲರಿ</h3>
 							<p>ಚಿತ್ರ ಮತ್ತು ವಿಡಿಯೋ</p>
 						</a>
 					</li>
 
 					<li>
-						<a class="cd-nav-item item-6" href="#">
+						<a class="cd-nav-item item-6" href="search.php">
 							<h3>ಹುಡುಕು</h3>
 							<p>ಸಮಗ್ರ ಶೋಧನೆ</p>
 						</a>
@@ -80,14 +80,21 @@
 							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ")?>">ಮಂಜೇಶ್ವರ ಗೋವಿಂದ ಪೈ</a></li>
 							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಫ. ಗು. ಹಳಕಟ್ಟಿ ")?>">ಫ. ಗು. ಹಳಕಟ್ಟಿ</a></li>
 							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ")?>">ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ</a></li>
-							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
+							<li><a href="samagrasahitya.php?sstitle=<?php echo urlencode("ಹಳತು ಹೊನ್ನು")?>">ಹಳತು ಹೊನ್ನು</a></li>
+<!--
+							<li><a class="right" href="javascript:void()">...ಮುಂದೆ</a></li>
+-->
+							<!-- href="Journals/index.html" -->
 						</ul>
 						<br />
 						<a href="article_list/index.html">ಬಿಡಿ ಬರಹ</a>
 						<ul class="is-hidden">
 							<li><a href="#0">ಕೆ. ಎಸ್. ಮಧುಸೂದನ್</a></li>
 							<li><a href="#0">ಡಾ. ಅಶ್ವಿನ್ ಕುಮಾರ್ ಎ. ಪಿ</a></li>
-							<li><a class="right" href="#">...ಮುಂದೆ</a></li> <!-- article_list/index.html -->
+<!--
+							<li><a class="right" href="#">...ಮುಂದೆ</a></li>
+-->
+							<!-- article_list/index.html -->
 						</ul>
 					</li>
 					<li class="has-children">
@@ -101,7 +108,7 @@
 						<a href="article_list/index.html#payments">ಸಂಶೋಧನಾ ಪ್ರಬಂಧ</a>
 						<ul class="is-hidden">
 							<li><a href="blog/niranjanavanalli.html">ನಿರಂಜನ ವಾನಳ್ಳಿ</a></li>
-							<li><a href="#0">ನಂಜುಂಡಸ್ವಾಮಿ</a></li>
+							<li><a href="javascript:void()">ನಂಜುಂಡಸ್ವಾಮಿ</a></li>
 						</ul>
 						
 					</li>
@@ -122,7 +129,7 @@
 							<li><a href="booktoc.php?bookid=037">ಶ್ರೀಮನ್ಮಹಾರಾಜರವರ ವಂಶಾವಳಿ</a></li>
 							<li><a href="booktoc.php?bookid=048">ರಘುನಾಥಸಿಂಹ</a></li>
 							<li><a href="booktoc.php?bookid=038">ಗಣಿತಾರ್ಣವ</a></li>
-							<li><a href="javascript:void()">ಪ್ರಶ್ನೋತ್ತರ ಲೇಖ್ಯಬೋಧಿನಿ</a></li> <!-- Journals/index.html -->
+							<li><a href="booktoc.php?bookid=062">ಶ್ರೀರಂಗಪಟ್ಟಣ</a></li>
 							<li><a class="right" href="bookslist.php">...ಮುಂದೆ</a></li> <!-- href="Journals/index.html" -->
 						</ul>
 					</li>
@@ -133,6 +140,7 @@
 -->			<li class="has-children">
 				<a href="#">ಬಹುಮಾದ್ಯಾಮ</a>
 
+<!--
 				<ul class="cd-nav-gallery is-hidden">
 					<li class="go-back"><a href="#0">Menu</a></li>
 					<li class="see-all"><a href="">ಗ್ಯಾಲರಿ</a></li>
@@ -164,6 +172,7 @@
 						</a>
 					</li>
 				</ul>
+-->
 			</li>
 			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
