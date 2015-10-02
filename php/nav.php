@@ -137,8 +137,8 @@
 			</li>
 <!--
 			<li><a href="ayama.html">ಆಯಾಮ</a></li>
--->			<li class="has-children">
-				<a href="#">ಬಹುಮಾದ್ಯಾಮ</a>
+-->
+			<li><a href="#">ಬಹುಮಾದ್ಯಾಮ</a></li>
 
 <!--
 				<ul class="cd-nav-gallery is-hidden">
@@ -173,7 +173,6 @@
 					</li>
 				</ul>
 -->
-			</li>
-			<li><a href="">ಭಾಗವಹಿಸಿ</a></li>
+			<li><a href="javascript:void()">ಭಾಗವಹಿಸಿ</a></li>
 		</ul> <!-- primary-nav -->
 	</nav> <!-- cd-nav -->
