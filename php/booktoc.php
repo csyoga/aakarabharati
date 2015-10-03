@@ -102,7 +102,14 @@
 							echo "<ul id=\"ul_id$ul_id\">\n";
 							array_push($p_stack,$ul_id);
 							$li_id++;
-							$deffer = display_tabs($level) . "<div class=\"article\"><li id=\"li_id$li_id\">:rep:$title";
+							if($level > 1)
+							{
+								$deffer = display_tabs($level) . "<li id=\"li_id$li_id\"><div class=\"article1\">:rep:$title";
+							}
+							else
+							{
+								$deffer = display_tabs($level) . "<li id=\"li_id$li_id\"><div class=\"article\">:rep:$title";								
+							}
 							$first = 0;
 						}
 						elseif($level > $stack[sizeof($stack)-1])
@@ -114,7 +121,14 @@
 							array_push($stack,$level);
 							array_push($p_stack,$ul_id);
 							$deffer = "\n" . display_tabs(($level-1)) . "<ul class=\"dnone\" id=\"ul_id$ul_id\">\n";
-							$deffer = $deffer . display_tabs($level) ."<div class=\"article\"><li id=\"li_id$li_id\">:rep:$title";
+							if($level > 1)
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article1\">:rep:$title";
+							}
+							else
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article\">:rep:$title";								
+							}
 						}
 						elseif($level < $stack[sizeof($stack)-1])
 						{
@@ -128,16 +142,30 @@
 								$top1 = array_pop($p_stack);
 							}
 							$li_id++;
-							$deffer = display_tabs($level) . "</li></div>\n";
-							$deffer = $deffer . display_tabs($level) ."<div class=\"article\"><li id=\"li_id$li_id\">:rep:$title";
+							$deffer = display_tabs($level) . "</div></li>\n";
+							if($level > 1)
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article1\">:rep:$title";
+							}
+							else
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article\">:rep:$title";
+							}
 						}
 						elseif($level == $stack[sizeof($stack)-1])
 						{
 							$deffer = preg_replace('/:rep:/',"$bullet",$deffer);
 							echo $deffer;
 							$li_id++;
-							$deffer = "</li></div>\n";
-							$deffer = $deffer . display_tabs($level) ."<div class=\"article\"><li id=\"li_id$li_id\">:rep:$title";
+							$deffer = "</div></li>\n";
+							if($level > 1)
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article1\">:rep:$title";
+							}
+							else
+							{
+								$deffer = $deffer . display_tabs($level) ."<li id=\"li_id$li_id\"><div class=\"article\">:rep:$title";								
+							}
 						}
 					}
 					$deffer = preg_replace('/:rep:/',"$bullet",$deffer);
@@ -145,7 +173,7 @@
 
 					for($i=0;$i<sizeof($stack);$i++)
 					{
-						echo "</li></div>\n". display_tabs($level) ."</ul>\n";
+						echo "</div></li>\n". display_tabs($level) ."</ul>\n";
 					}
 				}
 			?>

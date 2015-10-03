@@ -1425,6 +1425,11 @@ box-shadow: 1px 2px 3px rgba(34, 25, 25, 0.3);
   min-height: 50px;
   border-left: 5px solid #8b0000;
 }
+.article1{
+  margin: 10px 0;
+  padding: 3px;
+  line-height: 1.5;
+}
 
 .article:hover{
   box-shadow: 0 1px 5px rgba(34, 25, 25, 0.6);
@@ -1432,6 +1437,10 @@ box-shadow: 1px 2px 3px rgba(34, 25, 25, 0.3);
 
 .article .aTitle{
   font-size: 20px;
+}
+
+.article1 .aTitle{
+  font-size: 16px;
 }
 
 .article .aAuthor{
