@@ -46,7 +46,12 @@ a:hover {
 	width: 100%;
 	height: 100%;
 }
-
+.cd-main-header{
+	background: rgba(8, 57, 103, 0.9);
+}
+.fa-2x{
+	color: #ffffff;
+}
 .container {
 	position: relative;
 	left: 0px;
@@ -81,7 +86,18 @@ a:hover {
 	position: absolute;
 	left: -240px;
 }
-
+.article{
+	text-align: center;
+}
+.article .header{
+	font-size: 2.5em;
+	color: #8B0000;
+}
+.article .author{
+	font-size: 1.3em;
+	margin: 0em 0em 0em 12em;
+	color: #2C5773;
+}
 .menu-panel h3 {
 	font-size: 1.8em;
 	padding: 20px;
@@ -206,7 +222,6 @@ a:hover {
 .scroller {
 	padding: 10px 5% 10px 5%;
 }
-
 .js .content:before,
 .js .content:after {
 	content: '';
@@ -321,6 +336,8 @@ header p {
     left: 4em;
   }
 }
-.center {
-	text-align:center;
+.poem {
+	text-align:justify;
+	margin-left: 450px; 
+	font-weight: bold;
 }
