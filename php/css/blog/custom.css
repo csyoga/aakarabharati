@@ -93,10 +93,14 @@ a:hover {
 	font-size: 2.5em;
 	color: #8B0000;
 }
+.article .header2{
+	font-size: 1.5em;
+	color: #8B0000;
+}
 .article .author{
 	font-size: 1.3em;
-	margin: 0em 0em 0em 12em;
 	color: #2C5773;
+	margin-left: 40em;
 }
 .menu-panel h3 {
 	font-size: 1.8em;
@@ -222,6 +226,22 @@ a:hover {
 .scroller {
 	padding: 10px 5% 10px 5%;
 }
+.scroller .article2{
+	text-align: center;
+}
+.scroller .cover img{
+	height: 300px;
+	border: 5px solid #ECE9E9;
+}
+.scroller .cover p{
+	text-align: center;
+}
+.scroller li{
+	margin-left: 130px;
+	padding-bottom: 10px;
+	width: 950px;
+	font-size: 1.2em;
+}
 .js .content:before,
 .js .content:after {
 	content: '';
@@ -338,6 +358,8 @@ header p {
 }
 .poem {
 	text-align:justify;
+	font-size: 1.15em;
 	margin-left: 450px; 
+	margin-bottom: 20px; 
 	font-weight: bold;
 }
