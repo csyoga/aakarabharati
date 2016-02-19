@@ -3,6 +3,10 @@
 Primary style
 
 -------------------------------- */
+@font-face {
+  font-family: 'Kedage';
+  src: url('../fonts/kedage.ttf');
+}
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -480,4 +484,8 @@ header p {
 }
 .more a{
 	color:#8b0000;
+}
+.sub-header {
+	font-size:16px;
+	color: #214A73;
 }
