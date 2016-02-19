@@ -5,7 +5,7 @@
 	<volume vnum="001">
 		<part pnum="01" month="11-12" year="1993" info="01">
 			<entry>
-				<title>ಬಿನ್ನಹ</title>
+				<title>ಬಿನ್ನಹ </title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -105,16 +105,17 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಗುಲಾಂ ಮಹಮದ್ ಶೇಕ್ ಸಂದರ್ಶನ</title>
+				<title>ರಾಜಕೀಯ ನಿರಪೇಕ್ಷತೆ ಸಾಧ್ಯವಿಲ್ಲ</title>
 				<feature></feature>
 				<page>0063-0069</page>
 				<allauthors>
+					<author  type="01">ಗುಲಾಂ ಮಹಮದ್ ಶೇಕ್ ಸಂದರ್ಶನ.</author>
 					<author  type="03">ಸುಗತ ಎಸ್.</author>
 					<author  type="02">ಸಂಧ್ಯಾ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಚಿತ್ರಕಲೆ</title>
+				<title>ಚಿತ್ರಕಲೆ ಉತ್ಕೃಷ್ಟತೆಯ  ಜರಡಿಯಲ್ಲಿ.</title>
 				<feature>ಅವಲೋಕನ</feature>
 				<page>0070-0074</page>
 				<allauthors>
@@ -602,7 +603,7 @@
 			<entry>
 				<title>ಒಡವೆಯಿದ್ದೂ ಬಡವೆಯಾದ ಯಕ್ಷಗಾನ</title>
 				<feature></feature>
-				<page>0015-0022</page>
+				<page>0016-0023</page>
 				<allauthors>
 					<author  type="01">ರಾಘವ ನಂಬಿಯಾರ್ ಕೆ. ಎಂ.</author>
 				</allauthors>
@@ -707,7 +708,7 @@
 			<entry>
 				<title>ಬಿನ್ನಹ</title>
 				<feature></feature>
-				<page>0003-0004</page>
+				<page>0002-0004</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -915,7 +916,7 @@
 			<entry>
 				<title>ಸಂಗೀತೋತ್ಸವಗಳು - ಯುವ ಪ್ರತಿಭೆಗಳು</title>
 				<feature></feature>
-				<page>0071-0072</page>
+				<page>0070-0072</page>
 				<allauthors>
 					<author  type="01">ಚಂದ್ರಶೇಖರ್ ಎಸ್.ಎನ್.</author>
 				</allauthors>
@@ -923,7 +924,7 @@
 			<entry>
 				<title>ವೈವಿಧ್ಯಮಯ ಗೊಂದಲಗಳ ಚಿತ್ರಗಳು</title>
 				<feature></feature>
-				<page>0075-0079</page>
+				<page>0073-0079</page>
 				<allauthors>
 					<author  type="01">ದೊಡ್ಡಹುಲ್ಲೂರು ರುಕ್ಕೋಜಿರಾವ್</author>
 				</allauthors>
@@ -1676,7 +1677,7 @@
 			<entry>
 				<title>ಸಂಗೀತದಲ್ಲಿ ಶ್ರುತಿ - ತಾಳಗಳು</title>
 				<feature></feature>
-				<page>0031-0034</page>
+				<page>0030-0034</page>
 				<allauthors>
 					<author  type="01">ಆಚಾರ್ ಕೆ. ವಿ.</author>
 				</allauthors>
@@ -1700,7 +1701,7 @@
 			<entry>
 				<title>ಸಾಹಿತ್ಯಕ - ಸಾಹಿತ್ಯೇತರ ನಿಯತಕಾಲಿಕಗಳು</title>
 				<feature></feature>
-				<page>0042-0045</page>
+				<page>0043-0045</page>
 				<allauthors>
 					<author  type="01">ಬಾಳಣ್ಣ ಸೀಗಿಹಳ್ಳಿ ಡಾ</author>
 				</allauthors>
@@ -1714,7 +1715,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಚಿತ್ರಕಲೆಯ ಭೀಷ್ಮ ಸುಬ್ರಹ್ಮಣ್ಯರಾಜು</title>
+				<title>ಚಿತ್ರಕಲೆಯ ಭೀಷ್ಮ</title>
 				<feature></feature>
 				<page>0051-0056</page>
 				<allauthors>
@@ -2358,7 +2359,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಸಂಗೀತದಲ್ಲಿ ವಿಭಾವ ಧ್ವನಿ</title>
+				<title>ಸಂಗೀತದಲ್ಲಿ ವಿಭಾವಧ್ವನಿ</title>
 				<feature></feature>
 				<page>0007-0012</page>
 				<allauthors>
@@ -2532,7 +2533,7 @@
 			<entry>
 				<title>ಮಾನವೀಯ ಕಾಳಜಿಗಳು</title>
 				<feature></feature>
-				<page>00049-0054</page>
+				<page>0049-0054</page>
 				<allauthors>
 					<author  type="01">ಸುರೇಶ್ ಜಯರಾಂ</author>
 					<author  type="01">ದೀಪ್ತಿ ಶಂಕರ್</author>
@@ -2706,7 +2707,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>ಪ್ರತಿಕಿರ್ಯೆ</title>
+				<title>ಪ್ರತಿಕ್ರಿಯೆ</title>
 				<feature></feature>
 				<page>0101-0103</page>
 				<allauthors />
@@ -3431,7 +3432,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ರಂಗಮುಖೇನ ಪರಿವರ್ತನೆ (ಬಳ್ಳಾರಿ ಸೆಂಟ್ರಲ್ ಜೈಲ್ನ ರಂಗಶಿಬಿರದ ಅನುಭವಗಳು)</title>
+				<title>ರಂಗಮುಖೇನ ಪರಿವರ್ತನೆ (ಬಳ್ಳಾರಿ ಸೆಂಟ್ರಲ್ ಜೈಲಿನ  ರಂಗಶಿಬಿರದ ಅನುಭವಗಳು)</title>
 				<feature></feature>
 				<page>0037-0043</page>
 				<allauthors>
@@ -3488,7 +3489,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<title>ಪುಸ್ತಕ ಪ್ರೀತಿ</title>
 				<feature></feature>
 				<page>0076-0076</page>
 				<allauthors>
@@ -3755,7 +3756,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ನಾಗಮಂಡಲ : ನಿರ್ದೇಶಕಿಯರ ದೃಷ್ಟಿಯಲ್ಲಿ</title>
+				<title>ನಾಗಮಂಡಲ : ನಿರ್ದೇಶಕಿಯ ದೃಷ್ಟಿಯಲ್ಲಿ</title>
 				<feature></feature>
 				<page>0053-0057</page>
 				<allauthors>
