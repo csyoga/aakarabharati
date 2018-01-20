@@ -5,6 +5,8 @@
 	require_once("common.php");
 	(isset($_GET['bookid']) && $_GET['bookid'] != '') ? $bookid = $_GET['bookid'] : $bookid = '';
 	
+	$noShow = ['003', '004', '005', '006', '007', '008', '009', '010', '011', '012', '013', '014', '015', '016', '017', '018', '019', '051'];
+	
 	$query = "SELECT * FROM bookdetails WHERE id = '$bookid'";
 	$result = $db->query($query);
 	$num_rows = $result ? $result->num_rows : 0;
@@ -63,6 +65,9 @@
 			<?php endif; ?>
 			<div id="about_p">
 			<?php
+			
+				if(in_array($bookid, $noShow)) echo '<p style="text-align: center">ಈ ಪುಸ್ತಕದ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿರುವದರಿಂದ ಇಲ್ಲಿ ಕೇವಲ ಪುಸ್ತಕದ ಪರಿವಿಡಿಯನ್ನು ನೀಡಲಾಗಿದೆ</p>';
+			
 				$plus_link = "<img class=\"bpointer\" title=\"Expand\" src=\"img/plus.gif\" alt=\"Expand or Collapse\" onclick=\"display_block_inside(this)\" />";
 				$bullet = "";
 				$stack = array();
@@ -82,7 +87,14 @@
 						$level = $row['level'];
 						$title = $row['title'];
 						$page = preg_split('/-/',$row['page']);
+
 						$title = '<span class="aTitle"><a target="_blank" href="bookReader.php?bookid=' . $bookid . '&page=' . $page[0] . '">' . $row['title'] . '</a></span>';
+					
+						if(in_array($bookid, $noShow)) {
+							
+							$title = '<span class="aTitle"><a href="#">' . $row['title'] . '</a></span>';
+						}
+					
 						if($row['authorname'] != '')
 						{
 							$title .= '<br/>';
