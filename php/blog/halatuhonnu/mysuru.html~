@@ -33,7 +33,7 @@
 								<div class="cover"><a href="../../booktoc.php?bookid=032"><img src="../../img/ksmadhusudan.jpg" alt="cover"></a></div>
 							</div>
 							<div class="article">
-								<a href="../../booktoc.php?bookid=032"><span class="author">-ಕೆ.ಎಸ್.ಮಧುಸೂದನ</span></a>
+								<div class="author"><a href="../../booktoc.php?bookid=032">-ಕೆ.ಎಸ್.ಮಧುಸೂದನ</a></div>
 							</div>
 							<div class="article2">
 								<div class="more"><a href="../../booktoc.php?bookid=032"><i class="fa fa-book "></i>&nbsp;&nbsp;ಪುಸ್ತಕ</a></div><br/><hr/>

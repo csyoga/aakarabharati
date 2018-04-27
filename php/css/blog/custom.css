@@ -363,3 +363,19 @@ header p {
 	margin-bottom: 20px; 
 	font-weight: bold;
 }
+
+.more a{
+	color:#8B0000;
+	font-family: Kedage;
+	font-size:1.9em;
+	padding:1em 0 0em 0;
+	text-align:center;
+}
+
+.preface{
+	color:#083967;
+	font-family: Kedage;
+	font-size:1.9em;
+	padding:1em 0 0em 0;
+	text-align:center;
+}

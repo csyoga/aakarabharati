@@ -32,10 +32,8 @@
 							<div class="article2">
 								<div class="cover"><a href="../../booktoc.php?bookid=056"><img src="../../img/books/056.jpg" alt="cover"></a></div>
 							</div>
-							<div class="article">
+							<div class ="article">
 								<a href="../../booktoc.php?bookid=056"><span class="author">-ಕೆ.ಎಸ್.ಮಧುಸೂದನ</span></a>
-							</div>
-							<div class="article2">
 								<div class="more"><a href="../../booktoc.php?bookid=056"><i class="fa fa-book "></i>&nbsp;&nbsp;ಪುಸ್ತಕ</a></div><br/><hr/>
 							</div>
 							<div class="preface">ಮುನ್ನುಡಿ</div><br/>
